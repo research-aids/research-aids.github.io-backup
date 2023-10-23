@@ -2,7 +2,7 @@
 Development repo for integrating the research guides from NIOD into the Datahub 
 
 
-## Contents
+## Guides as Data
 
 The research guides are organised in a hierarchy:  
 
