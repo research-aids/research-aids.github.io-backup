@@ -26,6 +26,20 @@ Finally, on the third level, there is additional information about specific enti
 
  - [dev.ipynb](dev.ipynb) development code snippets that load and check YAML files, next to some pointers and notes.
 
+## Documentation
+
+### Structuring
+
+
+### Linking
+
+
+## Open Questions & TODOs
+
+ - example SPARQL queries would be nice
+   -> showcase to users how to search the Datahub (e.g. for the entity described in the given guide) 
+   -> makes nice use of the equivalence between URIs as identifiers of individual items and queries as identifiers of sets of items
+
 
 
 ## YAML
