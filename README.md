@@ -19,5 +19,8 @@ The research guides are organised in a hierarchy:
  3. Finally, on the third level, there is additional information about specific entities, actors and concepts related to and active in the colonial context. These guides are data already from their origin, as there can be arbitrarily many, and they should be treated as such, i.e. live next to/in the data in the Datahub. An example of the Kunsthandel van Lier guide translated into YAML is [here](Kunsthandel_van_Lier.yaml).
 
 
+## YAML
 
+
+## Linking
 
