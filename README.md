@@ -2,11 +2,11 @@
 
 This is a development repository for collaboratively designing and integrating the research guides from NIOD into the Datahub. 
 
-## Conten Overview
+## Content Overview
    
  - [dev.ipynb](dev.ipynb) development code snippets that load and check YAML files, next to some pointers and notes.
- - [level2](./level2/): 
- - [level3](./level3/): 
+ - [level2](./niveau2/): 
+ - [level3](./niveau3/): 
 
 
 
