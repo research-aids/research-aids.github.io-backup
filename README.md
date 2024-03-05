@@ -1,8 +1,14 @@
-# research-guides-dev
-Development repo for integrating the research guides from NIOD into the Datahub 
+# Research Guides as Data
+
+This is a development repository for collaboratively designing and integrating the research guides from NIOD into the Datahub. 
+
+## Contents
+   
+[dev.ipynb](dev.ipynb) contains code that loads and checks YAML files, next to some pointers and notes.
 
 
-## Guides as Data
+
+## Background
 
 The research guides are organised in a hierarchy:  
 
@@ -10,5 +16,6 @@ The research guides are organised in a hierarchy:
  2. The second tier is made up descriptions of broad topics, major actors and concepts in the colonial context, such as the Dutch colonial army. Guides on this level will be a main point of entry into the Datahub and provide context. There will be several dozens of such guides and they are thus treated as data, an example translation into YAML can be found in [this repository](./Leger_en_Marine.yaml).
  3. Finally, on the third level, there is additional information about specific entities, actors and concepts related to and active in the colonial context. These guides are data already from their origin, as there can be arbitrarily many, and they should be treated as such, i.e. live next to/in the data in the Datahub. An example of the Kunsthandel van Lier guide translated into YAML is [here](Kunsthandel_van_Lier.yaml).
 
-   
-[dev.ipynb](dev.ipynb) contains code that loads and checks YAML files, next to some pointers and notes.
+
+
+
