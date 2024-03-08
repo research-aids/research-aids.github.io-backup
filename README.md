@@ -28,10 +28,7 @@ Finally, on the third level, there is additional information about specific enti
 
 ## Documentation
 
-### Structuring
-
-
-### Linking
+_YAML_ (short for _YAML Ain't Markup Language_) is a human-readable data format that defines basic data types and containers and allows to construct more complex data constructions with those. _Markdown_ is a markup \[sic\] language
 
 
 ## Open Questions & TODOs
