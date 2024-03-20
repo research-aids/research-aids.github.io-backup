@@ -1,0 +1,70 @@
+Titel: "Nederlandsch Zendeling Genootschap"
+
+Relevante data:
+  Identifiers:
+    - "WikiData: https://www.wikidata.org/wiki/Q1946670"
+    - "Wereldmuseum: https://hdl.handle.net/20.500.11840/pi75783"
+    - "Repetorium van Nederlandse zending- en missiearchieven: https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829"
+  Naamsvaraianten:
+    - "Nederlands Zendelinggenootschap"
+    - "NZG"
+  Tags:
+    Activiteit: "[Missie](https://hdl.handle.net/20.500.11840/termmaster25128)"
+    Soort objecten: "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
+    Geografisch:
+      - "[Bali](https://www.geonames.org/1650534/bali.html)"
+      - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
+      - "[Java](https://www.geonames.org/1642673/java.html)"
+      - "[Molukken](https://www.geonames.org/1636629/moluccas.html)"
+      - "[Sulawesi](https://www.geonames.org/9062340/sulawesi.html)"
+      - "[Sumatra](https://www.geonames.org/1626198/sumatra.html)"
+      - "[Timor](https://www.geonames.org/1623843/timor.html)"
+  Periode actief:
+    Beginjaar: 1797
+    Eindjaar: 1951
+  Collecties:
+    Algemene opmerkingen:
+      - Content: |
+          "Voorwerpen verzameld door zendingswerkers van het Nederlandsch Zendeling Genootschap zijn vooral te vinden in de collectie van het [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), maar ook bij het [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589) en [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437)."
+      - Content-type: text/markdown
+    Binnen de DataHub: "Verwijzen (met SPARQL Query) naar collecties binnen de datahub."
+
+Omschrijving:
+  - Content: |
+      "Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/wiki/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673/java.html) en [Sulawesi](https://www.geonames.org/9062340/sulawesi.html), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084/republic-of-indonesia.html) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea."
+  - Content-type: text/markdown
+
+Bronmateriaal:
+  Primair bronmateriaal:
+    - Soort bron: "Archief"
+      Naam: "NL-UtHUA 1102-1 1"
+      Link: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
+      Beschrijving en opmerkingen: "Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen."
+    - Soort bron: "Archief"
+      Naam: "NL-RtSA 563  298"
+      Link: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
+      Beschrijving en opmerkingen: "Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)."
+  Secundair bronmateriaal:
+    - Soort bron: "Boek"
+      Naam: "Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelinghuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874."
+      Persistent identifier: 
+        - "OCLC: 993621798"
+        - "Google Books ID: zoOCOEgNA4AC"
+      Beschrijving en opmerkingen: "Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG."
+    - Soort bron: "Artikel"
+      Naam: "“Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92."
+      Link: "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
+      Beschrijving en opmerkingen: "Lijst uit 1862 met objecten in het bezit van het NZG."
+    - Soort bron: "Artikel"
+      Naam: "Djajasoebrata, Alit M.L.R. “To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.” In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002."
+      Persistent identifier: "ISBN: 9789057890789"
+      Beschrijving en opmerkingen: "Boek over de geschiedenis van het etnografisch verzamelen in Indonesië. De collectie van het NZG wordt hierin ook behandeld."
+    - Soort bron: "Artikel"
+      Naam: "Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97."
+      Persistent identifier: 
+        - "ISSN: 2214-1111"
+        - "OCLC: 844374705"
+      Beschrijving en opmerkingen: "Artikel over de vroege verzameling van het NZG."
+    - Soort bron: "Tijdschrift"
+      Naam: "Mededeelingen van wege het Nederlandsche Zendelinggenootschap"
+      Beschrijving en opmerkingen: "Het tijdschrift bevat voornamelijk bijdragen van de NZG-zendelingen over hun activiteiten, enkel incidenteel over de verzamelde voorwerpen. De edities van 1857 tot en met 1919 zijn allemaal digitaal toegankelijk via Delpher."
