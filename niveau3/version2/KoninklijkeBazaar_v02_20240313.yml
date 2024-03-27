@@ -28,9 +28,6 @@ Relevante data:
     Beginjaar: "1825"
     Eindjaar: "1927"
   Collecties:
-    Algemene opmerkingen: ""
-    Binnen de DataHub: ""
-    Extern: ""
 
 Omschrijving:
   - Content: |
@@ -46,11 +43,9 @@ Bronmateriaal:
   Primair bronmateriaal:
     - Soort bron: "Archiefstuk"
       Naam: "NL-HaNA 2.09.46"
-      Link: ""
       Beschrijving en opmerkingen: "Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie."
     - Soort bron: "Archiefstuk"
       Naam: "NL-HaNA 3.17.13.03"
-      Link: ""
       Beschrijving en opmerkingen: "Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers."
     - Soort bron: "Archiefstuk"
       Naam: "NL-HlmNHA 476 836-839"
@@ -75,7 +70,9 @@ Bronmateriaal:
       Beschrijving en opmerkingen: "In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830."
     - Soort bron: "Boek"
       Naam: "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000."
-      Persistent identifier: "ISBN: 9789074822251"
+      Persistent identifier: 
+        - "ISBN: 9789074822251"
+        - "OCLC: 902181455"
       Beschrijving en opmerkingen: "Boek over de eerdere winkel van Dirk Boer."
     - Soort bron: "Boek"
       Naam: "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854."
