@@ -1,20 +1,15 @@
 # Research Guides as Data
 
-This is a development repository for collaboratively designing and integrating the research guides from NIOD into the Datahub. 
+This is a development repository for collaboratively designing and integrating the research guides from NIOD into the Datahub. The core of the approach is to treat the research _guides_ as data, which means structuring them and the texts they contain as much as possible for parsing, automatic ingestion into and linking with the Datahub and its front-end applications.
 
 ## Content Overview
 
-The research guides are organised in a hierarchy of 3 levels:  
-
-
-#### Level 1
-
-The top level consists of general texts about writing provenance reports, the landscape of heritage institutions, etc. Due to their general nature, there are only few such documents, they contain mainly unstructured text and are thus _not_ treated as data.
+The research guides as produced by NIOD are organised in a hierarchy of 3 levels. The top level of the hierarchy, level 1, consists of general texts about writing provenance reports, the landscape of heritage institutions and other introductory materials. Due to their general nature, there are only few such documents, they contain mainly unstructured text and are thus _not_ treated as data. This means that they are not included in the work done in this repository.
 
 
 #### [Level 2](./niveau2/)
 
-The second tier is made up descriptions of broad topics, major actors and concepts in the colonial context, such as the Dutch colonial army. Guides on this level will be a main point of entry into the Datahub and provide context. There will be several dozens of such guides and they are thus treated as data, an example translation into YAML can be found in [Leger_en_Marine.yaml](./niveau2/Leger_en_Marine.yaml).
+The second tier of the hierarchy is made up of descriptions of broad topics, major actors and concepts in the colonial context, such as the Dutch colonial army. Guides on this level will be a main point of entry into the Datahub and provide context. There will be several dozens of such guides and they are thus treated as data, an example translation into YAML can be found in [Leger_en_Marine.yaml](./niveau2/Leger_en_Marine.yaml).
 
 #### [Level 3](./niveau3/)
 
@@ -28,7 +23,7 @@ Finally, on the third level, there is additional information about specific enti
 
 ## Documentation
 
-_YAML_ (short for _YAML Ain't Markup Language_) is a human-readable data format that defines basic data types and containers and allows to construct more complex data constructions with those. _Markdown_ is a markup \[sic\] language
+_YAML_ (short for _YAML Ain't Markup Language_) is a human-readable data format that defines basic data types and containers and allows to construct more complex data constructions with those. _Markdown_ is a markup \[sic!\] language
 
 
 ## Open Questions & TODOs
