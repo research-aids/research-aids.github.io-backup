@@ -5,7 +5,11 @@ This is a development repository for collaboratively designing and integrating t
 ## Content Overview
 
 ## [CLICK HERE FOR A DIRECTORY TREE OF THE RESEARCH GUIDES](./directory_tree.md)
-(not updated automatically -- to generate the directory tree run `(echo "\`\`\`"; echo "$(tree --charset=ascii niveau*)"; echo "\`\`\`") > directory_tree.md`)
+(not updated automatically -- to generate the directory tree run
+```
+(echo "\`\`\`"; echo "$(tree --charset=ascii niveau*)"; echo "\`\`\`") > directory_tree.md
+```
+)
 
 
 The research guides as produced by NIOD are organised in a hierarchy of 3 levels. The top level of the hierarchy, level 1, consists of general texts about writing provenance reports, the landscape of heritage institutions and other introductory materials. Due to their general nature, there are only few such documents, they contain mainly unstructured text and are thus _not_ treated as data. This means that they are not included in the work done in this repository.
