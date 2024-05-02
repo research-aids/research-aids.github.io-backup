@@ -9,8 +9,10 @@ Relevante data:
     - "Nederlands Zendelinggenootschap"
     - "NZG"
   Tags:
-    Activiteit: "[Missie](https://hdl.handle.net/20.500.11840/termmaster25128)"
-    Soort objecten: "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
+    Activiteit: 
+      - "[Missie](https://hdl.handle.net/20.500.11840/termmaster25128)"
+    Soort objecten: 
+      - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
     Geografisch:
       - "[Bali](https://www.geonames.org/1650534/bali.html)"
       - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
