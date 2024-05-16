@@ -1,6 +1,6 @@
 Title: "Koninklijk Kabinet van Zeldzaamheden"
 
-Relevante data:
+Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q34076860"
     - "https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22"
@@ -35,7 +35,7 @@ Relevante data:
     Binnen de DataHub: "Hier met (sparql query) links verwijzen naar objecten uit het KKZ binnen de Datahub."
     Extern: ""
       
-Omschrijving:
+Description:
   - Content: |
       "Het Koninklijk Kabinet van Zeldzaamheden was een museum in Den Haag, dat in 1816 werd opgericht door [Koning Willem I](https://www.wikidata.org/wiki/Q2079957). Het museum had de vorm van een rariteitenkabinet en de collectie bestond uit allerlei voorwerpen, waaronder ook vele uit de koloniën. Uiteindelijk was er van alles in te vinden: voorwerpen met betrekking tot de Nederlandse geschiedenis, Oosterse [kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837), [etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984) en [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
       
@@ -44,7 +44,7 @@ Omschrijving:
       In 1883 werd het museum opgeheven en de collectie verdeeld over verschillende rijksmusea. Het leeuwendeel ging naar het [Rijks Ethnographisch Museum](https://www.wikidata.org/wiki/Q17339437) (het huidige Wereldmuseum Leiden) en het [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/wiki/Q18015075) (opgegaan in het Rijksmuseum). Kleine aantallen voorwerpen werden overgedragen aan het [Rijksmuseum voor Oudheden](https://www.wikidata.org/wiki/Q1860378), het [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), het [Rijksmuseum van Natuurlijke Historie](https://www.wikidata.org/wiki/Q3432011), het [Rijksmuseum voor Geologie en Mineralogie](https://www.wikidata.org/wiki/Q7333956) en het [Rijks Herbarium](https://www.wikidata.org/wiki/Q2152927)."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "De oorspronkelijke administratie van de collectie, opgesteld door de eerste directeur [Reinier van de Kasteele](https://www.wikidata.org/wiki/Q56097178), verdween nadat zijn zoon [Abraham van de Kasteele](https://www.wikidata.org/wiki/Q18507671) hem opvolgde in 1840. Ook verdwenen en vergingen er vele voorwerpen in die tijd. De derde en laatste directeur [David van der Kellen](https://www.wikidata.org/wiki/Q5905167), die in 1876 aantrad, moest orde op zaken stellen.
       
@@ -53,8 +53,8 @@ Herkomstonderzoek:
       Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.wikidata.org/wiki/Q2371154), geschreven door ambtenaren van het Ministerie van Binnenlandse Zaken. Deze hebben betrekking op verwervingen, maar ook op de opheffing van het KKZ en de verdeling van de collectie over de diverse musea. In het brievenarchief van Ministerie van Binnenlandse Zaken zijn verbalen en brieven te vinden over aangeboden schenkingen en verkopen. Deze zijn te traceren via de indices op de verbalen."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Archief"
       Naam: "NL-HlmNHA 476 5"
       Link: "https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552"
@@ -80,8 +80,7 @@ Bronmateriaal:
       Naam: "NL-HlmNHA 476 1076"
       Link: "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688"
       Beschrijving en opmerkingen: "Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnografisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888"
-
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Boek"
       Naam: "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003."
       Persistent identifier: "OCLC: 163275947"
