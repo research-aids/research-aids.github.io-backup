@@ -1,6 +1,6 @@
 Title: "Kunsthandel van Lier"
 
-Relevante data:
+Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q87665942"
     - "https://hdl.handle.net/20.500.11840/pi57937"
@@ -38,22 +38,22 @@ Relevante data:
     Binnen de DataHub: ""
     Extern: ""
       
-Omschrijving:
+Description:
   - Content: |
       "[Carel van Lier](https://www.wikidata.org/wiki/Q2531642) (1897-1945) begon in 1924 een galerie in [Laren](https://www.geonames.org/2751874/laren.html) en verhuisde drie jaar later naar Amsterdam. [Kunstzaal Van Lier](https://www.wikidata.org/wiki/Q87665942) hield zich vooral bezig met [moderne Europese kunst](http://vocab.getty.edu/aat/300264736). Van Lier raakte echter ook in de ban van de esthetiek van de [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/page/aat/300108572) en beschouwde veel [houtsnijwerk](http://vocab.getty.edu/page/aat/300449031) puur als kunst. De tentoonstelling van zijn privécollectie Afrikaanse kunst in het [Gemeentemuseum Amsterdam](https://www.wikidata.org/wiki/Q9243350) in 1927 beïnvloedde modernistische schilders. Al snel handelde Van Lier in [Aziatische kunst](https://www.wikidata.org/wiki/Q3399573), [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/page/aat/300108572) en [etnografische voorwerpen](http://vocab.getty.edu/page/aat/300234108) uit de hele wereld (waaronder [inheems Noord-Amerika](https://hdl.handle.net/20.500.11840/termmaster10075993)). Deze werden verworven van particuliere verzamelaars in Nederland, aankoopreizen naar [Londen](https://www.geonames.org/2643743/london.html), [Parijs](https://www.geonames.org/2988507/paris.html), [Brussel](https://www.geonames.org/2800866/brussels.html) en [Antwerpen](https://www.geonames.org/2803138/antwerpen.html), en via zijn netwerk van relaties in de internationale handel in etnografische kunst, met name kunsthandelaar [Charles Ratton](https://www.wikidata.org/wiki/Q15220243) in Parijs. De joodse Carel van Lier stierf in 1945 in een Duits concentratiekamp.
       
       Kunstzaal Van Lier is na de oorlog nog enige jaren voortgezet door Elisabeth van de Velde, de weduwe Van Lier. In 1949 verkocht zij de zaak aan [Leendert van Lier](https://www.wikidata.org/wiki/Q24188979) (1910-1995, geen familie). Leendert van Lier zette de zaak voort en verkocht eveneens [tribale kunst](http://vocab.getty.edu/page/aat/300343731), [Chinese keramiek](http://vocab.getty.edu/page/aat/300018504) en moderne Europese kunst. In 1954 verhuisde hij naar [Utrecht](https://www.geonames.org/2745912/utrecht.html) en werden de zaken vanuit zijn huis gedaan. Een soortgelijke regeling werd vanaf 1961 voortgezet in het stadje [Veere](https://www.geonames.org/2745739/veere.html) in de provincie Zeeland, waar liefhebbers van tribale kunst, zoals hoogleraar en verzamelaar [Theo Van Baaren](https://www.wikidata.org/wiki/Q1923049), hem wisten te vinden. Van Lier maakte regelmatig reizen naar Londen en Parijs om voorwerpen voor zijn handel te verwerven. Na zijn dood werd in 1997 zijn collectie etnografica geveild bij [Christie’s](https://www.wikidata.org/wiki/Q503176) Amsterdam."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "Omdat [Carel van Lier](https://www.wikidata.org/wiki/Q2531642) een joods oorlogsslachtoffer is, vallen koloniale voorwerpen die via hem verworven zijn mogelijk tevens onder onvrijwillig bezitsverlies tijdens de nazi-periode.
       
       Archiefstukken uit de periode van [Carel van Lier en diens vrouw (1927-1948)](https://rkd.nl/collections/108) bevinden zich in het RKD, evenals een aantal archiefstukken uit de periode [Leendert van Lier](https://rkd.nl/collections/65) (deze lijken betrekking te hebben op Europese kunst). Het overige archief is in bezit van de erven Carel van Lier en de erven Leendert van Lier."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Archief"
       Naam: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108"
       Link: "https://rkd.nl/nl/explore/collections/108"
@@ -62,7 +62,7 @@ Bronmateriaal:
       Naam: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065"
       Link: "https://rkd.nl/explore/collections/65"
       Beschrijving en opmerkingen: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Boek"
       Naam: "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
       Persistent identifier: 
