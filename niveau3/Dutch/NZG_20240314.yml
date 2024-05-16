@@ -1,6 +1,6 @@
 Title: "Nederlandsch Zendeling Genootschap"
 
-Relevante data:
+Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q1946670"
     - "https://hdl.handle.net/20.500.11840/pi75783"
@@ -31,13 +31,13 @@ Relevante data:
       - Content-type: text/markdown
     Binnen de DataHub: "Verwijzen (met SPARQL Query) naar collecties binnen de datahub."
 
-Omschrijving:
+Description:
   - Content: |
       "Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/wiki/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673/java.html) en [Sulawesi](https://www.geonames.org/9062340/sulawesi.html), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084/republic-of-indonesia.html) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Archief"
       Naam: "NL-UtHUA 1102-1 1"
       Link: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
@@ -46,7 +46,7 @@ Bronmateriaal:
       Naam: "NL-RtSA 563  298"
       Link: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
       Beschrijving en opmerkingen: "Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)."
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Boek"
       Naam: "Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelinghuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874."
       Persistent identifier: 
