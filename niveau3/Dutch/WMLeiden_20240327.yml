@@ -1,6 +1,6 @@
 Title: "Wereldmuseum Leiden"
 
-Relevante data:
+Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q17339437"
   Naamsvarianten:
@@ -39,7 +39,7 @@ Relevante data:
   Collecties: |
     Algemene opmerkingen: "Binnen de DataHub verwijzen naar de collectie van het Wereldmuseum Leiden."
 
-Omschrijving:
+Description:
   - Content: |
       "Het huidige Wereldmuseum Leiden kent een geschiedenis waarbij de eerste honderd jaar gekenmerkt wordt door financiële moeilijkheden, de aanwas van grote hoeveelheden objecten en vele wisselingen van locatie. In 1937 vindt het museum uiteindelijk in het voormalig academisch ziekenhuis een locatie waar het zijn volledige collectie tentoon kan stellen. Nog altijd is het museum in dit pand gevestigd. 
       
@@ -48,7 +48,7 @@ Omschrijving:
       Objecten werden op verschillende manieren verkregen. Allereerst, zoals hierboven beschreven, door het uitruilen met andere musea. Daarnaast was het Rijks Etnografisch Museum zelf een actieve koper van etnografische objecten bij handelaren en veilingen, een deel van de collectie Benin Bronzen van het museum zijn bijvoorbeeld op deze manier verkregen. Ook werden veel objecten ontvangen als donatie, vaak van koloniale ambtenaren of militairen van bijvoorbeeld het Koninklijk Nederlands-Indisch Leger (KNIL). Het overgrote deel van de collectie van het huidige Wereldmuseum Leiden is dan ook gedurende de 19e en 20e eeuw verzameld."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "In het Wereldmuseum Leiden zijn sinds de oprichting gegevens bijgehouden over de collectie. Het archiefsysteem is echter meerdere keren veranderd en voor elk object of collectieserie (meerdere stukken die tegelijk zijn geregistreerd) is verschillende documentatie beschikbaar. 
       
@@ -59,8 +59,8 @@ Herkomstonderzoek:
       Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het Wereldmuseum Leiden, hierbij gaat het voornamelijk om ambtelijke stukken. In de archieven van musea waarmee het Wereldmuseum Leiden collecties heeft uitgewisseld kan eventueel meer archiefmateriaal worden gevonden met betrekking tot die specifieke objecten."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Secundair bronmateriaal:
+Sources:
+  Secundary sources:
     - Soort bron: "Boek"
       Naam: "Effert, F.R., en Nola Caffey. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008."
       Persistent identifier:
