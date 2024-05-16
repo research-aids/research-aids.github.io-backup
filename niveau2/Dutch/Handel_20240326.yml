@@ -1,6 +1,6 @@
 Title: "Handel"
 
-Relevante data:
+Relevant data:
   Tags:
     Activiteit: 
       - "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)"
@@ -17,7 +17,7 @@ Relevante data:
       - "[Japan](https://www.geonames.org/1861060/japan.html)"
       - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
 
-Omschrijving:
+Description:
   - Content: |
       De handel in koloniale voorwerpen en goederen stond aan de basis van de vorming van collecties in Nederland. Handel en verkoop speelden een centrale rol in de circulatie van deze voorwerpen in Europa. Tegen het begin van de 20ste eeuw had de koloniale kunsthandel zich in Nederland tot een bloeiende business ontwikkeld. Musea kochten regelmatig bij handelaren en veilinghuizen, niet alleen in Nederland, maar ook in andere Europese koloniserende landen, met name Duitsland, België, Frankrijk en Groot-Britannië. Diezelfde handelaren en veilinghuizen waren bronnen voor privécollecties, van waaruit voorwerpen soms later weer in museumcollecties terechtkwamen.
       
@@ -30,7 +30,7 @@ Omschrijving:
       De handel in koloniale objecten gaat door tot op de dag van vandaag. Daarom kan herkomstonderzoek soms ook betrekking hebben op handelaren die na de koloniale periode hun werkzaamheden begonnen of veilingen die recent hebben plaatsgehad.
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       Vergeleken met de handel in westerse kunst, worden de archieven van handelaren in etnografica en niet-westerse voorwerpen minder vaak bewaard in archiefinstellingen. Wanneer handelaren in beide kunstgenres handelden, lijken soms alleen de archieven met betrekking tot westerse kunst bewaard. Als er wel bedrijfsarchieven bewaard zijn, bevinden die zich doorgaans in het archief van de gemeente waar het bedrijf gevestigd was. Ook het RKD (Nederlands Instituut voor Kunstgeschiedenis) en het Nationaal Archief beheren enkele archieven van handelaren in kunst uit koloniën.
       
@@ -43,8 +43,8 @@ Herkomstonderzoek:
       De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen.
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Database"
       Naam: "Art Sales Catalogues Online"
       Link: "https://primarysources.brillonline.com/browse/art-sales-catalogues-online"
@@ -53,7 +53,7 @@ Bronmateriaal:
       Naam: "AGHORA"
       Link: "https://agorha.inha.fr"
       Beschrijving en opmerkingen: "Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen."
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Boek"
       Naam: "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
       Persistent identifier: 
