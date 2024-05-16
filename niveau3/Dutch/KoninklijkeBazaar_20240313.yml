@@ -1,6 +1,6 @@
 Title: "Groote Koninklijke Bazar"
 
-Relevante data:
+Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q13648189"
     - "https://hdl.handle.net/20.500.11840/pi56363"
@@ -29,18 +29,18 @@ Relevante data:
     Eindjaar: "1927"
   Collecties:
 
-Omschrijving:
+Description:
   - Content: |
       "De Groote Koninklijke Bazar was een warenhuis voor oosterse artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht oosterse voorwerpen, met name uit [Japan](https://www.geonames.org/1861060/japan.html), [China](https://www.geonames.org/1814991/people-s-republic-of-china.html), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/wiki/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/wiki/Q34076860; ook doorverwijzen naar zoekhulp van KKZ) en het toenmalige [Rijks Ethnografisch Museum](https://www.wikidata.org/wiki/Q17339437). Na de dood van Boer ging de zaak onder nieuwe eigenaren verder."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://www.wikidata.org/wiki/Q3229492) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437) is correspondentie over aankopen aanwezig."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Archiefstuk"
       Naam: "NL-HaNA 2.09.46"
       Beschrijving en opmerkingen: "Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie."
@@ -59,7 +59,7 @@ Bronmateriaal:
       Naam: "Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062"
       Link: "https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC"
       Beschrijving en opmerkingen: "Affiche van de Koninklijke Bazaar uit 1926."
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Artikel"
       Naam: "Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19."
       Link: "https://rkd.nl/library/89731"
