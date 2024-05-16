@@ -1,6 +1,6 @@
 Title: Zending en Missie
 
-Relevante data:
+Relevant data:
   Tags:
     Activiteit:
       - "[Broeder](http://www.wikidata.org/entity/Q16824629)"
@@ -17,7 +17,7 @@ Relevante data:
       - "[Sulawesi](https://www.geonames.org/9062340/sulawesi.html)"
       - "[Suriname](https://www.geonames.org/3382998/republic-of-suriname.html)"
 
-Omschrijving:
+Description:
   - Content: |
       "Vanuit Nederland werd er gedurende het koloniale tijdperk [zending]((https://data.indischherinneringscentrum.nl/ied/104099)) (protestants) en [missie](https://hdl.handle.net/20.500.11840/termmaster25128) (katholiek) bedreven. Beide christelijke groeperingen richtten zich op de Nederlandse koloniën, in het bijzonder Suriname en Nederlands-Indië, maar ook in onder andere in China, de Verenigde Staten en Congo waren zendelingen en missionarissen actief. Zending- en missieorganisaties hadden onderling regio’s afgebakend waarin zij actief waren, zonder dat daar verder officiële afspraken over waren. 
       
@@ -28,7 +28,7 @@ Omschrijving:
       De voorwerpen die de zendingswerkers meebrachten uit de koloniën werden geregeld opgesteld in gebouwen van de organisaties waar zij werkzaam waren. Enkele organisaties richten eigen musea in. Een voorbeeld hiervan is het [Missiemuseum in Steyl](https://www.wikidata.org/wiki/Q2534749) (opgericht in 1931). De collectie Afrikaanse voorwerpen van de [Congregatie van de Heilige Geest](https://www.wikidata.org/wiki/Q687562) was tot en met november 2024 te zien in het [Wereldmuseum Berg en Dal](https://www.wikidata.org/wiki/Q2470853) (voorheen het Afrika Museum, opgericht in 1954). Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/wiki/Q1946670), dat actief was op Java en in Sulawesi, was zeer actief in het verzamelen. Voorwerpen verzameld door deze organisatie zijn vooral te vinden in de collectie van het [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), maar ook bij andere musea."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "Informatie van individuele zendingswerkers is vaak te vinden in literatuur over en archieven van de organisaties waarvoor zij werkten. Een eerste stap bestaat uit het vaststellen om welke organisatie het gaat. In de portal [Repertorium van Nederlandse zendings- en missiearchieven 1800-1960] (https://resources.huygens.knaw.nl/repertoriumzendingmissie) zijn namenlijsten van zendingswerkers te vinden (onder het kopje Bijlagen) en zoekinformatie per organisatie. Van daaruit kan doorgezocht worden in de betreffende archieven. Sommige zendingsorganisaties waren internationaal vertakt, in dergelijke gevallen kan relevante informatie zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana] (https://www.proveana.de/en/start) en [Archivführer zur deutschen Kolonialgeschichte] (https://archivfuehrer-kolonialzeit.de).
       
@@ -37,8 +37,8 @@ Herkomstonderzoek:
       Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Kaart"
       Naam: "Zendingstereinen Indonesië"
       Link: "https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg"
@@ -47,7 +47,7 @@ Bronmateriaal:
       Naam: "Repertorium van Nederlandse zendings- en missiearchieven 1800-1960"
       Link: "https://resources.huygens.knaw.nl/repertoriumzendingmissie"
       Beschrijving en opmerkingen: "Het Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen."
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Artikel"
       Naam: "Corbey, Raymond, en Karel Weener. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015)."
       Link: "https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf"
