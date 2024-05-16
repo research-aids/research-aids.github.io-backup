@@ -1,6 +1,6 @@
 Title: "Ambtenaren"
 
-Relevante data:
+Relevant data:
   Tags:
     Activiteit:
       - "[Assistent-Resident](http://www.wikidata.org/entity/Q1871115)"
@@ -17,7 +17,7 @@ Relevante data:
       - "[Indonesië] (https://www.geonames.org/1643084/republic-of-indonesia.html)"
       - "[Suriname] (https://www.geonames.org/3382998/republic-of-suriname.html)"
 
-Omschrijving:
+Description:
   - Content: |
       "Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://www.geonames.org/1643084/republic-of-indonesia.html) en [Suriname](https://www.geonames.org/3382998/republic-of-suriname.html) waren vele ambtenaren actief, die vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
       
@@ -26,7 +26,7 @@ Omschrijving:
       Een aanzienlijk deel van de voorwerpen in Nederlandse collecties is afkomstig van bestuursambtenaren en andere personen die in overheidsdienst waren. Vanaf 1862 werden bestuursambtenaren in Nederlands-Indië aangemoedigd om verzamelingen aan te leggen en naar het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://www.wikidata.org/wiki/Q1789996) te sturen. Dit genootschap zou dan voor de verdeling tussen het eigen museum en de musea in Nederland zorgen. In de praktijk kwam hier weinig van terecht en bepaalden ambtenaren zelf wat zij met de voorwerpen in hun bezit deden."
   - Content-type: text/markdown
 
-Herkomstonderzoek:
+Provenance research:
   - Content: |
       "Vele Nederlanders in de koloniën, maar ook koloniale onderdanen, waren werkzaam in overheidsdienst. Het is daarom raadzaam om te checken of een met herkomst verbonden persoon voorkomt in de personeelsdossiers. Het Nationaal Archief biedt [diverse zoekhulpen] (https://www.nationaalarchief.nl/onderzoeken/zoekhulpen) om wegwijs te raken in deze archieven. 
       
@@ -45,8 +45,8 @@ Herkomstonderzoek:
       Vanaf 1848 deed de Nederlandse overheid ieder jaar verslag over de stand van zaken in de diverse koloniën via het Koloniaal Verslag. Hierin werden belangrijke gebeurtenissen vermeld, evenals allerlei statistische gegevens. Het is een nuttige bron om de context rond het verkrijgen van voorwerpen in kaart te brengen. Het verslag verscheen tot 1931 als Bijlage van de Handelingen der Staten-Generaal, vanaf 1869/70 als vaste Bijlage C, en onder verschillende benamingen: Mededeelingen betreffende de Koloniën (over 1848); Verslag van het beheer en den staat der Koloniën (1849-1865); Koloniaal Verslag (1866-1923); Verslag van bestuur en staat van Nederlandsch-Indië, Suriname en Curaçao (1924-1930). Als afzonderlijke publicaties: Indisch Verslag (1931-1939) respectievelijk Verslag van bestuur en staat van Suriname, Curaçao en de Nederlandse Antillen (1931-na 1940)."
   - Content-type: text/markdown
 
-Bronmateriaal:
-  Primair bronmateriaal:
+Sources:
+  Primary sources:
     - Soort bron: "Almanak"
       Naam: "Surinaamsche Almanak (1819-1846, 1887-1954)"
       Link: "Beschikbaar via de [digitale bibliotheek voor de Nederlandse letteren](dbnl.org)."
@@ -67,7 +67,7 @@ Bronmateriaal:
       Naam: "NL-HaNA 2.10.02"
       Link: ""
       Beschrijving en opmerkingen: "Volledige inventaris van het archief van het Ministerie van Koloniën, 1850-1900."
-  Secundair bronmateriaal:
+  Secundary sources:
     - Soort bron: "Zoekhulp"
       Naam: "Ambtenaren in Nederlands-Indië"
       Link: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie"
