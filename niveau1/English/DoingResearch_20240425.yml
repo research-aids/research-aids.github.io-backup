@@ -1,7 +1,7 @@
 Title: Doing research
 
 Which roadmap can you follow?:
-  - Content: |
+  - content: |
       "Provenance research goes through several stages. Depending on the purpose of your research, you go through one or more steps. In practice, the research steps intertwine and can often be carried out simultaneously.
       
       **Fase 1: Basic research**
@@ -19,10 +19,10 @@ Which roadmap can you follow?:
           - Consulting experts and communities of origin.
       
       Using a list of possible [research steps](link to page/pdf with research steps to follow), the steps and points of interest that are relevant to the research question and purpose of the provenance study can be selected. It is usually not necessary to investigate all items from the list and sometimes the research may be faster if there are multiple objects acquired at the same time. Especially if multiple objects are mentioned in the available sources."
-  - Content-type: text/markdown
+  - content-type: text/markdown
 
 How do you obtain information?:
-  - Content: |
+  - content: |
       "Provenance research into objects acquired in a colonial context makes use of a very diverse range of sources. In the past, little or no importance was accorded to information about the provenance and former owners of objects. Also, many of the relevant objects have little unique identifying values. The information accompanying the object is often brief and not focused on the origin of the object. Research should therefore be broader than looking at documents that contain information about previous owners, such as wills, inventories and auction catalogs. In addition to archives, oral sources such as experts from inside and outside the communities of origin can be valuable.
       
       Dutch archives contain many documents deriving from persons and institutions that took objects from the colonies to Europe. The obvious course of action is to consult the archives of all the institutions and persons who have owned or managed the object over time. Sources related to the events surrounding the acquisition may also be of interest. Tips for searching Dutch archives can be found [here](http://kia.pleio.nl/archieftips). Especially for the National Archives, [this search aide](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven) was created.
@@ -39,4 +39,4 @@ How do you obtain information?:
       The search tool [Sources for provenance research](link to zh Sources) provides information on where to find these sources. Backgrounds to individuals, colonial institutions and events can be found through the digital research guides within the datahub, or found elsewhere, such as Wikipedia. Please note that in the Dutch version of Wikipedia, information with a colonial perspective has often been copied unfiltered. It is therefore recommended to always consult the version in the language of the area of origin as well.
       
       A number of the Dutch sources for provenance research into colonial collections have been digitized, greatly facilitating the research. Digital databases are constantly being supplemented. Therefore, it is worth repeating a query that previously could not provide relevant sources after some time."
-  - Content-type: text/markdown
+  - content-type: text/markdown
