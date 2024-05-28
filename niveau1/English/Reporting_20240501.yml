@@ -1,7 +1,7 @@
 Title: Writing a provenance report
 
 The provenance report:
-  Content: |
+  content: |
     "The purpose of the provenance report is to record both the research itself and the key data it produced. In doing so, it is important to provide the most comprehensive overview of the sources consulted, even if they did not reveal anything or contained conflicting information. Future provenance researchers can draw on this. This [checklist](link to pdf/page of checklist) provides an overview of possible points of interest. 
     
     A provenance report can take different forms. There are no official guidelines for reporting provenance research from, for example, the Dutch Museum Association or the ICOM. In institutions that manage collections, different forms of reporting are sometimes combined or used alongside each other.
@@ -33,5 +33,5 @@ The provenance report:
     Colonial sources are written from a perspective that justifies colonial rule. They often use terms that are no longer common or are considered inappropriate and offensive today. The search aide [Sources](link to zh Sources) provides guidance on dealing with outdated language found in colonial sources. When writing a report, it is important to cite historical words and terms - if necessary in quotation marks and accompanied by an explanation - if this is necessary to understand the object history and enable future research.
     
     The publication [Words Matter](https://amsterdam.wereldmuseum.nl/sites/default/files/2021-04/words_matter.pdf.pdf) by the Wereldmuseum provides tips for dealing with colonial teminology."
-  Content-type: text/markdown
+  content-type: text/markdown
 
