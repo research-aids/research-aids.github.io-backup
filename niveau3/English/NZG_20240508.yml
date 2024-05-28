@@ -24,15 +24,15 @@ Relevant data:
     Year of end: "1951"
   Collections:
     General remarks:
-      - Content: |
+      - content: |
           "Objects collected by missionaries from the Nederlandsch Zendeling Genootschap can be found primarily in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), but also at the [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589) and [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437)."
-      - Content-type: text/markdown
+      - content-type: text/markdown
     Within the Data Hub: "Link with SPARQL to objects in the database."
 
 Description:
-  - Content: |
+  - content: |
       "Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/wiki/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673/java.html) en [Sulawesi](https://www.geonames.org/9062340/sulawesi.html), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084/republic-of-indonesia.html) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea."
-  - Content-type: text/markdown
+  - content-type: text/markdown
 
 Sources:
   Primary sources:
