@@ -18,7 +18,7 @@ Relevant data:
       - "[Republic of Suriname](https://www.geonames.org/3382998/republic-of-suriname.html)"
 
 Description:
-  - Content: |
+  - content: |
       "From the Netherlands during the colonial era, [Protestant](https://data.indischherinneringscentrum.nl/ied/104099) and [Catholic](https://hdl.handle.net/20.500.11840/termmaster25128) mission were practiced. Both Christian groups focused on the Dutch colonies, particularly Suriname and the Dutch East Indies, but missionaries were also active in China, the United States and Congo, among other places. Missionary organizations had demarcated among themselves regions in which they were active, without further official agreements. 
       
       The missionaries brought objects from the areas where they were working, sometimes at the request of the organizations that sent them out. The objects were displayed during education about the organization's work or for the purpose of raising funds. When the organizations disposed of the objects, they then ended up in other collections, such as those of ethnographic museums. Individual missionaries also donated and sold objects to such museums. Objects from the mission also ended up in trade and private collections.
@@ -26,16 +26,16 @@ Description:
       The collecting practices of missionary organizations have long been known to be aimed at erasing - in their eyes - pagan practices. Cultural heritage was destroyed or objects were taken to Europe to prevent their continued use in non-Christian rituals. Recent research, however, has nuanced this picture.
       
       The objects that missionaries brought back from the colonies were regularly displayed in buildings of the organizations where they worked. Some organizations set up their own museums, for example, the [Mission Museum in Steyl](https://www.wikidata.org/wiki/Q2534749) (established in 1931). The collection of African objects of the [Congregation of the Holy Spirit](https://www.wikidata.org/wiki/Q687562) was on display at the [Wereldmuseum Berg en Dal](https://www.wikidata.org/wiki/Q2470853) (formerly the Afrika Museum, established in 1954) through November 2024. The [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/wiki/Q1946670), which was active in Java and Sulawesi, was also very active in collecting. Objects collected by this organization are mainly found in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), but also at other museums."
-  - Content-type: text/markdown
+  - content-type: text/markdown
 
 Provenance research:
-  - Content: |
+  - content: |
       "Information from individual missionary workers can often be found in literature about and archives of the organizations for which they worked. A first step may be to determine which organization is involved. The portal [Repertorium van Nederlandse zendings- en missiearchieven 1800-1960] (https://resources.huygens.knaw.nl/repertoriumzendingmissie) contains lists of names of missionary workers (under the heading Annexes) and information on each organization. From there it is possible to search through the relevant archives. Some missionary organizations were internationally branched, in such cases relevant information may also be located in other European countries. For Germany, this information can be found through the portals [Proveana] (https://www.proveana.de/en/start) and [Archivführer zur deutschen Kolonialgeschichte] (https://archivfuehrer-kolonialzeit.de).
       
       Missionary workers sometimes worked in specific positions, such as doctor, nurse or teacher, and are described under these roles in the sources. They can then be identified as missionaries by looking at the organization for which they worked.
       
       Archives of missionary organizations are scattered. Substantial archival collections are located at the [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archive and Documentation Center of the Reformed Churches in the Netherlands](https://adckampen.nl/), [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) at the Vrije Universiteit, [Catholic Documentation Center](https://www.ru.nl/kdc/), and the [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Archives can also often still be found in the countries where the mission and mission were active, often owned by the organizations themselves."
-  - Content-type: text/markdown
+  - content-type: text/markdown
 
 Sources:
   Primary sources:
