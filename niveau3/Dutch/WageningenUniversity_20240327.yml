@@ -6,27 +6,28 @@ Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q422208"
     - "https://hdl.handle.net/20.500.11840/pi256"
-  Naamsvarianten:
+  Name variations:
     - "Landbouwhogeschool"
     - "Rijkslandbouwschool"
     - "Landbouwuniversiteit Wageningen"
   Tags:
-    Activiteit:
+    Activity:
       - "[Collectie](http://vocab.getty.edu/aat/300025976)"
       - "[Museum](http://vocab.getty.edu/aat/300005768)"
-    Soort objecten:
+    Type of objects:
       - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
-    Geografisch:
+    Geographical:
       - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
-  Periode actief:
-    Beginjaar: "1876"
-    Eindjaar: "Heden"
-  Collecties:
-    Algemene opmerkingen:
+  Period of activity:
+    Year of start: "1876"
+    Year of end: "Heden"
+  Collections:
+    General remarks:
       - content: |
           "De verzameling van de [Landbouwhogeschool](https://www.wikidata.org/wiki/Q422208) werd vanaf ca. 1962 afgestoten en raakte verspreid. Voorwerpen bevinden zich momenteel in het [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754) en [Museum Bronbeek](https://www.wikidata.org/wiki/Q61930724). Mogelijk bevinden zich ook voorwerpen in andere musea, vooral vanuit de ontzameling van [Museum Nusantara](https://www.wikidata.org/wiki/Q2668933)."
       - content-type: text/markdown
-    Binnen de DataHub: "Met SPARQL Query verwijzen naar objecten afkomstig van Landbouwhogeschool."
+    Within the Data Hub: "Met SPARQL Query verwijzen naar objecten afkomstig van Landbouwhogeschool."
+    External collections: ""
 
 Description:
   - content: |
@@ -42,24 +43,24 @@ Provenance research:
 
 Sources:
   Primary sources:
-    - Soort bron: "Archiefstuk"
-      Naam: "NL-AhGldA 0740  2324"
+    - Type of source: "Archiefstuk"
+      Name: "NL-AhGldA 0740  2324"
       Link: "https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC"
-      Beschrijving en opmerkingen: "Bevat stukken betreffende de collectie etnografica, gedateerd 1941 (over schenking Papua voorwerpen van C.C.F.M. Le Roux door RMV) en 1955 (over toekomst collectie)."
-    - Soort bron: "Archiefstuk"
-      Naam: "NL-AhGldA 0740  2833"
+      Description and remarks: "Bevat stukken betreffende de collectie etnografica, gedateerd 1941 (over schenking Papua voorwerpen van C.C.F.M. Le Roux door RMV) en 1955 (over toekomst collectie)."
+    - Type of source: "Archiefstuk"
+      Name: "NL-AhGldA 0740  2833"
       Link: "https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551"
-      Beschrijving en opmerkingen: "Bevat een inventaris van de verzamelingen en leermiddelen van de afdeling Land- en volkenkunde, aangelegd in ca. 1904 en bijgehouden tot 1929."
-    - Soort bron: "Archiefstuk"
-      Naam: "NL-AhGldA 0740 1522"
+      Description and remarks: "Bevat een inventaris van de verzamelingen en leermiddelen van de afdeling Land- en volkenkunde, aangelegd in ca. 1904 en bijgehouden tot 1929."
+    - Type of source: "Archiefstuk"
+      Name: "NL-AhGldA 0740 1522"
       Link: "https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9"
-      Beschrijving en opmerkingen: "Bevat stukken betreffende tentoonstellingen, 1947-1956."
-    - Soort bron: "Archiefstuk"
-      Naam: "NL-HaNA  2.20.69 4402"
-      Beschrijving en opmerkingen: "Bevat correspondentie over de verkoop van objecten door het Indisch Instituut (het huidige Wereldmuseum Amsterdam) in 1948."
+      Description and remarks: "Bevat stukken betreffende tentoonstellingen, 1947-1956."
+    - Type of source: "Archiefstuk"
+      Name: "NL-HaNA  2.20.69 4402"
+      Description and remarks: "Bevat correspondentie over de verkoop van objecten door het Indisch Instituut (het huidige Wereldmuseum Amsterdam) in 1948."
   Secundary sources:
-    - Soort bron: "Artikel"
-      Naam: "“Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953."
+    - Type of source: "Artikel"
+      Name: "“Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953."
       Link: "https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086"
-      Beschrijving en opmerkingen: "Artikel uit 1953 dat beschrijft dat bijna honderd objecten uit de collectie van de Landbouwhogeschool vermist zijn."
+      Description and remarks: "Artikel uit 1953 dat beschrijft dat bijna honderd objecten uit de collectie van de Landbouwhogeschool vermist zijn."
 

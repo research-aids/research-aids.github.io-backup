@@ -5,7 +5,7 @@ Abstract: "In deze zoekhulp vind je informatie, relevante bronnen en onderzoekst
 Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q17339437"
-  Naamsvarianten:
+  Name variations:
     - "Verzameling Von Siebold"
     - "Rijks Japansch Museum"
     - "Rijks Japansch Museum Von Siebold"
@@ -14,11 +14,11 @@ Relevant data:
     - "Museum Volkenkunde"
     - "Nationaal Museum van Wereldculturen"
   Tags:
-    Activiteit:
+    Activity:
       - "[Collectie](http://vocab.getty.edu/aat/300025976)"
-    Soort objecten:
+    Type of objects:
       - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
-    Regio s Wereldmuseum:
+    Regions Wereldmuseum:
       - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838)"
       - "[Centraal-Azië]( https://hdl.handle.net/20.500.11840/termmaster8403)"
       - "[Circumpolaire gebieden]( https://hdl.handle.net/20.500.11840/termmaster2956)"
@@ -29,16 +29,16 @@ Relevant data:
       - "[Oceanië]( https://hdl.handle.net/20.500.11840/termmaster6813)"
       - "[Oost-Azië]( https://hdl.handle.net/20.500.11840/termmaster7104)"
       - "[Zuid- en vasteland Zuidoost-Azië]( https://hdl.handle.net/20.500.11840/termmaster8153)"
-    Geografisch:
+    Geographical:
       - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);"
       - "[Azië](https://www.geonames.org/6255147/asia.html)"
       - "[Noord-Amerika](https://www.geonames.org/6255149/north-america.html)"
       - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
       - "[Zuid-Amerika](https://www.geonames.org/6255150/south-america.html)"
-  Periode actief:
-    Beginjaar: "1837"
-    Eindjaar: "Heden"
-  Collecties: |
+  Period of activity:
+    Year of start: "1837"
+    Year of end: "Heden"
+  Collections: |
     Algemene opmerkingen: "Binnen de DataHub verwijzen naar de collectie van het Wereldmuseum Leiden."
 
 Description:
@@ -63,35 +63,35 @@ Provenance research:
 
 Sources:
   Secundary sources:
-    - Soort bron: "Boek"
-      Naam: "Effert, F.R., en Nola Caffey. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008."
+    - Type of source: "Boek"
+      Name: "Effert, F.R., en Nola Caffey. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008."
       Persistent identifier:
         - "ISBN: 9789057891595"
         - "OCLC: 244247206"
-      Beschrijving en opmerkingen: "Geschiedenis van het Rijks Etnografisch Museum in Leiden (het tegenwoordige Wereldmuseum Leiden) en hoe dat is gevormd uit de collecties van het Koninklijk Kabinet van Zeldzaamheden."
-    - Soort bron: "Boek"
-      Naam: "Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003."
+      Description and remarks: "Geschiedenis van het Rijks Etnografisch Museum in Leiden (het tegenwoordige Wereldmuseum Leiden) en hoe dat is gevormd uit de collecties van het Koninklijk Kabinet van Zeldzaamheden."
+    - Type of source: "Boek"
+      Name: "Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003."
       Persistent identifier: "OCLC: 317117313"
-      Beschrijving en opmerkingen: "Dissertatie van Rudolf Effert, gelijk aan Engelstalige variant. Over de geschiedenis van het Rijks Etnografisch Museum en hoe dat is gevormd uit de collecties van het KKZ."
-    - Soort bron: "Boek"
-      Naam: "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913."
+      Description and remarks: "Dissertatie van Rudolf Effert, gelijk aan Engelstalige variant. Over de geschiedenis van het Rijks Etnografisch Museum en hoe dat is gevormd uit de collecties van het KKZ."
+    - Type of source: "Boek"
+      Name: "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913."
       Persistent identifier: "OCLC: 562473153"
-      Beschrijving en opmerkingen: "Boek van Joseph Marquart, een Duits historicus en conservator van het Rijks Etnografisch Museum in Leiden, over de Benin collectie aldaar."
-    - Soort bron: "Boek"
-      Naam: "Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937."
+      Description and remarks: "Boek van Joseph Marquart, een Duits historicus en conservator van het Rijks Etnografisch Museum in Leiden, over de Benin collectie aldaar."
+    - Type of source: "Boek"
+      Name: "Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937."
       Link: "https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005"
-      Beschrijving en opmerkingen: "Uitvoerige geschiedenis van de eerste honderd jaar van het Rijks Etnografisch Museum. Beschrijft hoe het museum is ontstaan uit de collectie van Von Siebold en het KKZ en hoe dit naderhand tot etnografisch museum is gevormd. Bevat informatie over verzamelde collecties gedurende de eerste honderd jaar."
-    - Soort bron: "Tijdschrift"
-      Naam: "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021."
+      Description and remarks: "Uitvoerige geschiedenis van de eerste honderd jaar van het Rijks Etnografisch Museum. Beschrijft hoe het museum is ontstaan uit de collectie van Von Siebold en het KKZ en hoe dit naderhand tot etnografisch museum is gevormd. Bevat informatie over verzamelde collecties gedurende de eerste honderd jaar."
+    - Type of source: "Tijdschrift"
+      Name: "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021."
       Persistent identifier:
         - "ISBN: 9789088909986"
         - "OCLC: 1293851263"
-      Beschrijving en opmerkingen: "Publicatie van het Wereldmuseum met betrekking tot de Benin collectie. Verschaft informatie over de link tussen objecten uit Benin binnen de collectie van het Wereldmuseum (niet alleen in Leiden) en de plundering van Britse soldaten in 1897."
-    - Soort bron: "Boek"
-      Naam: "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002."
+      Description and remarks: "Publicatie van het Wereldmuseum met betrekking tot de Benin collectie. Verschaft informatie over de link tussen objecten uit Benin binnen de collectie van het Wereldmuseum (niet alleen in Leiden) en de plundering van Britse soldaten in 1897."
+    - Type of source: "Boek"
+      Name: "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002."
       Persistent identifier:
         - "ISBN: 9789071310812"
         - "OCLC: 901467113"
-      Beschrijving en opmerkingen: "Boek over de geschiedenis van het huidige Wereldmuseum in Leiden."
+      Description and remarks: "Boek over de geschiedenis van het huidige Wereldmuseum in Leiden."
 
 

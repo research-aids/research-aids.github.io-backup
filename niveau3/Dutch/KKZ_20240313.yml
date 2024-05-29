@@ -8,16 +8,16 @@ Relevant data:
     - "https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22"
     - "https://hdl.handle.net/20.500.11840/pi57733"
   Tags:
-    Activiteit:
+    Activity:
       - "[Collectie](http://vocab.getty.edu/aat/300025976)"
       - "[Kabinet van zeldzaamheden](http://vocab.getty.edu/page/aat/300263444)"
       - "[Museum](http://vocab.getty.edu/aat/300005768)"
-    Soort objecten:
+    Type of objects:
       - "[Etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984)"
       - "[Kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837)"
       - "[Naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008)"
       - "[Numismatica](http://vocab.getty.edu/page/aat/300054419)"
-    Geografisch:
+    Geographical:
       - "[China](https://www.geonames.org/1814991/people-s-republic-of-china.html)"
       - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
       - "[Japan](https://www.geonames.org/1861060/japan.html)"
@@ -26,16 +26,16 @@ Relevant data:
       - "[Suriname](https://www.geonames.org/3382998/republic-of-suriname.html)"
       - "[Turkije](https://www.geonames.org/298795/republic-of-turkey.html)"
       - "[Zuid-Afrika](https://www.geonames.org/953987/south-africa.html)"
-  Periode actief:
-    Beginjaar: "1816"
-    Eindjaar: "1833"
-  Collecties:
-    Algemene opmerkingen:
+  Period of activity:
+    Year of start: "1816"
+    Year of end: "1833"
+  Collections:
+    General remarks:
       - content: |
           "Voorwerpen die afkomstig zijn het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/wiki/Q34076860) bevinden in zich onder andere in het [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), het [Rijksmuseum](https://www.wikidata.org/wiki/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/wiki/Q641676), [Wereldmuseum Rotterdam], het [Rijksmuseum van Oudheden](https://www.wikidata.org/wiki/Q2042754), de [Universitaire Bibliotheek Leiden](https://www.wikidata.org/wiki/Q638395), the [Smithsonian Institution](https://www.wikidata.org/wiki/Q131626) en het [Rautenstrauch Joest Museum](https://www.wikidata.org/wiki/Q2133582)."
       - content-type: text/markdown
-    Binnen de DataHub: "Hier met (sparql query) links verwijzen naar objecten uit het KKZ binnen de Datahub."
-    Extern: ""
+    Within the Data Hub: "Hier met (sparql query) links verwijzen naar objecten uit het KKZ binnen de Datahub."
+    External collections: ""
       
 Description:
   - content: |
@@ -57,55 +57,55 @@ Provenance research:
 
 Sources:
   Primary sources:
-    - Soort bron: "Archief"
-      Naam: "NL-HlmNHA 476 5"
+    - Type of source: "Archief"
+      Name: "NL-HlmNHA 476 5"
       Link: "https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552"
-      Beschrijving en opmerkingen: "Betreft de inventaris toegang van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers."
-    - Soort bron: "Archief"
-      Naam: "NL-HaNA 2.04.13 2.2.4.1.2.06"
-      Beschrijving en opmerkingen: "Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden."
-    - Soort bron: Archief
-      Naam: "NL-HaNA 2.04.01 4925-4954"
-      Beschrijving en opmerkingen: "Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk."
-    - Soort bron: Archief
-      Naam:  "NL-HaNA 2.04.01 4030" 
-      Beschrijving en opmerkingen: "Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk."
-    - Soort bron: Archiefstuk
-      Naam: "NL-HlmNHA 476 11.1"
+      Description and remarks: "Betreft de inventaris toegang van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.04.13 2.2.4.1.2.06"
+      Description and remarks: "Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden."
+    - Type of source: Archief
+      Name: "NL-HaNA 2.04.01 4925-4954"
+      Description and remarks: "Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk."
+    - Type of source: Archief
+      Name:  "NL-HaNA 2.04.01 4030" 
+      Description and remarks: "Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk."
+    - Type of source: Archiefstuk
+      Name: "NL-HlmNHA 476 11.1"
       Link: "https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701"
-      Beschrijving en opmerkingen: "Toegang uit het archief van het Rijksmuseum met daarin allerhande documenten die betrekking hebben op verwerving, uitleen en restauratie van objecten."
-    - Soort bron: Archiefstuk
-      Naam: "NL-HlmNHA 476 874-875"
+      Description and remarks: "Toegang uit het archief van het Rijksmuseum met daarin allerhande documenten die betrekking hebben op verwerving, uitleen en restauratie van objecten."
+    - Type of source: Archiefstuk
+      Name: "NL-HlmNHA 476 874-875"
       Link: "https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC"
-      Beschrijving en opmerkingen: "Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk."
-    - Soort bron: Archiefstuk
-      Naam: "NL-HlmNHA 476 1076"
+      Description and remarks: "Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk."
+    - Type of source: Archiefstuk
+      Name: "NL-HlmNHA 476 1076"
       Link: "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688"
-      Beschrijving en opmerkingen: "Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnografisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888"
+      Description and remarks: "Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnografisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888"
   Secundary sources:
-    - Soort bron: "Boek"
-      Naam: "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003."
+    - Type of source: "Boek"
+      Name: "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003."
       Persistent identifier: "OCLC: 163275947"
-      Beschrijving en opmerkingen: "Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum."
-    - Soort bron: "Boek"
-      Naam: "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008."
+      Description and remarks: "Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum."
+    - Type of source: "Boek"
+      Name: "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008."
       Persistent identifier: 
         - "ISBN: 9789057891595"
         - "OCLC: 244247206"
-      Beschrijving en opmerkingen: "Engelse vertaling van de dissertatie van Effert. Betreft de geschiedenis van het KKZ en het Rijksetnografisch Museum in Leiden."
-    - Soort bron: "Catalogus"
-      Naam: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
+      Description and remarks: "Engelse vertaling van de dissertatie van Effert. Betreft de geschiedenis van het KKZ en het Rijksetnografisch Museum in Leiden."
+    - Type of source: "Catalogus"
+      Name: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
       Persistent identifier: 
         - "OCLC: 63800039" 
         - "Online beschikbaar via: https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
-      Beschrijving en opmerkingen: "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
-    - Soort bron: "Catalogus"
-      Naam: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
+      Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
+    - Type of source: "Catalogus"
+      Name: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
       Persistent identifier: 
         - "OCLC: 899016583"
         - "Online beschikbaar via: http://archive.org/details/kortehandleiding00kast of https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
-      Beschrijving en opmerkingen: "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."
-    - Soort bron: "Hoofdstuk in boek"
-      Naam: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "
+      Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."
+    - Type of source: "Hoofdstuk in boek"
+      Name: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "
       Link: "Volledig boek: https://doi.org/10.4324/9781003044789"
-      Beschrijving en opmerkingen: "Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandeld."
+      Description and remarks: "Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandeld."

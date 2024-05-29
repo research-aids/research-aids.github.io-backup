@@ -4,14 +4,14 @@ Abstract: "In deze zoekhulp vind je meer informatie over de handel in koloniale 
 
 Relevant data:
   Tags:
-    Activiteit: 
+    Activity: 
       - "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)"
       - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
       - "[Kunstnijverheid](http://vocab.getty.edu/aat/300054168)"
       - "[Handelshuis](http://vocab.getty.edu/page/aat/300417515)"
       - "[Veilinghuis](http://vocab.getty.edu/page/aat/300417515)"
-    Soort objecten:
-    Geografisch: 
+    Type of objects:
+    Geographical: 
       - "[China](http://vocab.getty.edu/page/aat/300417515)"
       - "[Congo](https://www.geonames.org/203312/democratic-republic-of-the-congo.html)"
       - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
@@ -47,24 +47,24 @@ Provenance research:
 
 Sources:
   Primary sources:
-    - Soort bron: "Database"
-      Naam: "Art Sales Catalogues Online"
+    - Type of source: "Database"
+      Name: "Art Sales Catalogues Online"
       Link: "https://primarysources.brillonline.com/browse/art-sales-catalogues-online"
-      Beschrijving en opmerkingen: "Database gebaseerd op het Répertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk."
-    - Soort bron: "Database"
-      Naam: "AGHORA"
+      Description and remarks: "Database gebaseerd op het Répertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk."
+    - Type of source: "Database"
+      Name: "AGHORA"
       Link: "https://agorha.inha.fr"
-      Beschrijving en opmerkingen: "Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen."
+      Description and remarks: "Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen."
   Secundary sources:
-    - Soort bron: "Boek"
-      Naam: "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
+    - Type of source: "Boek"
+      Name: "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
       Persistent identifier: 
         - ISBN: "9789068321975"
         - OCLC: "906982001"
-      Beschrijving en opmerkingen: "Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen."
-    - Soort bron: "Boek"
-      Naam: "Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006."
+      Description and remarks: "Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen."
+    - Type of source: "Boek"
+      Name: "Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006."
       Persistent identifier:
         - OCLC: "71681153"
-      Beschrijving en opmerkingen: "Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland."
+      Description and remarks: "Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland."
 

@@ -8,18 +8,18 @@ Relevant data:
     - "https://hdl.handle.net/20.500.11840/pi57937"
     - "https://rkd.nl/explore/artists/446007"
     - "https://rkd.nl/nl/explore/artists/49975"
-  Naamsvarianten:
+  Name variations:
     - "Kunstzaal Van Lier"
     - "Carel van Lier"
     - "Leendert van Lier"
   Tags:
-    Activiteit:
+    Activity:
       - "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)"
-    Soort objecten:
+    Type of objects:
       - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
       - "[Keramiek](http://vocab.getty.edu/page/aat/300151343)"
       - "[Sculpturen](https://hdl.handle.net/20.500.11840/termmaster25727)"
-    Geografisch:
+    Geographical:
       - "[Afrika](https://www.geonames.org/6255146/africa.html)"
       - "[Azië](https://www.geonames.org/6255147/asia.html)"
       - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
@@ -29,16 +29,16 @@ Relevant data:
       - "[Noord-Amerika](https://www.geonames.org/6255149/north-america.html)"
       - "[Zuid-Amerika](https://www.geonames.org/6255150/south-america.html)"
       - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
-  Periode actief:
-    Beginjaar: "1924"
-    Eindjaar: "1996"
-  Collecties:
-    Algemene opmerkingen:
+  Period of activity:
+    Year of start: "1924"
+    Year of end: "1996"
+  Collections:
+    General remarks:
       - content: |
           "Voorwerpen die zijn verkocht door Kunsthandel Van Lier bevinden in zich onder andere het [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), [Museum de Fundatie](https://www.wikidata.org/wiki/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/wiki/Q679527) en het [Weltkulturenmuseum Frankfurt](https://www.wikidata.org/wiki/Q1954571). Ook in de collectie van [Museum Nusantara](https://www.wikidata.org/wiki/Q2668933) bevonden zich voorwerpen die bij kunsthandel Van Lier waren gekocht."
       - content-type: text/markdown
-    Binnen de DataHub: ""
-    Extern: ""
+    Within the Data Hub: ""
+    External collections: ""
       
 Description:
   - content: |
@@ -56,18 +56,18 @@ Provenance research:
 
 Sources:
   Primary sources:
-    - Soort bron: "Archief"
-      Naam: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108"
+    - Type of source: "Archief"
+      Name: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108"
       Link: "https://rkd.nl/nl/explore/collections/108"
-      Beschrijving en opmerkingen: "Brieven en briefkaarten, voornamelijk van kunstenaars, en andere stukken over de periode 1927-1948"
-    - Soort bron: "Archief"
-      Naam: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065"
+      Description and remarks: "Brieven en briefkaarten, voornamelijk van kunstenaars, en andere stukken over de periode 1927-1948"
+    - Type of source: "Archief"
+      Name: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065"
       Link: "https://rkd.nl/explore/collections/65"
-      Beschrijving en opmerkingen: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
+      Description and remarks: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
   Secundary sources:
-    - Soort bron: "Boek"
-      Naam: "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
+    - Type of source: "Boek"
+      Name: "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
       Persistent identifier: 
         - "ISBN: 9789068683431"
         - "OCLC: 902336725"
-      Beschrijving en opmerkingen: "Biografie over Carel van Lier."
+      Description and remarks: "Biografie over Carel van Lier."
