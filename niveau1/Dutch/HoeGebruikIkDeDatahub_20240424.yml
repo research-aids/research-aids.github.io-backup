@@ -2,6 +2,14 @@ Title: "Hoe kan ik de datahub gebruiken voor mijn onderzoek?"
 
 Abstract: "Hoe kan de datahub mij helpen bij het doen van (herkomst)onderzoek?"
 
+RelatedAides: 
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "narrower"
+  - "Onderzoeken":
+        link: "niveau1/Dutch/Onderzoeken_20240425.yml"
+        rel_type: "narrower"
+
 Zoekhulpen:
   - content: |
       "In de zoekhulpen op deze website leggen we je uit hoe je onderzoek kunt doen naar de herkomst van [voorwerpen uit een koloniale context](https://app.colonialcollections.nl/en/faq). We laten onder andere zien waar en hoe bronnen je kunt zoeken, hoe je een voorselectie van voorwerpen kunt maken en hoe je verslag kunt leggen van je onderzoek.

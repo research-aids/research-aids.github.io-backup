@@ -2,6 +2,17 @@ Title: "Verslagleggen"
 
 Abstract: "Hoe stel je een verslag op naar aanleiding van je (herkomst)onderzoek?"
 
+RelatedAides:
+  - "Onderzoeken":
+        link: "niveau1/Dutch/Onderzoeken_20240425.yml"
+        rel_type: "broader"
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "see also"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "see also"
+
 Herkomstverslag:
   content: |
     "Het doel van het herkomstverslag is om zowel het onderzoek zelf als de belangrijkste gegevens die het heeft opgeleverd vast te leggen. Het is daarbij belangrijk om een zo compleet mogelijk overzicht van de geraadpleegde bronnen te geven, ook als die niets opleverden of tegenstrijdige informatie bevatten. Toekomstige herkomstonderzoekers kunnen hierop voortbouwen. De [checklist voor  verslaglegging](link naar pdf/pagina van checklist) geeft een overzicht van mogelijke aandachtspunten. 

@@ -2,6 +2,26 @@ Title: "Bronnen"
 
 Abstract: "Waar kan je bronnen voor herkomstonderzoek vinden en hoe moet je deze kritisch benaderen?"
 
+RelatedAides: 
+  - "Onderzoeken":
+        link: "niveau1/Dutch/Onderzoeken_20240425.yml"
+        rel_type: "broader"
+  - "Ambtenaren":
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "narrower"
+  - "Handel":
+        link: "niveau2/Dutch/Handel_20240326.yml"
+        rel_type: "narrower"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        rel_type: "narrower"
+  - "Zending en Missie":
+        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
+        rel_type: "narrower"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "example"
+
 Kritische omgang met bronnen:
   - content: |
       "Bij het onderzoek naar de herkomst van voorwerpen uit koloniale contexten is het belangrijk om de volgende punten in gedachten te houden:
