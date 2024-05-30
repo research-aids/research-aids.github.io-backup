@@ -2,6 +2,14 @@ Title: "How can I use the data hub for my research?"
 
 Abstract: "How can the datahub help me in conducting (provenance) research?"
 
+RelatedAides: 
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "narrower"
+  - "Doing research":
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "narrower"
+
 Research aides:
   - content: |
       "In the research aides on this website, we explain how to conduct research into the provenance of [objects from a colonial context](https://app.colonialcollections.nl/en/faq). Among other things, we show you where and how to look for relevant sources, how to prioritize objects, and how to report on your research.

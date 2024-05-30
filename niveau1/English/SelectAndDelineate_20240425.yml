@@ -2,6 +2,26 @@ Title: "Select and delineate"
 
 Abstract: "How do you select objects and delineate your (provenance) research?"
 
+RelatedAides: 
+  - "Doing research":
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "broader"
+  - "How can I use the data hub for my research?":
+        link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
+        rel_type: "see also"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "narrower"
+  - "Civil servants":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "example"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "example"
+  - "Christian mission":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "narrower"
+
 How do you recognize objects from a colonial context?:
   - content: |
       "Many Dutch museum and other collections contain objects acquired in a colonial context. Sometimes these are not traceable because the registration does not mention a place or culture of manufacture.  This may be due to objects being registered using general terms, such as "oriental" or "African," that do not provide sufficient information about their specific cultural provenance. 

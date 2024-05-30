@@ -2,6 +2,20 @@ Title: "Doing research"
 
 Abstract: "What roadmap should you follow for doing (provenance) research and how do you get more information?"
 
+RelatedAides:
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "narrower"
+  - "niveau1/English/Sources_20240501.yml":
+        link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
+        rel_type: "broader"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "narrower"
+  - "Reporting":
+        link: "niveau1/English/Reporting_20240501.yml"
+        rel_type: "narrower"
+
 Which roadmap can you follow?:
   - content: |
       "Provenance research goes through several stages. Depending on the purpose of your research, you go through one or more steps. In practice, the research steps intertwine and can often be carried out simultaneously.
