@@ -2,6 +2,11 @@ Title: "Royal Asian Art Society in the Netherlands"
 
 Abstract: "The Royal Asian Art Society is a collecting association that has established a large collection of Asian art, which today is part of the Rijksmuseum Amsterdam."
 
+RelatedAides: 
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "example"
+
 Relevant data:
   Identifiers: "https://www.wikidata.org/wiki/Q96749093"
   Name variations:

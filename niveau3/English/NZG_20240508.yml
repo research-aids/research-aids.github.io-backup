@@ -2,6 +2,11 @@ Title: "Nederlandsch Zendeling Genootschap"
 
 Abstract: "The Nederlandsch Zendeling Genootschap was a missionary organization that was very active in the collecting of objects in Indonesia."
 
+RelatedAides: 
+  - "Christian mission":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "example"
+
 Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q1946670"

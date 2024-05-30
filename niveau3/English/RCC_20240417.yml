@@ -2,6 +2,17 @@ Title: "Royal Cabinet of Curiosities"
 
 Abstract: "The Royal Cabinet of Curiosities was established in 1816 by King William I. The collection consisted of a variety of objects, including many from colonized regions." 
 
+RelatedAides: 
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Groote Koninklijke Bazar":
+        link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "example"
+
 Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q34076860"

@@ -2,6 +2,29 @@ Title: "Wereldmuseum Leiden"
 
 Abstract: "Today's Wereldmuseum Leiden was established in the 19th century by combining various collections of objects that were acquired in colonized regions."
 
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "example"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "narrower"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "narrower"
+  - "niveau2/English/MilitaryAndNavy_20240417.yml":
+        link: "niveau3/English/RCC_20240417.yml"
+        rel_type: "see also"
+  - "Groote Koninklijke Bazar":
+        link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+        rel_type: "see also"
+  - "Kunsthandel Van Lier":
+        link: "niveau3/English/KunsthandelVanLier_20240507.yml"
+        rel_type: "see also"
+  - "Pieter H. Pott":
+        link: "niveau3/English/PieterPott_20240508.yml"
+        rel_type: "see also"
+
 Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q17339437"
