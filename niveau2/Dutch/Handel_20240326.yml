@@ -2,6 +2,32 @@ Title: "Handel"
 
 Abstract: "De handel in koloniale voorwerpen en goederen stond aan de basis van de vorming van etnografische (museum)collecties in Nederland."
 
+RelatedAides: 
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "broader"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "broader"
+  - "Ambtenaren": 
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "see also"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        rel_type: "see also"
+  - "Groote Koninklijke Bazar":
+        link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
+        rel_type: "Example"
+  - "Kunsthandel Van Lier":
+        link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
+        rel_type: "Example"
+  - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
+        link: "niveau3/Dutch/KVVAK_20240312.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+
 Relevant data:
   Tags:
     Activity: 

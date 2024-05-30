@@ -2,6 +2,17 @@ Title: "Zending en Missie"
 
 Abstract: "Protestante zendelingen en katholieke missionarissen droegen veelvuldig bij aan de verzameling van objecten gedurende het koloniale tijdperk."
 
+RelatedAides: 
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "broader"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "broader"
+  - "Nederlandsch Zendeling Genootschap": 
+        link: "niveau3/Dutch/NZG_20240314.yml"
+        rel_type: "example"
+
 Relevant data:
   Tags:
     Activity:

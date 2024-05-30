@@ -2,6 +2,26 @@ Title: "Leger en Marine"
 
 Abstract: "Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, verzamelde op verschillende manieren objecten tijdens het koloniale tijdperk."
 
+RelatedAides: 
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "broader"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "broader"
+  - "Ambtenaren": 
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "see also"
+  - "Handel":
+        link: "niveau2/Dutch/Handel_20240326.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+
 Relevant data:
   Tags:
     Activity:

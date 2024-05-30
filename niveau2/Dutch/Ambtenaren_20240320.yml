@@ -2,6 +2,23 @@ Title: "Ambtenaren"
 
 Abstract: "Nederlanders in overheidsdienst speelden een belangrijke rol in het verzamelen van objecten tijdens het koloniale tijdperk."
 
+RelatedAides: 
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "broader"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "broader"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        rel_type: "see also"
+  - "Pieter H. Pott":
+        link: "niveau3/Dutch/PieterPott_20240312.yml"
+        rel_type: "Example"
+  - "Wageningen University & Research":
+        link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+        rel_type: "Example"
+
 Relevant data:
   Tags:
     Activity:
