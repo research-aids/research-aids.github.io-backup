@@ -4,11 +4,11 @@ Abstract: "Pieter H. Pott speelde een invloedrijke rol in de culturele betrekkin
 
 RelatedAides: 
   - "Ambtenaren":
-        link: "niveau2/Dutch/Ambtenaren_20240320.ymll"
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "example"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "example"
+        rel_type: "broader"
 
 Relevant data:
   Identifiers: "https://www.wikidata.org/wiki/Q65850179"
