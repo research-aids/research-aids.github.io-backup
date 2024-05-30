@@ -2,6 +2,17 @@ Title: "Writing a provenance report"
 
 Abstract: "How do you compose a report based on your (provenance) research?"
 
+RelatedAides:
+  - "Doing research":
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "broader"
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "see also"
+
 The provenance report:
   content: |
     "The purpose of the provenance report is to record both the research itself and the key data it produced. In doing so, it is important to provide the most comprehensive overview of the sources consulted, even if they did not reveal anything or contained conflicting information. Future provenance researchers can draw on this. This [checklist](link to pdf/page of checklist) provides an overview of possible points of interest. 
