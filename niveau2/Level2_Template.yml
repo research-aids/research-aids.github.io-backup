@@ -18,12 +18,12 @@ Relevant data: "This section shows the relevant data for the research aid."
 
 Description:
   - content: |
-      ""
+      "Here you would give a description of the topic of a research aid. It should not be like a Wikipedia page, but only state information that shows the relevance of the topic to colonial collections."
   - content-type: text/markdown
 
 Provenance research:
   - content: |
-      ""
+      "Here you would give more insights in how to conduct provenance research on the topic of the research aid. Providing tips, source specifics etc."
   - content-type: text/markdown
 
 Sources:
