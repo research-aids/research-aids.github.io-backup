@@ -2,6 +2,17 @@ Title: "Christian mission"
 
 Abstract: "Missionaries frequently contributed to the collection of objects during the colonial era."
 
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "broader"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "broader"
+  - "Nederlandsch Zendeling Genootschap": 
+        link: "niveau3/English/NZG_20240508.yml"
+        rel_type: "example"
+
 Relevant data:
   Tags:
     Activity:

@@ -2,6 +2,23 @@ Title: "Civil servants"
 
 Abstract: "Civil servants from the Netherlands played an important role in the collecting of objects during the colonial era."
 
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "broader"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "broader"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Pieter H. Pott":
+        link: "niveau3/English/PieterPott_20240508.yml"
+        rel_type: "Example"
+  - "Wageningen University & Research":
+        link: "niveau3/English/WageningenUniversity_20240508.yml"
+        rel_type: "Example"
+
 Relevant data:
   Tags:
     Activity:

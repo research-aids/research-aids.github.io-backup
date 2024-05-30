@@ -2,6 +2,32 @@ Title: "Trade"
 
 Abstract: "Trade in colonial objects and goods formed the basis for ethnographic (museum) collections in the Netherlands."
 
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "broader"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "broader"
+  - "Civil servants": 
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Groote Koninklijke Bazar":
+        link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+        rel_type: "Example"
+  - "Kunsthandel Van Lier":
+        link: "niveau3/English/KunsthandelVanLier_20240507.yml"
+        rel_type: "Example"
+  - "Royal Asian Art Society in the Netherlands":
+        link: "niveau3/English/RAAS_20240508.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+
 Relevant data:
   Tags:
     Activity: 

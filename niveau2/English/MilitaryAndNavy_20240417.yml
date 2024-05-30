@@ -2,6 +2,26 @@ Title: "Military and navy"
 
 Abstract: "Army and Navy personnel who operated in colonized territories collected objects in various ways during the colonial era."
 
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "broader"
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "broader"
+  - "Civil servants": 
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+        link: "niveau3/English/RCC_20240417.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "see also"
+
 Relevant data:
   Tags:
     Activity:
