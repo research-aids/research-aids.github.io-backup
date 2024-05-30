@@ -5,7 +5,7 @@ Abstract: "Het huidige Wereldmuseum Leiden is in de 19e eeuw ontstaan door het s
 RelatedAides: 
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "example"
+        rel_type: "narrower"
   - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "narrower"
