@@ -2,6 +2,11 @@ Title: "Nederlandsch Zendeling Genootschap"
 
 Abstract: "Het Nederlandsch Zendeling Genootschap was een zendingsorganisatie die zeer actief was in het verzamelen van objecten in Indonesië." 
 
+RelatedAides: 
+  - "Zending en Missie":
+        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
+        rel_type: "example"
+
 Relevant data:
   Identifiers:
     - "https://www.wikidata.org/wiki/Q1946670"

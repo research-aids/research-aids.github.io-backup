@@ -2,6 +2,14 @@ Title: "Pieter H. Pott"
 
 Abstract: "Pieter H. Pott speelde een invloedrijke rol in de culturele betrekkingen tussen Indonesië en Nederland in de tweede helft van de vorige eeuw." 
 
+RelatedAides: 
+  - "Ambtenaren":
+        link: "niveau2/Dutch/Ambtenaren_20240320.ymll"
+        rel_type: "example"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "example"
+
 Relevant data:
   Identifiers: "https://www.wikidata.org/wiki/Q65850179"
   Name variations:
