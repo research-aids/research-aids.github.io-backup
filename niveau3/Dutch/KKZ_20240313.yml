@@ -47,8 +47,7 @@ Relevant data:
       - content: |
           "Voorwerpen die afkomstig zijn het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/wiki/Q34076860) bevinden in zich onder andere in het [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), het [Rijksmuseum](https://www.wikidata.org/wiki/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/wiki/Q641676), [Wereldmuseum Rotterdam], het [Rijksmuseum van Oudheden](https://www.wikidata.org/wiki/Q2042754), de [Universitaire Bibliotheek Leiden](https://www.wikidata.org/wiki/Q638395), the [Smithsonian Institution](https://www.wikidata.org/wiki/Q131626) en het [Rautenstrauch Joest Museum](https://www.wikidata.org/wiki/Q2133582)."
       - content-type: text/markdown
-    Within the Data Hub: "Hier met (sparql query) links verwijzen naar objecten uit het KKZ binnen de Datahub."
-    External collections: ""
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=Koninklijk+Kabinet+van+Zeldzaamheden&dateCreatedEnd=1833"
       
 Description:
   - content: |
