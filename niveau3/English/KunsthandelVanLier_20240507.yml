@@ -50,8 +50,7 @@ Relevant data:
       - content: |
           "Objects sold by Kunsthandel Van Lier are, among others, in the [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), [Museum de Fundatie](https://www.wikidata.org/wiki/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/wiki/Q679527) and the [Weltkulturenmuseum](https://www.wikidata.org/wiki/Q1954571) in Frankfurt. Also the collection of [Museum Nusantara](https://www.wikidata.org/wiki/Q2668933) included objects purchased from Kunsthandel Van Lier."
       - content-type: text/markdown
-    Within the Data Hub: ""
-    External: ""
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier"
       
 Description:
   - content: |

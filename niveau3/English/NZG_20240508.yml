@@ -36,7 +36,7 @@ Relevant data:
       - content: |
           "Objects collected by missionaries from the Nederlandsch Zendeling Genootschap can be found primarily in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), but also at the [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589) and [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437)."
       - content-type: text/markdown
-    Within the Data Hub: "Link with SPARQL to objects in the database."
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=NZG"
 
 Description:
   - content: |

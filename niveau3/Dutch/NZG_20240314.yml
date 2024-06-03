@@ -38,8 +38,7 @@ Relevant data:
       - content: |
           "Voorwerpen verzameld door zendingswerkers van het Nederlandsch Zendeling Genootschap zijn vooral te vinden in de collectie van het [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), maar ook bij het [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589) en [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437)."
       - content-type: text/markdown
-    Within the Data Hub: "Verwijzen (met SPARQL Query) naar collecties binnen de datahub."
-    External collections: ""
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=NZG"
 
 Description:
   - content: |

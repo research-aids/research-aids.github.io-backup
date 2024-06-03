@@ -39,6 +39,7 @@ Relevant data:
       - content: |
           "Op de website van de KVVAK is een [overzicht](https://www.kvvak.nl/collectie/) van de volledige collectie van de vereniging. Ook op de [collectiewebsite](https://www.rijksmuseum.nl/nl/zoeken/uitgebreid) van het Rijksmuseum zijn deze objecten terug te vinden. Binnen de collectiewebsite is een selectie gemaakt van [Aziatische Kunst](https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst), maar let op: niet alle objecten zijn afkomstig van de KVVAK, het Rijksmuseum bezit ook zelf objecten die vallen onder de term Aziatische Kunst."
       - content-type: text/markdown
+    Within Data Hub: "Link to objects from KVVAK when Rijksmuseum is added."
     External Collections: "https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst"
 
 Description:

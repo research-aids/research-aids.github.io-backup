@@ -47,8 +47,7 @@ Relevant data:
       - content: |
           "Objects originating from the [Royal Cabinet of Curiosities](https://www.wikidata.org/wiki/Q34076860) are found, among others, at the [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), the [Rijksmuseum](https://www.wikidata.org/wiki/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/wiki/Q641676), [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q854010), the [Rijksmuseum of Antiquities](https://www.wikidata.org/wiki/Q2042754), the [Leiden University Library](https://www.wikidata.org/wiki/Q638395), the [Smithsonian Institution](https://www.wikidata.org/wiki/Q131626), and the [Rautenstrauch Joest Museum](https://www.wikidata.org/wiki/Q2133582)."
       - content-type: text/markdown
-    Within the Datahub: "SPARQL Query to the object of the KKZ within the datahub."
-    External collections: 
+Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=Koninklijk+Kabinet+van+Zeldzaamheden&dateCreatedEnd=1833"
 
 Description:
   - content: |
