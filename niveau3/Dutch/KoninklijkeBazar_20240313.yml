@@ -20,7 +20,7 @@ RelatedAides:
 
 Relevant data:
   Identifiers:
-    - "https://www.wikidata.org/wiki/Q13648189"
+    - "https://www.wikidata.org/entity/Q13648189"
     - "https://hdl.handle.net/20.500.11840/pi56363"
     - "https://rkd.nl/nl/explore/artists/349840"
   Name variations:
@@ -32,16 +32,16 @@ Relevant data:
       - "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)"
     Type of objects:
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
-      - "[Keramiek](http://vocab.getty.edu/page/aat/300151343)"
+      - "[Keramiek](http://vocab.getty.edu/aat/300151343)"
       - "[Tapijten](https://thesaurus.cultureelerfgoed.nl/concept/cht:0e27175e-cf3a-40cd-9c33-55d9127fa6fd)"
     Geographical:
-      - "[China](https://www.geonames.org/1814991/people-s-republic-of-china.html)"
-      - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
-      - "[Iran](https://www.geonames.org/130758/islamic-republic-of-iran.html)"
-      - "[Japan](https://www.geonames.org/1861060/japan.html)"
-      - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
-      - "[Suriname](https://www.geonames.org/3382998/republic-of-suriname.html)"
-      - "[Turkijke](https://www.geonames.org/298795/republic-of-turkey.html)"
+      - "[China](https://www.geonames.org/1814991)"
+      - "[Indonesië](https://www.geonames.org/1643084)"
+      - "[Iran](https://www.geonames.org/130758)"
+      - "[Japan](https://www.geonames.org/1861060)"
+      - "[Oceanië](https://www.geonames.org/6255151)"
+      - "[Suriname](https://www.geonames.org/3382998)"
+      - "[Turkijke](https://www.geonames.org/298795)"
   Period of activity:
     Year of start: "1825"
     Year of end: "1927"
@@ -50,12 +50,12 @@ Relevant data:
 
 Description:
   - content: |
-      "De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://www.geonames.org/1861060/japan.html), [China](https://www.geonames.org/1814991/people-s-republic-of-china.html), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/wiki/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/wiki/Q34076860; ook doorverwijzen naar zoekhulp van KKZ) en het toenmalige [Rijks Ethnografisch Museum](https://www.wikidata.org/wiki/Q17339437). Na de dood van Boer ging de zaak onder nieuwe eigenaren verder."
+      "De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://www.geonames.org/1861060), [China](https://www.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://www.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/entity/Q34076860; ook doorverwijzen naar zoekhulp van KKZ) en het toenmalige [Rijks Ethnografisch Museum](https://www.wikidata.org/entity/Q17339437). Na de dood van Boer ging de zaak onder nieuwe eigenaren verder."
   - content-type: text/markdown
 
 Provenance research:
   - content: |
-      "Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://www.wikidata.org/wiki/Q3229492) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437) is correspondentie over aankopen aanwezig."
+      "Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://www.wikidata.org/entity/Q3229492) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437) is correspondentie over aankopen aanwezig."
   - content-type: text/markdown
 
 Sources:

@@ -25,26 +25,26 @@ Relevant data:
   Tags:
     Activity:
       - "[Assistent-Resident](http://www.wikidata.org/entity/Q1871115)"
-      - "[Bestuursambtenaar](https://www.wikidata.org/wiki/Q64495361)"
+      - "[Bestuursambtenaar](http://www.wikidata.org/entity/Q64495361)"
       - "[Commies](http://www.wikidata.org/entity/Q2685184)"
       - "[Controleur](http://www.wikidata.org/entity/Q28725568)"
       - "[Districtscommissaris](http://www.wikidata.org/entity/Q76302606)"
-      - "[Gouverneur](https://data.cultureelerfgoed.nl/term/id/cht/9ffbac66-fc9a-4534-92fb-da1f90e41390)"
-      - "[Gouverneur-Generaal](https://www.wikidata.org/wiki/Q382844)"
-      - "[Resident](https://www.wikidata.org/wiki/Q19973930)"
+      - "[Gouverneur](https://data.cultureelerfgoed.nl/term/id/cht/9ffbac66-fc9a-4534-92fb-da1f90e41390)" 
+      - "[Gouverneur-Generaal](http://www.wikidata.org/entity/Q382844)"
+      - "[Resident](http://www.wikidata.org/entity/Q19973930)"
     Type of objects:
     Geographical:
-      - "[Antillen](https://www.geonames.org/8505032/netherlands-antilles.html)"
-      - "[Indonesië] (https://www.geonames.org/1643084/republic-of-indonesia.html)"
-      - "[Suriname] (https://www.geonames.org/3382998/republic-of-suriname.html)"
+      - "[Antillen](https://www.geonames.org/8505032)"
+      - "[Indonesië] (https://www.geonames.org/1643084)"
+      - "[Suriname] (https://www.geonames.org/3382998)"
 
 Description:
   - content: |
-      "Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://www.geonames.org/1643084/republic-of-indonesia.html) en [Suriname](https://www.geonames.org/3382998/republic-of-suriname.html) waren vele ambtenaren actief, die vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
+      "Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://www.geonames.org/1643084) en [Suriname](https://www.geonames.org/3382998) waren vele ambtenaren actief, die vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
       
       Het bestuursapparaat verschilde per kolonie, waarbij de positie van ‘gouverneur’ een overeenkomst is. De bestuurlijke structuur van een kolonie kan worden teruggevonden in de zoekhulp over die specifieke kolonie. Belangrijk om te weten is dat gedurende de Franse overheersing  van het Europese Nederland, het overgrote deel van het Nederlandse koloniale grondgebied onder Engels bestuur terecht kwam. Het kan dus voorkomen dat je met betrekking tot ambtenaren Engelse namen tegenkomt in archieven uit de periode tussen pakweg 1795 en 1820. Een voorbeeld hiervan is [Thomas Stamford Raffles], die tussen 1811 en 1816 gouverneur was van voormalig Nederlands-Indië.
       
-      Een aanzienlijk deel van de voorwerpen in Nederlandse collecties is afkomstig van bestuursambtenaren en andere personen die in overheidsdienst waren. Vanaf 1862 werden bestuursambtenaren in Nederlands-Indië aangemoedigd om verzamelingen aan te leggen en naar het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://www.wikidata.org/wiki/Q1789996) te sturen. Dit genootschap zou dan voor de verdeling tussen het eigen museum en de musea in Nederland zorgen. In de praktijk kwam hier weinig van terecht en bepaalden ambtenaren zelf wat zij met de voorwerpen in hun bezit deden."
+      Een aanzienlijk deel van de voorwerpen in Nederlandse collecties is afkomstig van bestuursambtenaren en andere personen die in overheidsdienst waren. Vanaf 1862 werden bestuursambtenaren in Nederlands-Indië aangemoedigd om verzamelingen aan te leggen en naar het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://www.wikidata.org/entity/Q1789996) te sturen. Dit genootschap zou dan voor de verdeling tussen het eigen museum en de musea in Nederland zorgen. In de praktijk kwam hier weinig van terecht en bepaalden ambtenaren zelf wat zij met de voorwerpen in hun bezit deden."
   - content-type: text/markdown
 
 Provenance research:

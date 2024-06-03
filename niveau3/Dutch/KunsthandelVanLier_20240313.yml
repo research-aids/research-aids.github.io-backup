@@ -17,7 +17,7 @@ RelatedAides:
 
 Relevant data:
   Identifiers:
-    - "https://www.wikidata.org/wiki/Q87665942"
+    - "https://www.wikidata.org/entity/Q87665942"
     - "https://hdl.handle.net/20.500.11840/pi57937"
     - "https://rkd.nl/explore/artists/446007"
     - "https://rkd.nl/nl/explore/artists/49975"
@@ -29,39 +29,39 @@ Relevant data:
     Activity:
       - "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)"
     Type of objects:
-      - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
-      - "[Keramiek](http://vocab.getty.edu/page/aat/300151343)"
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+      - "[Keramiek](http://vocab.getty.edu/aat/300151343)"
       - "[Sculpturen](https://hdl.handle.net/20.500.11840/termmaster25727)"
     Geographical:
-      - "[Afrika](https://www.geonames.org/6255146/africa.html)"
-      - "[Azië](https://www.geonames.org/6255147/asia.html)"
-      - "[Indonesië](https://www.geonames.org/1643084/republic-of-indonesia.html)"
-      - "[China](https://www.geonames.org/1814991/people-s-republic-of-china.html)"
-      - "[Congo](https://www.geonames.org/203312/democratic-republic-of-the-congo.html)"
-      - "[Papua](https://www.geonames.org/2088628/independent-state-of-papua-new-guinea.html)"
-      - "[Noord-Amerika](https://www.geonames.org/6255149/north-america.html)"
-      - "[Zuid-Amerika](https://www.geonames.org/6255150/south-america.html)"
-      - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
+      - "[Afrika](https://www.geonames.org/6255146)"
+      - "[Azië](https://www.geonames.org/6255147)"
+      - "[Indonesië](https://www.geonames.org/1643084)"
+      - "[China](https://www.geonames.org/1814991)"
+      - "[Congo](https://www.geonames.org/203312)"
+      - "[Papua](https://www.geonames.org/2088628)"
+      - "[Noord-Amerika](https://www.geonames.org/6255149)"
+      - "[Zuid-Amerika](https://www.geonames.org/6255150)"
+      - "[Oceanië](https://www.geonames.org/6255151)"
   Period of activity:
     Year of start: "1924"
     Year of end: "1996"
   Collections:
     General remarks:
       - content: |
-          "Voorwerpen die zijn verkocht door Kunsthandel Van Lier bevinden in zich onder andere het [Wereldmuseum Amsterdam](https://www.wikidata.org/wiki/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/wiki/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/wiki/Q2042754), [Museum de Fundatie](https://www.wikidata.org/wiki/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/wiki/Q679527) en het [Weltkulturenmuseum Frankfurt](https://www.wikidata.org/wiki/Q1954571). Ook in de collectie van [Museum Nusantara](https://www.wikidata.org/wiki/Q2668933) bevonden zich voorwerpen die bij kunsthandel Van Lier waren gekocht."
+          "Voorwerpen die zijn verkocht door Kunsthandel Van Lier bevinden in zich onder andere het [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), [Museum de Fundatie](https://www.wikidata.org/entity/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/entity/Q679527) en het [Weltkulturenmuseum Frankfurt](https://www.wikidata.org/entity/Q1954571). Ook in de collectie van [Museum Nusantara](https://www.wikidata.org/entity/Q2668933) bevonden zich voorwerpen die bij kunsthandel Van Lier waren gekocht."
       - content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier"
       
 Description:
   - content: |
-      "[Carel van Lier](https://www.wikidata.org/wiki/Q2531642) (1897-1945) begon in 1924 een galerie in [Laren](https://www.geonames.org/2751874/laren.html) en verhuisde drie jaar later naar Amsterdam. [Kunstzaal Van Lier](https://www.wikidata.org/wiki/Q87665942) hield zich vooral bezig met [moderne Europese kunst](http://vocab.getty.edu/aat/300264736). Van Lier raakte echter ook in de ban van de esthetiek van de [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/page/aat/300108572) en beschouwde veel [houtsnijwerk](http://vocab.getty.edu/page/aat/300449031) puur als kunst. De tentoonstelling van zijn privécollectie Afrikaanse kunst in het [Gemeentemuseum Amsterdam](https://www.wikidata.org/wiki/Q9243350) in 1927 beïnvloedde modernistische schilders. Al snel handelde Van Lier in [Aziatische kunst](https://www.wikidata.org/wiki/Q3399573), [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/page/aat/300108572) en [etnografische voorwerpen](http://vocab.getty.edu/page/aat/300234108) uit de hele wereld (waaronder [inheems Noord-Amerika](https://hdl.handle.net/20.500.11840/termmaster10075993)). Deze werden verworven van particuliere verzamelaars in Nederland, aankoopreizen naar [Londen](https://www.geonames.org/2643743/london.html), [Parijs](https://www.geonames.org/2988507/paris.html), [Brussel](https://www.geonames.org/2800866/brussels.html) en [Antwerpen](https://www.geonames.org/2803138/antwerpen.html), en via zijn netwerk van relaties in de internationale handel in etnografische kunst, met name kunsthandelaar [Charles Ratton](https://www.wikidata.org/wiki/Q15220243) in Parijs. De joodse Carel van Lier stierf in 1945 in een Duits concentratiekamp.
+      "[Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) begon in 1924 een galerie in [Laren](https://www.geonames.org/2751874) en verhuisde drie jaar later naar Amsterdam. [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) hield zich vooral bezig met [moderne Europese kunst](http://vocab.getty.edu/aat/300264736). Van Lier raakte echter ook in de ban van de esthetiek van de [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en beschouwde veel [houtsnijwerk](http://vocab.getty.edu/aat/300449031) puur als kunst. De tentoonstelling van zijn privécollectie Afrikaanse kunst in het [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 beïnvloedde modernistische schilders. Al snel handelde Van Lier in [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en [etnografische voorwerpen](http://vocab.getty.edu/aat/300234108) uit de hele wereld (waaronder [inheems Noord-Amerika](https://hdl.handle.net/20.500.11840/termmaster10075993)). Deze werden verworven van particuliere verzamelaars in Nederland, aankoopreizen naar [Londen](https://www.geonames.org/2643743), [Parijs](https://www.geonames.org/2988507), [Brussel](https://www.geonames.org/2800866) en [Antwerpen](https://www.geonames.org/2803138), en via zijn netwerk van relaties in de internationale handel in etnografische kunst, met name kunsthandelaar [Charles Ratton](https://www.wikidata.org/entity/Q15220243) in Parijs. De joodse Carel van Lier stierf in 1945 in een Duits concentratiekamp.
       
-      Kunstzaal Van Lier is na de oorlog nog enige jaren voortgezet door Elisabeth van de Velde, de weduwe van Carel van Lier. In 1949 verkocht zij de zaak aan [Leendert van Lier](https://www.wikidata.org/wiki/Q24188979) (1910-1995, geen familie). Leendert van Lier zette de zaak voort en verkocht eveneens [tribale kunst](http://vocab.getty.edu/page/aat/300343731), [Chinese keramiek](http://vocab.getty.edu/page/aat/300018504) en moderne Europese kunst. In 1954 verhuisde hij naar [Utrecht](https://www.geonames.org/2745912/utrecht.html) en werden de zaken vanuit zijn huis gedaan. Een soortgelijke regeling werd vanaf 1961 voortgezet in het stadje [Veere](https://www.geonames.org/2745739/veere.html) in de provincie Zeeland, waar liefhebbers van tribale kunst, zoals hoogleraar en verzamelaar [Theo Van Baaren](https://www.wikidata.org/wiki/Q1923049), hem wisten te vinden. Van Lier maakte regelmatig reizen naar Londen en Parijs om voorwerpen voor zijn handel te verwerven. Na zijn dood werd in 1997 zijn collectie etnografica geveild bij [Christie’s](https://www.wikidata.org/wiki/Q503176) Amsterdam."
+      Kunstzaal Van Lier is na de oorlog nog enige jaren voortgezet door Elisabeth van de Velde, de weduwe van Carel van Lier. In 1949 verkocht zij de zaak aan [Leendert van Lier](https://www.wikidata.org/entity/Q24188979) (1910-1995, geen familie). Leendert van Lier zette de zaak voort en verkocht eveneens [tribale kunst](http://vocab.getty.edu/aat/300343731), [Chinese keramiek](http://vocab.getty.edu/aat/300018504) en moderne Europese kunst. In 1954 verhuisde hij naar [Utrecht](https://www.geonames.org/2745912) en werden de zaken vanuit zijn huis gedaan. Een soortgelijke regeling werd vanaf 1961 voortgezet in het stadje [Veere](https://www.geonames.org/2745739) in de provincie Zeeland, waar liefhebbers van tribale kunst, zoals hoogleraar en verzamelaar [Theo Van Baaren](https://www.wikidata.org/entity/Q1923049), hem wisten te vinden. Van Lier maakte regelmatig reizen naar Londen en Parijs om voorwerpen voor zijn handel te verwerven. Na zijn dood werd in 1997 zijn collectie etnografica geveild bij [Christie’s](https://www.wikidata.org/entity/Q503176) Amsterdam."
   - content-type: text/markdown
 
 Provenance research:
   - content: |
-      "Omdat [Carel van Lier](https://www.wikidata.org/wiki/Q2531642) een joods oorlogsslachtoffer is, vallen koloniale voorwerpen die via hem verworven zijn mogelijk tevens onder onvrijwillig bezitsverlies tijdens de nazi-periode.
+      "Omdat [Carel van Lier](https://www.wikidata.org/entity/Q2531642) een joods oorlogsslachtoffer is, vallen koloniale voorwerpen die via hem verworven zijn mogelijk tevens onder onvrijwillig bezitsverlies tijdens de nazi-periode.
       
       Archiefstukken uit de periode van [Carel van Lier en diens vrouw (1927-1948)](https://rkd.nl/collections/108) bevinden zich in het RKD, evenals een aantal archiefstukken uit de periode [Leendert van Lier](https://rkd.nl/collections/65) (deze lijken betrekking te hebben op Europese kunst). Het overige archief is in bezit van de erven Carel van Lier en de erven Leendert van Lier."
   - content-type: text/markdown

@@ -27,23 +27,23 @@ RelatedAides:
 Relevant data:
   Tags:
     Activity:
-      - "[Midshipman](https://www.wikidata.org/wiki/Q11141137)"
-      - "[Naval lieutenant](https://www.wikidata.org/wiki/Q2631032)"
-      - "[Seaman](https://www.wikidata.org/wiki/Q707995)"
+      - "[Midshipman](https://www.wikidata.org/entity/Q11141137)"
+      - "[Naval lieutenant](https://www.wikidata.org/entity/Q2631032)"
+      - "[Seaman](https://www.wikidata.org/entity/Q707995)"
       - "[Military officer](http://vocab.getty.edu/aat/300236210)"
-      - "[Non-commissioned officer](https://www.wikidata.org/wiki/Q158950)"
-      - "[Soldier](http://vocab.getty.edu/page/aat/300185678)"
+      - "[Non-commissioned officer](https://www.wikidata.org/entity/Q158950)"
+      - "[Soldier](http://vocab.getty.edu/aat/300185678)"
     Geographical:
-      - "[Netherlands Antilles](https://www.geonames.org/8505032/netherlands-antilles.html)"
-      - "[Indonesia](https://www.geonames.org/1643084/republic-of-indonesia.html)"
-      - "[Oceania](https://www.geonames.org/6255151/oceania.html)"
-      - "[Republic of Suriname](https://www.geonames.org/3382998/republic-of-suriname.html)"
+      - "[Netherlands Antilles](https://www.geonames.org/8505032)"
+      - "[Indonesia](https://www.geonames.org/1643084)"
+      - "[Oceania](https://www.geonames.org/6255151)"
+      - "[Republic of Suriname](https://www.geonames.org/3382998)"
 
 Description:
   - content: |
-      "Dutch authority in the [Dutch East Indies](https://www.geonames.org/1643084/republic-of-indonesia.html), [Suriname](https://www.geonames.org/3382998/republic-of-suriname.html) and on the [Caribbean Islands](https://www.geonames.org/8505032/netherlands-antilles.html) relied heavily on the use of the military. Within the Dutch East Indies the [Royal Dutch East Indies Army (KNIL)](https://hdl.handle.net/20.500.11840/pi7416) was active. The KNIL was formed by officers of Dutch or other European nationality and mostly local soldiers. In Suriname and [Curaçao](https://www.geonames.org/7626836/country-of-curacao.html), the colonial force in the 19th century was the West Indies Army, which in turn was part of the Dutch Army. In the 20th century, officers for Suriname were recruited from the KNIL, while non-commissioned officers and soldiers were recruited both in Europe and locally. During the [Indonesian War of Independence (1945-1949)](https://www.wikidata.org/wiki/Q1332160), tens of thousands of conscripts from the Dutch army were deployed.
+      "Dutch authority in the [Dutch East Indies](https://www.geonames.org/1643084), [Suriname](https://www.geonames.org/3382998) and on the [Caribbean Islands](https://www.geonames.org/8505032) relied heavily on the use of the military. Within the Dutch East Indies the [Royal Dutch East Indies Army (KNIL)](https://hdl.handle.net/20.500.11840/pi7416) was active. The KNIL was formed by officers of Dutch or other European nationality and mostly local soldiers. In Suriname and [Curaçao](https://www.geonames.org/7626836), the colonial force in the 19th century was the West Indies Army, which in turn was part of the Dutch Army. In the 20th century, officers for Suriname were recruited from the KNIL, while non-commissioned officers and soldiers were recruited both in Europe and locally. During the [Indonesian War of Independence (1945-1949)](https://www.wikidata.org/entity/Q1332160), tens of thousands of conscripts from the Dutch army were deployed.
       
-      Only a small number of objects in Dutch museums concern official spoils of war sent to the Netherlands by order of the colonial armies. A well-known example is the so-called [Lombok treasure](https://www.wikidata.org/wiki/Q115754448). There are many more objects originating from individual military personnel that ended up in the Netherlands through private initiative. There were several ways military personnel obtained these objects: they could have been looted, donated or bought from the local population.
+      Only a small number of objects in Dutch museums concern official spoils of war sent to the Netherlands by order of the colonial armies. A well-known example is the so-called [Lombok treasure](https://www.wikidata.org/entity/Q115754448). There are many more objects originating from individual military personnel that ended up in the Netherlands through private initiative. There were several ways military personnel obtained these objects: they could have been looted, donated or bought from the local population.
        
       In the case of gifts received and objects purchased by military personnel, it is important to remember that there was an unequal balance of power between colonizer and colonized. Objects may have been sold or given out of fear, to favor the ruler or because the ongoing war situation led to impoverishment of the population."
   - content-type: text/markdown

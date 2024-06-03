@@ -10,7 +10,7 @@ RelatedAides:
         rel_type: "example"
 
 Relevant data:
-  Identifiers: "https://www.wikidata.org/wiki/Q96749093"
+  Identifiers: "https://www.wikidata.org/entity/Q96749093"
   Name variations:
     - "Vereniging Vrienden der Aziatische Kunst"
     - "Vereeniging Vrienden der Aziatische Kunst"
@@ -20,17 +20,17 @@ Relevant data:
   Tags:
     Activity:
       - "[Asian pavilion](http://www.wikidata.org/entity/Q37769044)"
-      - "[Rijksmuseum](https://www.wikidata.org/wiki/Q190804)"
-      - "[Stedelijk Museum](https://www.wikidata.org/wiki/Q924335)"
+      - "[Rijksmuseum](https://www.wikidata.org/entity/Q190804)"
+      - "[Stedelijk Museum](https://www.wikidata.org/entity/Q924335)"
       - "[Association](http://vocab.getty.edu/aat/300025950)"
-      - "[Collecting](https://www.wikidata.org/wiki/Q208165)"
+      - "[Collecting](https://www.wikidata.org/entity/Q208165)"
     Type of objects:
-      - "[Asian art](https://www.wikidata.org/wiki/Q3399573)"
-      - "[Borobudur](https://www.wikidata.org/wiki/Q42798)"
-      - "[Etnographics](http://vocab.getty.edu/page/aat/300234108)"
+      - "[Asian art](https://www.wikidata.org/entity/Q3399573)"
+      - "[Borobudur](https://www.wikidata.org/entity/Q42798)"
+      - "[Etnographics](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Eastern Asia](https://www.geonames.org/7729894/eastern-asia.html)"
-      - "[Southeast Asia](https://www.geonames.org/7729896/south-eastern-asia.html)"
+      - "[Eastern Asia](https://www.geonames.org/7729894)"
+      - "[Southeast Asia](https://www.geonames.org/7729896)"
   Period of activity:
     Year of start: "1918"
     Year of end: "Now"
@@ -44,9 +44,9 @@ Relevant data:
 
 Omschrijving:
   - content: |
-      "The [Royal Asian Art Society in the Netherlands](https://www.wikidata.org/wiki/Q96749093) (KVVAK) is an association founded in 1918 that holds the designation "Royal" since 2018. The KVVAK was founded on June 29, 1918 Asian art enthousiast [H.F.E. Visser (1890-1965)](https://www.wikidata.org/wiki/Q83286861) and  collector and art dealer [G.J. Verburgt (1871-1926)](https://www.wikidata.org/wiki/Q84499681). According to the association's website, the aim is to give greater publicity to high quality [Asian art](https://www.wikidata.org/wiki/Q3399573), stimulate interest, and promote scholarship. The association's first president was [H.K. Westendorp](https://www.wikidata.org/wiki/Q96749169) 1868-1941, who would later bequeath his own collection to the KVVAK. The association's collection currently comprises around 1,850 objects, consisting of various art forms such as [sculptures](http://vocab.getty.edu/page/aat/300047090), Japanese [prints](http://vocab.getty.edu/aat/300106750) and [ceramics](http://vocab.getty.edu/aat/300310706). 
+      "The [Royal Asian Art Society in the Netherlands](https://www.wikidata.org/entity/Q96749093) (KVVAK) is an association founded in 1918 that holds the designation "Royal" since 2018. The KVVAK was founded on June 29, 1918 Asian art enthousiast [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) and  collector and art dealer [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681). According to the association's website, the aim is to give greater publicity to high quality [Asian art](https://www.wikidata.org/entity/Q3399573), stimulate interest, and promote scholarship. The association's first president was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) 1868-1941, who would later bequeath his own collection to the KVVAK. The association's collection currently comprises around 1,850 objects, consisting of various art forms such as [sculptures](http://vocab.getty.edu/aat/300047090), Japanese [prints](http://vocab.getty.edu/aat/300106750) and [ceramics](http://vocab.getty.edu/aat/300310706). 
       
-      After some temporary exhibitions, around the tenth anniversary of the KVVAK, it was decided to raise a fund with which a collection and museum could be established. In 1932, the so-called "Museum voor Aziatische Kunst" opened in the Garden Hall of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/wiki/Q924335). In 1952, the collection moved to the [Rijksmuseum](https://www.wikidata.org/wiki/Q190804), of which it is still a part. Initially, the KVVAK's collection was exhibited in the [Drucker Extension](https://www.wikidata.org/wiki/Q25712476), which later merged into the current Philips Wing. After the Rijksmuseum's major renovation in 2013, the KVVAK's collection was housed in the [Asian Pavilion](http://www.wikidata.org/entity/Q37769044). 
+      After some temporary exhibitions, around the tenth anniversary of the KVVAK, it was decided to raise a fund with which a collection and museum could be established. In 1932, the so-called "Museum voor Aziatische Kunst" opened in the Garden Hall of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335). In 1952, the collection moved to the [Rijksmuseum](https://www.wikidata.org/entity/Q190804), of which it is still a part. Initially, the KVVAK's collection was exhibited in the [Drucker Extension](https://www.wikidata.org/entity/Q25712476), which later merged into the current Philips Wing. After the Rijksmuseum's major renovation in 2013, the KVVAK's collection was housed in the [Asian Pavilion](http://www.wikidata.org/entity/Q37769044). 
       
       Note that not all of the Rijksmuseum's Asian art collection is on loan from the KVVAK; the museum itself also owns objects within this category. In addition to maintaining its own collection, the KVVAK organizes lectures and trips. In addition, the journal [Asian Art](ISSN: 2543-1749) is issued by Brill publishers."
   - content-type:  text/markdown

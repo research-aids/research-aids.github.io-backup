@@ -13,7 +13,7 @@ RelatedAides:
         rel_type: "example"
 
 Relevant data:
-  Identifiers: "https://www.wikidata.org/wiki/Q65850179"
+  Identifiers: "https://www.wikidata.org/entity/Q65850179"
   Name variations:
     - "Pieter Pott"
     - "Pieter Hendrik Pott"
@@ -22,15 +22,15 @@ Relevant data:
     - "Peter Pott"
   Tags:
     Activity:
-      - "[Museum director](http://vocab.getty.edu/page/aat/300386267)"
-      - "[Restitution](http://vocab.getty.edu/page/aat/300417843)"
+      - "[Museum director](http://vocab.getty.edu/aat/300386267)"
+      - "[Restitution](http://vocab.getty.edu/aat/300417843)"
     Type of objects:
-      - "[Etnographics](http://vocab.getty.edu/page/aat/300234108)"
+      - "[Etnographics](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesia](https://www.geonames.org/1643084/republic-of-indonesia.html)"
-      - "[Leiden](https://www.geonames.org/2751773/leiden.html)"
-      - "[Nepal](https://www.geonames.org/1282988/nepal.html)"
-      - "[Tibet](https://www.geonames.org/1279685/tibet-autonomous-region.html)"
+      - "[Indonesia](https://www.geonames.org/1643084)"
+      - "[Leiden](https://www.geonames.org/2751773)"
+      - "[Nepal](https://www.geonames.org/1282988)"
+      - "[Tibet](https://www.geonames.org/1279685)"
       - "[Wereldmuseum Leiden](http://www.wikidata.org/entity/Q17339437)"
   Period of activity:
     Year of start: "1955"
@@ -40,7 +40,7 @@ Relevant data:
 
 Description:
   - content: |
-      "Pieter Hendrik Pott played an influential role in cultural relations between Indonesia and the Netherlands in the second half of the twentieth century. Before Pott became director of the [Rijks Etnografisch Museum](https://www.wikidata.org/wiki/Q65850179) in Leiden (the current Wereldmuseum Leiden) in 1955, he was curator of the [Indisch cultuurgebied](https://hdl.handle.net/20.500.11840/termmaster4911) at the same museum. In 1973 Pieter Pott was appointed Endowed Professor of Museology at the [University of Leiden](http://www.wikidata.org/entity/Q156598).
+      "Pieter Hendrik Pott played an influential role in cultural relations between Indonesia and the Netherlands in the second half of the twentieth century. Before Pott became director of the [Rijks Etnografisch Museum](https://www.wikidata.org/entity/Q65850179) in Leiden (the current Wereldmuseum Leiden) in 1955, he was curator of the [Indisch cultuurgebied](https://hdl.handle.net/20.500.11840/termmaster4911) at the same museum. In 1973 Pieter Pott was appointed Endowed Professor of Museology at the [University of Leiden](http://www.wikidata.org/entity/Q156598).
       
       The main example of Pott's influence on the restitution debate in the second half of the twentieth century can be seen in the [Joint Recommendations by the Dutch and Indonesian Team of Experts, concerning Cultural Cooperation in the field of Museums and archives including Transfer of Objects](URI of search help 'Joint Recommendations') of 1975. Previous research has shown that the final text of these joint recommendations was largely drafted by the museum director. As such, Pott had a major influence on the agreements between the Netherlands and Indonesia on the return of cultural objects. Following the 1975 agreements, several objects were returned to Indonesia. The casts made of the returned [Prajnaparamita statues](https://hdl.handle.net/20.500.11840/916233; https://hdl.handle.net/20.500.11840/916234; https://hdl.handle.net/20.500.11840/916235; https://hdl.handle.net/20.500.11840/916236), are to this day in the collection of Wereldmuseum Leiden and are known as "Pott's tears. On July 29, 1989, Pieter Pott died at the age of 70."
   - content-type: text/markdown

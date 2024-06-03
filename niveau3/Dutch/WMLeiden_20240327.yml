@@ -29,7 +29,7 @@ RelatedAides:
 
 Relevant data:
   Identifiers:
-    - "https://www.wikidata.org/wiki/Q17339437"
+    - "https://www.wikidata.org/entity/Q17339437"
   Name variations:
     - "Verzameling Von Siebold"
     - "Rijks Japansch Museum"
@@ -42,7 +42,7 @@ Relevant data:
     Activity:
       - "[Collectie](http://vocab.getty.edu/aat/300025976)"
     Type of objects:
-      - "[Etnografica](http://vocab.getty.edu/page/aat/300234108)"
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Regions Wereldmuseum:
       - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838)"
       - "[Centraal-Azië]( https://hdl.handle.net/20.500.11840/termmaster8403)"
@@ -56,10 +56,10 @@ Relevant data:
       - "[Zuid- en vasteland Zuidoost-Azië]( https://hdl.handle.net/20.500.11840/termmaster8153)"
     Geographical:
       - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);"
-      - "[Azië](https://www.geonames.org/6255147/asia.html)"
-      - "[Noord-Amerika](https://www.geonames.org/6255149/north-america.html)"
-      - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
-      - "[Zuid-Amerika](https://www.geonames.org/6255150/south-america.html)"
+      - "[Azië](https://www.geonames.org/6255147)"
+      - "[Noord-Amerika](https://www.geonames.org/6255149)"
+      - "[Oceanië](https://www.geonames.org/6255151)"
+      - "[Zuid-Amerika](https://www.geonames.org/6255150)"
   Period of activity:
     Year of start: "1837"
     Year of end: "Heden"

@@ -30,7 +30,7 @@ my-string:
 
 A key aspect of the Research Guides is linking to other sources and data- & knowledge bases as well as within the Datahub and within themselves. The networks of knowledge that emerge through all of these links together has an important function in contextualising the Datahub. 
 
-Links in the RGs come in the form of [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier), such as the more specific URLs or the more general IRIs. In any YAML file, any link is inside of a string (including when the string contains only the link).  
+Links in the RGs come in the form of [URIs](https://en.wikipedia.org/entity/Uniform_Resource_Identifier), such as the more specific URLs or the more general IRIs. In any YAML file, any link is inside of a string (including when the string contains only the link).  
 
 
 
