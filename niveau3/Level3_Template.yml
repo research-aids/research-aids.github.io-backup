@@ -7,7 +7,11 @@ RelatedAides: "This section shows related research aids."
         link: "The relevant GitHub path of the related research aid"
         rel_type: "Relation between current aid and related aid."
 
-Relevant data: "This section shows the relevant data for the research aid."
+Relevant data:
+  Identifiers:
+    - "Here relevant linked data identifiers can be noted (e.g. Wikidata)."
+  Name variations:
+    - "If the topic of  the research aid is also (historically) known under other names, these can be noted under this paragraph."
   Tags:
     Activity:
       - "Here related activities can be noted down, combined with a URI."
@@ -15,15 +19,24 @@ Relevant data: "This section shows the relevant data for the research aid."
       - "Here related types of objects can be noted down, combined with a URI.."
     Geographical:
       - "Here related geographical places can be noted down, combined with a URI."
-
+  Period of activity: "Gives the year that the topic of the RA started its acitivites (not per se year of birth). If still active, "Year of End" should be "Now". 
+    Year of start: ""
+    Year of end: ""
+  Collections:
+    General remarks:
+      - content: |
+          "Remarks regarding the relevant collections for this research aid can be provided here."
+      - content-type: text/markdown
+    Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
+      
 Description:
   - content: |
-      "This section is meant for some descriptive information on the topic of the research aid, in the case of Level 2 research aides this regards more general information about how societal groups influenced the collection of objects (e.g Trade, Military and navy, Christian mission, etc.). (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text."
+      "This section is meant for some descriptive information on the topic of the research aid, in the case of Level 3 research aides this regards more specific information about the topic of the RA. This could be a short (collection) history or information about why this topic is relevant regarding colonial collections. (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text."
   - content-type: text/markdown
 
 Provenance research:
   - content: |
-      "This section is meant for information regarding (provenance) research into the topic of the research aid, such as specific tips for researching relevant archives or other relevant provenance information. In the case of Level 2 research aides, the aid provides more general information regarding the topic of the research aid. You can use Markdown for the formatting of the text."
+      "This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text."
   - content-type: text/markdown
 
 Sources: "This section is meant to provide the user with some more sources regarding the topic of the research aid, these could be archives (primary sources) or articles/books/etc. (secondary sources)."
