@@ -40,9 +40,10 @@ Relevant data:
       - content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=NZG"
 
-Description:
+Main-text:
   - content: |
-      "Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673) en [Sulawesi](https://www.geonames.org/9062340), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea."
+      ##Beschrijving
+      Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673) en [Sulawesi](https://www.geonames.org/9062340), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea.
   - content-type: text/markdown
 
 Sources:
