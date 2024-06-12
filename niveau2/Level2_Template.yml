@@ -18,14 +18,13 @@ Relevant data: "This section shows the relevant data for the research aid."
     Geographical:
       - "Here related geographical places can be noted down, combined with a URI."
 
-Description:
+Main-text:
   - content: |
-      "This section is meant for some descriptive information on the topic of the research aid, in the case of Level 2 research aides this regards more general information about how societal groups influenced the collection of objects (e.g Trade, Military and navy, Christian mission, etc.). (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text."
-  - content-type: text/markdown
-
-Provenance research:
-  - content: |
-      "This section is meant for information regarding (provenance) research into the topic of the research aid, such as specific tips for researching relevant archives or other relevant provenance information. In the case of Level 2 research aides, the aid provides more general information regarding the topic of the research aid. You can use Markdown for the formatting of the text."
+      ##Description
+      This section is meant for some descriptive information on the topic of the research aid, in the case of Level 2 research aides this regards more general information about how societal groups influenced the collection of objects (e.g Trade, Military and navy, Christian mission, etc.). (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text.
+      
+      ##Provenance research
+      This section is meant for information regarding (provenance) research into the topic of the research aid, such as specific tips for researching relevant archives or other relevant provenance information. In the case of Level 2 research aides, the aid provides more general information regarding the topic of the research aid. You can use Markdown for the formatting of the text.
   - content-type: text/markdown
 
 Sources: "This section is meant to provide the user with some more sources regarding the topic of the research aid, these could be archives (primary sources) or articles/books/etc. (secondary sources)."

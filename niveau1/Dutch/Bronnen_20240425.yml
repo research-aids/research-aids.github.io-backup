@@ -24,8 +24,10 @@ RelatedAides:
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "example"
 
-Kritische omgang met bronnen:
+Main-text:
   - content: |
+      ## Kritische omgang met bronnen
+      
       "Bij het onderzoek naar de herkomst van voorwerpen uit koloniale contexten is het belangrijk om de volgende punten in gedachten te houden:
         - de kennis en deskundigheid van mensen uit de landen of gemeenschappen van herkomst zijn belangrijke bronnen voor de geschiedenis van de voorwerpen.
         - koloniale bronnen weerspiegelen toenmalige ideeën en machtsverhoudingen. 
@@ -33,17 +35,15 @@ Kritische omgang met bronnen:
       In koloniale bronnen komt vaak verhullend taalgebruik voor. Voorwerpen werden bijvoorbeeld ‘gevonden’ of ‘meegenomen’. Ook werd er vaak op denigrerende of paternalistische toon geschreven over personen in de gekoloniseerde gebieden. Hoe dan ook zijn koloniale bronnen geschreven vanuit een perspectief dat koloniale overheersing rechtvaardigt. Het gevaar bestaat dat je toenmalige machtsverhoudingen reproduceert als je die niet kritisch tegemoet treedt. Wees je daarom bewust van de toon in dit soort bronnen en houd daar rekening mee in je eigen onderzoek. Zo heeft het historisch taalgebruik in de bronnen contextualisering nodig. Hierbij hoort een onderkenning van het koloniale perspectief van deze bronnen. Ook is het belangrijk om gemeenschappen van herkomst zo vroeg mogelijk in het onderzoek te betrekken.
       
       De publicatie [Woorden doen ertoe] [https://www.tropenmuseum.nl/sites/default/files/2018-09/WordsMatter_DEF_Totale_PDF_NL_0.pdf ] van het Wereldmuseum geeft tips voor de omgang met koloniale termen."
-  - content-type: text/markdown
-
-Zoektermen:
-  - content: |
+      
+      ## Zoektermen
+      
       "Bij herkomstonderzoek naar koloniale collecties moet je andere zoektermen gebruiken dan de moderne termen die we nu gebruiken. Dit geldt onder meer voor plaatsnamen: deze zijn vaak veranderd na de onafhankelijkheid. Zo werd Batavia [Jakarta](https://www.geonames.org/1642911) en Leopoldville werd [Kinshasa](https://www.geonames.org/2314302). Wanneer plaatsnamen gelijk bleven was de spelling in de koloniale periode vaak anders dan nu (denk aan [Soerabaja/Surabaya](https://www.geonames.org/1625822) en [Tjirebon/Cirebon](https://www.geonames.org/1646170)).
       
       Ook voor voorwerpen werden andere termen gebruikt dan in het Nederlands van nu. Als voorbeeld: een baadje noemen we tegenwoordig een jasje. In Nederlands-Indië werden ook Nederlandse termen gebruikt die uit het Indonesisch waren afgeleid, zoals rampokken en rampassen als synoniem voor plunderen. Niet-Nederlandse namen werden op verschillende manieren gespeld, ook in de koloniale tijd. Van Nederlanders werd vaak alleen de achternaam en initialen vermeld. Probeer daarom altijd te achterhalen welke namen en termen vroeger gebruikt werden en zoek met verschillende varianten in de zoeksystemen."
-  - content-type: text/markdown
-
-Waar kan je bronnen vinden?:
-  - content: |
+      
+      ## Waar kan je bronnen vinden?:
+      
       "**Persoonlijke archieven en egodocumenten**
         Voor herkomstonderzoek naar objecten uit koloniale contexten zijn persoonlijke archieven vaak van cruciaal belang. Het gaat daarbij onder meer om dagboeken, memoires en correspondentie. Ook zijn in persoonlijke archieven kopieën van rapporten en verslagen te vinden die beroepshalve zijn gemaakt. Dit is belangrijk omdat aanzienlijke delen van koloniale overheidsarchieven niet bewaard zijn gebleven. 
         
@@ -86,6 +86,7 @@ Waar kan je bronnen vinden?:
         Een voorbeeld is het archief van het [Bataviaasch Genootschap van Kunsten en Wetenschappen](https://www.wikidata.org/entity/Q1789996) dat zich bij het Arsip Nasional in Jakarta bevindt, de stad waar deze instelling gevestigd was. Toch zijn er ook vele archiefstukken over het Bataviaasch Genootschap in Nederland te vinden, bijvoorbeeld in archieven van personen die met het genootschap te maken hebben gehad. 
         
         Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest zijn en relevante informatie kan zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana](https://www.proveana.de/en/start), [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) en de database [Sammlungsgut aus Kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over verzamelaars, handelaren en collecties op het gebied van de archeologie en kunstgeschiedenis, waaronder ook Aziatische kunst.
+  - content-type: text/markdown
 
 
 

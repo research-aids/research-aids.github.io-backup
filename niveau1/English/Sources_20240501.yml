@@ -35,8 +35,10 @@ RelatedAides:
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "example"
 
-Critically handling sources:
+Main-text:
   - content: |
+     ## Critically handling sources:
+      
       "When researching the provenance of objects from colonial contexts, it is important to keep the following issues in mind:
         - the knowledge and expertise of people from the countries or communities of origin are important sources for the history of the objects.
         - colonial sources reflect erstwhile ideas and power relations. 
@@ -44,17 +46,15 @@ Critically handling sources:
       In colonial sources, concealing language often occurs. For example, objects were 'found' or 'taken'. Also, individuals in the colonized territories were often described in a derogatory or paternalistic way. Regardless, colonial sources were written from a perspective that justified colonial rule. There is a danger of reproducing power relations of the time if you do not confront these critically. Therefore, be aware of the tone in such sources and take this into account when carrying out your own research. For example, historical language used in sources needs contextualization. This includes a recognition of the colonial perspective of these sources. It is also important to involve communities of origin as early in the research as possible.
       
       The Wereldmuseum's publication [Words Matter] [https://amsterdam.wereldmuseum.nl/sites/default/files/2021-04/words_matter.pdf.pdf] provides tips for dealing with colonial terminology."
-  - content-type: text/markdown
-
-Keywords:
-  - content: |
+      
+      ## Keywords:
+      
       "In provenance research into colonial collections, you have to use different keywords than the modern terminology we use today. This includes place names: these often changed after the decolonization. For example, Batavia became [Jakarta](https://www.geonames.org/1642911/jakarta.html) and Leopoldville became [Kinshasa](https://www.geonames.org/2314302/kinshasa.html). When place names remained the same, the spelling was often different during the colonial period than it is now (think for example of [Surabaya/Surabaya](https://www.geonames.org/1625822/surabaya.html) and [Tjirebon/Cirebon](https://www.geonames.org/1646170/cirebon.html)).
       
       For objects, too, different terminology was used than in today's language. As an example, a 'baadje' is nowadays called a jacket. In the Dutch East Indies, terms derived from Indonesian were also in use, such as 'rampokken' and 'rampassen' as synonyms for plundering. Non-Dutch names were spelled in different ways, even in colonial times. Dutch nationals were often referred to only by their last name and initials. Therefore, always try to find out which names and terms were used and search with different variants in the search engines."
-  - content-type: text/markdown
-
-Where can you find sources?:
-  - content: |
+      
+      ## Where can you find sources?:
+      
       "**Personal archives and documents**
         For provenance research into objects from colonial contexts, personal archives are often crucial. These can include diaries, memoirs and letters. Personal archives can also contain copies of reports and records made professionally. This can be important because significant portions of colonial government archives have not been preserved. 
         
