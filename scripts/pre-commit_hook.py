@@ -4,7 +4,7 @@ from glob import glob
 import yaml
 import json
 
-BASE_DIR = ".."
+BASE_DIR = "."
 OUT_DIR = f"{BASE_DIR}/forKinsukAndSjors"
 
 
