@@ -27,7 +27,7 @@ def get_filename(orig_path):
 
 
 for f in tqdm(yaml_files):
-    print("processing f...")
+    print(f"processing {f}...")
     try:
         with open(f) as handle:
             yaml_content = yaml.safe_load(handle)
