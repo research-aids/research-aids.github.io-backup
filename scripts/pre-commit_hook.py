@@ -54,4 +54,4 @@ for f in tqdm(yaml_files):
         print(f"{f}'s filename can't be parsed")
         exit(1)
 
-exit(0)
+exit(1)
