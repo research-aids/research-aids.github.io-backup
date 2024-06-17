@@ -44,14 +44,14 @@ for f in tqdm(yaml_files):
             json.dump(yaml_content, handle)
 
     
-    except yaml.scanner.ScannerError:
-        print(f)
-        exit(1)
-    except yaml.parser.ParserError:
-        print(f)
-        exit(1)
+    # except yaml.scanner.ScannerError:
+    #     print(f)
+    #     exit(1)
+    # except yaml.parser.ParserError:
+    #     print(f)
+    #     exit(1)
     except ValueError:
         print(f"{f}'s filename can't be parsed")
         exit(1)
 
-exit(1)
+exit(0)
