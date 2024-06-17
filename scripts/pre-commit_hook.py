@@ -36,8 +36,8 @@ for f in tqdm(yaml_files):
     
         
         new_name = f.split(os.path.sep, maxsplit=1)[1]
-        new_name = new_name.replace(".yml", ".json")
-        new_name = f"{OUT_DIR}/{new_name}"
+        new_name = new_name.rsplit(os.path.sep, maxsplit=1)[0]
+        new_name = f"{OUT_DIR}/{new_name}/{yaml_content['File name']}.json"
     
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
         with open(new_name, "w") as handle:
