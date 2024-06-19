@@ -81,7 +81,7 @@ for f in tqdm(yaml_files):
     
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
         with open(new_name, "w") as handle:
-            json.dump(yaml_content, handle)
+            json.dump(yaml_content, handle, indent=4)
 
     
     # except yaml.scanner.ScannerError:
