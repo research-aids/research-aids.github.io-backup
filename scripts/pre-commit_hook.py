@@ -16,14 +16,50 @@ top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 yaml_files = top + dutch + eng
 
 
-def get_filename(orig_path):
-    import re
+def parse_filename(orig_path, has_path=False):
 
-    m = re.search(f'.+\/(.*)_[0-9]+\.yml', orig_path)
+    path_part = '.+\/' if has_path else ''
+    m = re.search(f'{path_part}(.*)_[0-9]+\.yml', orig_path)
     if m:
         return m.group(1)
     raise ValueError(f"{orig_path} couldn't be parsed!")
 
+def parse_filepath(fp):
+    *pref, level, lang, fname  = fp.split(os.path.sep)
+    return level, lang, parse_filename(fname)
+
+
+def addlinkFilename(rels):
+    for d1 in rels:
+        ((n, val),) = d1.items()
+        level, lang, name = parse_filepath(val['link'])
+        val = val | {"linkFilename": f"{level}/{lang}/{name}_{lang}"}
+        yield {n: val}
+
+def addEntityInfotoText(d, lang):
+    assert lang in ("English", "Dutch")
+    main = d["Main-text"]["content"]
+    rlv = d["Relevant data"]
+
+    header = "Name variations" if lang == "English" else "Naamsvarianten"
+    name_vars = "\n".join(f" - {v}" for v in rlv['Name variations'])
+    main += f"\n### {header}\n{name_vars}\n\n"
+
+    header = "Period of activity" if lang == "English" else "Periode actief"
+    period = f"{rlv['Period of activity']['Year of start']} -- {rlv['Period of activity']['Year of end']}"
+    main += f"\n### {header}\n{period}\n\n"
+
+    if isinstance(rlv['Identifiers'], list):
+        header = "External identifiers" if lang == "English" else "Externe identificatie"
+        external = "\n".join(f" - {v}" for v in rlv['Identifiers'])
+        main += f"\n### {header}\n{external}\n\n"
+    # d["Main-text"]["content"] = main
+    
+    return main
+
+
+
+# MAIN
 
 
 for f in tqdm(yaml_files):
@@ -32,12 +68,15 @@ for f in tqdm(yaml_files):
         with open(f) as handle:
             yaml_content = yaml.safe_load(handle)
     
-        yaml_content["File name"] = get_filename(f)
+        level, lang, name = parse_filepath(f)
+        yaml_content["File name"] = name
+        # link_list = "RelatedAides" if "RelatedAides" in yaml_content else 
+        if "RelatedAides" in yaml_content:
+            yaml_content["RelatedAides"] = list(addlinkFilename(yaml_content["RelatedAides"]))
     
         
-        new_name = f.split(os.path.sep, maxsplit=1)[1]
-        new_name = new_name.rsplit(os.path.sep, maxsplit=1)[0]
-        new_name = f"{OUT_DIR}/{new_name}/{yaml_content['File name']}.json"
+        new_name = f"{OUT_DIR}/{level}/{lang}/{name}_{lang}.json"
+
     
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
         with open(new_name, "w") as handle:
