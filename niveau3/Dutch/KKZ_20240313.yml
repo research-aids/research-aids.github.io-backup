@@ -47,9 +47,9 @@ Relevant data:
     Year of end: "1833"
   Collections:
     General remarks:
-      - content: |
-          "Voorwerpen die afkomstig zijn het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/entity/Q34076860) bevinden in zich onder andere in het [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), het [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/entity/Q641676), [Wereldmuseum Rotterdam], het [Rijksmuseum van Oudheden](https://www.wikidata.org/entity/Q2042754), de [Universitaire Bibliotheek Leiden](https://www.wikidata.org/entity/Q638395), the [Smithsonian Institution](https://www.wikidata.org/entity/Q131626) en het [Rautenstrauch Joest Museum](https://www.wikidata.org/entity/Q2133582)."
-      - content-type: text/markdown
+      content: |
+        "Voorwerpen die afkomstig zijn het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/entity/Q34076860) bevinden in zich onder andere in het [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), het [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/entity/Q641676), [Wereldmuseum Rotterdam], het [Rijksmuseum van Oudheden](https://www.wikidata.org/entity/Q2042754), de [Universitaire Bibliotheek Leiden](https://www.wikidata.org/entity/Q638395), the [Smithsonian Institution](https://www.wikidata.org/entity/Q131626) en het [Rautenstrauch Joest Museum](https://www.wikidata.org/entity/Q2133582)."
+      content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=Koninklijk+Kabinet+van+Zeldzaamheden&dateCreatedEnd=1833"
       
 Main-text:
