@@ -10,7 +10,8 @@ RelatedAides:
         rel_type: "example"
 
 Relevant data:
-  Identifiers: "https://www.wikidata.org/entity/Q96749093"
+  Identifiers: 
+    - "https://www.wikidata.org/entity/Q96749093"
   Name variations:
     - "Vereniging Vrienden der Aziatische Kunst"
     - "Vereeniging Vrienden der Aziatische Kunst"
