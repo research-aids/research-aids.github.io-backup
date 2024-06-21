@@ -11,47 +11,47 @@ Content:
 
 Breakdown:
   Provenance research into colonial collections:
-    - Title: "How can I use the data hub for my research?"
+    - "How can I use the data hub for my research?":
       link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
-    - Title: "Select and delineate"
+    - "Select and delineate":
       link: "niveau1/English/SelectAndDelineate_20240425.yml"
-    - Title: "Doing research"
+    - "Doing research":
       link: "niveau1/English/DoingResearch_20240425.yml"
-    - Title: "Sources"
+    - "Sources":
       link: "niveau1/English/Sources_20240501.yml"
-    - Title: "Reporting"
+    - "Reporting":
       link: "niveau1/English/Reporting_20240501.yml"
   Topics:
-    - Title: "The trade in colonial objects"
-      Link: "niveau2/English/Trade_20240316.yml"
+    - "The trade in colonial objects":
+      link: "niveau2/English/Trade_20240316.yml"
       Subtopics:
-        - Title: "Groote Koninklijke Bazar"
+        - "Groote Koninklijke Bazar":
           link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
-        - Title: "Kunsthandel Van Lier"
+        - "Kunsthandel Van Lier":
           link: "niveau3/English/KunsthandelVanLier_20240507.yml"
-        - Title: "Royal Asian Art Society in the Netherlands"
+        - "Royal Asian Art Society in the Netherlands":
           link: "niveau3/English/RAAS_20240508.yml"
-        - Title: "Wereldmuseum Leiden"
+        - "Wereldmuseum Leiden":
           link: "niveau3/English/WMLeiden_20240508.yml"
-        - Title: "Royal Cabinet of Curiosities"
+        - "Royal Cabinet of Curiosities":
           link: "niveau3/English/RCC_20240417.yml"
-    - Title: "Civil servants in the colonies"
+    - "Civil servants in the colonies":
       link: "niveau2/English/CivilServants_20240316.yml"
       Subtopics:
-        - Title: "Pieter H. Pott"
+        - "Pieter H. Pott":
           link: "niveau3/English/PieterPott_20240508.yml"
-        - Title: "Wageningen University & Research"
+        - "Wageningen University & Research":
           link: "niveau3/English/WageningenUniversity_20240508.yml"
-    - Title: "Military and navy personnel"
+    - "Military and navy personnel":
       Link: "niveau2/English/MilitaryAndNavy_20240417.yml"
       Subtopics:
-        - Title: "Royal Cabinet of Curiosities"
+        - "Royal Cabinet of Curiosities":
           link: "niveau3/English/RCC_20240417.yml"
-        - Title: "Wereldmuseum Leiden"
+        - "Wereldmuseum Leiden":
           link: "niveau3/English/WMLeiden_20240508.yml"
-    - Title: "Christian missionaries"
+    - "Christian missionaries":
       link: "niveau2/English/ChristianMission_20240417.yml"
       Subtopics:
-        - Title: "Nederlandsch Zendeling Genootschap"
+        - "Nederlandsch Zendeling Genootschap":
           link: "niveau3/English/NZG_20240508.yml"
   Locations: []
