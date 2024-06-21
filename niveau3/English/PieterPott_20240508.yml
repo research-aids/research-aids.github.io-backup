@@ -13,7 +13,8 @@ RelatedAides:
         rel_type: "example"
 
 Relevant data:
-  Identifiers: "https://www.wikidata.org/entity/Q65850179"
+  Identifiers: 
+    - "https://www.wikidata.org/entity/Q65850179"
   Name variations:
     - "Pieter Pott"
     - "Pieter Hendrik Pott"
