@@ -2,7 +2,7 @@ name: YAML2JSON
 run-name: "Converting the original YAML files to JSON for the Datahub (created by ${{ github.actor }})" 
 on: [push]
 jobs:
-  convert:
+  convert-yaml-to-json:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Automatically triggered by a ${{ github.event_name }} event."
@@ -13,14 +13,15 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: pip install tqdm
-      - name: run python script
+      - name: running python script
         run: |
-          python ${{ github.workspace }}/scripts/test_actions.py
-      - run: |
+          pip install tqdm
+          python ${{ github.workspace }}/scripts/pre-commit_hook.py
+      - name: pushing generated files back to repo 
+        run: |
           git config user.email "valevogelmann@gmail.com"
           git config user.name "valevo"
-          git add .
-          git commit -m "testing this"
-          git push
+#          git add .
+#          git commit -m "testing this"
+#          git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
