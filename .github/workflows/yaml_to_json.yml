@@ -12,7 +12,8 @@ jobs:
         uses: actions/checkout@v4
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          ls ${{ github.workspace }}/*
+      - run: rm -rv ${{ github.workspace }}/forKinsukAndSjors/*
       - name: running python script
         run: |
           pip install tqdm
