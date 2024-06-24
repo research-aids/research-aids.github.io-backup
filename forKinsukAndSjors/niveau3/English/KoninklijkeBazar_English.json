@@ -70,14 +70,10 @@
             "Within the Data Hub": "Link to search results for Groote Koninklijke Bazar (not possible yet)."
         }
     },
-    "Main-text": [
-        {
-            "content": "##Description\nThe Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on the Zeestraat in 1843. The store sold Asian items, especially from [Japan](https://www.geonames.org/1861060), [China](https://www.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [Indonesia](https://www.geonames.org/1643084). The buyers were private individuals, including King [William II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Rarities](https://www.wikidata.org/entity/Q34076860; also refer to search help from KKZ) and the then [Rijks Ethnografisch Museum](https://www.wikidata.org/entity/Q17339437). After Boer's death, the business continued under new owners.\n\n##Provenance research\nIt is not known whether the archives of the Groote Koninklijke Bazar have been preserved. There are loose records in various archives. The [Hague Municipal Archives](https://www.wikidata.org/entity/Q3229492) has some photographs of the interior of the store, showing many objects. The [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437) archive contains correspondence with the Groote Koninklijke Bazar regarding purchases.\n"
-        },
-        {
-            "content-type": "text/markdown"
-        }
-    ],
+    "Main-text": {
+        "content": "##Description\nThe Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on the Zeestraat in 1843. The store sold Asian items, especially from [Japan](https://www.geonames.org/1861060), [China](https://www.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [Indonesia](https://www.geonames.org/1643084). The buyers were private individuals, including King [William II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Rarities](https://www.wikidata.org/entity/Q34076860; also refer to search help from KKZ) and the then [Rijks Ethnografisch Museum](https://www.wikidata.org/entity/Q17339437). After Boer's death, the business continued under new owners.\n  \n##Provenance research\nIt is not known whether the archives of the Groote Koninklijke Bazar have been preserved. There are loose records in various archives. The [Hague Municipal Archives](https://www.wikidata.org/entity/Q3229492) has some photographs of the interior of the store, showing many objects. The [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437) archive contains correspondence with the Groote Koninklijke Bazar regarding purchases.\n",
+        "content-type": "text/markdown"
+    },
     "Sources": {
         "Primary sources": [
             {
@@ -137,5 +133,5 @@
             }
         ]
     },
-    "File name": "KoninklijkeBazaar"
+    "File name": "KoninklijkeBazar"
 }
