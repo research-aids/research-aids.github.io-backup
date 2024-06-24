@@ -10,5 +10,8 @@ jobs:
       - run: echo "workspace = ${{ github.workspace }}"
       - name: List files in the repository
         run: |
+          ls ${{ github.workspace }}
+      - name: run python script
+        run: |
           python ${{ github.workspace }}/scripts/test_actions.py
       - run: echo "🍏 This job's status is ${{ job.status }}."
