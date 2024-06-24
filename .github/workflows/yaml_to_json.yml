@@ -7,9 +7,7 @@ jobs:
     steps:
       - run: echo "Automatically triggered by a ${{ github.event_name }} event."
       - run: echo "branch = ${{ github.ref }}; repository = ${{ github.repository }}"
-      - name: Check out repository code
-        uses: actions/checkout@v4
-      - run: echo "${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "workspace = ${{ github.workspace }}"
       - name: List files in the repository
         run: |
           python ${{ github.workspace }}/scripts/test_actions.py
