@@ -8,6 +8,8 @@ jobs:
       - run: echo "Automatically triggered by a ${{ github.event_name }} event."
       - run: echo "branch = ${{ github.ref }}; repository = ${{ github.repository }}"
       - run: echo "workspace = ${{ github.workspace }}"
+      - name: Check out repository code (necessary - otherwise the workspace is empty)
+        uses: actions/checkout@v4
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
