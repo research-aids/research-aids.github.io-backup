@@ -2,7 +2,7 @@ name: YAML2JSON
 run-name: "Converting the original YAML files to JSON for the Datahub (created by ${{ github.actor }})" 
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  convert:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
