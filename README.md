@@ -27,7 +27,8 @@ Finally, on the third level, there is additional information about specific enti
 
 #### Misc Contents of this Repo
 
- - [dev.ipynb](dev.ipynb) development code snippets that load and check YAML files, next to some pointers and notes.
+ - [scripts](./scripts/) contains development code & the scripts that process YAML written by NIOD into JSON that can be processed as LinkedData
+   -  
 
 ## Documentation
 
