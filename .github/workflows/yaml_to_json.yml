@@ -17,8 +17,10 @@ jobs:
       - name: run python script
         run: |
           python ${{ github.workspace }}/scripts/test_actions.py
-      - run: cat ${{ github.workspace }}/forKinsukAndSjors/action_results.txt
-      - run: git add ${{ github.workspace }}/forKinsukAndSjors
-      - run: git commit -m "test action commit???"
-      - run: git push
+      - run: |
+          git config user.email "valevogelmann@gmail.com"
+          git config user.name "valevo"
+          git add .
+          git commit -m "testing this"
+          git push
       - run: echo "🍏 This job's status is ${{ job.status }}."
