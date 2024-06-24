@@ -13,6 +13,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - run: pip install tqdm
       - name: run python script
         run: |
           python ${{ github.workspace }}/scripts/test_actions.py
