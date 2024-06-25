@@ -4,7 +4,7 @@ from glob import glob
 import os
 
 import networkx as nx
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 BASE_DIR = "."
