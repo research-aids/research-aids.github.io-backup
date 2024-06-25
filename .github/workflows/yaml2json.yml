@@ -17,7 +17,7 @@ jobs:
       - name: running python script
         run: |
           pip install tqdm
-          python ${{ github.workspace }}/scripts/pre-commit_hook.py
+          python ${{ github.workspace }}/scripts/process_yaml2json.py
       - name: pushing generated files back to repo 
         run: |
           git config user.email "valevogelmann@gmail.com"
