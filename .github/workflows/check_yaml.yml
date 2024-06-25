@@ -15,4 +15,5 @@ jobs:
       - name: running python script
         run: |
           pip install tqdm
+          pip install networkx
           python ${{ github.workspace }}/scripts/check_yaml.py
