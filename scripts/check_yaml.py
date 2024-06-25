@@ -37,8 +37,8 @@ for f in tqdm(yaml_files):
 
 G = nx.from_dict_of_lists(links)
 
-if G.is_connected():
-    print(f"Congrats, there are no orphans!")
+if nx.is_connected(G):
+    print(f"SUCCESS: there are no orphaned guides, i.e. every guide is referred to be at least another one!")
 else:
     raise ValueError("There are orphans in the graph!")
 
