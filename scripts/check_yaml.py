@@ -31,8 +31,9 @@ links = {}
 for f in tqdm(yaml_files):
     with open(f) as handle:
         d = yaml.safe_load(handle)
-        rels = {v['link']: v["rel_type"] for sub in d["RelatedAides"] for k, v in sub.items()}
-        links[remove_path(f)] = sorted(map(remove_path, rels.keys()))
+        if "RelatedAides" in d:
+            rels = {v['link']: v["rel_type"] for sub in d["RelatedAides"] for k, v in sub.items()}
+            links[remove_path(f)] = sorted(map(remove_path, rels.keys()))
 
 G = nx.from_dict_of_lists(links)
 
