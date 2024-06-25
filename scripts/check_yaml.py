@@ -1,4 +1,4 @@
-from import import tqdm
+from tqdm import tqdm
 import yaml
 from glob import glob
 import os
