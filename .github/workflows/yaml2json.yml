@@ -18,13 +18,6 @@ jobs:
         run: |
           pip install tqdm
           python ${{ github.workspace }}/scripts/process_yaml2json.py
-      # - name: check for changes
-      #   run: |
-      #     if git diff --exit-code; then
-      #       echo "::set-env name=changes_exist::false"
-      #     else
-      #       echo "::set-env name=changes_exist::true"
-      #     fi
       - run: git diff-index HEAD
       - name: pushing generated files back to repo 
         run: |
