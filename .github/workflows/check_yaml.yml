@@ -1,8 +1,18 @@
 name: CHECKYAML
 run-name: "Checking the YAML files (created by ${{ github.actor }})" 
-on: schedule: ""
+on: [push]
 jobs:
-  convert-yaml-to-json:
+  check-yaml:
     runs-on: ubuntu-latest
     steps:
-      - run: python check_yaml.py
+      - run: echo "Automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "branch = ${{ github.ref }}; repository = ${{ github.repository }}"
+      - run: echo "workspace = ${{ github.workspace }}"
+      - name: Check out repository code (necessary - otherwise the workspace is empty)
+        uses: actions/checkout@v4    
+      - name: list YAML files
+        run: ls "${{ github.workspace }}/niveau*/**"
+      - name: running python script
+        run: |
+          pip install tqdm
+          python ${{ github.workspace }}/scripts/check_yaml.py
