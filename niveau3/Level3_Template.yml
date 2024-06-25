@@ -32,12 +32,14 @@ Relevant data:
     Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
       
 Main-text:
-  - content: |
-      ##Description
-      This section is meant for some descriptive information on the topic of the research aid, in the case of Level 3 research aides this regards more specific information about the topic of the RA. This could be a short (collection) history or information about why this topic is relevant regarding colonial collections. (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text.
-      
-      ##Provenance research
-      This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
+  content: |
+    ### Description
+    
+    This section is meant for some descriptive information on the topic of the research aid, in the case of Level 3 research aides this regards more specific information about the topic of the RA. This could be a short (collection) history or information about why this topic is relevant regarding colonial collections. (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text.
+    
+    ##Provenance research
+    
+    This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
   - content-type: text/markdown
 
 Sources: "This section is meant to provide the user with some more sources regarding the topic of the research aid, these could be archives (primary sources) or articles/books/etc. (secondary sources)."
