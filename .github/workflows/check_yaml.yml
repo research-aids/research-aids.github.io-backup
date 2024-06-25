@@ -1,0 +1,8 @@
+name: CHECKYAML
+run-name: "Checking the YAML files (created by ${{ github.actor }})" 
+on: schedule: ""
+jobs:
+  convert-yaml-to-json:
+    runs-on: ubuntu-latest
+    steps:
+      - run: python check_yaml.py
