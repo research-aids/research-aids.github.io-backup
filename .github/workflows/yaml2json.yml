@@ -28,10 +28,14 @@ jobs:
       - run: git diff-index HEAD
       - name: pushing generated files back to repo 
         run: |
-          git config user.email "valevogelmann@gmail.com"
-          git config user.name "valevo"
-          git add .
-          git commit -m "automated commit by GitHub Action defined in scripts/yaml_to_json.yml"
-          git push
-        if: ${{ git diff-index HEAD }}
+          if git diff --exit-code; then
+            echo "NOTHING TO COMMIT!!!"
+          else
+            git config user.email "valevogelmann@gmail.com"
+            git config user.name "valevo"
+            git add .
+            git commit -m "automated commit by GitHub Action defined in scripts/yaml_to_json.yml"
+            git push
+          fi
+        # if: ${{ git diff-index HEAD }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
