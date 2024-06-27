@@ -30,22 +30,22 @@ Breakdown:
     - "De handel in koloniale objecten":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
-      Deelonderwerpen:
-        - "Groote Koninklijke Bazar":
-            link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
-            rel_type: "see also"
-        - "Kunsthandel Van Lier":
-            link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
-            rel_type: "see also"
-        - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
-            link: "niveau3/Dutch/KVVAK_20240312.yml"
-            rel_type: "see also"
-        - "Wereldmuseum Leiden":
-            link: "niveau3/Dutch/WMLeiden_20240327.yml"
-            rel_type: "see also"
-        - "Koninklijk Kabinet van Zeldzaamheden":
-            link: "niveau3/Dutch/KKZ_20240313.yml"
-            rel_type: "see also"
+        Deelonderwerpen:
+          - "Groote Koninklijke Bazar":
+              link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
+              rel_type: "see also"
+          - "Kunsthandel Van Lier":
+              link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
+              rel_type: "see also"
+          - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
+              link: "niveau3/Dutch/KVVAK_20240312.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/Dutch/WMLeiden_20240327.yml"
+              rel_type: "see also"
+          - "Koninklijk Kabinet van Zeldzaamheden":
+              link: "niveau3/Dutch/KKZ_20240313.yml"
+              rel_type: "see also"
     - "Ambtenaren in de koloniën":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
