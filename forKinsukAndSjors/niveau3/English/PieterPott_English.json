@@ -1,0 +1,141 @@
+{
+    "Level": 3,
+    "Title": "Pieter H. Pott",
+    "Abstract": "Pieter Hendrik Pott played an influential role in cultural relations between Indonesia and the Netherlands in the second half of the twentieth century.",
+    "RelatedAides": [
+        {
+            "Civil servants": {
+                "link": "niveau2/English/CivilServants_20240316.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau2/English/CivilServants_English"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "https://www.wikidata.org/entity/Q65850179"
+        ],
+        "Name variations": [
+            "Pieter Pott",
+            "Pieter Hendrik Pott",
+            "Pieter H. Pott",
+            "P H Pott",
+            "Peter Pott"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Museum director](http://vocab.getty.edu/aat/300386267)",
+                "[Restitution](http://vocab.getty.edu/aat/300417843)"
+            ],
+            "Type of objects": [
+                "[Etnographics](http://vocab.getty.edu/aat/300234108)"
+            ],
+            "Geographical": [
+                "[Indonesia](https://www.geonames.org/1643084)",
+                "[Leiden](https://www.geonames.org/2751773)",
+                "[Nepal](https://www.geonames.org/1282988)",
+                "[Tibet](https://www.geonames.org/1279685)",
+                "[Wereldmuseum Leiden](http://www.wikidata.org/entity/Q17339437)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1955",
+            "Year of end": "1989"
+        },
+        "Collections": {
+            "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?query=Pott"
+        }
+    },
+    "Main-text": {
+        "content": "### Description\n\nPieter Hendrik Pott played an influential role in cultural relations between Indonesia and the Netherlands in the second half of the twentieth century. Before Pott became director of the [Rijks Etnografisch Museum](https://www.wikidata.org/entity/Q65850179) in Leiden (the current Wereldmuseum Leiden) in 1955, he was curator of the [Indisch cultuurgebied](https://hdl.handle.net/20.500.11840/termmaster4911) at the same museum. In 1973 Pieter Pott was appointed Endowed Professor of Museology at the [University of Leiden](http://www.wikidata.org/entity/Q156598).\n\nThe main example of Pott's influence on the restitution debate in the second half of the twentieth century can be seen in the [Joint Recommendations by the Dutch and Indonesian Team of Experts, concerning Cultural Cooperation in the field of Museums and archives including Transfer of Objects](URI of search help 'Joint Recommendations') of 1975. Previous research has shown that the final text of these joint recommendations was largely drafted by the museum director. As such, Pott had a major influence on the agreements between the Netherlands and Indonesia on the return of cultural objects. Following the 1975 agreements, several objects were returned to Indonesia. The casts made of the returned [Prajnaparamita statues](https://hdl.handle.net/20.500.11840/916233; https://hdl.handle.net/20.500.11840/916234; https://hdl.handle.net/20.500.11840/916235; https://hdl.handle.net/20.500.11840/916236), are to this day in the collection of Wereldmuseum Leiden and are known as \"Pott's tears. On July 29, 1989, Pieter Pott died at the age of 70.\n\n### Provenance research\n\nArchives related to Pieter Pott's work are scattered among several institutions. This is a consequence of the many issues in which Pott was involved. Therefore documents can be found in the archives of the \"Ministerraad\", but also in the archives of the Ministry of Foreign Affairs and the Ministry of Culture, Recreation and Social Work.\n  \nThe Wereldmuseum Leiden also has several archives in which documents related to Pott can be found, these can be found in the list below. To view the archives, please contact the Wereldmuseum's collections department at <collectieinfo@wereldmuseum.nl>\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.27.19 2458",
+                "Description and remarks": "Contains several documents about the return of art treasures and archival materials to Indonesia between 1975 and 1980 that mention Pott."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.27.19 4193",
+                "Description and remarks": "Contains several documents about the return of art treasures and archival materials to Indonesia between 1963 and 1975 in which Pott is mentioned."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.27.19 4194",
+                "Description and remarks": "Contains several documents about objects and documents of Indonesian cultural and historical interest from Dutch public collections, 1968 - 1974  in which Pott is mentioned."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.27.19 909",
+                "Description and remarks": "Personnel file of Pieter Pott at the Ministry of Culture, Recreation and Social Work, 1953 - 1982."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.05.330 10266",
+                "Description and remarks": "Documents on the return and transfer of cultural property in Dutch possession to Indonesia. Covers the period from 1974 to 1975."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.05.330 10267",
+                "Description and remarks": "Documents on the return and transfer of cultural property in Dutch possession to Indonesia. Covers the period from 1976 to 1980."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-LdnRMV Archief P. Pott",
+                "Description and remarks": " Concerns the personal archives of Pott during his time as director of the National Museum of Ethnology."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-LdnRMV Correspondentie-archief, invt. nr. 112",
+                "Description and remarks": "Includes among other things a correspondence tusen M. Amir Sutaarga, member of the Indonesian delegation, and Pieter Pott. Together they later wrote the article Arrangements concluded or in progress for the Return of Objects: the Netherlands - Indonesia."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-LdnRMV Serie-archief invt. nr. 2364-1",
+                "Description and remarks": "Contains several documents, including on the Lombok treasure."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-LdnRMV Serie-archief invt. nr. 360-1",
+                "Description and remarks": "Contains various documents about the 1975 trip of the Dutch delegation, of which Pott was a part. Among other things, the trip report prepared by Pott can be found in this archive."
+            }
+        ],
+        "Secundary sources": [
+            {
+                "Type of source": "Article",
+                "Name": "Pott, P. H. & Sutaarga, M. A.  \u201cArrangements concluded or in progress for the Return of Objects: the Netherlands \u2013 Indonesia.\u201d Museum XXXI (1979): 38 - 42.",
+                "Persistent identifier": "https://doi.org/10.1111/j.1468-0033.1979.tb01872.x",
+                "Description and remarks": "Article for Unesco's Museum magazine written by P. Pott and M. Amir Sutaarga containing a brief history of the Dutch handling of Indonesian cultural objects during the colonial era and a description of the creation and implementation of the joint recommendations between the two countries in 1975."
+            },
+            {
+                "Type of source": "Article",
+                "Name": "Stutje K. The History of the Indonesian Dutch Restitution Debate: Working Paper. Amsterdam: NIOD Instituut voor Oorlog- Holocaust- en Genocidestudies, 2022.",
+                "Persistent identifier": "OCLC: 1303213495",
+                "Description and remarks": "Artikel over de geschiedenis van het restitutiedebat tussen Indonesi\u00eb en Nederland tussen 1945 en nu. Geschreven in het kader van PPROCE. Het artikel heeft als doel een overzicht te geven van de ontwikkelingen op het gebied van restitutie- en erfgoeddebatten tussen Indonesi\u00eb en Nederland."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "Beurden, J. van. Treasures in Trusted Hands: Negotiating the Future of Colonial Cultural Objects. Leiden: Sidestone Press, 2017.",
+                "Persistent identifier": "ISBN: 9789088904417",
+                "Description and remarks": "Dissertation on the history and future of the restitution debate. Devotes considerable attention to the relationship between the Netherlands and Indonesia and uses interesting source material."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "Pott P.H W.R. van Gulik Harald S. van der Straaten and Simon Kooijman. From Field-Case to Show-Case: Research Acquisition and Presentation in the Rijksmuseum Voor Volkenkunde (National Museum of Ethnology) Leiden: In Tribute to Professor P.h. Pott on the 25th Anniversary of His Directorship of the Rijksmuseum Voor Volkenkunde Leiden. Amsterdam: Gieben, 1980.",
+                "Persistent identifier": "ISBN: 9789070265823",
+                "Description and remarks": "Book celebrating 25 years of Pott's directorship. Contains more information about the person of Pieter Pott."
+            }
+        ]
+    },
+    "File name": "PieterPott"
+}

@@ -1,0 +1,152 @@
+{
+    "Level": 3,
+    "Title": "Royal Cabinet of Curiosities",
+    "Abstract": "The Royal Cabinet of Curiosities was established in 1816 by King William I. The collection consisted of a variety of objects, including many from colonized regions.",
+    "RelatedAides": [
+        {
+            "Military and navy": {
+                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+            }
+        },
+        {
+            "Groote Koninklijke Bazar": {
+                "link": "niveau3/English/KoninklijkeBazaar_2040503.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeBazaar_English"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "https://www.wikidata.org/entity/Q34076860",
+            "https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22",
+            "https://hdl.handle.net/20.500.11840/pi57733"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Collection](http://vocab.getty.edu/aat/300025976)",
+                "[Cabinet of curiosities](http://vocab.getty.edu/aat/300263444)",
+                "[Museum](http://vocab.getty.edu/aat/300005768)"
+            ],
+            "Type of objects": [
+                "[Etnographic objects](https://hdl.handle.net/20.500.11840/termmaster10068984)",
+                "[Decorative art](https://hdl.handle.net/20.500.11840/termmaster10049837)",
+                "[Naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008)",
+                "[Numismatics](http://vocab.getty.edu/aat/300054419)"
+            ],
+            "Geographical": [
+                "[China](https://www.geonames.org/1814991)",
+                "[Indonesia](https://www.geonames.org/1643084)",
+                "[Japan](https://www.geonames.org/1861060)",
+                "[North America](https://www.geonames.org/6255149)",
+                "[Papua](https://www.geonames.org/2088628)",
+                "[Republic of Suriname](https://www.geonames.org/3382998)",
+                "[Turkey](https://www.geonames.org/298795)",
+                "[South Africa](https://www.geonames.org/953987)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1816",
+            "Year of end": "1833"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "Objects originating from the [Royal Cabinet of Curiosities](https://www.wikidata.org/entity/Q34076860) are found, among others, at the [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), the [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/entity/Q641676), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q854010), the [Rijksmuseum of Antiquities](https://www.wikidata.org/entity/Q2042754), the [Leiden University Library](https://www.wikidata.org/entity/Q638395), the [Smithsonian Institution](https://www.wikidata.org/entity/Q131626), and the [Rautenstrauch Joest Museum](https://www.wikidata.org/entity/Q2133582).\n",
+                "content-type": "text/markdown"
+            }
+        }
+    },
+    "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?query=Koninklijk+Kabinet+van+Zeldzaamheden&dateCreatedEnd=1833",
+    "Main-text": {
+        "content": "### Description\n\nThe Royal Cabinet of Curiosities was a museum in The Hague, founded in 1816 by [King Willem I](https://www.wikidata.org/entity/Q2079957). The museum took the form of a cabinet of curiosities, and its collection consisted of various objects, including many from the colonies. Ultimately, it housed a wide array of items: objects related to Dutch history, Oriental [decorative arts](https://hdl.handle.net/20.500.11840/termmaster10049837), [ethnographic objects](https://hdl.handle.net/20.500.11840/termmaster10068984), and [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).\n\nAt its foundation were the collections of Chinese and Japanese objects from [Jean Theodore Royer](https://www.wikidata.org/entity/Q34232414), [Jan Cock Blomhoff](https://www.wikidata.org/entity/Q1973328), and [Johan van Overmeer Fisscher](https://www.wikidata.org/entity/Q21549843). To these, the stadtholder collections were added by [King Willem III](https://www.wikidata.org/entity/Q125649). Throughout its existence, the museum received various donations and made acquisitions.\n\nIn 1883, the museum was dissolved, and its collection was distributed among several museums. The majority went to the [Rijks Etnografisch Museum](https://www.wikidata.org/entity/Q17339437) (nowadays the Wereldmuseum Leiden) and the [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075) (which merged into the Rijksmuseum). Small numbers of objects were transferred to the [National Museum of Antiquities](https://www.wikidata.org/entity/Q1860378), the [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), the [Rijksmuseum van Natuurlijke Historie](https://www.wikidata.org/entity/Q3432011), the [Rijksmuseum van Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956), and the [Rijksherbarium](https://www.wikidata.org/entity/Q2152927).\n\n### Provenance research\n\nThe original administration of the collection, created by the first director [Reinier van de Kasteele](https://www.wikidata.org/entity/Q56097178), disappeared after his son [Abraham van de Kasteele](https://www.wikidata.org/entity/Q18507671) succeeded him in 1840. At that time, many objects disappeared or got lost as well. The third and final director, [David van der Kellen](https://www.wikidata.org/entity/Q5905167), who took office in 1876, was assigned to put things in order.\n\nThe archive of the Royal Cabinet of Curiosities is preserved in the [Noordhollands Archief](https://www.wikidata.org/entity/Q3048702) as part of the Rijksmuseum archive. It contains, among other things, correspondence regarding donations and purchases. The appendices include detailed notes with convenient summaries of the correspondence. Please note that the KKZ correspondence also concerns items that were offered to the collection, but ultimately not purchased.\n\nAdditionally, there are archival documents at the [Nationaal Archief](https://www.wikidata.org/entity/Q2371154), written by officials from the Ministry of the Interior. These documents relate to acquisitions, as well as the dissolution of the Royal Cabinet of Curiosities and the distribution of the collection among various museums. Within the letter archive of the Ministry of the Interior, reports and letters can be found regarding offered donations and sales. These can be traced through the indices on the reports.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HlmNHA 476 5",
+                "Link": "https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552",
+                "Description and remarks": "Concerns the inventory of the archive of the Royal Cabinet of Curiosities within the archive of the Rijksmuseum and its legal predecessors."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.04.13 2.2.4.1.2.06",
+                "Link": "",
+                "Description and remarks": "Archive access within the archives of the Ministry of the Interior containing documents from the years 1875-1887 relating to the Royal Cabinet of Curiosities."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.04.01 4925-4954",
+                "Link": "",
+                "Description and remarks": "Concerns indices of the department for Kunsten en Wetenschappen of the Ministry of the Interior between 1824 and 1848. Correspondence about acquisitions can be traced through an index. The indices can be accessed online."
+            },
+            {
+                "Type op source": "Archive",
+                "Name": "NL-HaNA 2.04.01 4030",
+                "Link": "(Nog)  niet beschikbaar",
+                "Description and remarks": "Concerns outgoing letters from the king's secretary, including letters about donations. From the period 1815-1818, accessible online."
+            },
+            {
+                "Type of source": "Archival piece",
+                "Name": "NL-HlmNHA 476 11.1",
+                "Link": "https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701",
+                "Description and remarks": "Access from the archives of the Rijksmuseum containing all kinds of documents relating to the acquisition, loan and restoration of objects."
+            },
+            {
+                "Type of source": "Archival piece",
+                "Name": "NL-HlmNHA 476 874-875",
+                "Link": "https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC",
+                "Beschrijving en opmerkingen": "Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk."
+            },
+            {
+                "Soort bron": "Archiefstuk",
+                "Naam": "NL-HlmNHA 476 1076",
+                "Link": "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688",
+                "Beschrijving en opmerkingen": "Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnografisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888"
+            }
+        ],
+        "Secondary Sources": [
+            {
+                "Type of source": "Book",
+                "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.",
+                "Identifier": "OCLC: 163275947",
+                "Description and remarks": "Dissertation by Rudolf Effert from 2003 about the history of the Royal Cabinet of Curiosities and the Rijks Etnografisch Museum (the current Wereldmuseum Leiden)."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008.",
+                "Identifier": "ISBN: 9789057891595",
+                "Description and remarks": "English translation of Effert's dissertation."
+            },
+            {
+                "Type of source": "Catalog",
+                "Name": "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in \u2019s-Gravenhage. \u2019s Gravenhage, 1823.",
+                "Identifier": "OCLC: 63800039; Online beschikbaar via: https://play.google.com/books/reader?id=-p1RAAAAcAAJ",
+                "Description and remarks": "Manual for visiting the Royal Cabinet of Curiosities from 1823 by the director at the time, Reinier Pieter van de Kasteele."
+            },
+            {
+                "Type of source": "Catalog",
+                "Name": "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in \u2019s Gravenhage. \u2019s Gravenhage: A.H. Bakhuijzen, 1860.",
+                "Identifier": "OCLC: 899016583; Online beschikbaar via: http://archive.org/details/kortehandleiding00kast of https://play.google.com/books/reader?id=VQRSAAAAcAAJ",
+                "Description and remarks": "Manual for visiting the Royal Cabinet of Curiosities from 1860 by the director at that time, Abraham Anne van de Kasteele."
+            },
+            {
+                "Type of source": "Book chapter",
+                "Name": "Shatanawi, Mirjam. \u201cMuseum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.\u201d In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163\u201382. London; New York: Routledge, 2021. ",
+                "Identifier": "Volledig boek: https://doi.org/10.4324/9781003044789",
+                "Description and remarks": "Book chapter covering the partitioning of the objects of the Royal Cabinet of Curiosities in 1883."
+            }
+        ]
+    },
+    "File name": "KKZ"
+}

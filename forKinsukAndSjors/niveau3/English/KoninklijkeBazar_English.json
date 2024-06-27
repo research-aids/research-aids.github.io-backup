@@ -1,0 +1,137 @@
+{
+    "Level": 3,
+    "Tile": "Groote Koninklijke Bazar",
+    "Abstract": "The Groote Koninklijke Bazar was a department store for Asian art and other goods in The Hague.",
+    "RelatedAides": [
+        {
+            "Trade": {
+                "link": "niveau2/English/Trade_20240316.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau2/English/Trade_English"
+            }
+        },
+        {
+            "Royal Cabinet of Curiosities": {
+                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        },
+        {
+            "Kunsthandel Van Lier": {
+                "link": "niveau3/English/KunsthandelVanLier_20240507.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KunsthandelVanLier_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "https://www.wikidata.org/entity/Q13648189",
+            "https://hdl.handle.net/20.500.11840/pi56363",
+            "https://rkd.nl/nl/explore/artists/349840"
+        ],
+        "Name variations": [
+            "Grand Bazar Royal",
+            "Dirk Aartsz. Boer",
+            "D. Boer & Zonen"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Art market](http://vocab.getty.edu/aat/300055675)"
+            ],
+            "Type of objects": [
+                "[Etnografics](http://vocab.getty.edu/aat/300234108)",
+                "[Ceramics](http://vocab.getty.edu/aat/300151343)",
+                "[Tapestries](http://vocab.getty.edu/aat/300205002)"
+            ],
+            "Geographical": [
+                "[China](https://www.geonames.org/1814991)",
+                "[Indonesia](https://www.geonames.org/1643084)",
+                "[Iran](https://www.geonames.org/130758)",
+                "[Japan](https://www.geonames.org/1861060)",
+                "[Oceania](https://www.geonames.org/6255151)",
+                "[Suriname](https://www.geonames.org/3382998)",
+                "[Turkey](https://www.geonames.org/298795)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1825",
+            "Year of end": "1927"
+        },
+        "Collections": {
+            "Within the Data Hub": "Link to search results for Groote Koninklijke Bazar (not possible yet)."
+        }
+    },
+    "Main-text": {
+        "content": "### Description\n\nThe Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on the Zeestraat in 1843. The store sold Asian items, especially from [Japan](https://www.geonames.org/1861060), [China](https://www.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [Indonesia](https://www.geonames.org/1643084). The buyers were private individuals, including King [William II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Rarities](https://www.wikidata.org/entity/Q34076860) and the then [Rijks Ethnografisch Museum](https://www.wikidata.org/entity/Q17339437). After Boer's death, the business continued under new owners.\n\n### Provenance research\n\nIt is not known whether the archives of the Groote Koninklijke Bazar have been preserved. There are loose records in various archives. The [Hague Municipal Archives](https://www.wikidata.org/entity/Q3229492) has some photographs of the interior of the store, showing many objects. The [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437) archive contains correspondence with the Groote Koninklijke Bazar regarding purchases.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 2.09.46",
+                "Link": "",
+                "Description and remarks": "When public and later private limited companies were formed, approval of the articles of association by the Ministry of Justice was required. The content of the files could range from a single opinion to a pack of documents, consisting of articles of incorporation, appeals, opinions, royal decrees and correspondence."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HaNA 3.17.13.03",
+                "Link": "",
+                "Description and remarks": "Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a series of trade files."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-HlmNHA 476 811",
+                "Link": "https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768",
+                "Description and remarks": "Declarations for goods and services, 1813, 1824-1831. The Royal Cabinet of Curiosities purchased items from Dirk Boer, which are mentioned in this archive."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062",
+                "Link": "https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC",
+                "Description and remarks": "Poster of the Koninklijke Bazar from 1926."
+            }
+        ],
+        "Secundary sources": [
+            {
+                "Type of source": "Article",
+                "Name": "Dam, Peter van. \u201cThe Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.\u201d Andon 7 no. 25 (1987): 16\u201319.",
+                "Link": "https://rkd.nl/library/89731",
+                "Description and remarks": "Article about Dirk Boer's store from the Journal of Japanese Art."
+            },
+            {
+                "Type of source": "Article",
+                "Name": "Baird, Christina en Helen Backx-Palsgraaf. \u201cViewing Japan and China through Dirk Boer\u2019s Panorama, 1835\u20131838.\u201d Journal of the History of Collections 32, Issue 1 (March 2020): 119\u2013128.",
+                "Link": "https://doi.org/10.1093/jhc/fhy052",
+                "Description and remarks": "This article discusses Dirk Boer's activities that predate the Groote Koninklijke Bazar and highlights a Chinese/Japanese panorama as an illustration of interest in China and Japan in the Netherlands in the 1830s."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.",
+                "Persistent identifier": "ISBN: 9789074822251",
+                "Description and remarks": "Book about a previous store owned by Dirk Boer."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.",
+                "Persistent identifier": "OCLC: 67736999"
+            },
+            {
+                "Type of source": "Catalog",
+                "Name": "Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.",
+                "Persistent identifier": "OCLC: 67826958",
+                "Description and remarks": "Description of the Royal Bazar by Dirk Boer."
+            }
+        ]
+    },
+    "File name": "KoninklijkeBazar"
+}

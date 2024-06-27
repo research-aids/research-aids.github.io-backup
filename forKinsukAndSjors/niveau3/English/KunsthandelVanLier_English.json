@@ -1,0 +1,102 @@
+{
+    "Level": 3,
+    "Title": "Kunsthandel Van Lier",
+    "Abstract": "Kunsthandel Van Lier dealt in artifacts and ethnographic objects from, among other regions, Africa, Asia and North America.",
+    "RelatedAides": [
+        {
+            "Trade": {
+                "link": "niveau2/English/Trade_20240316.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau2/English/Trade_English"
+            }
+        },
+        {
+            "Groote Koninklijke Bazar": {
+                "link": "niveau3/English/KoninklijkeBazaar_2040503.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeBazaar_English"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "https://www.wikidata.org/entity/Q87665942",
+            "https://hdl.handle.net/20.500.11840/pi57937",
+            "https://rkd.nl/explore/artists/446007",
+            "https://rkd.nl/nl/explore/artists/49975"
+        ],
+        "Name variations": [
+            "Kunstzaal Van Lier",
+            "Carel van Lier",
+            "Leendert van Lier"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Art market](http://vocab.getty.edu/aat/300055675)"
+            ],
+            "Type of objects": [
+                "[Etnografics](http://vocab.getty.edu/aat/300234108)",
+                "[Ceramics](http://vocab.getty.edu/aat/300151343)",
+                "[Sculptures](http://vocab.getty.edu/aat/300047090)"
+            ],
+            "Geographical": [
+                "[Africa](https://www.geonames.org/6255146)",
+                "[Asia](https://www.geonames.org/6255147)",
+                "[Indonesia](https://www.geonames.org/1643084)",
+                "[China](https://www.geonames.org/1814991)",
+                "[Congo](https://www.geonames.org/203312)",
+                "[Papua New Guinea](https://www.geonames.org/2088628)",
+                "[North America](https://www.geonames.org/6255149)",
+                "[South America](https://www.geonames.org/6255150)",
+                "[Oceania](https://www.geonames.org/6255151)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1924",
+            "Year of end": "1996"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "Objects sold by Kunsthandel Van Lier are, among others, in the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), [Museum de Fundatie](https://www.wikidata.org/entity/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/entity/Q679527) and the [Weltkulturenmuseum](https://www.wikidata.org/entity/Q1954571) in Frankfurt. Also the collection of [Museum Nusantara](https://www.wikidata.org/entity/Q2668933) included objects purchased from Kunsthandel Van Lier.\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier"
+        }
+    },
+    "main-text": {
+        "content": "### Description\n\n[Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) started a gallery in [Laren](https://www.geonames.org/2751874) in 1924 and moved to Amsterdam three years later. In the early years, [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) was primarily concerned with [modern European art](http://vocab.getty.edu/aat/300264736). However, Van Lier also became fascinated with the aesthetics of [African sculpture styles](http://vocab.getty.edu/aat/300108572). The exhibition of his private collection of African art at the [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 had an influence on modernist painters at the time. Soon Van Lier was dealing in [Asian art](https://www.wikidata.org/entity/Q3399573), [African sculpture](http://vocab.getty.edu/aat/300108572) and [ethnographic objects](http://vocab.getty.edu/aat/300234108) from around the world, including [Native North America](https://hdl.handle.net/20.500.11840/termmaster10075993)). These objects were acquired from private collectors in the Netherlands, during trips to [London](https://www.geonames.org/2643743), [Paris](https://www.geonames.org/2988507), [Brussels](https://www.geonames.org/2800866) and [Antwerp](https://www.geonames.org/2803138), and through his network of relations in the international ethnographic art trade, like art dealer [Charles Ratton](https://www.wikidata.org/entity/Q15220243) in Paris. The Jewish Carel van Lier died in a German concentration camp in 1945.\n\nThe widow of Carel van Lier, Elisabeth van de Velde, continued the business for several years after the war. In 1949, she sold the business to [Leendert van Lier](https://www.wikidata.org/entity/Q24188979) (1910-1995, not a relative). Leendert van Lier also sold [tribal art](http://vocab.getty.edu/aat/300343731), [Chinese ceramics](http://vocab.getty.edu/aat/300018504) and modern European art. In 1954 he moved to [Utrecht](https://www.geonames.org/2745912) and the sales were carried out from his home. A similar arrangement continued from 1961 in the small town of [Veere](https://www.geonames.org/2745739) in the province of Zeeland, where lovers of tribal art, such as professor and collector [Theo Van Baaren](https://www.wikidata.org/entity/Q1923049), knew where to find Leendert van Lier. The art dealer made regular trips to London and Paris to acquire objects for his trade. After his death, his collection of ethnographics was auctioned at [Christie's](https://www.wikidata.org/entity/Q503176) Amsterdam in 1997.\n\n### Provenance research\n\nBecause [Carel van Lier](https://www.wikidata.org/entity/Q2531642) was a Jewish victim of the Second World War, colonial objects acquired through him may also fall under involuntary loss of possession during the Nazi era.\n\nRecords from the period of [Carel van Lier and his wife (1927-1948)](https://rkd.nl/collections/108) are kept at the RKD, as are a number of records from the period of [Leendert van Lier](https://rkd.nl/collections/65) (these appear to mainly relate to European art). The remainder of the archives are in the possession of the heirs of Carel van Lier and Leendert van Lier.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "RKD \u2013 Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108",
+                "Link": "https://rkd.nl/nl/explore/collections/108",
+                "Description and remarks": "Letters and postcards, mainly from artists, and other papers covering the period 1927-1948"
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "RKD \u2013 Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065",
+                "Link": "https://rkd.nl/explore/collections/65",
+                "Description and remarks": "Number of invitations Kunstzaal van Lier, 1951-1953; number of catalogs including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eug\u00e8ne Brands and others, 1954-1955."
+            }
+        ],
+        "Secondary source": [
+            {
+                "Type of source": "Book",
+                "Name": "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.",
+                "Link": "ISBN: 9789068683431",
+                "Description and remarks": "Biography of Carel van Lier."
+            }
+        ]
+    },
+    "File name": "KunsthandelVanLier"
+}
