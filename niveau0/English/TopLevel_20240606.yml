@@ -10,67 +10,67 @@ Content:
   content_type: text/markdown
 
 Breakdown:
-  Provenance research into colonial collections:
+  "Provenance research into colonial collections":
     - "How can I use the data hub for my research?":
-      link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
-      rel_type: "see also"
+        link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
+        rel_type: "see also"
     - "Select and delineate":
-      link: "niveau1/English/SelectAndDelineate_20240425.yml"
-      rel_type: "see also"
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "see also"
     - "Doing research":
-      link: "niveau1/English/DoingResearch_20240425.yml"
-      rel_type: "see also"
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "see also"
     - "Sources":
-      link: "niveau1/English/Sources_20240501.yml"
-      rel_type: "see also"
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
     - "Reporting":
-      link: "niveau1/English/Reporting_20240501.yml"
-      rel_type: "see also"
+        link: "niveau1/English/Reporting_20240501.yml"
+        rel_type: "see also"
   Topics:
     - "The trade in colonial objects":
-      link: "niveau2/English/Trade_20240316.yml"
-      rel_type: "see also"
-      Subtopics:
-        - "Groote Koninklijke Bazar":
-          link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
-          rel_type: "see also"
-        - "Kunsthandel Van Lier":
-          link: "niveau3/English/KunsthandelVanLier_20240507.yml"
-          rel_type: "see also"
-        - "Royal Asian Art Society in the Netherlands":
-          link: "niveau3/English/RAAS_20240508.yml"
-          rel_type: "see also"
-        - "Wereldmuseum Leiden":
-          link: "niveau3/English/WMLeiden_20240508.yml"
-          rel_type: "see also"
-        - "Royal Cabinet of Curiosities":
-          link: "niveau3/English/RCC_20240417.yml"
-          rel_type: "see also"
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Groote Koninklijke Bazar":
+              link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+              rel_type: "see also"
+          - "Kunsthandel Van Lier":
+              link: "niveau3/English/KunsthandelVanLier_20240507.yml"
+              rel_type: "see also"
+          - "Royal Asian Art Society in the Netherlands":
+              link: "niveau3/English/RAAS_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/RCC_20240417.yml"
+              rel_type: "see also"
     - "Civil servants in the colonies":
-      link: "niveau2/English/CivilServants_20240316.yml"
-      rel_type: "see also"
-      Subtopics:
-        - "Pieter H. Pott":
-          link: "niveau3/English/PieterPott_20240508.yml"
-          rel_type: "see also"
-        - "Wageningen University & Research":
-          link: "niveau3/English/WageningenUniversity_20240508.yml"
-          rel_type: "see also"
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Pieter H. Pott":
+              link: "niveau3/English/PieterPott_20240508.yml"
+              rel_type: "see also"
+          - "Wageningen University & Research":
+              link: "niveau3/English/WageningenUniversity_20240508.yml"
+              rel_type: "see also"
     - "Military and navy personnel":
-      Link: "niveau2/English/MilitaryAndNavy_20240417.yml"
-      rel_type: "see also"
-      Subtopics:
-        - "Royal Cabinet of Curiosities":
-          link: "niveau3/English/RCC_20240417.yml"
-          rel_type: "see also"
-        - "Wereldmuseum Leiden":
-          link: "niveau3/English/WMLeiden_20240508.yml"
-          rel_type: "see also"
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/RCC_20240417.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
     - "Christian missionaries":
-      link: "niveau2/English/ChristianMission_20240417.yml"
-      rel_type: "see also"
-      Subtopics:
-        - "Nederlandsch Zendeling Genootschap":
-          link: "niveau3/English/NZG_20240508.yml"
-          rel_type: "see also"
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Nederlandsch Zendeling Genootschap":
+              link: "niveau3/English/NZG_20240508.yml"
+              rel_type: "see also"
   Locations: []
