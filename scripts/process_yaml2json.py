@@ -5,7 +5,7 @@ import yaml
 import json
 import re
 
-BASE_DIR = ".."
+BASE_DIR = "."
 OUT_DIR = f"{BASE_DIR}/forKinsukAndSjors"
 
 
