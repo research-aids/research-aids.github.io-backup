@@ -1,5 +1,7 @@
 # Research Guides as Data
 
+_This repository and the intellectual work (aka data) it contains is published under a CC-BY-SA license ([more information in the deed](./LICENSE)). In briefs, this means that you are allowed to freely use and adapt its contents in your own work as long as you attribute the original authors appropriately and share as part of the creative commons as well._  
+
 This is a development repository for collaboratively designing and integrating the research guides from NIOD into the Datahub. The core of the approach is to treat the research _guides_ as data, which means structuring them and the texts they contain as much as possible for parsing, automatic ingestion into and linking with the Datahub and its front-end applications.
 
 ## Content Overview
