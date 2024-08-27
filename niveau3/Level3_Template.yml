@@ -26,9 +26,9 @@ Relevant data:
     Year of end: ""
   Collections:
     General remarks:
-      - content: |
-          "Remarks regarding the relevant collections for this research aid can be provided here."
-      - content-type: text/markdown
+      content: |
+        "Remarks regarding the relevant collections for this research aid can be provided here."
+      content-type: text/markdown
     Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
       
 Main-text:
