@@ -1,0 +1,125 @@
+Level: 3
+
+Title: "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)"
+
+Abstract: "The KITLV was founded in the nineteenth century with the task of establishing a scientific collection and promoting scholarship on the Dutch colonial territories. Today its focus is on the study of Southeast Asia and the Caribbean."
+
+RelatedAides:
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
+  - "Civil servants":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q2282075"
+  Name variations:
+    - "KITLV"
+    - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde"
+  Tags:
+    Activity:
+      - "[Collection](http://vocab.getty.edu/aat/300025976)"
+      - "[Archive](http://vocab.getty.edu/aat/300312242"
+    Type of objects: 
+      - "[Photgraphs](http://vocab.getty.edu/aat/300046300)"
+      - "[Books](http://vocab.getty.edu/aat/300028051)"
+      - "[Documents](http://vocab.getty.edu/aat/300026685)"
+      - "[Maps](http://vocab.getty.edu/page/300028094)"
+      - "[Manusripts](http://vocab.getty.edu/page/aat/300252927)"
+    Geographical:
+      - "[Indonesia](https://www.geonames.org/1643084)"
+      - "[Netherlands Antilles](https://www.geonames.org/8505032/)"
+      - "[Surinam](https://www.geonames.org/3382998)"
+  Period of activity:
+    Year of start: "1851"
+    Year of end: "Now"
+  Collections:
+    General remarks:
+      content: |
+        The KITLV collections were transferred to the Leiden University Library in 2014. The collection of books, journals, photographs, archival and audio-visual materials, among others, can for this reason be found through the [Leiden University Library catalog](https://catalogue.leidenuniv.nl)
+      content-type: text/markdown
+    Within the Data Hub: []
+      
+Main-text:
+  content: |
+    ### Description
+    
+    The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 by [Jean Chrétien Baud](http://www.wikidata.org/entity/Q2334397), [Taco Roorda](http://www.wikidata.org/entity/Q13138262) and [Gerrit Simons](http://www.wikidata.org/entity/Q2318641). Although the Dutch name of the institute suggests otherwise, the focus of the research were primarily in the fields of linguistics, history, and anthropology. The initial tasks of the KITLV can be decomposed threefold: establishing and maintaining a collection (including, for example, a large photographic collection), conducting research into and within regions colonized by the Netherlands, and publishing its research results in the journal *Bijdragen tot de taal-, land- en volkenkunde* and the *Nieuw West-Indische Gids*, which focuses exclusively on research in and into the (Dutch) Caribbean region. Although KITLV addressed both the Dutch colonies in Southeast Asia and the Caribbean, the emphasis was on research in and into Indonesia.
+    
+    Since its inception, the core of the research conducted by the KITLV was along the same lines as the Dutch colonial policy. When the transfer of sovereignty to Indonesia took place in 1949, KITLV's attention initially shifted to New Guinea, which remained under Dutch control until 1963. When New Guinea also ceased to be part of the Dutch Kingdom, attention shifted to Suriname and the Caribbean. In 1966 KITLV moved from The Hague to Leiden, where it became part of the university. Since its inception, the core of the research conducted by KITLV was primarily along the same lines as the Dutch colonial policy. When the transfer of sovereignty to Indonesia took place in 1949, KITLV's attention initially shifted to New Guinea, which remained under Dutch control until 1963. When New Guinea also ceased to be part of the Dutch Kingdom, attention shifted to Suriname and the Caribbean. In 1966 KITLV moved from The Hague to Leiden, where it became part of the university. Despite the process of decolonization, and perhaps due to the improved relations between the Netherlands and Indonesia in the 1960s, a KITLV representation in Jakarta was established in 1969, collaborating with the Lembaga Ilmu Pengetahuan Indonesia (LIPI), the Indonesian scientific institute. Nowadays the [KITLV-Jakarta](https://www.library.universiteitleiden.nl/about-us/library-locations/kitlv-jakarta) is part of the Leiden University Library.
+    
+    In 1990, a policy decision was made to link KITLV to the Royal Netherlands Academy of Arts and Sciences (KNAW), rather than having the institute directly under the then Ministry of Education and Science. This connection was ratified in the late 1990s, after which KITLV as an institute became part of the KNAW, which it remains to this day. Due to budget cuts in the cultural sector, two of KITLV's three tasks were divested in 2014. The collection of books, photographs and other objects has since been managed by the Leiden University Library, and the publishing of the journal *Bijdragen* was transferred to Brill publishers (part of De Gruyter since 2024). Since 2014 it was also decided to separate the KITLV association from the research institute.
+    
+    Today, according to its website, KITLV aims "to be a world-class research institute for the study of Southeast Asia and the Caribbean, with a focus on Indonesia and the ‘Dutch’ Caribbean, in an interdisciplinary and comparative perspective."
+    
+    ### Provenance research
+    
+    In 2014, the management of the KITLV collection was transferred to the Leiden University Library (UBL). The archival inventories are available through the UBL's [collection guide](https://collectionguides.universiteitleiden.nl/resources/ubl301). The KITLV collection contains texts and images from and relating to Indonesia and Southeast Asia on the one hand (80%) and the Caribbean, especially Suriname and the Netherlands Antilles on the other hand (20%). The collection totals 750,000 items (about 12,000 meters). The collection consists not only of more than 20,000 periodicals, but also (due to previous documentation activities of KITLV) 100,000 linked descriptions of individual items.
+    
+    The manuscript collection is divided into [Asian manuscripts](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0), which are findable in the UBL catalog with the attribute "D Or", and [European manuscripts](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0), which are findable with the attribute "D H".
+    
+    The KITLV [map collection](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps) has its own access within the UBL's Digital Collections website. This also applies to the [images and photographs collection](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos). The KITLV archives of the [Oral History Association Indonesia](https://digitalcollections.universiteitleiden.nl/view/collection/smgi) (SMGI) and the [Southeast Asian pop music](https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic) collection also have their own websites.
+    
+    The KITLV text collections can be requested through the UBL's [online catalog](https://catalogue.leidenuniv.nl/). Most publications printed after 1900 can be loaned. Publications printed before 1900 must be consulted in the Special Collections Reading Room; the same applies to other materials, such as manuscripts, archives, prints and drawings.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Collection guide"
+      Name: "Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)"
+      Link: 
+        - URL: "https://collectionguides.universiteitleiden.nl/resources/ubl301"
+      Description and remarks: "Digital access to the KITLV collection at the Leiden University Library. This collection guide provides a comprehensive overview of all KITLV materials available through the UBL."
+    - Type of source: "Archival access"
+      Name: "Asian manuscripts (KITLV)"
+      Link: 
+        - URL: "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0"
+      Description and remarks: "Access to the KITLV Asian manuscript collection in the Leiden University Library catalog. This collection can also be found with the attribute 'D Or'."
+    - Type of source: "Archival access"
+      Name: "European manuscripts (KITLV)"
+      Link: 
+        - URL: "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0"
+      Description and remarks: "Access to the KITLV's collection of European manuscripts in the Leiden University Library catalog. This collection can also be found with the attribute 'D H'."
+    - Type of source: "Digital collection"
+      Name: "Maps (KITLV)"
+      Link: 
+        - URL: "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps"
+      Description and remarks: "The map collection of the KITLV has its own website within the Digital Collections of Leiden University. Through this web page you can access 16,000 maps and 500 atlases of Indonesia, Suriname, the Netherlands Antilles and Southeast Asia, mostly from the nineteenth and twentieth centuries."
+    - Type of source: "Digital collection"
+      Name: "Southeast Asian & Caribbean Images (KITLV)"
+      Link: 
+        - URL: "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos"
+      Description and remarks: "The KITLV photo and image collection has its own website within the Digital Collections of Leiden University. Around 1890, KITLV began collecting photographs to capture a picture of the eastern and western Dutch colonial territories. Through this website of the UBL you can access a large collection of photographs, prints and drawings."
+    - Type of source: "Digital collection"
+      Name: "Oral History Archive SMGI (KITLV)"
+      Link: 
+        - URL: "https://digitalcollections.universiteitleiden.nl/view/collection/smgi"
+      Description and remarks: "Through this page you can access the collection of interviews of the Stichting Mondelinge Geschiedenis Indonesië. The collection contains audio files and summaries of interviews with 724 individuals about their experiences in the former Dutch East Indies."
+    - Type of source: "Digital collection"
+      Name: "South East Asian Pop Music (KITLV)"
+      Link: 
+        - URL: "https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic"
+      Description and remarks: "Through this page you can access the KITLV's collection of Southeast Asian pop music, mainly from Indonesia."
+  Secondary sources:
+    - Type of source: "Book"
+      Name: "Kuitenbrouwer, Maarten and Harry A. Poeze. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014."
+      Link: 
+        - ISBN: "9789004257870"
+        - OCLC: "858749398"
+      Description and remarks: "Historiography of the KITLV that covers one hundred and fifty years of KITLV history, but is at the same time a history of the scholarship regarding the (former) Dutch colonies. This is an English version, not a one-on-one translation, of the in 2001 published Tussen oriëntalisme en wetenschap (see below)."
+    - Type of source: "Book"
+      Name: "Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001."
+      Link: 
+        - ISBN: "9789067181747"
+        - OCLC: "47826802"
+      Description and remarks: "Dutch version from 2001 of the book by Kuitenbrouwer above."
+    - Type of source: "Magazine"
+      Name: "Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences
+of Southeast Asia"
+      Link: 
+        - ISSN: "2213-4379"
+      Description and remarks: "The journal of KITLV, first published by KITLV itself, but now published by Brill. All volumes, from the first 1853 edition onward, are available through [Brill](https://brill.com/view/journals/bki/bki-overview.xml). Earlier editions also contained minutes of Board and General Meetings; today the focus is on research from and into Southeast Asia in various disciplines."
+

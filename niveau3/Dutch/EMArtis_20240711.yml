@@ -1,0 +1,132 @@
+Level: 3
+
+Title: "Etnografisch Museum Artis"
+
+Abstract: "Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige Wereldmuseum Amsterdam."
+
+RelatedAides: 
+  - "Bronnen":
+        link: "niveau1/Dutch/Sources_20240425.yml"
+        rel_type: "See also"
+  - "Zending en missie":
+        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        rel_type: "See also"
+  - "Ambtenaren":
+        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        rel_type: "See also"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "See also"
+  - "Handel":
+        link: "niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "See also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "See also"
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q2267276"
+  Name variations:
+    - "Museum voor Land- en Volkenkunde"
+  Tags:
+    Activity:
+      - "[Collectie](http://vocab.getty.edu/aat/300025976)"
+      - "[Etnografisch museum](http://vocab.getty.edu/aat/300451067)"
+    Type of objects: 
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Afrika](https://www.geonames.org/6255146/)"
+      - "[Azië](https://www.geonames.org/6255147)"
+      - "[Noord-Amerika](https://www.geonames.org/6255149)"
+      - "[Oceanië](https://www.geonames.org/6255151)"
+      - "[Zuid-Amerika](https://www.geonames.org/6255150)"
+  Period of activity: 
+    Year of start: "1851"
+    Year of end: "1921"
+  Collections:
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=artis&publishers=Wereldmuseum"
+      
+Main-text:
+  content: |
+    ### Beschrijving
+    
+    Het Etnografisch Museum Artis werd in 1851 gesticht om de collectie etnografische voorwerpen van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra een plek te geven. Het was voor die tijd niet ongebruikelijk dat een dierentuin ook objecten verzamelde, de sterk veranderende wetenschappen in de negentiende eeuw richtten zich namelijk vaak op meerdere onderzoeksgebieden tegelijk. Deze brede interesse in andere culturen, met hun andersoortige dieren, objecten en gebruiken, sloot bovendien goed aan bij de algehele Europese koloniale expansie. De etnografische collectie van Artis groeide gestaag gedurende de negentiende eeuw en zodoende werd in 1888 een speciaal museumgebouw, [de Volharding](http://www.wikidata.org/entity/Q17302628), opgericht. Dit gebouw is vandaag de dag nog steeds onderdeel van dierentuin Artis. Eind negentiende eeuw werd de collectie uitgebreid met voorwerpen van de [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://www.wikidata.org/entity/Q2417163), oftewel de Wereldtentoonstelling, van 1883 en voorwerpen die werden verzameld door het [Nieuwe Afrikaansche Handels-Vennootschap](http://www.wikidata.org/entity/Q2543001). Zodoende was het Etnografisch Museum Artis nauw verbonden met de koloniale betrekkingen van Nederland.
+    
+    Tussen 1905 en 1913 werd ook de collectie van het Koloniaal Museum in Haarlem tijdelijk opgenomen in de collectie van het Etnografisch Museum Artis, maar al snel daarna werd het besluit genomen de collecties over te dragen aan het nog te stichten museum van het Koloniaal Instituut, wat uiteindelijk plaatsvond in 1921. Het duurde tot 1926 voordat het museum van het Koloniaal Instituut, het tegenwoordige Wereldmuseum Amsterdam is, zijn deuren opende. Tot op heden vormt de verzameling van het Etnografisch Museum Artis een belangrijke basis van de collectie van het Wereldmuseum Amsterdam.
+    
+    ### Herkomstonderzoek
+    
+    De collectie van het Etnografisch Museum Artis is binnen de collectie van Wereldmuseum terug te vinden met het kenmerk 'TM-A'. De collectie is indertijd bijeengebracht door een veelvoud aan particulieren, waaronder bestuursambtenaren, missionarissen, handelaars, andersoortige reizigers en wetenschappelijke genootschappen. Een belangrijke schenker aan de collectie van het Etnografisch Museum Artis is bijvoorbeeld de taalkundige [Herman Neubronner van der Tuuk](http://www.wikidata.org/entity/Q549882).
+    
+    Archieven met betrekking tot het Etnografisch Museum Artis zijn verspreid over verschillende instellingen. Zo bezit het Stadsarchief van Amsterdam onder archieftoegang 395 het [algemene archief](https://archief.amsterdam/inventarissen/details/395/) van het Koninklijk Zoölogisch Genootschap Artis Magistra. Archieven van het Koloniaal Instituut die betrekking hebben op de etnografische collectie van Artis zijn beschikbaar via het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69). De inventarisnummers 4395 en 7851-7858 (welke nog berusten bij het Koninklijk Instituut voor de Tropen) hebben betrekking op de collectie en overdracht van deze aan het Koloniaal Museum in 1926. Volgens een rapport van het Nationaal Museum van Wereldculturen zijn de archieven van het Etnografisch Museum Artis door het KIT gedigitaliseerd en beschikbaar via de Media-module van het collectieregistratiesysteem van het Wereldmuseum. Over specifieke vragen over de collectie van het Etnografisch Museum Artis en om het archief in te zien, kan contact worden opgenomen met <collectieinfo@wereldmuseum.nl>.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Archief"
+      Name: "NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra"
+      Link: "https://archief.amsterdam/inventarissen/details/395/"
+      Description and remarks: "Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7851"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Stukken betreffende de voorwerpen van de verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam, serie nrs 3 t/m 363 uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7852"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Stukken betreffende bruiklenen binnen de Artis collectie die met de NAM (Natura Artis Magistra) collectie naar het Koloniaal Instituut zijn gekomen, vanaf bruikleen van de verzameling Ds. C. Rogge in 1888 t/m bruikleen van de verzameling van prof.dr. F.A.F. Molengraaf in 1894. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7778)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7853"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Artis inventaris (NAM nrs.) per gebied in Azië en classificatie van voorwerp, met verwijzing naar de huidige A-nummers. Originele titel: Azië inventaris der Ethnologische verzameling van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7791)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7854"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Lijst van series. Artis (NAM) en NKV (Nederlandse Koloniale Vereniging). Inventaris per gebied en classicifactie van voorwerp, met verwijzing naar de huidige nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7792)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7855"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Artis inventaris per gebied en classificatie van voorwerp - Japan en China, NAM nummers met verwijzing naar de huidige A-nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7793)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7856"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Artis inventaris (NAM nummers). Etnografische collectie, serie 1 t/m 365. Plus aantekening betreffende de Christy Collectie 1870-1871. Met melding van de schenker, aankoop, etc. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7794)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7857"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Register van Artis (NAM) alsmede Koninklijke Nederlands Aardrijkskundig Genootschap ( KNAG). NAM nummers 1 t/m 83 (0) en 1 t/m 364 (A) + KNAG nummers 1 t/m 236. NAM en KNAG nummers met verwijzing naar de huidige nummers, incl. de nummers van De Groot, Jansen, Koyne, Molengraaff, Schuver en Prof. Max Weber. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7795)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 7858"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Artis inventaris. Voormalige KNV (Nederlandse Koloniale Vereniging). nummers 1 t/m 12, met verwijzing naar de huidige A-nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7796)."
+    - Type of source: "Archief"
+      Name: "NL-HaNA 2.20.69 - 4395"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag."
+  Secondary sources:
+    - Type of source: "Artikel"
+      Name: "Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011."
+      Link: 
+        - OCLC: "730403132"
+        - ISBN: "9068327526"
+      Description and remarks: "Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum."
+    - Type of source: "Boek"
+      Name: "Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885."
+      Link: 
+        - OCLC: "836812327"
+      Description and remarks: "Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte."
+    - Type of source: "Boek"
+      Name: "Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888."
+      Link: 
+        - OCLC: "1287660577"
+        - Link: "https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ"
+      Description and remarks: "Gids uit 1888 van de toenmalige conservator van het Etnografisch Museum Artis over de collectie van het museum. Via Google Books zijn drie volumes beschikbaar: 'Insulinde I Java', Insulinde II Buiten bezettingen en 'Australië en Oceanië'. De gidsen beschrijven zeer nauwkeurig welke objecten zich waar bevonden in het museum."
+    - Type of source: "Artikel"
+      Name: "Wijs, Sonja, 'Een plaats voor de mens; de etnografische musea van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, in: Heden En Verleden, VVE Jaarboek 8. 2020."
+      Link: 
+        - OCLC: "1178618962"
+      Description and remarks: "Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis."

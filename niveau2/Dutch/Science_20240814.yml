@@ -1,0 +1,68 @@
+Level: 2
+
+Title: "Wetenschap"
+
+Abstract: "De koloniale gebieden vormden voor veel (nieuwe) wetenschappelijke vakgebieden de basis voor onderzoek. In het kader van dit onderzoek vonden vele objecten hun weg van het gekoloniseerde gebied naar Europese musea."
+
+RelatedAides:
+  - "Title of the related research aid":
+        link: "The relevant GitHub path of the related research aid"
+        rel_type: "Relation between current aid and related aid."
+
+Relevant data: 
+  Tags:
+    Activity:
+      - "[Onderzoekers](http://vocab.getty.edu/aat/300025576)"
+      - "[Wetenschap](http://vocab.getty.edu/aat/300054135)"
+    Type of objects: 
+      - "[Natuurhistorische objecten](http://vocab.getty.edu/aat/300379591)"
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Indonesië](https://www.geonames.org/1643084)"
+      - "[Suriname](https://www.geonames.org/3382998)"
+      - "[Nederlandse Antillen](https://www.geonames.org/8505032)"
+      - "[Nieuw-Guinea](https://www.geonames.org/1643012)"
+
+Main-text:
+  content: |
+    ### Beschrijving
+    
+    De ontwikkeling van verschillende wetenschappelijke disciplines, zoals de etnografie en geologie, gedurende voornamelijk de negentiende eeuw ging hand in hand met de Europese koloniale expansie. De Nederlandse koloniale gebieden en de daar aanwezige natuur, cultuur en bevolking, vormden zodoende een belangrijk bronnen voor wetenschappelijk onderzoek door onderzoekers uit Nederland en andere landen. Een bekend voorbeeld waarbij wetenschappelijk onderzoek en koloniale onderdrukking hand in hand gingen zijn de opgravingen die onder [Eugène Dubois] plaatsvonden op Sumatra en Java aan het eind van de negentiende eeuw, waarbij vijftig dwangarbeiders een collectie van bijna 40.000 objecten opgroef. Deze collectie is tot op de dag van vandaag onderdeel van [Naturalis] in Leiden en de Homo erectus fossielen die tijdens deze opgravingen gevonden zijn, worden nog altijd als een belangrijke wetenschappelijke ontdekking gezien. Zonder het koloniale systeem was Eugène Dubois niet in staat geweest deze vondst te doen.
+    
+    Overigens gold ook dat Europese wetenschappers vaak een bredere interesse hadden dan hun eigen vakgebied. Zo kan het dus goed voorkomen dat een geoloog ook andersoortige objecten verzamelde en die later aan een Nederlands museum heeft geschonken. Ook zendelingen en missionarissen hielden zich naast het kerstenen van de lokale bevolking bezig met wetenschappelijk onderzoek. De collecties die zij verzamelden waren dus niet alleen verzameld uit het oogpunt van hun missie of zending, maar konden ook een wetenschappelijk karakter hebben. Veelal werden collecties verzameld door missionarissen en zendelingen gebruikt ter onderwijzing in Nederland. Een speciale vermelding verdient ook de fotografie. Deze relatief nieuwe techniek die werd ontwikkeld in de negentiende eeuw werd veelvuldig ingezet tijdens wetenschappelijk onderzoek in de koloniale gebieden. Deze foto's bleven later vaak onderdeel van de aldaar verzamelde collecties en droegen zo bij aan het beeld dat in Europa ontstond van de mensen, hun cultuur en de natuur in de koloniën.
+    
+    Wetenschappers in de koloniën waren vaak verbonden aan een Nederlandse universiteit of raakten dat gaande weg. Overigens is het niet zo dat wetenschappers in door Nederland gekoloniseerde gebieden uitsluiten uit Nederland afkomstig waren, ook andere Europeanen deden wetenschappelijk onderzoek in Nederlandse koloniën. Bovendien zijn er ook voorbeelden van plaatselijke wetenschappers waarvan verzamelde objecten ook naar Nederland werden verzonden. Een bekend voorbeeld hiervan is de Indonesische schilder, wetenschapper en schrijver Raden Saleh. Naast een verbondenheid aan een universiteit in Europa waren er ook allerhande verenigingen waar wetenschappers samenkwamen. Bekende voorbeelden zijn het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde] (KITLV) in Nederland en het [Bataviaasch Genootschap der Kunsten en Wetenschappen] in Indonesië. Ook de [Koninklijke Nederlandse Academie van Wetenschappen] (KNAW) had sterke banden met de koloniën. Via dit soort verenigingen en universiteiten werden de bevindingen van wetenschappelijk onderzoek gepubliceerd in allerhande tijdschriften en boeken. De objecten, documenten en foto's die gedurende het onderzoek werden verzameld vonden vaak op een later moment hun weg naar de collecties van de instellingen waar desbetreffende onderzoekers onderdeel van waren.
+    
+    Zodoende hebben vrijwel alle koloniale collecties in Nederland een vorm van verbondenheid met wetenschappelijk onderzoek in gekoloniseerde gebieden. Naast de bekende musea zoals het Wereldmuseum, Naturalis en het Rijksmuseum bevatten ook veel universitaire musea collecties die verzameld zijn in voormalige koloniën.
+    
+    ### Herkomstonderzoek
+    
+    Herkomstonderzoek naar wetenschappelijke collecties die vergaard zijn in voormalig gekoloniseerde gebieden zal vaak beginnen bij een specifiek individu of een wetenschappelijke instelling of -vereniging. Archieven over verzamelde collecties bevinden zich vaak bij desbetreffende instellingen of het plaatselijke archief. Om te vinden wat je zoekt is kennis van het Nederlandse archieflandschap van belang. Het archief van de [Universiteit van Amsterdam] bevindt zich bijvoorbeeld bij het [Stadsarchief Amsterdam]. De [Universiteit Leiden] beheert haar eigen archief en het archief van de [Universiteit Utrecht] is te vinden in het provinciale [Utrechts Archief]. Archieven met betrekking tot specifieke wetenschappers kunnen zich ook in het bezit zijn van nabestaanden.
+    
+    Let er ook op dat wetenschappers actief kunnen zijn geweest bij verschillende instellingen. Het kan dus lonen om meerdere archieven te raadplegen, waarbij het vanzelfsprekend het meest vruchtbaar is te zoeken binnen archieven uit de periode dat de wetenschapper onderdeel vormde van een instelling. Ook verschillende wetenschappelijke verenigingen hebben bezitten archiefmateriaal, wat wederom in allerhande Nederlandse archieven te vinden is. Ook correspondentiearchieven kunnen waardevolle informatie bevatten over de herkomst van bepaalde objecten. 
+    
+    Tot slot is het ook mogelijk dat archieven in de voormalige gekoloniseerde gebieden nog informatie bevatten over wetenschappelijke collecties. Bij het [Arsip Nasional Republik Indonesia] (ANRI) is bijvoorbeeld is een ruim aanbod van archief van het Bataviaasch Genootschap.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - []
+  Secondary sources:
+    - Type of source: "Boek"
+      Name: "Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001."
+      Link: 
+        - ISBN: "9789067181747"
+        - OCLC: "47826802"
+      Description and remarks: "Historiografie van het KITLV uit 2001 die hondervijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar."
+    - Type of source: "Boek"
+      Name: "Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995."
+      Link:
+        - OCLC: "69079231"
+        - Link: "https://repository.naturalis.nl/pub/268714"
+      Description and remarks: "Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren."
+    - Type of source: "Artikel"
+      Name: "Andreas, Weber. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” Bmgn: Low Countries Historical Review."
+      Link:
+        - OCLC: "9627499338"
+        - DOI: "https://doi.org/10.18352/bmgn-lchr.10741"
+      Description and remarks: "Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië."

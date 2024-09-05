@@ -1,0 +1,87 @@
+Level: 3
+
+Title: "Wereldmuseum Amsterdam"
+
+Abstract: "Today's Wereldmuseum Amsterdam, formerly the Tropenmuseum, is a museum that during the nineteenth century emerged from several colonial collections."
+
+RelatedAides:
+  - "Title of the related research aid":
+        link: "The relevant GitHub path of the related research aid"
+        rel_type: "Relation between current aid and related aid."
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q1131589"
+  Name variations:
+    - "Tropenmuseum"
+    - "Koloniaal Museum"
+    - "Indisch museum"
+    - "Nationaal Museum van Wereldculturen"
+  Tags:
+    Activity:
+      - "[Collecting](http://vocab.getty.edu/aat/300025976)"
+    Type of objects: 
+      - "[Etnographics](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Africa](https://www.geonames.org/6255146/)"
+      - "[Asia](https://www.geonames.org/6255147)"
+      - "[North America](https://www.geonames.org/6255149)"
+      - "[Oceania](https://www.geonames.org/6255151)"
+      - "[South America](https://www.geonames.org/6255150)"
+  Period of activity: 
+    Year of start: "1926"
+    Year of end: "Now"
+  Collections:
+    General remarks:
+      content: |
+        In 2014, the collections of the then Museum Volkenkunde in Leiden, the Afrika Museum in Berg en Dal and the Tropenmuseum in Amsterdam were merged. The collection of the former Tropenmuseum can be identified via the inventory number with the attribute 'TK'.
+      content-type: text/markdown
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=TM&publishers=Wereldmuseum"
+      
+Main-text:
+  content: |
+    ### Description
+    
+    The current Wereldmuseum Amsterdam emerged from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893) in Haarlem, founded in 1871. This Colonial Museum, located in the Paviljoen Welgelegen was initially mainly a products museum, where a variety of colonial goods were displayed. This museum served as a resource for colonial entrepreneurs, providing them with knowledge about, amoung other things, minerals and natural resources. Important donors of objects were government officials, such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname, [Johand von Schmidt](http://www.wikidata.org/entity/Q1694028), the Dutch East Indies Government, 's Lands Plantentuin in Bogor and several other trading companies and businesses.
+    
+    Due to lack of space in Haarlem, it was decided in 1913 to transfer the collection to the recently founded Vereeniging Koloniaal Insituut, which would open its own museum on Mauritskade in Amsterdam in 1926, in the building where Wereldmuseum Amsterdam is still located. The collection of the Artis Ethnographic Museum was also incorporated into the Colonial Institute's museum. In 1926, the collection consisted of around 30,000 objects, 10,000 of which were from the Artis collection. The Colonial Institute was divided into three departments, Tropical Products, Tropical Hygiene and Ethnography, all of which had their own exhibition rooms at their disposal. The Tropical Products Museum was disbanded in the 1960s and several of its objects were transferred at later times to the then Agricultural University of Wageningen (now Wageningen Univeristy & Research) and the Rijksmuseum of Natural History in Leiden (now Naturalis).
+    
+    After the Second World War, it was decided to rename the Colonial Institute the Indisch Instituut and its museum into the Indisch Museum, focusing entirely on relations between the Netherlands and its colonies in the East and West. For this reason, it was decided in 1947 to transfer the museum's African collection to the then Rijksmuseum voor Volenkunde in Leiden. When the transfer of sovereignty took place after the Indonesian war of independence in 1949, the Indian Museum was in a quandary. It was decided to broaden its focus to the entire "tropical realm". From 1950, the East Indies Institute was called the Royal Tropical Institute (KIT) and its museum henceforth the Tropenmuseum. Because of this change in perspective, the focus in the second half of the 20th century was on collecting objects from the various tropical corners of the world. Many objects also came to Amsterdam from West New Guinea, which remained a Dutch colony until 1962.
+    
+    In 2014, the Tropenmuseum, Museum Volkenkunde in Leiden, the Afrika Museum in Berg and later the Wereldmuseum in Rotterdam merged to form the National Museum of World Cultures. Since 2023, these museums have continued under the joint name Wereldmuseum.
+    
+    ### Provenance research
+    
+    The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseum collection with the attribute "T"'. The archives of Wereldmuseum Amsterdam up to 1995 are available at the National Archives in The Hague via the [archive 2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69) (The archives of the Royal Tropical Institute). This includes the archives of the Koloniaal Museum in Haarlem and the Ethnographic Museum Artis. The archive description from the National Archives contains detailed information on the genesis of the Wereldmuseum Amsterdam and how its archive is composed. The archive up to 1950 has been digitised by KIT itself and is available through the Wereldmuseum's collection database. The archives from 1950-1995 are currently being digitised by the Nationaal Archief. Archives after 1995 are still at the Wereldmuseum Amsterdam itself. For more information on the museum archives up to 1995, see the search help on the Royal Tropical Institute.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Archive"
+      Name: "NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69"
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Description and remarks: "Archives of the Royal Tropical Institute up to and including 1995 deposited at the Dutch National Archives in The Hague. Archives after 1995 are still physically on file at KIT. The archive description contains detailed information on the history of the Wereldmuseum Amsterdam and the structure of the archive."
+  Secondary sources:
+    - Type of source: "Book"
+      Name: "Duuren, David van. 125 Jaar Verzamelen : Tropenmuseum, Amsterdam. Amsterdam: Koninklijk Museum voor de Tropen, 1990."
+      Link: 
+       - OCLC: "902015409"
+       - ISBN: "9068322311"
+      Description and remarks: "Book from 1990 in honour of the eightieth anniversary of the Association the Royal Tropical Institute. Describes the then 125-year history of the collection of the Wereldmuseum Amsterdam from the perspective of that time. The book gives a general overview of the genesis of the Wereldmuseum Amsterdam and pays extra attention to several individual objects."
+    - Type of source: "Book"
+      Name: "Jans, Huub. Honderdzestig Meter Mauritskade : Vier Eeuwen Tropenervaring Allegorisch Weerspiegeld in de Huisvesting van Een Wetenschappelijk Instituut. Amsterdam: Koninklijk Instituut voor de Tropen, 1976."
+      Link:
+        - OCLC: "63449631"
+      Description and remarks: "Thin booklet from 1976 that mainly focuses on the building of today's Wereldmuseum Amsterdam and the KIT. Attention is paid to the construction of the Wereldmuseum's building, but the booklet also contains descriptions of several facade tiles characteristic of the European view on the colonial project in the 20th century."
+    - Type of source: "Boek"
+      Name: "Jans, Huub, Hans van den Brink, and Koninklijk Instituut voor de Tropen. Tropen in Amsterdam : 70 Jaar Koninklijk Instituut Voor de Tropen. Amsterdam: Terra, 1981."
+      Link:
+        - OCLC: "899009074"
+        - ISBN: "9062550770"
+      Description and remarks: "Book from 1981 describing the history of the Royal Tropical Institute up to 1950. The book contains many photos and also provides detailed descriptions of external and internal characteristics of the current Wereldmuseum Amsterdam. It also focuses on how the organisation of KIT was arranged during the first decades of its existance."
+    - Type of source: "Boek"
+      Name: "Woudsma, J. (Jacobus), en Hansje Galesloot. Een markant gebouw in Amsterdam-Oost: het Koninklijk Instituut voor de Tropen. Amsterdam: Koninklijk Instituut voor de Tropen, 1990."
+      Link: 
+        - OCLC: "905775747"
+        - ISBN: "906832229X"
+      Description and remarks: "Like Jans' book, this 1990 book focuses mainly on the external characteristics of the current Wereldmuseum Amsterdam. The book contains detailed information on the facades, rooms, materials used for the building and colonial symbolism of the decorations found around the building."

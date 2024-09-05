@@ -1,0 +1,81 @@
+Level: 3
+
+Title: "Wereldmuseum Rotterdam"
+
+Abstract: "Het tegenwoordige Wereldmuseum Rotterdam is in de negentiende eeuw opgericht en bezit een ruime collectie objecten uit Azië, Oceanië, Afrika en Amerika."
+
+RelatedAides:
+  - "Title of the related research aid":
+        link: "The relevant GitHub path of the related research aid"
+        rel_type: "Relation between current aid and related aid."
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q2042754"
+  Name variations:
+    - "Museum voor Land- en Volkenkunde"
+    - "Museum voor Volkenkunde"
+    - "Wereldmuseum"
+    - "Nationaal Museum van Wereldculturen"
+  Tags:
+    Activity:
+      - "[Collectie](http://vocab.getty.edu/aat/300025976)"
+      - "[Etnografisch museum](http://vocab.getty.edu/page/aat/300451067)"
+    Type of objects: 
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);"
+      - "[Azië](https://www.geonames.org/6255147)"
+      - "[Noord-Amerika](https://www.geonames.org/6255149)"
+      - "[Oceanië](https://www.geonames.org/6255151)"
+      - "[Zuid-Amerika](https://www.geonames.org/6255150)"
+  Period of activity:
+    Year of start: "1851"
+    Year of end: "Heden"
+  Collections:
+    General remarks:
+      content: |
+        "Sinds 2017 is het Wereldmuseum Rotterdam een onderdeel van het Nationaal Museum van Wereldculturen. De collectie van het museum is echter nog altijd officieel in het bezit van de gemeente Rotterdam."
+      content-type: text/markdown
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=WM"
+      
+Main-text:
+  content: |
+    ### Beschrijving
+    
+    Het huidige Wereldmuseum Rotterdam is ontstaan uit de in 1851 opgerichte Yachtvereniging, die aan de Willemskade in Rotterdam gevestigd was. Leden schonken allerhande voorwerpen aan de vereniging, zoals scheepsmodellen, maar ook etnografische objecten. Zodoende werd in 1873 het [Maritiem Museum Prins Hendrik](http://www.wikidata.org/entity/Q2755458) opgericht, genoemd naar de voorzitter van de Yachtvereniging. Toen [Prins Hendrik](http://www.wikidata.org/entity/Q705129) in 1879 overleed en de Yachtvereniging ophield te bestaan, besloot de gemeente Rotterdam het gebouw aan de Willemskade en de collectie van de vereniging over te nemen. In 1883 besloot de gemeente dat er ook een etnografisch museum in het pand gevestigd zou moeten worden. In 1885 opende het Museum voor Land- en Volkenkunde zodoende haar deuren. Later werd de naam aangepast naar Museum voor Volkenkunde.
+    
+    De collectie van het Museum voor Land- en Volkenkunde bestond in eerste instantie uit allerhande schenkingen van onder andere zeelieden, handelaren en militairen. De schenking van de collectie Javaanse gebatikte doeken en andersoortige voorwerpen door [Elie van Rijckevorsel](http://www.wikidata.org/entity/Q52155329), die later ook in de Raad van Advies van het museum plaatsnam, diende als aanmoediging aan de gemeente Rotterdam om een etnografisch museum te stichten. Vanaf het begin van de twintigste eeuw werd er onder de notie van de antropologie gestructureerder verzameld, door onder andere het organiseren van verzamelreizen. Hierbij was er veel aandacht voor de culturen op Nieuw Guinea.
+    
+    Pas in 1961 gingen het Museum voor Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder. Ook vandaag de dag zijn dit nog steeds aparte musea van de gemeente Rotterdam, maar sinds de jaren 1980 worden de collecties van beider musea wel opgeslagen in hetzelfde depot. Sinds mei 2017 is het Wereldmuseum Rotterdam een nauwe samenwerking aangegaan met de stichting [Nationaal Museum van Wereldculturen](http://www.wikidata.org/entity/Q17153751) (NMVW). De collectie is overigens nog altijd het bezit van de gemeente Rotterdam. Sinds 2023 gaan alle musea binnen het NMVW verder onder de naam Wereldmuseum. De naam van het museum in de havenstad werd zodoende gespecificeerd tot Wereldmuseum Rotterdam.
+    
+    ### Herkomstonderzoek
+    
+    De collectie van het Wereldmuseum Rotterdam is toegankelijk via de Datahub en de [collectiewebsite](https://collectie.wereldmuseum.nl/) van het Wereldmuseum, de collectie van het Wereldmuseum is te herkennen aan het kenmerk 'WM'. Specifieke vragen met betrekking tot de collectie van het Wereldmuseum Rotterdam kunnen gesteld worden via <collectieinfo@wereldmuseum.nl>. 
+    
+    De archieven van het Wereldmuseum Rotterdam bevinden zich in het Rotterdamse stadsarchief. Let hierbij op dat het archief in twee delen is opgesplitst, een [archief van 1883 tot 1960](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105) en een [archief van 1961 tot en met 1990](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67). Beide archieven zijn op een soortgelijke manier opgebouwd. Archiefstukken met betrekking tot de collectievorming kunnen in beide toegangen gevonden worden onder de kop 'Collectievorming en beheer' in de rubriek 'Taken'.
+    
+    Voor eventuele restitutieverzoeken is het van belang in acht te nemen dat de gemeente Rotterdam de eigenaar is van de collectie van het Wereldmuseum Rotterdam en niet de Nederlandse staat. Wat dit betekent voor het restitutiebeleid is te vinden in de zoekhulp [Restitutiebeleid Nederland].
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Archief"
+      Name: "NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam"
+      Link: "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105"
+      Description and remarks: "Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt tot 1960 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 282 tot en met 302 zijn archiefstukken te vinden met betrekking tot de collectievorming."
+    - Type of source: "Archief"
+      Name: "NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam"
+      Link: "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67"
+      Description and remarks: "Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt vanaf 1961 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 147 tot en met 177 zijn archiefstukken te vinden met betrekking tot de collectievorming."
+  Secondary sources:
+    - Type of source: "Boek"
+      Name: "Faber, Paul, Liane van der Linden en René Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987."
+      Link: 
+        - "ISBN: 9789029080941"
+        - "OCLC: 905426025"
+      Description and remarks: "Boek, en tevens catalogus, ter ere van de tentoonstelling Schatten van het Museum voor Volkenkunde Rotterdam. Bevat een korte geschiedenis van het museum en een uitgebreide beschrijving van collecties uit verschillende werelddelen."
+    - Type of source: "Website"
+      Name: "Geschiedenis Wereldmuseum. Van Yachtclub naar volkenkundig museum"
+      Link: "https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum"
+      Description and remarks: "Website van het Wereldmuseum met een korte geschiedenis van het museum in Rotterdam."

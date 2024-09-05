@@ -1,0 +1,150 @@
+Level: 3
+
+Title: "Naturalis Biodiversity Center"
+
+Abstract: "Naturalis Biodiversity Center, formerly the Rijksmuseum van Natuurlijke Historie, is a museum in Leiden founded in 1820. The focus of Naturalis is threefold: building and maintaining a collection of natural history objects, researching the collection and exhibiting it to a broad audience."
+
+RelatedAides: 
+  - "Doing research":
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "see also"
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
+  - "Civil servants":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+  - "Royal Cabinet of Curiosities": 
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden": 
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "see also"
+  - "Wageningen University & Research":
+        link: "niveau3/English/WageningenUniversity_20240508.yml"
+        rel_type: "see also"
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q641676"
+  Name variations:
+    - "Naturalis"
+    - "Rijksmuseum van Natuurlijke Historie"
+    - "Rijksmuseum van Geologie en Mineralogie"
+    - "Nationaal Natuurhistorisch Museum"
+  Tags:
+    Activity:
+      - "[Research center](http://vocab.getty.edu/aat/300343398)"
+      - "[Collecting](http://vocab.getty.edu/aat/300077121)"
+      - "[Natural History Museum](http://vocab.getty.edu/aat/300312324)"
+    Type of objects: 
+      - "[Natural objects](http://vocab.getty.edu/aat/300404125)"
+      - "[Natural history specimens](http://vocab.getty.edu/aat/300379591)"
+      - "[Animal specimens](http://vocab.getty.edu/aat/300420186)"
+      - "[Minerals](http://vocab.getty.edu/aat/300011068)"
+      - "[Fossils](http://vocab.getty.edu/aat/300011068)"
+    Geographical:
+      - "[Europe](https://www.geonames.org/6255148)"
+      - "[Asia](https://www.geonames.org/6255147)"
+      - "[Africa](https://www.geonames.org/6255146)"
+      - "[Oceania](https://geonames.org/6255151)"
+      - "[Norht America](https://www.geonames.org/6255149)"
+      - "[South America](https://www.geonames.org/6255150)"
+  Period of activity:
+    Year of start: "1820"
+    Year of end: "Now"
+  Collections:
+    General remarks:
+      - content: |
+          []
+      - content-type: text/markdown
+    Within the Data Hub: []
+      
+Main-text:
+  content: |
+    ### Description
+    
+    In 1820, by Royal Decree, [King William I of the Netherlands](http://www.wikidata.org/entity/Q2079957) established the ('s Rijksmuseum van Natuurlijke Historie)[http://www.wikidata.org/entity/Q3432011]. The museum collection was created by combining the collections of Leiden University, 's Lands Kabinet van Natuurlijke Historie and the personal collection of the first director (Coenraad Jacob Temminck)[http://www.wikidata.org/entity/Q31621]. These collections, which were initially collected as curiosities, became increasingly the focus of emerging scientific interest during the nineteenth century. Temminck succeeded in getting people abroad to acquire natural objects to add to the collection of the Rijksmuseum van Natuurlijke Historie (RMNH). The collection of natural objects from Japan, which [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), whose ethnographic collection served as the basis of the later Rijks Etnografisch Museum in Leiden, was, for instance also added to the RMNH collection. 
+    
+    In line with developments in the scientific field, the so-called [Natuurkundige Commissie voor Nederlands-Indië](http://www.wikidata.org/entity/Q2386928) also was established in 1820. This commission, based at ['s Lands Plantentuin](http://www.wikidata.org/entity/Q105682311) in Bogor (then Buitenzorg), had the task of seeking minerals and mapping the local flora and fauna of Indonesia. The findings of this commission were published between 1839 and 1847 in the *Verhandelingen over de natuurlijke geschiedenis der Nederlandsche Overzeesche bezittingen*, which was edited by C.J. Temminck, director of the RNMH. After the dissolution of the commission in 1850, the publications, collected objects, correspondence, etc. were included in the collection of the Rijksmuseum van Natuurlijke Historie. The basis of the Naturalis collection is, thus, explicitly related to the colonial past. Even after the Natuurkundige Commissie was disbanded, collectors in Indonesia and elsewhere were encouraged by the RMNH to continue making their collections available to the museum.
+    
+    In 1878, the Geology and Mineralogy Department split from the RMNH to form its own museum, the [Rijksmuseum voor Geologie en Mineralogie](http://www.wikidata.org/entity/Q7333956) (RGM). This museum would continue to exist separately until it merged again with the National Museum of Natural History in 1984. While the RGM's collection initially focused on the former Dutch East Indies, under its first director [Karl Martin](http://www.wikidata.org/entity/Q72782) it was expanded to include objects from other areas, including the Dutch colonies in the Caribbean. Both the Rijksmuseum of Natural History and the Rijksmuseum of Geology and Mineralogy were primarily intended for interested scientists in the early years; it was only toward the beginning of the twentieth century that they opened their collections more frequently to the general public.
+    
+    During the remainder of the twentieth century, the collections of both the RMNH and RGM expanded considerably, remaining in close contact with the areas colonized by the Netherlands. After moving to another buidling in 1998, the then merged collections continued under the current name of Naturalis. In 2010, the collections of the Zoological Museum Amsterdam and the National Herbarium Netherlands were also merged with Naturalis. Since 2019, the museum has been located in its current, new building, where the three tasks of Naturalis - collection, science and museum - are even more closely linked.
+    
+    **Former directors**
+    *Rijksmuseum van Natuurlijke Historie*
+      - Coenraad Jacob Temminck (1820-1858)
+      - Hermann Schlegel (1858-1884)
+      - Fredericus Anna Jentink (1884-1913)
+      - Eudard Daniël van Oort (1913-1933)
+      - Hilbrand Boschma (1933-1958)
+      - Leo Brongersma (1958-1972)
+      - Willem Vervoort (1972-1982)
+      - Jacobus Theodorus Wiebes (1982-1989)
+    *Rijks Geologisch en Mineralogisch Museum
+      - Karl Martin (1878-1922)
+      - Berend George Escher (1922-1955)
+      - Isaäk Martinus van der Vlerk (1955-1961)
+      - Cornelis Beets (1963-1977)
+    
+    ### Provenance research
+    
+    The archival and image collection of Naturalis consists of the merged collections of the Zoological Museum Amsterdam, the Nationaal Herbarium Nederland, the Herbarium Vadense (Wageningen) and the herbarium of Utrecht University. Also included in the Naturalis collection are the geological collections of the former Rijksmuseum van Geologie en Mineralogie, and the university collections of Amsterdam and Delft. Archives and other additional collection- and research-related data are available through the [Naturalis archives website](https://archives.naturalis.nl/). On the [overview page](https://explore.archives.naturalis.nl/navigeren.php?schema_id=241820512) all archives are conveniently arranged. The Naturalis archives contain valuable material such as manuscripts, drawings and notes that paint a clear picture of the (colonial) past. For example, the notebooks in the [archive of Korthals](https://hdl.handle.net/21.12107/313819336) contain drawings of Indonesian panoramas and houses, locals and plants.
+    
+    The [museum collection](https://bioportal.naturalis.nl/nl) and [library](https://naturalis.on.worldcat.org) are both browsable through their own websites. In addition, the physical library is now publicly accessible in the museum. There is a separate [repository](https://repository.naturalis.nl/) on which many (historical) scientific publications can be found. Several books from the Naturalis collection are also available through the international digital platform [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/).
+    
+    If you have questions regarding your research or would like to visit the collection, you can submit a request at <collectie@naturalis.nl>.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Book"
+      Name: "Haan, W. de, P. W. Korthals, Salomon Müller, H. Schlegel, C. J. Temminck, en Natuurkundige Commissie in Oost-Indië. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839"
+      Link: 
+        - DOI: "https://doi.org/10.5962/bhl.title.114730"
+        - OCLC: "12686361 of 816811748"
+      Description and remarks: "All the Proceedings of the Natuurkundige Commissie in Oost-Indië in combinend in a book, divided into three volumes: Land- en Volkenkunde, Zoölogie and Botanie. Available through the Biodiversity Heritage Library website."
+    - Type of source: "Magazine"
+      Name: "Koninklijke Natuurkundige Vereeniging in Nederlandsch Indië. Natuurkundig tijdschrift voor Nederlandsch Indië. Jakarta (Batavia): Lange, 1851-1940"
+      Link: 
+        - DOI: "https://www.biodiversitylibrary.org/bibliography/13350"
+        - OCLC: "927107619"
+      Description and remarks: "Journal of the Physical Society from the former Dutch East Indies. Editions from 1851 through 1922 are available through the Biodiversity Heritage Library."
+    - Type of source: "Magazine"
+      Name: "Rijks Geologisch-Mineralogisch Museum. Sammlungen des Geologischen Reichs-Museums in Leiden. Leiden: Brill, 1891-1922."
+      Link: 
+        - OCLC: "72793114"
+        - ISSN: "1879-7814"
+      Description and remarks: "Journal of the Rijksmuseum van Geologie en Mineralogie published between 1891 and 1922 under the editorship of K. Martin. All editions are available through the [repository of Naturalis](https://repository.naturalis.nl/org/5)."
+  Secondary sources:
+    - Type of source: "Book"
+      Name: "Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995."
+      Link:
+        - OCLC: "69079231"
+        - Link: "https://repository.naturalis.nl/pub/268714"
+      Description and remarks: "Book from 1995 describing the history of the then Nationaal Natuurhistorisch Museum from 1820 through 1958. Contains structured information about the construction of the museum collection and the curators of the time."
+    - Type of source: "Book"
+      Name: "Gijzen, Agatha. 's Rijks Museum Van Natuurlijke Historie, 1820-1915. W.L. & J. Brusse, Rotterdam, 1938."
+      Link:
+        - OCLC: "896666422"
+        - Link: "https://repository.naturalis.nl/pub/631350"
+      Description and remarks: "Dissertation from 1938 describing the history of the State Museum of Natural History from 1820 through 1915."
+    - Type of source: "Article"
+      Name: "de Groot, G.E. “Rijksmuseum Van Geologie En Mineralogie 1878-1978 : A Retrospect”. Scripta Geologica 48 (January 1978): 3–25."
+      Link:
+        - OCLC: "899054688"
+        - Link: "https://repository.naturalis.nl/pub/317444"
+      Description and remarks: "Article from 1978 describing the history of the Rijksmuseum van Geolgie en Mineralogie from 1878 through 1978."
+    - Type of source: "Article"
+      Name: "Husson, A.M., and Lipke Holthuis. “The Dates of Publication of "verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen" Edited by C. J. Temminck”. Zoologische Mededelingen 34, no. 2 (January 1955): 17–24."
+      Link: 
+        - OCLC: "67808542"
+        - Link: "https://repository.naturalis.nl/pub/318953"
+      Description and remarks: "Article from 1955 outlining and describing all publications of the journal Verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen."
+    - Type of source: "Article"
+      Name: "Andreas, Weber. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” Bmgn: Low Countries Historical Review."
+      Link:
+        - OCLC: "9627499338"
+        - DOI: "https://doi.org/10.18352/bmgn-lchr.10741"
+      Description and remarks: "Article about the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)."
