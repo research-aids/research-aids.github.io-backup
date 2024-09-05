@@ -8,6 +8,12 @@ RelatedAides:
   - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "broader"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/English/Naturalis_20270710.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

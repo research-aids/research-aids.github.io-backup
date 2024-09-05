@@ -11,6 +11,18 @@ RelatedAides:
   - "Ambtenaren":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

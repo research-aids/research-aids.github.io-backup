@@ -23,6 +23,9 @@ RelatedAides:
   - "Christian mission":
         link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "narrower"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

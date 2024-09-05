@@ -20,8 +20,23 @@ RelatedAides:
   - "Christian mission":
         link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "narrower"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "example"
+  - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+        link: "niveau3/English/KITLV_20240704.yml"
+        rel_type: "example"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/English/Naturalis_20270710.yml"
+        rel_type: "example"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "example"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "example"
 
 Main-text:

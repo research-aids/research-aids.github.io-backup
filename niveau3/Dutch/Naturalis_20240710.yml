@@ -14,6 +14,9 @@ RelatedAides:
   - "Ambtenaren":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden": 
         link: "niveau3/Dutch/KKZ_20240313.yml"
         rel_type: "see also"
@@ -22,6 +25,9 @@ RelatedAides:
         rel_type: "see also"
   - "Wageningen University & Research":
         link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
         rel_type: "see also"
 
 Relevant data:

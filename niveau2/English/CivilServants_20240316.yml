@@ -17,9 +17,9 @@ RelatedAides:
   - "Pieter H. Pott":
         link: "niveau3/English/PieterPott_20240508.yml"
         rel_type: "Example"
-  - "Wageningen University & Research":
-        link: "niveau3/English/WageningenUniversity_20240508.yml"
-        rel_type: "Example"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "niveau3/English/BGKW_20240905.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

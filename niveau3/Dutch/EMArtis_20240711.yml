@@ -20,12 +20,21 @@ RelatedAides:
   - "Handel":
         link: "niveau2/Dutch/Trade_20240326.yml"
         rel_type: "See also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ_20240313.yml"
         rel_type: "See also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "See also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "See also"
+  - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

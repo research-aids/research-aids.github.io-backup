@@ -5,9 +5,42 @@ Title: "Science"
 Abstract: "The colonial territories formed a research basis for many (new) scientific disciplines. In the context of this research, many types of objects found their way from the colonized territories to European museums."
 
 RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+  - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "broader"
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "narrower"
+  - "Civil servants": 
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Christian mission":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "narrower"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "niveau3/English/BGKW_20240905.yml"
+        rel_type: "see also"
+  - "Artis Etnographic Museum":
+        link: "niveau3/English/EMArtis_20240712.yml"
+        rel_type: "see also"
+  - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+        link: "niveau3/English/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/English/Naturalis_20270710.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/English/WMRotterdam_2040822.yml"
+        rel_type: "see also"
+  - "Wageningen University & Research":
+        link: "niveau3/English/WageningenUniversity_20240508.yml"
+        rel_type: "see also"
 
 Relevant data: 
   Tags:

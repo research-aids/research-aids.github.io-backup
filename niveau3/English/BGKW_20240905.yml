@@ -5,9 +5,21 @@ Title: "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen"
 Abstract: "The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society of Arts and Sciences) is a society founded in 1778 that assigned itself the task of promoting the (fine) arts and sciences in the former Dutch East Indies. After 1962, the Society's collection was incorporated within the National Museum of Indonesia."
 
 RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+  - "Civil servants":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+        link: "niveau3/English/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/English/Naturalis_20270710.yml"
+        rel_type: "see also"
+  - "Artis Etnographic Museum":
+        link: "niveau3/English/EMArtis_20240712.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

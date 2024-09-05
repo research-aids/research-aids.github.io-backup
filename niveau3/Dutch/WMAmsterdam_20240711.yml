@@ -5,9 +5,31 @@ Title: "Wereldmuseum Amsterdam"
 Abstract: "Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw ontstaan uit verschillende koloniale collecties."
 
 RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "narrower"
+  - "Handel":
+        link: "niveau2/Dutch/Handel_20240326.yml"
+        rel_type: "narrower"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        rel_type: "narrower"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Ethnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
+
 
 Relevant data:
   Identifiers:

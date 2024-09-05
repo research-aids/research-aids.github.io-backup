@@ -5,9 +5,30 @@ Title: "Wereldmuseum Rotterdam"
 Abstract: "Today's Wereldmuseum Rotterdam was founded in the nineteenth century and has a large collection of objects from Asia, Oceania, Africa and America."
 
 RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "narrower"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "narrower"
+  - "Military and navy":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "narrower"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Ethnographic Museum Artis":
+        link: "niveau3/English/EMArtis_20240712.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "See also"
 
 Relevant data:
   Identifiers:

@@ -23,6 +23,9 @@ RelatedAides:
   - "Zending en Missie":
         link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
         rel_type: "narrower"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

@@ -73,4 +73,20 @@ Breakdown:
           - "Nederlandsch Zendeling Genootschap": 
               link: "niveau3/Dutch/NZG_20240314.yml"
               rel_type: "see also"
+    - "Wetenschappelijk onderzoek in de koloniën":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/Dutch/BGKW_20240827.yml"
+              rel_type: "see also"
+          - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
+              link: "niveau3/Dutch/KITLV_20240704.yml"
+              rel_type: "see also"
+          - "Naturalis Biodiversity Center":
+              link: "niveau3/Dutch/Naturalis_20240710.yml"
+              rel_type: "see also"
+          - "Wageningen University & Research":
+              link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+              rel_type: "see also"
   Locaties: []

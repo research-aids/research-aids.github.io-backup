@@ -8,6 +8,12 @@ RelatedAides:
   - "Ambtenaren":
         link: "niveau2/Dutch/Ambtenaren_20240320.ymll"
         rel_type: "broader"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

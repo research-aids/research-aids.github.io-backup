@@ -13,6 +13,9 @@ RelatedAides:
   - "Nederlandsch Zendeling Genootschap": 
         link: "niveau3/English/NZG_20240508.yml"
         rel_type: "example"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

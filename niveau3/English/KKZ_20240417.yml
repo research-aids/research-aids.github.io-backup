@@ -14,6 +14,12 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "example"
+  - "Artis Etnographic Museum":
+        link: "niveau3/English/EMArtis_20240712.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "See also"
 
 Relevant data:
   Identifiers:

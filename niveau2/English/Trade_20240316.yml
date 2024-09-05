@@ -17,6 +17,9 @@ RelatedAides:
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
   - "Groote Koninklijke Bazar":
         link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
         rel_type: "Example"
@@ -29,6 +32,19 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Etnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
+
 
 Relevant data:
   Tags:

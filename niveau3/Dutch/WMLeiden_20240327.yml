@@ -26,6 +26,21 @@ RelatedAides:
   - "Pieter H. Pott":
         link: "niveau3/Dutch/PieterPott_20240312.yml"
         rel_type: "see also"
+  - "Etnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

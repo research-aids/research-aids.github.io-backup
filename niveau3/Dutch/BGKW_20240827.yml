@@ -5,9 +5,21 @@ Title: "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen"
 Abstract: "Het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen is een in 1778 opgericht genootschap dat zichzelf de taak toedichte de (schone) kunsten en wetenschappen in voormalig Nederlands-Indië te bevorderen. Na 1962 is de collectie van het Genootschap opgegaan in het Nationale Museum van Indonesië."
 
 RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+  - "Ambtenaren":
+        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
+        link: "niveau3/Dutch/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        rel_type: "see also"
+  - "Ethnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
