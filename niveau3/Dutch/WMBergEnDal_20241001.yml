@@ -1,0 +1,93 @@
+Level: 3
+
+Title: "Wereldmuseum Berg en Dal"
+
+Abstract: "Het Wereldmuseum Berg en Dal, voorheen Afrika Museum, was een museum in Berg en Dal dat in 1954 werd opgericht als onderdeel van de Congegratie van de Heilige Geest. Vanaf 2014 was het onderdeel van het Nationaal Museum van Wereldculturen, tot het in 2023 de deuren sloot."
+
+RelatedAides:
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "narrower"
+  - "Handel":
+        link: "niveau2/Dutch/Handel_20240326.yml"
+        rel_type: "narrower"
+  - "Leger en Marine":
+        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        rel_type: "narrower"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Ethnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "See also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q2470853"
+  Name variations:
+    - "Afrika Museum"
+    - "Afrika Musem, Berg en Dal"
+    - "Nationaal Museum van Wereldculturen"
+  Tags:
+    Activity:
+      - "[Collectie](http://vocab.getty.edu/aat/300025976)"
+    Type of objects: 
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Afrika](https://www.geonames.org/6255146/)"
+  Period of activity:
+    Year of start: "1954"
+    Year of end: "2023"
+  Collections:
+    General remarks:
+      content: |
+        Toen het Afrika Museum onderdeel ging uitmaken van het Nationaal Museum van Wereldculturen is de voormalige collectie in bruikleen genomen door de overkoepelende stichting, sinds de sluiting van het museum is er een dispuut ontstaan over wie de eigenaar van de collectie is. In de collectie van het Wereldmuseum zijn objecten uit het Afrika Museum te herkennen aan het kenmerk AM.
+      content-type: text/markdown
+    Within the Data Hub: "https://app.colonialcollections.nl/nl/objects?query=AM&publishers=Wereldmuseum"
+      
+Main-text:
+  content: |
+    ### Beschrijving
+    
+    Het Wereldmuseum Berg en Dal, hierna Afrika Museum, werd in 1954 opgericht door de [Congregatie van de Heilige Geest](https://missie-geest.nl/) (ook wel afgekort als CSSp) in de villa Ooster Meerwijk. Al snel ontstond er een gebrek aan ruimte om de door missionarissen meegenomen voorwerpen uit Afrikaanse landen tentoon te stellen, zodoende werd het museum in 1957 uitgebreid met het museumgebouw wat tot de sluiting in 2023 dienst heeft gedaan. Hoewel de collectie in eerste instantie dus bestond uit objecten die door missionarissen werden geschonken, breidde dit in de tweede helft van de twintigste eeuw uit naar schenkingen van in Afrika wonende leken, Afrikaanse ambassades en uiteindelijk ook via aankopen. 
+    
+    Al in 1956 werd het museum uitgebaat door de Stichting Afrika Museum en kreeg het, naast de collectie, een jaarlijkse bijdrage van de Congregatie van de Heilige Geest. Vanwege deze zelfstandige positie kwam de aandacht gedurende de jaren '60 en '70 meer op de wetenschappelijke benadering van Afrikaanse culturele objecten te liggen en ontstond er een samenwerking met de, toen nog, Rooms-katholieke Radboud Universiteit in Nijmegen. In 1974 besloot de congregatie haar bijdrage aan het museum stop te zetten, waarna het Afrika Museum geheel afhankelijk werd van subsidies van de overheid. De museumgrond werd nadien door de congregatie ter beschikking gesteld en het pand voor een klein bedrag verhuurd aan de Stichting Afrika Museum. De collectie werd in bruikleen afgestaan. 
+    
+    Het Afrika Museum is bekend om de replica's van verschillende Afrikaanse woningen die op het terrein te bezoeken waren. Dit buitenmuseum en tevens dierenpark, werd in 1958 gesticht en in 1987 uitgebreid. In 2014 werd het Afrika Museum in het kader van het toenmalige centralisatiebeleid samengevoegd met [Museum Volkenkunde]() in Leiden, [het Tropenmuseum]() in Amsterdam en later ook [het Wereldmuseum]() in Rotterdam, deze musea gaan sinds 2023 verder onder de naam Wereldmuseum.
+    
+    In 2021 ontstond er een geschil tussen de stichting Nationaal Museum van Wereldculturen en de Congregatie van de Heilige Geest over de koers van het museum. De standpunten van de stichting, die het museumgebouw huurt en een deel van de collectie in bruikleen heeft van de congregatie, lagen zover uiteen, dat is besloten het museum eind 2023 te sluiten. Tot op heden is niet bekend wat de toekomst van het museum en haar collectie is.
+    
+    ### Herkomstonderzoek
+    
+    De collectie van het Afrika Museum is binnen de collectie van het Wereldmuseum te herkennen aan het kenmerk AM. Sinds het dispuut over de koers van het museum is de toekomst van de collectie van het Afrika Museum onduidelijk. Gedeeltelijk is het in nog in eigendom van de Congregatie van de Heilige Geest, het andere deel is eigendom van het Wereldmuseum. 
+    
+    De archieven van de Congregatie van de Heilige Geest zijn beschikbaar via het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/) in Sint-Agatha. Onder 'Overige deelarchieven' bevindt zich het archief van de Stichting Afrika Museum. Ook in de overige archieven van de congregatie zijn stukken te vinden met betrekking tot het Afrika Museum. Voor het inzien van archiefstukken is vooraf toestemming nodig van het provinciaal bestuur. Deze toestemming kan via het Erfgoedcentrum Nederlands Kloosterleven worden aangevraagd door een e-mail te sturen naar <studiezaal@erfgoedkloosterleven.nl>.
+    
+    Voor specifieke informatie over objecten kan ook contact op worden genomen met het Wereldmuseum via <collectieinfo@wereldmuseum.nl>. In de museumdatabase bevinden zich de originele inventariskaartjes en handgeschreven objectregisters.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Archief"
+      Name: "AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum"
+      Link: "https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4"
+      Description and remarks: "Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten."
+  Secondary sources:
+    - Type of source: "Boek"
+      Name: "Grootaers, Jan-Lodewijk, Ineke Eisenburger, and Annemieke Van Damme. Vormen van Verwondering : De Geschiedenis En de Collecties van Het Afrika Museum, Berg En Dal. Berg en Dal: Afrika Museum, 2002."
+      Link:
+        - OCLC: "66932031"
+        - ISBN: "9789071611131, 9071611132"
+      Description and remarks: "Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde."
