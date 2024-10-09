@@ -56,7 +56,7 @@ Relevant data:
   Collections:
     General remarks:
       content: |
-        "Since 2017, the Wereldmuseum Rotterdam has been a part of the National Museum of World Cultures associatoin. However, the museum's collection is still officially owned by the Municipality of Rotterdam.”
+        "Since 2017, the Wereldmuseum Rotterdam has been a part of the National Museum of World Cultures associatoin. However, the Municipality of Rotterdam is still officially the owner of the museum's collection."
       content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=WM"
       
@@ -75,6 +75,8 @@ Main-text:
     The collection of the Wereldmuseum Rotterdam is accessible via the Datahub and the [collection website](https://collectie.wereldmuseum.nl/) of the Wereldmuseum, the collection of the Wereldmuseum can be identified by the attribute 'WM'. Specific questions regarding the collection of the Wereldmuseum Rotterdam can be asked through <collectieinfo@wereldmuseum.nl>.
     
     The Wereldmuseum Rotterdam archives are located in the Rotterdam City Archives. Note that the archives are divided into two parts, an [archive from 1883 to 1960](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105) and an [archive from 1961 to 1990](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67). Both archives are structured in a similar manner. Records related to the collection can be found in both accesses under the heading “Collectievorming en beheer” in the “Taken” section.
+
+    The photograph collection of the Wereldmuseum Rotterdam has been transferred to the Nederlands Fotomuseum. You can find the photgraph collection of the Wereldmuseum Rotterdam by searching for 'WMR*' within the Nederlands Fotomuseum's [collection database](https://collectie.nederlandsfotomuseum.nl/collectie).
     
     For any restitution requests, it is important to bear in mind that the Municipality of Rotterdam is the owner of the Wereldmuseum Rotterdam collection and not the Dutch state. What this means for the restitution policy can be found in the finding aid [Restitution Policy Netherlands].
   content-type: text/markdown
