@@ -23,6 +23,20 @@
                 "rel_type": "example",
                 "linkFilename": "niveau3/English/WMLeiden_English"
             }
+        },
+        {
+            "Artis Etnographic Museum": {
+                "link": "niveau3/English/EMArtis_20240712.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/EMArtis_English"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/English/WMAmsterdam_20240809.yml",
+                "rel_type": "See also",
+                "linkFilename": "niveau3/English/WMAmsterdam_English"
+            }
         }
     ],
     "Relevant data": {

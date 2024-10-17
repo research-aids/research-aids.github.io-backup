@@ -44,6 +44,13 @@
                 "rel_type": "narrower",
                 "linkFilename": "niveau2/English/ChristianMission_English"
             }
+        },
+        {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
         }
     ],
     "Main-text": {

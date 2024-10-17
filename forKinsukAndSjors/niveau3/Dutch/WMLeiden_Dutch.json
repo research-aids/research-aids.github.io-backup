@@ -51,6 +51,41 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/PieterPott_Dutch"
             }
+        },
+        {
+            "Etnografisch Museum Artis": {
+                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+            }
+        },
+        {
+            "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
+                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "rel_type": "See also",
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+            }
         }
     ],
     "Relevant data": {

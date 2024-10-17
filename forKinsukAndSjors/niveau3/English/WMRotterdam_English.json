@@ -1,0 +1,139 @@
+{
+    "Level": 3,
+    "Title": "Wereldmuseum Rotterdam",
+    "Abstract": "Today's Wereldmuseum Rotterdam was founded in the nineteenth century and has a large collection of objects from Asia, Oceania, Africa and America.",
+    "RelatedAides": [
+        {
+            "Sources": {
+                "link": "niveau1/English/Sources_20240501.yml",
+                "rel_type": "narrower",
+                "linkFilename": "niveau1/English/Sources_English"
+            }
+        },
+        {
+            "Trade": {
+                "link": "niveau2/English/Trade_20240316.yml",
+                "rel_type": "narrower",
+                "linkFilename": "niveau2/English/Trade_English"
+            }
+        },
+        {
+            "Military and navy": {
+                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+                "rel_type": "narrower",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+            }
+        },
+        {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
+        },
+        {
+            "Royal Cabinet of Curiosities": {
+                "link": "niveau3/English/KKZ_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KKZ_English"
+            }
+        },
+        {
+            "Ethnographic Museum Artis": {
+                "link": "niveau3/English/EMArtis_20240712.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/EMArtis_English"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "See also",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/English/WMAmsterdam_20240809.yml",
+                "rel_type": "See also",
+                "linkFilename": "niveau3/English/WMAmsterdam_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q2042754"
+        ],
+        "Name variations": [
+            "Museum voor Land- en Volkenkunde",
+            "Museum voor Volkenkunde",
+            "Wereldmuseum",
+            "Nationaal Museum van Wereldculturen"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Collection](http://vocab.getty.edu/aat/300025976)",
+                "[Ethnographic museum](http://vocab.getty.edu/page/aat/300451067)"
+            ],
+            "Type of objects": [
+                "[Etnografics](http://vocab.getty.edu/aat/300234108)"
+            ],
+            "Geographical": [
+                "[Africa](https://hdl.handle.net/20.500.11840/termmaster5838);",
+                "[Asia](https://www.geonames.org/6255147)",
+                "[North America](https://www.geonames.org/6255149)",
+                "[Oceania](https://www.geonames.org/6255151)",
+                "[South America](https://www.geonames.org/6255150)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1851",
+            "Year of end": "Now"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"Since 2017, the Wereldmuseum Rotterdam has been a part of the National Museum of World Cultures associatoin. However, the Municipality of Rotterdam is still officially the owner of the museum's collection.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?query=WM"
+        }
+    },
+    "Main-text": {
+        "content": "### Description\n\nToday's Wereldmuseum Rotterdam grew out of the Yacht Society (Yachtvereniging), founded in 1851, which was located on the Willemskade in Rotterdam. Members donated all kinds of objects to the society, such as ship models, but also ethnographic objects. Thus, in 1873 the [Maritiem Museum Prins Hendrik](http://www.wikidata.org/entity/Q2755458) was founded, named after the president of the Yacht Society. When [Prince Hendrik](http://www.wikidata.org/entity/Q705129) died in 1879 and the Yacht Society ceased to exist, the Municipality of Rotterdam decided to take over the building on Willemskade and the Society's collection. In 1883, the municipality decided that an ethnographic museum should also be located in the building. Thus, in 1885, the Museum of Geology and Ethnology (Museum voor Land- en Volkenkunde) opened its doors. Later the name was changed to Museum of Ethnology (Museum voor Volkenkunde).\n\nThe collection of the Museum of Geology and Ethnology initially consisted of all kinds of donations from sailors, traders and military personnel, among others. The donation of the collection of Javanese batiked canvases and other items by [Elie van Rijckevorsel](http://www.wikidata.org/entity/Q52155329), who later also took a seat on the Advisory Board of the museum, served as an encouragement to the municipality of Rotterdam to establish the ethnographic museum. From the beginning of the twentieth century there was, under the notion of the upcoming science of anthropology, more structured collecting. This included the organization of collecting trips. Much focus was given to the cultures on New Guinea.\n\nIt was not until 1961 that the Museum of Ethnology and the Maritiem Museum Prins Hendrik continued separately. Today, these are still separate municipal museums, but since the 1980s the collections of both museums are stored in the same depot. Since May 2017, the Wereldmuseum Rotterdam became part of the [National Museum of World Cultures](http://www.wikidata.org/entity/Q17153751) (NMVW) association. Since 2023, all museums within the NMVW continued under the name Wereldmuseum. The name of the museum in Rotterdam was thus specified to Wereldmuseum Rotterdam.\n\n### Provenance research\n\nThe collection of the Wereldmuseum Rotterdam is accessible via the Datahub and the [collection website](https://collectie.wereldmuseum.nl/) of the Wereldmuseum, the collection of the Wereldmuseum can be identified by the attribute 'WM'. Specific questions regarding the collection of the Wereldmuseum Rotterdam can be asked through <collectieinfo@wereldmuseum.nl>.\n\nThe Wereldmuseum Rotterdam archives are located in the Rotterdam City Archives. Note that the archives are divided into two parts, an [archive from 1883 to 1960](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105) and an [archive from 1961 to 1990](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67). Both archives are structured in a similar manner. Records related to the collection can be found in both accesses under the heading \u201cCollectievorming en beheer\u201d in the \u201cTaken\u201d section.\n\nThe photograph collection of the Wereldmuseum Rotterdam has been transferred to the Nederlands Fotomuseum. You can find the photgraph collection of the Wereldmuseum Rotterdam by searching for 'WMR*' within the Nederlands Fotomuseum's [collection database](https://collectie.nederlandsfotomuseum.nl/collectie).\n\nFor any restitution requests, it is important to bear in mind that the Municipality of Rotterdam is the owner of the Wereldmuseum Rotterdam collection and not the Dutch state. What this means for the restitution policy can be found in the finding aid [Restitution Policy Netherlands].\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam",
+                "Link": "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105",
+                "Description and remarks": "Archives of the Museum of Geology and Ethnology. This archive runs until 1960 because from then on the organizations of the Museum of Geology and Ethnology and the Maritiem Museum Prins Hendrik continued separately. Inventory numbers 282 through 302 contain records related to the formation of the collection."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam",
+                "Link": "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67",
+                "Description and remarks": "Archives of the Museum of Geology and Ethnology. This archive runs from 1961 because from then on the organizations of the Museum of Land and Ethnology and the Maritiem Museum Prins Hendrik continued separately. Inventory numbers 147 through 177 contain records related to the formation of the collection."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": "Book",
+                "Name": "Faber, Paul, Liane van der Linden and Ren\u00e9 Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.",
+                "Link": [
+                    "ISBN: 9789029080941",
+                    "OCLC: 905426025"
+                ],
+                "Description and remarks": "Book, and also catalog, dedicated to the exhibition Schatten van het Museum voor Volkenkunde Rotterdam. It contains a brief history of the museum and an extensive description of collections from various continents."
+            },
+            {
+                "Type of source": "Website",
+                "Name": "History Wereldmuseum. From Yachtclub to ethnographic museum",
+                "Link": "https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum",
+                "Description and remarks": "Website by the Wereldmuseum containing a short history of the museum in Rotterdam."
+            }
+        ]
+    },
+    "File name": "WMRotterdam"
+}

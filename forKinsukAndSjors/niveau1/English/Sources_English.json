@@ -39,10 +39,45 @@
             }
         },
         {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
+        },
+        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "example",
                 "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        },
+        {
+            "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
+                "link": "niveau3/English/KITLV_20240704.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/KITLV_English"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/English/Naturalis_20270710.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/Naturalis_English"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/English/WMAmsterdam_20240809.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMAmsterdam_English"
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/English/WMRotterdam_2040822.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/English/WMRotterdam_English"
             }
         }
     ],

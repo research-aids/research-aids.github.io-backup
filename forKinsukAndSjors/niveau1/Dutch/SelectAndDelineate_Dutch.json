@@ -44,6 +44,13 @@
                 "rel_type": "narrower",
                 "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
             }
+        },
+        {
+            "Wetenschap": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
         }
     ],
     "Main-text": {

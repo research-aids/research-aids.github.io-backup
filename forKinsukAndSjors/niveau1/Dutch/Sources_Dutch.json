@@ -39,10 +39,45 @@
             }
         },
         {
+            "Wetenschap": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "narrower",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "example",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+            }
+        },
+        {
+            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
+                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "rel_type": "example",
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
             }
         }
     ],

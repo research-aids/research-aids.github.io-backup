@@ -9,6 +9,20 @@
                 "rel_type": "broader",
                 "linkFilename": "niveau2/English/CivilServants_English"
             }
+        },
+        {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/English/Naturalis_20270710.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/Naturalis_English"
+            }
         }
     ],
     "Relevant data": {

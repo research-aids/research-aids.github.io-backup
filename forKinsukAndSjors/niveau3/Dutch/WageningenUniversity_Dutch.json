@@ -9,6 +9,20 @@
                 "rel_type": "broader",
                 "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
             }
+        },
+        {
+            "Wetenschap": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+            }
         }
     ],
     "Relevant data": {

@@ -18,6 +18,13 @@
             }
         },
         {
+            "Wetenschap": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
             "Nederlandsch Zendeling Genootschap": {
                 "link": "niveau3/Dutch/NZG_20240314.yml",
                 "rel_type": "example",

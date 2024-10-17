@@ -3,7 +3,7 @@
     "Title": "Digitale onderzoeksgids",
     "Subtitle": "Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties",
     "Content": {
-        "content": "Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. De zoekhulpen hebben als doel de gebruiker op weg te helpen in diens onderzoek naar objecten in Nederlandse collecties, die zijn verworven in een koloniale context. De zoekhulpen zijn op een intu\u00eftieve manier met elkaar verbonden, waardoor relevante informatie snel kan worden gevonden. Er zijn drie verschillende soorten zoekhulpen. Ten eerste zijn er algemene zoekhulpen die antwoord geven op vragen zoals 'Hoe kan ik de datahub gebruiken voor mijn onderzoek?' 'Waar kan ik bronnen vinden voor mijn onderzoek?' en 'Hoe schrijf ik een herkomstrapport?' Ten tweede zijn er zoekhulpen die informatie geven over algemene onderwerpen die betrekking hebben op koloniale collecties in Nederland, zoals de rol van ambtenaren, missionarissen en militairen in het verzamelen van objecten, of over de handel in voorwerpen afkomstig uit voormalige gekoloniseerde gebieden. Ten derde zijn er zoekhulpen die specifieke informatie bevatten over bijvoorbeeld musea, andere erfgoedinstellingen of individuele handelaren. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen de gebruiker specifieke tips voor het doen van onderzoek en wordt er verwezen naar relevant bronmateriaal.\n",
+        "content": "Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. De zoekhulpen hebben als doel de gebruiker op weg te helpen in diens onderzoek naar objecten die zijn verworven in een koloniale context en zich nu in een Nederlandse museumcollectie bevinden. De zoekhulpen zijn op een intu\u00eftieve manier met elkaar verbonden, waardoor relevante informatie snel kan worden gevonden. Er zijn drie verschillende niveaus. Ten eerste zijn er algemene zoekhulpen die antwoord geven op vragen zoals 'Hoe kan ik de datahub gebruiken voor mijn onderzoek?', 'Waar kan ik bronnen vinden voor mijn onderzoek?' en 'Hoe schrijf ik een herkomstrapport?'. Ten tweede zijn er zoekhulpen die informatie geven over algemene onderwerpen die betrekking hebben op koloniale collecties in Nederland, zoals de rol van ambtenaren, missionarissen, militairen en de wetenschap in het verzamelen van objecten, of over de handel in voorwerpen afkomstig uit voormalige gekoloniseerde gebieden. Ten derde zijn er zoekhulpen die specifieke informatie bevatten over bijvoorbeeld musea, andere erfgoedinstellingen of individuele handelaren. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen de gebruiker specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.\n",
         "content_type": "text/markdown"
     },
     "Breakdown": {
@@ -149,6 +149,43 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
+                }
+            },
+            {
+                "Wetenschappelijk onderzoek in de koloni\u00ebn": {
+                    "link": "niveau2/Dutch/Science_20240814.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
+                        {
+                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
+                                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+                            }
+                        },
+                        {
+                            "Naturalis Biodiversity Center": {
+                                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                            }
+                        },
+                        {
+                            "Wageningen University & Research": {
+                                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/Science_Dutch"
                 }
             }
         ],

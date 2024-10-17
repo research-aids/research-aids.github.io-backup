@@ -32,6 +32,13 @@
             }
         },
         {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
+        },
+        {
             "Groote Koninklijke Bazar": {
                 "link": "niveau3/Dutch/KoninklijkeBazar_20240313.yml",
                 "rel_type": "Example",
@@ -64,6 +71,27 @@
                 "link": "niveau3/Dutch/KKZ_20240313.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+            }
+        },
+        {
+            "Etnografisch Museum Artis": {
+                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
             }
         }
     ],
