@@ -95,19 +95,16 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.04.13 2.2.4.1.2.06",
-                "Link": "",
                 "Description and remarks": "Archive access within the archives of the Ministry of the Interior containing documents from the years 1875-1887 relating to the Royal Cabinet of Curiosities."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.04.01 4925-4954",
-                "Link": "",
                 "Description and remarks": "Concerns indices of the department for Kunsten en Wetenschappen of the Ministry of the Interior between 1824 and 1848. Correspondence about acquisitions can be traced through an index. The indices can be accessed online."
             },
             {
                 "Type op source": "Archive",
                 "Name": "NL-HaNA 2.04.01 4030",
-                "Link": "(Nog)  niet beschikbaar",
                 "Description and remarks": "Concerns outgoing letters from the king's secretary, including letters about donations. From the period 1815-1818, accessible online."
             },
             {
@@ -133,31 +130,50 @@
             {
                 "Type of source": "Book",
                 "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.",
-                "Identifier": "OCLC: 163275947",
+                "Link": [
+                    {
+                        "OCLC": "163275947"
+                    }
+                ],
                 "Description and remarks": "Dissertation by Rudolf Effert from 2003 about the history of the Royal Cabinet of Curiosities and the Rijks Etnografisch Museum (the current Wereldmuseum Leiden)."
             },
             {
                 "Type of source": "Book",
                 "Name": "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008.",
-                "Identifier": "ISBN: 9789057891595",
+                "Link": [
+                    {
+                        "ISBN": "9789057891595"
+                    }
+                ],
                 "Description and remarks": "English translation of Effert's dissertation."
             },
             {
                 "Type of source": "Catalog",
                 "Name": "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in \u2019s-Gravenhage. \u2019s Gravenhage, 1823.",
-                "Identifier": "OCLC: 63800039; Online beschikbaar via: https://play.google.com/books/reader?id=-p1RAAAAcAAJ",
+                "Link": [
+                    {
+                        "OCLC": "63800039"
+                    },
+                    "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
+                ],
                 "Description and remarks": "Manual for visiting the Royal Cabinet of Curiosities from 1823 by the director at the time, Reinier Pieter van de Kasteele."
             },
             {
                 "Type of source": "Catalog",
                 "Name": "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in \u2019s Gravenhage. \u2019s Gravenhage: A.H. Bakhuijzen, 1860.",
-                "Identifier": "OCLC: 899016583; Online beschikbaar via: http://archive.org/details/kortehandleiding00kast of https://play.google.com/books/reader?id=VQRSAAAAcAAJ",
+                "Link": [
+                    {
+                        "OCLC": "899016583"
+                    },
+                    "http://archive.org/details/kortehandleiding00kast",
+                    "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+                ],
                 "Description and remarks": "Manual for visiting the Royal Cabinet of Curiosities from 1860 by the director at that time, Abraham Anne van de Kasteele."
             },
             {
                 "Type of source": "Book chapter",
                 "Name": "Shatanawi, Mirjam. \u201cMuseum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.\u201d In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163\u201382. London; New York: Routledge, 2021. ",
-                "Identifier": "Volledig boek: https://doi.org/10.4324/9781003044789",
+                "Link": "https://doi.org/10.4324/9781003044789",
                 "Description and remarks": "Book chapter covering the partitioning of the objects of the Royal Cabinet of Curiosities in 1883."
             }
         ]
