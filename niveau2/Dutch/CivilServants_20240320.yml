@@ -71,23 +71,25 @@ Sources:
   Primary sources:
     - Type of source: "Almanak"
       Name: "Surinaamsche Almanak (1819-1846, 1887-1954)"
-      Link: "Beschikbaar via de [digitale bibliotheek voor de Nederlandse letteren](dbnl.org)."
+      Link: "https://www.dbnl.org/tekst/_sur001suri01_01/"
       Description and remarks: "Zoek op titel 'Surniaamsche Almanak'. Alle edities van de Surinaamsche Almanak tussen 1819-1846 en 1887-1954 zijn online toegankelijk via de website van de digtiale bibliotheek voor de Nederlandse letteren."
     - Type of source: "Almanak"
       Name: "Regeeringsalmanak voor Nederlandsch-Indië"
-      Link: "Edities van 1865 tot en met 1942 beschikbaar via [Delpher](https://www.delpher.nl/) en edities van 1865 tot en met 1912 beschikbaar via de digitale collecties van de [Staatsbibliothek zu Berlin](https://digital.staatsbibliothek-berlin.de/)"
-      Description and remarks: "Via Delpher zijn de edities vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'Regeringsalmanak Nederlandsch-Indië'. Bij de Staatsbiblitohek zu Berlin zijn de edities vindbaar door te zoeken op 'PPN718684745'."
+      Link: 
+        - "https://www.delpher.nl/"
+        - "https://digital.staatsbibliothek-berlin.de/"
+      Description and remarks: "Via Delpher zijn de edities van 1865 tot en met 1942 vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'Regeringsalmanak Nederlandsch-Indië'. Bij de Staatsbiblitohek zu Berlin zijn de edities van 1865 tot en met 1912 vindbaar door te zoeken op 'PPN718684745'."
     - Type of source: "Almanak"
       Name: "Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea (1856-1861)"
-      Link: "Beschikbaar via de [digitale bibliotheek voor de Nederlandse letteren](dbnl.org)."
+      Link: "https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00"
       Description and remarks: "Zoek op titel 'Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea'. De edities van 1856, 1858-1860 zijn online toegankelijk via de website van de digtiale bibliotheek voor de Nederlandse letteren."
     - Type of source: "Kamerstukken"
       Name: "Koloniaal Verslag"
-      Link: "Beschikbaar via de [officiële bekendmakingen](https://www.officielebekendmakingen.nl/) van de Nederlandse overheid."
+      Link: "https://www.officielebekendmakingen.nl/"
       Description and remarks: "Zoek binnen de selectie 'Kamerstukken' op 'Koloniaal Verslag'."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.10.02"
-      Link: ""
+      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf"
       Description and remarks: "Volledige inventaris van het archief van het Ministerie van Koloniën, 1850-1900."
   Secondary sources:
     - Type of source: "Zoekhulp"
@@ -104,12 +106,12 @@ Sources:
       Description and remarks: "Zoekhulp van het Nationaal Archief met een overzicht van alle archieftoegangen die betrekking hebben tot Nederlands-Indië en verdere informatie over het raadplegen van deze archieven."
     - Type of source: "Boek"
       Name: "Fasseur, Cees. De indologen: ambtenaren voor de Oost 1825-1950. Amsterdam: Bert Bakker, 1994."
-      Persistent identifier: 
+      Link: 
         - ISBN: "9789057137723"
         - OCLC: "66730672"
       Description and remarks: "Boek over het Indisch ambtenarenonderwijs. De schrijver gaat in op de achtergrond en herkomst van studenten en docenten."
     - Type of source: "Boek"
       Name: "Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015."
-      Persistent identifier:
+      Link:
         - OCLC: "921923079"
       Description and remarks: "Gids voor het doen van onderzoek in het archief van het Ministerie van Koloniën."
