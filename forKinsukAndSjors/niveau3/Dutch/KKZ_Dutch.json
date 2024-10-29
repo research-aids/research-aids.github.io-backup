@@ -137,40 +137,53 @@
             {
                 "Type of source": "Boek",
                 "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.",
-                "Persistent identifier": "OCLC: 163275947",
+                "Link": [
+                    {
+                        "OCLC": "163275947"
+                    }
+                ],
                 "Description and remarks": "Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum."
             },
             {
                 "Type of source": "Boek",
                 "Name": "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008.",
-                "Persistent identifier": [
-                    "ISBN: 9789057891595",
-                    "OCLC: 244247206"
+                "Link": [
+                    {
+                        "ISBN": "9789057891595"
+                    },
+                    {
+                        "OCLC": "244247206"
+                    }
                 ],
                 "Description and remarks": "Engelse vertaling van de dissertatie van Effert. Betreft de geschiedenis van het KKZ en het Rijksetnografisch Museum in Leiden."
             },
             {
                 "Type of source": "Catalogus",
                 "Name": "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in \u2019s-Gravenhage. \u2019s Gravenhage, 1823.",
-                "Persistent identifier": [
-                    "OCLC: 63800039",
-                    "Online beschikbaar via: https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
+                "Link": [
+                    {
+                        "OCLC": "63800039"
+                    },
+                    "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
                 ],
                 "Description and remarks": "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
             },
             {
                 "Type of source": "Catalogus",
                 "Name": "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in \u2019s Gravenhage. \u2019s Gravenhage: A.H. Bakhuijzen, 1860.",
-                "Persistent identifier": [
-                    "OCLC: 899016583",
-                    "Online beschikbaar via: http://archive.org/details/kortehandleiding00kast of https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+                "Link": [
+                    {
+                        "OCLC": "899016583"
+                    },
+                    "http://archive.org/details/kortehandleiding00kast",
+                    "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
                 ],
                 "Description and remarks": "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."
             },
             {
                 "Type of source": "Hoofdstuk in boek",
                 "Name": "Shatanawi, Mirjam. \u201cMuseum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.\u201d In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163\u201382. London; New York: Routledge, 2021. ",
-                "Link": "Volledig boek: https://doi.org/10.4324/9781003044789",
+                "Link": "https://doi.org/10.4324/9781003044789",
                 "Description and remarks": "Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandeld."
             }
         ]
