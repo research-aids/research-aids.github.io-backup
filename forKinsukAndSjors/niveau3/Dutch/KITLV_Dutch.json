@@ -93,71 +93,43 @@
             {
                 "Type of source": "Collectiegids",
                 "Name": "Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://collectionguides.universiteitleiden.nl/resources/ubl301"
-                    }
-                ],
+                "Link": "https://collectionguides.universiteitleiden.nl/resources/ubl301",
                 "Description and remarks": "Digitale toegang tot de collectie van het KITLV bij de universiteitsbibliotheek Leiden. Deze collectiegids geeft een uitgebreid overzicht van al het KITLV materiaal dat beschikbaar is via de UBL."
             },
             {
                 "Type of source": "Archieftoegang",
                 "Name": "Aziatische manuscripten (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0"
-                    }
-                ],
+                "Link": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0",
                 "Description and remarks": "Toegang tot de collectie Aziatische manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D Or'."
             },
             {
                 "Type of source": "Archieftoegang",
                 "Name": "Europese manuscripten (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0"
-                    }
-                ],
+                "Link": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0",
                 "Description and remarks": "Toegang tot de collectie Europese manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D H'."
             },
             {
                 "Type of source": "Digitale collectie",
                 "Name": "Maps (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps"
-                    }
-                ],
+                "Link": "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps",
                 "Description and remarks": "De kaartencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Via deze pagina heb je toegang tot 16.000 kaarten en 500 atlassen van Indonesi\u00eb, Suriname, de Nederlandse Antillen en Zuidoost Azi\u00eb, grotendeels uit de negentiende en twintigste eeuw."
             },
             {
                 "Type of source": "Digitale collectie",
                 "Name": "Southeast Asian & Caribbean Images (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos"
-                    }
-                ],
+                "Link": "https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos",
                 "Description and remarks": "De foto- en afbeeldingencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Rond 1890 begon het KITLV met het verzamelen van foto's om een beeld van de oostelijke en westelijke Nederlandse koloniale gebieden vast te leggen. Via deze website van de UBL heb je toegang tot een grote collectie foto's, prints en tekeningen."
             },
             {
                 "Type of source": "Digitale collectie",
                 "Name": "Oral History Archive SMGI (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://digitalcollections.universiteitleiden.nl/view/collection/smgi"
-                    }
-                ],
+                "Link": "https://digitalcollections.universiteitleiden.nl/view/collection/smgi",
                 "Description and remarks": "Via deze pagina heb je toegang tot de collectie interviews van de Stichting Mondelinge Geschiedenis Indonesi\u00eb. De collectie bevat audiobestanden en samenvattingen van interviews met 724 personen over hun ervaringen in voormalig Nederlands-Indi\u00eb."
             },
             {
                 "Type of source": "Digitale collectie",
                 "Name": "South East Asian Pop Music (KITLV)",
-                "Link": [
-                    {
-                        "URL": "https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic"
-                    }
-                ],
+                "Link": "https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic",
                 "Description and remarks": "Via deze pagina heb je toegang tot de collectie Zuidoost-Aziatische popmuziek van het KITLV, voornamelijk uit Indonesi\u00eb."
             }
         ],
