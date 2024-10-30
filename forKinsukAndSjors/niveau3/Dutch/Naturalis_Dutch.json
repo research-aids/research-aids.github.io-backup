@@ -119,7 +119,7 @@
                 "Name": "Haan, W. de, P. W. Korthals, Salomon M\u00fcller, H. Schlegel, C. J. Temminck, en Natuurkundige Commissie in Oost-Indi\u00eb. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839",
                 "Link": [
                     {
-                        "DOI": "https://doi.org/10.5962/bhl.title.114730"
+                        "URL": "https://doi.org/10.5962/bhl.title.114730"
                     },
                     {
                         "OCLC": "12686361 of 816811748"
@@ -132,7 +132,7 @@
                 "Name": "Koninklijke Natuurkundige Vereeniging in Nederlandsch Indie\u0308. Natuurkundig tijdschrift voor Nederlandsch Indie\u0308. Jakarta (Batavia): Lange, 1851-1940",
                 "Link": [
                     {
-                        "DOI": "https://www.biodiversitylibrary.org/bibliography/13350"
+                        "URL": "https://www.biodiversitylibrary.org/bibliography/13350"
                     },
                     {
                         "OCLC": "927107619"
@@ -163,7 +163,7 @@
                         "OCLC": "69079231"
                     },
                     {
-                        "Link": "https://repository.naturalis.nl/pub/268714"
+                        "URL": "https://repository.naturalis.nl/pub/268714"
                     }
                 ],
                 "Description and remarks": "Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren."
@@ -176,7 +176,7 @@
                         "OCLC": "896666422"
                     },
                     {
-                        "Link": "https://repository.naturalis.nl/pub/631350"
+                        "URL": "https://repository.naturalis.nl/pub/631350"
                     }
                 ],
                 "Description and remarks": "Dissertatie uit 1938 die de geschiedenis van het 's Rijks Museum van Natuurlijke historie van 1820 tot en met 1915 beschrijft."
@@ -189,7 +189,7 @@
                         "OCLC": "899054688"
                     },
                     {
-                        "Link": "https://repository.naturalis.nl/pub/317444"
+                        "URL": "https://repository.naturalis.nl/pub/317444"
                     }
                 ],
                 "Description and remarks": "Artikel uit 1978 dat de geschiedenis van het Rijksmuseum van Geolgie en Mineralogie van 1878 tot en met 1978 beschrijft."
@@ -202,7 +202,7 @@
                         "OCLC": "67808542"
                     },
                     {
-                        "Link": "https://repository.naturalis.nl/pub/318953"
+                        "URL": "https://repository.naturalis.nl/pub/318953"
                     }
                 ],
                 "Description and remarks": "Artikel uit 1955 waarin alle publicaties van het tijdschrift Verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen uiteen worden gezet en beschreven."
@@ -215,7 +215,7 @@
                         "OCLC": "9627499338"
                     },
                     {
-                        "DOI": "https://doi.org/10.18352/bmgn-lchr.10741"
+                        "URL": "https://doi.org/10.18352/bmgn-lchr.10741"
                     }
                 ],
                 "Description and remarks": "Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indi\u00eb."
