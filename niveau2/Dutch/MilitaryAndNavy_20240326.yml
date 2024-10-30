@@ -66,24 +66,29 @@ Sources:
   Primary sources:
     - Type of source: "Almanak"
       Name: "Regeeringsalmanak voor Nederlandsch-Indië"
-      Link: "https://www.delpher.nl/"
+      Link: 
+        - URL: "https://www.delpher.nl/"
       Description and remarks: "Edities van 1865 tot en met 1942 beschikbaar via Delpher en edities van 1865 tot en met 1912 beschikbaar via de digitale collecties van de Staatsbibliothek zu Berlin. Via Delpher zijn de edities vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'regeringsalmanak Nederlandsch-Indië. Bij de Staatsbiblitohek zu Berlin zijn de edities vindbaar door te zoeken op 'PPN718684745'."
     - Type of source: "Beeldcollectie"
       Name: "Nederlands Instituut voor Militaire Historie"
-      Link: "https://nimh-beeldbank.defensie.nl/"
+      Link: 
+        - URL: "https://nimh-beeldbank.defensie.nl/"
       Description and remarks: "De Beeldbank van het Nederlands Instituut voor Militaire Historie bevat historisch beeldmateriaal."
     - Type of source: "Museum"
       Name: "Museum Bronbeek"
-      Link: "https://www.defensie.nl/onderwerpen/bronbeek"
+      Link: 
+        - URL: "https://www.defensie.nl/onderwerpen/bronbeek"
       Description and remarks: "Museum Bronbeek is een kenniscentrum van het koloniaal-militair verleden van Nederland. De nadruk ligt op Nederlands-Indië, maar er is ook materiaal uit andere koloniën aanwezig. U kunt contact opnemen met de medewerkers om informatie te vragen over een bepaalde militair of gebeurtenis."
     - Type of source: "Webportal"
       Name: "Nederlands Militair Erfgoed"
-      Link: "https://nlme.nl/"
+      Link: 
+        - URL: "https://nlme.nl/"
       Description and remarks: "Nederlands Militair Erfgoed is een portal met militaire bronnen uit verschillende collecties in Nederland, waaronder beeldmateriaal, tijdschriften en boeken. Voor herkomstonderzoek zijn met name de officiersboekjes en de historische tijdschriften van belang."
   Secondary sources:
     - Type of source: "Artikel"
       Name: "Witkam, Jan Just. 'Teuku Panglima Polem’s Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104."
-      Link: "https://doi.org/10.1163/1878464X-01001006"
+      Link: 
+        - URL: "https://doi.org/10.1163/1878464X-01001006"
       Description and remarks: "Artikel over Teuku Panglima Polem, een Atjehse leider tijdens de koloniale oorlog die Nederland voerde in Atjeh."
     - Type of source: "Boek"
       Name: "Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007."
@@ -93,6 +98,6 @@ Sources:
       Description and remarks: "Boek naar aanleiding van een conferentie in de Nieuwe Kerk, Amsterdam, in 2006. Het boek focust op het verzamelen van objecten in voormalig Nederlands-Indië, met daarbij ook aandacht voor militairen."
     - Type of source: "Zoekhulp"
       Name: "Militairen en Marinepersoneel"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
       Description and remarks: "Zoekhulp van het Nationaal Archief over Nederlandse militairen en marinepersoneel. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: 'zie verder' met het betreffende paginanummer."
-
