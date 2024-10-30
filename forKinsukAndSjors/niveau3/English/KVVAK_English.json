@@ -111,37 +111,61 @@
             {
                 "Type of source": "Article",
                 "Name": "Southworth, W. \u201cTwelve Stone Sculptures from Java\u201d. The Rijksmuseum Bulletin 65 (3):244-75 Amsterdam: Rijksmuseum, 2017.",
-                "Persistent identifier": "https://doi.org/10.52476/trb.9791",
+                "Link": [
+                    {
+                        "URL": "https://doi.org/10.52476/trb.9791"
+                    }
+                ],
                 "Description and remarks": "This article examines the history and provenance of a group of twelve stone statues from Java. All twelve are Hindu-Buddhist images from the Central Java period from the eighth to the tenth century AD. The statues were purchased by the Royal Asian Art Society in 1932."
             },
             {
                 "Type of source": "Article",
                 "Name": "Southworth, William. \u201cThe Provenance of Four Sandstone Sculptures from Cambodia\u201d. The Rijksmuseum Bulletin 61 (2):140-71, Amsterdam: Rijksmuseum, 2013.",
-                "Persistent identifier": "https://doi.org/10.52476/trb.10069",
+                "Link": [
+                    {
+                        "URL": "https://doi.org/10.52476/trb.10069"
+                    }
+                ],
                 "Description and remarks": "This article examines the acquisition and provenance of four sculptures from Cambodia in the Rijksmuseum's collection. The sculptures were acquired by the KVVAK in the early 1930s."
             },
             {
                 "Type of source": "Book",
                 "Name": "Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014.",
-                "Persistent identifier": "OCLC: 907556128",
+                "Link": [
+                    {
+                        "OCLC": "907556128"
+                    }
+                ],
                 "Description and remarks": "This book presents 119 highlights from the Rijksmuseum's Asian art collection. Objects from India, Southeast Asia, Korea, Japan and China are introduced in essays by curators."
             },
             {
                 "Type of source": "Catalog",
                 "Name": "Lim, K.W., et all. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.",
-                "Persistent identifier": "OCLC: 63330271",
+                "Link": [
+                    {
+                        "OCLC": "63330271"
+                    }
+                ],
                 "Description and remarks": "A catalog containing all objects acquired in the first 60 years of the KVVAK."
             },
             {
                 "Type of source": "Catalog",
                 "Name": "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
-                "Persistent identifier": "OCLC: 1156720537",
+                "Link": [
+                    {
+                        "OCLC": "1156720537"
+                    }
+                ],
                 "Description and remarks": "Exhibition catalog of the KVVAK from 1954."
             },
             {
                 "Type of source": "Magazine",
                 "Name": "Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 \u2013 Nu.",
-                "Persistent identifier": "ISSN: 2543-1749",
+                "Link": [
+                    {
+                        "ISSN": "2543-1749"
+                    }
+                ],
                 "Beschrijving en opmerkingen": "The journal of the KVVAK issued by Brill publishers."
             }
         ]
