@@ -51,32 +51,36 @@ Sources:
   Primary sources:
     - Type of source: "Archive"
       Name: "NL-UtHUA 1102-1 1"
-      Persistent identifier: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
+      Link:
+        - URL: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
       Description and remarks: "Includes documents from individual missionaries. In particular, the section on publicity (1.2.2.6.8) contains documents on objects and exhibitions."
     - Type of source: "Archive"
       Name: "NL-RtSA 563  298"
-      Persistent identifier: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
+      Link:
+        - URL: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
       Description and remarks: "Correspondence from the NZG regarding donations to the Museum voor Land- en Volkenkunde (the current Wereldmuseum Rotterdam)."
   Secondary sources:
     - Type of source: "Book"
       Name: "Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelinghuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874."
-      Persistent identifier: 
-        - "OCLC: 993621798"
-        - "Google Books ID: zoOCOEgNA4AC"
+      Link: 
+        - OCLC: "993621798"
+        - Google Books ID: "zoOCOEgNA4AC"
       Description and remarks: "Catalog from 1874 containing lists of objects owned by the NZG."
     - Type of source: "Article"
       Name: "“Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92."
-      Link: "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
+      Link:
+        - URL: "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
       Description and remarks: "List from 1862 of objects owned by the NZG."
     - Type of source: "Article"
       Name: "Djajasoebrata, Alit M.L.R. “To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.” In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002."
-      Persistent identifier: "ISBN: 9789057890789"
+      Link:
+       - ISBN: "9789057890789"
       Description and remarks: "Book on the history of ethnographic collecting in Indonesia. It also covers the collection of the NZG."
     - Type of source: "Article"
       Name: "Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97."
-      Persistent identifier: 
-        - "ISSN: 2214-1111"
-        - "OCLC: 844374705"
+      Link: 
+        - ISSN: "2214-1111"
+        - OCLC: "844374705"
       Description and remarks: "Article on the early collection of the NZG."
     - Type of source: "Magazine"
       Name: "Mededeelingen van wege het Nederlandsche Zendelinggenootschap"
