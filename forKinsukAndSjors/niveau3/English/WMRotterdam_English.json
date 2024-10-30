@@ -107,13 +107,21 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam",
-                "Link": "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105"
+                    }
+                ],
                 "Description and remarks": "Archives of the Museum of Geology and Ethnology. This archive runs until 1960 because from then on the organizations of the Museum of Geology and Ethnology and the Maritiem Museum Prins Hendrik continued separately. Inventory numbers 282 through 302 contain records related to the formation of the collection."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam",
-                "Link": "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67"
+                    }
+                ],
                 "Description and remarks": "Archives of the Museum of Geology and Ethnology. This archive runs from 1961 because from then on the organizations of the Museum of Land and Ethnology and the Maritiem Museum Prins Hendrik continued separately. Inventory numbers 147 through 177 contain records related to the formation of the collection."
             }
         ],
@@ -122,15 +130,23 @@
                 "Type of source": "Book",
                 "Name": "Faber, Paul, Liane van der Linden and Ren\u00e9 Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.",
                 "Link": [
-                    "ISBN: 9789029080941",
-                    "OCLC: 905426025"
+                    {
+                        "ISBN": "9789029080941"
+                    },
+                    {
+                        "OCLC": "905426025"
+                    }
                 ],
                 "Description and remarks": "Book, and also catalog, dedicated to the exhibition Schatten van het Museum voor Volkenkunde Rotterdam. It contains a brief history of the museum and an extensive description of collections from various continents."
             },
             {
                 "Type of source": "Website",
                 "Name": "History Wereldmuseum. From Yachtclub to ethnographic museum",
-                "Link": "https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum",
+                "Link": [
+                    {
+                        "URL": "https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum"
+                    }
+                ],
                 "Description and remarks": "Website by the Wereldmuseum containing a short history of the museum in Rotterdam."
             }
         ]
