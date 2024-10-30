@@ -85,20 +85,23 @@ Sources:
   Primary sources:
     - Type of source: "Archief"
       Name: "NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam"
-      Link: "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105"
       Description and remarks: "Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt tot 1960 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 282 tot en met 302 zijn archiefstukken te vinden met betrekking tot de collectievorming."
     - Type of source: "Archief"
       Name: "NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam"
-      Link: "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67"
       Description and remarks: "Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt vanaf 1961 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 147 tot en met 177 zijn archiefstukken te vinden met betrekking tot de collectievorming."
   Secondary sources:
     - Type of source: "Boek"
       Name: "Faber, Paul, Liane van der Linden en René Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987."
       Link: 
-        - "ISBN: 9789029080941"
-        - "OCLC: 905426025"
+        - ISBN: "9789029080941"
+        - OCLC: "905426025"
       Description and remarks: "Boek, en tevens catalogus, ter ere van de tentoonstelling Schatten van het Museum voor Volkenkunde Rotterdam. Bevat een korte geschiedenis van het museum en een uitgebreide beschrijving van collecties uit verschillende werelddelen."
     - Type of source: "Website"
       Name: "Geschiedenis Wereldmuseum. Van Yachtclub naar volkenkundig museum"
-      Link: "https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum"
+      Link: 
+        - URL: "https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum"
       Description and remarks: "Website van het Wereldmuseum met een korte geschiedenis van het museum in Rotterdam."
