@@ -120,16 +120,19 @@ Sources:
       Name: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
       Link: 
         - OCLC: "63800039" 
-        - "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
+        - Link: "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
       Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
     - Type of source: "Catalogus"
       Name: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
       Link: 
         - OCLC: "899016583"
-        - "http://archive.org/details/kortehandleiding00kast"
-        - "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+        - Link: "http://archive.org/details/kortehandleiding00kast"
+        - Link: "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
       Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."
     - Type of source: "Hoofdstuk in boek"
       Name: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "
-      Link: "https://doi.org/10.4324/9781003044789"
+      Link: 
+        - DOI: "https://doi.org/10.4324/9781003044789"
+        - OCLC: "1201682297"
+        - ISBN: "9780367491499"
       Description and remarks: "Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandeld."
