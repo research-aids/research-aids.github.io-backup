@@ -71,22 +71,27 @@ Sources:
   Primary sources:
     - Type of source: "Publicatie"
       Name: "Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen"
-      Link: "https://www.biodiversitylibrary.org/bibliography/7371"
+      Link: 
+        - URL: "https://www.biodiversitylibrary.org/bibliography/7371"
       Description and remarks: "Het tijdschrift dat vanaf 1779 door het Bataviaasch Genootschap werd gepubliceerd. Op de website van de Biodiversity Heritage Library zijn veel edities terug te vinden."
     - Type of source: "Notulen"
       Name: "Notulen van de Algemeene en Directie-vergaderingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen"
-      Link: "http://hdl.handle.net/1887.1/item:1112865"
+      Link: 
+        - URL: "http://hdl.handle.net/1887.1/item:1112865"
       Description and remarks: "De notulen van vergaderingen van het Bataviaasch Genootschap, die vanaf de jaren 1860 werden gepubliceerd. Die van 1864 tot en met die van 1922 zijn beschikbaar via de universiteitsbibliotheek van de Universiteit Leiden."
     - Type of source: "Archief"
       Name: "K 75. Inventaris Arsip Tekstual Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (KBG) (1778-1962)"
-      Link: "https://anri.go.id/"
+      Link: 
+        - URL: "https://anri.go.id/"
       Description and remarks: "Het archief van het Bataviaasch Genootschap is gelegen bij het ANRI in Jakarta. De inventaris van het archief is te downloaden via de website van het ANRI (in het Indonesisch)."
     - Type of source: "Tijdschrift"
       Name: "Tijdschrift voor Indische taal- land- en volkenkunde"
-      Link: "https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html"
+      Link: 
+        - URL: "https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html"
       Description and remarks: "Tijdschrift dat door het Bataviaasch Genootschap werd gepubliceerd. Verschillende edities zijn beschikbaar via het KITLV. Op de bovenstaande pagina zijn ook andere bronnen met betrekking tot het Bataviaasch Genootschap te vinden."
   Secondary sources:
     - Type of source: "Boek"
       Name: "Groot, Hans. Van Batavia naar Weltevreden: Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Amsterdam: Brill, 2009"
-      Link: "http://library.oapen.org/handle/20.500.12657/34657"
+      Link: 
+        - URL: "http://library.oapen.org/handle/20.500.12657/34657"
       Description and remarks: "Boek van Hans de Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap."
