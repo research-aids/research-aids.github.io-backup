@@ -66,24 +66,29 @@ Sources:
   Primary sources:
     - Type of source: "Almanac"
       Name: "Regeeringsalmanak voor Nederlandsch-Indië"
-      Link: "https://www.delpher.nl/"
+      Link:
+        - URL: "https://www.delpher.nl/"
       Description and remarks: "Via Delpher, the editions can be found by selecting the title 'Regeringsalmanak Nederlandsch-Indië' within the periodicals section. At the Staatsbibliothek zu Berlin, the editions can be found by searching PPN718684745."
     - Type of source: "Image colllection"
       Name: "Nederlands Instituut voor Militaire Historie"
-      Link: "https://nimh-beeldbank.defensie.nl/"
+      Link:
+        - URL: "https://nimh-beeldbank.defensie.nl/"
       Description and remarks: "The Image Bank of the Netherlands Institute for Military History contains historical images."
     - Type of source: "Museum"
       Name: "Museum Bronbeek"
-      Link: "https://www.defensie.nl/onderwerpen/bronbeek"
+      Link:
+        - URL: "https://www.defensie.nl/onderwerpen/bronbeek"
       Description and remarks: "Museum Bronbeek is a knowledge center of the colonial-military past of the Netherlands. The emphasis is on the Dutch East Indies, but material from other colonies is also available. You can contact loket.bronbeek@mindef.nl to request information about a particular soldier, event or object."
     - Type of source: "Web portal"
       Name: "Nederlands Militair Erfgoed"
-      Link: "https://nlme.nl/"
+      Link:
+        - URL: "https://nlme.nl/"
       Description and remarks: "Nederlands Militair Erfgoed is a portal containing military sources from various collections in the Netherlands, including visual materials, periodicals and books. Of particular interest for provenance research are the officer's books and historical periodicals."
   Secondary sources:
     - Type of source: "Article"
       Name: "Witkam, Jan Just. 'Teuku Panglima Polem’s Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104."
-      Link: "https://doi.org/10.1163/1878464X-01001006"
+      Link:
+        - URL: "https://doi.org/10.1163/1878464X-01001006"
       Description and remarks: "Article about Teuku Panglima Polem, an Aceh leader during the colonial war the Netherlands fought in Aceh."
     - Type of source: "Book"
       Name: "Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007."
@@ -93,6 +98,7 @@ Sources:
       Description and remarks: "Book following a conference at the Nieuwe Kerk, Amsterdam, in 2006. The book focuses on collecting objects in the former Dutch East Indies, with attention to military personnel."
     - Type of source: "Search aid"
       Name: "Militairen en Marinepersoneel"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
+      Link:
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
       Description and remarks: "Search aid from the National Archives on Dutch military and naval personnel. Tip: the data in the family books are sometimes continued on another page. A note will then appear at the bottom of the page: 'see below' with the relevant page number."
 
