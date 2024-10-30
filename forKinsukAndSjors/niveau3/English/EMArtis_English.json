@@ -114,61 +114,101 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-AsdSAA - 395 Archief van het Koninklijk Zo\u00f6logisch Genootschap Natura Artis Magistra",
-                "Link": "https://archief.amsterdam/inventarissen/details/395/",
+                "Link": [
+                    {
+                        "URL": "https://archief.amsterdam/inventarissen/details/395/"
+                    }
+                ],
                 "Description and remarks": "Archives of the Koninklijk Zo\u00f6logisch Genootschap Natura Artis Magistra at the City Archives of Amsterdam. Inventory numbers 1876-1905 contain documentation on the museum's collection. Inventory numbers 1906-1919 contain documentation on the decision to transfer the Artis collection to the Colonial Museum in Amsterdam. Some documents are digitally accessible, others must be requested in order to be consulted."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7851",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Records concerning the objects of the collection of the society 'Natura Artis Magistra' in Amsterdam, series nos. 3 to 363 from the archives of the Royal Tropical Institute, present at the National Archives in The Hague."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7852",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Records concerning loans within the Artis collection that came to the Colonial Institute with the NAM (Natura Artis Magistra) collection, from loan of the Rev. C. Rogge collection in 1888 to loan of the collection of Prof. Dr. F.A.F. Molengraaf in 1894. Part of the archives of the Royal Tropical Institute, still at the KIT (sisn 7778)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7853",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Artis inventory (NAM nrs.) by area in Asia and classification of object, with reference to current A numbers. Original title: Azi\u00eb inventaris der Ethnologische verzameling van het Koninklijk Zo\u00f6logisch Genootschap Natura Artis Magistra. Part of the archives of the Royal Tropical Institute, still at the KIT (sisn 7791)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7854",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "List of series. Artis (NAM) and NKV (Dutch Colonial Society). Inventory by area and classification of object, with reference to current numbers. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7792)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7855",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Artis inventory by area and classification of object - Japan and China, NAM numbers with reference to current A numbers. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7793)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7856",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Artis inventory (NAM numbers). Ethnographic collection, series 1 to 365. Plus note regarding the Christy Collection 1870-1871. With mention of donor, purchase, etc. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7794)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7857",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Register of Artis (NAM) as well as Royal Dutch Geographical Society ( KNAG). NAM numbers 1 to 83 (0) and 1 to 364 (A) + KNAG numbers 1 to 236. NAM and KNAG numbers with reference to current numbers, incl. the numbers of De Groot, Jansen, Koyne, Molengraaff, Schuver and Prof. Max Weber. Part of the archives of the Royal Tropical Institute, still held by the KIT (sisn 7795)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 7858",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Artis inventory. Former KNV (Dutch Colonial Society). numbers 1 to 12, with reference to current A numbers. Part of the archives of the Royal Tropical Institute, still held by the KIT (sisn 7796)."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 - 4395",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Papers relating to the transfer of the ethnographic collection of the society 'Natura Artis Magistra' in Amsterdam. Part of the archives of the Royal Tropical Institute, present at the National Archives in The Hague."
             }
         ],
