@@ -124,13 +124,21 @@
             {
                 "Type of source": "Database",
                 "Name": "Art Sales Catalogues Online",
-                "Link": "https://primarysources.brillonline.com/browse/art-sales-catalogues-online",
+                "Link": [
+                    {
+                        "URL": "https://primarysources.brillonline.com/browse/art-sales-catalogues-online"
+                    }
+                ],
                 "Description and remarks": "Database gebaseerd op het R\u00e9pertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk."
             },
             {
                 "Type of source": "Database",
                 "Name": "AGHORA",
-                "Link": "https://agorha.inha.fr",
+                "Link": [
+                    {
+                        "URL": "https://agorha.inha.fr"
+                    }
+                ],
                 "Description and remarks": "Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen."
             }
         ],
@@ -138,7 +146,7 @@
             {
                 "Type of source": "Boek",
                 "Name": "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.",
-                "Persistent identifier": [
+                "Link": [
                     {
                         "ISBN": "9789068321975"
                     },
@@ -151,7 +159,7 @@
             {
                 "Type of source": "Boek",
                 "Name": "Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.",
-                "Persistent identifier": [
+                "Link": [
                     {
                         "OCLC": "71681153"
                     }
