@@ -89,19 +89,31 @@
             {
                 "Type of source": "Archiefstuk",
                 "Name": "NL-HlmNHA 476 836-839",
-                "Link": "https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77"
+                    }
+                ],
                 "Description and remarks": "Dient te worden nagevraagd bij Mirjam waarom deze archieftoegang nuttig is."
             },
             {
                 "Type of source": "Archiefstuk",
                 "Name": "NL-HlmNHA 476 811",
-                "Link": "https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768"
+                    }
+                ],
                 "Description and remarks": "Declaraties wegens geleverde goederen en diensten, 1813, 1824-1831. Het Koninklijk Kabinet van Zeldzaamheden kocht voorwerpen bij Dirk Boer, waarvan melding wordt gemaakt in deze archieftoegang."
             },
             {
                 "Type of source": "Archiefstuk",
                 "Name": "Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062",
-                "Link": "https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC"
+                    }
+                ],
                 "Description and remarks": "Affiche van de Koninklijke bazar uit 1926."
             }
         ],
@@ -109,13 +121,21 @@
             {
                 "Type of source": "Artikel",
                 "Name": "Dam, Peter van. \u201cThe Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.\u201d Andon 7 no. 25 (1987): 16\u201319.",
-                "Link": "https://rkd.nl/library/89731",
+                "Link": [
+                    {
+                        "URL": "https://rkd.nl/library/89731"
+                    }
+                ],
                 "Description and remarks": "Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst."
             },
             {
                 "Type of source": "Artikel",
                 "Name": "Baird, Christina en Helen Backx-Palsgraaf. \u201cViewing Japan and China through Dirk Boer\u2019s Panorama, 1835\u20131838.\u201d Journal of the History of Collections 32, Issue 1 (March 2020): 119\u2013128.",
-                "Link": "https://doi.org/10.1093/jhc/fhy052",
+                "Link": [
+                    {
+                        "URL": "https://doi.org/10.1093/jhc/fhy052"
+                    }
+                ],
                 "Description and remarks": "In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830."
             },
             {
