@@ -51,11 +51,13 @@ Sources:
   Primary sources:
     - Type of source: "Archief"
       Name: "NL-UtHUA 1102-1 1"
-      Link: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
+      Link: 
+        - URL: "https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD"
       Description and remarks: "Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen."
     - Type of source: "Archief"
       Name: "NL-RtSA 563  298"
-      Link: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849"
       Description and remarks: "Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)."
   Secondary sources:
     - Type of source: "Boek"
