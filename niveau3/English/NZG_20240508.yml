@@ -18,8 +18,10 @@ Relevant data:
     - "Nederlands Zendelinggenootschap"
     - "NZG"
   Tags:
-    Activity: "[Christian mission](https://hdl.handle.net/20.500.11840/termmaster25128)"
-    Type of objects: "[Etnographics](http://vocab.getty.edu/aat/300234108)"
+    Activity: 
+      - "[Christian mission](https://hdl.handle.net/20.500.11840/termmaster25128)"
+    Type of objects: 
+      - "[Etnographics](http://vocab.getty.edu/aat/300234108)"
     Geographical:
       - "[Bali](https://www.geonames.org/1650534)"
       - "[Indonesia](https://www.geonames.org/1643084)"
