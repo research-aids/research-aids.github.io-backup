@@ -78,43 +78,53 @@ Sources:
   Primary sources:
     - Type of source: "Archief"
       Name: "NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra"
-      Link: "https://archief.amsterdam/inventarissen/details/395/"
+      Link: 
+        - URL: "https://archief.amsterdam/inventarissen/details/395/"
       Description and remarks: "Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7851"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Stukken betreffende de voorwerpen van de verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam, serie nrs 3 t/m 363 uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7852"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link:  
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Stukken betreffende bruiklenen binnen de Artis collectie die met de NAM (Natura Artis Magistra) collectie naar het Koloniaal Instituut zijn gekomen, vanaf bruikleen van de verzameling Ds. C. Rogge in 1888 t/m bruikleen van de verzameling van prof.dr. F.A.F. Molengraaf in 1894. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7778)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7853"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Artis inventaris (NAM nrs.) per gebied in Azië en classificatie van voorwerp, met verwijzing naar de huidige A-nummers. Originele titel: Azië inventaris der Ethnologische verzameling van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7791)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7854"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Lijst van series. Artis (NAM) en NKV (Nederlandse Koloniale Vereniging). Inventaris per gebied en classicifactie van voorwerp, met verwijzing naar de huidige nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7792)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7855"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Artis inventaris per gebied en classificatie van voorwerp - Japan en China, NAM nummers met verwijzing naar de huidige A-nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7793)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7856"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Artis inventaris (NAM nummers). Etnografische collectie, serie 1 t/m 365. Plus aantekening betreffende de Christy Collectie 1870-1871. Met melding van de schenker, aankoop, etc. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7794)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7857"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Register van Artis (NAM) alsmede Koninklijke Nederlands Aardrijkskundig Genootschap ( KNAG). NAM nummers 1 t/m 83 (0) en 1 t/m 364 (A) + KNAG nummers 1 t/m 236. NAM en KNAG nummers met verwijzing naar de huidige nummers, incl. de nummers van De Groot, Jansen, Koyne, Molengraaff, Schuver en Prof. Max Weber. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7795)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 7858"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Artis inventaris. Voormalige KNV (Nederlandse Koloniale Vereniging). nummers 1 t/m 12, met verwijzing naar de huidige A-nummers. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, berust nog bij het KIT (sisn 7796)."
     - Type of source: "Archief"
       Name: "NL-HaNA 2.20.69 - 4395"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag."
   Secondary sources:
     - Type of source: "Artikel"
