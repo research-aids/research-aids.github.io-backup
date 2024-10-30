@@ -121,21 +121,33 @@
             {
                 "Type of source": "Boek",
                 "Name": "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.",
-                "Persistent identifier": [
-                    "ISBN: 9789074822251",
-                    "OCLC: 902181455"
+                "Link": [
+                    {
+                        "ISBN": "9789074822251"
+                    },
+                    {
+                        "OCLC": "902181455"
+                    }
                 ],
                 "Description and remarks": "Boek over de eerdere winkel van Dirk Boer."
             },
             {
                 "Type of source": "Boek",
                 "Name": "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.",
-                "Persistent identifier": "OCLC: 67736999"
+                "Link": [
+                    {
+                        "OCLC": "67736999"
+                    }
+                ]
             },
             {
                 "Type of source": "Catalogus",
                 "Name": "Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.",
-                "Persistent identifier": "OCLC: 67826958",
+                "Link": [
+                    {
+                        "OCLC": "67826958"
+                    }
+                ],
                 "Description and remarks": "Beschrijving van de Koninklijke bazar door Dirk Boer."
             }
         ]
