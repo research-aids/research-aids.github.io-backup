@@ -89,21 +89,24 @@ Sources:
   Secondary sources:
     - Type of source: "Artikel"
       Name: "Pott, P. H. & Sutaarga, M. A.  “Arrangements concluded or in progress for the Return of Objects: the Netherlands – Indonesia.” Museum XXXI (1979): 38 - 42."
-      Link: "https://doi.org/10.1111/j.1468-0033.1979.tb01872.x"
+      Link: 
+        - URL: "https://doi.org/10.1111/j.1468-0033.1979.tb01872.x"
       Description and remarks: "Artikel voor het tijdschrift Museum van Unesco, geschreven door P. Pott en M. Amir Sutaarga met daarin een korte geschiedenis van de Nederlandse omgang met Indonesische cultuurgoederen gedurende het koloniale tijdperk en een beschrijving van de totstandkoming en uitvoering van de joint recommendations tussen beide landen in 1975."
     - Type of source: "Artikel"
       Name: "Stutje K. The History of the Indonesian Dutch Restitution Debate: Working Paper. Amsterdam: NIOD Instituut voor Oorlog- Holocaust- en Genocidestudies, 2022."
-      Persistent identifier: "OCLC: 1303213495"
+      Link: 
+        - OCLC: "1303213495"
+        - URL: "https://pure.knaw.nl/portal/en/publications/the-history-of-the-indonesian-dutch-restitution-debate-working-pa"
       Description and remarks: "Artikel over de geschiedenis van het restitutiedebat tussen Indonesië en Nederland tussen 1945 en nu. Geschreven in het kader van PPROCE. Het artikel heeft als doel een overzicht te geven van de ontwikkelingen op het gebied van restitutie- en erfgoeddebatten tussen Indonesië en Nederland."
     - Type of source: "Boek"
       Name: "Beurden, J. van. Treasures in Trusted Hands: Negotiating the Future of Colonial Cultural Objects. Leiden: Sidestone Press, 2017."
       Persistent identifier: 
-        - "ISBN: 9789088904417"
-        - "OCLC: 987791176"
+        - ISBN: "9789088904417"
+        - OCLC: "987791176"
       Description and remarks: "Dissertatie over de geschiedenis en toekomst van het restitutiedebat. Heeft veel aandacht voor de relatie tussen Nederland en Indonesië en maakt gebruik van waardevol bronmateriaal."
     - Type of source: "Boek"
       Name: "Pott P.H W.R. van Gulik Harald S. van der Straaten and Simon Kooijman. From Field-Case to Show-Case: Research Acquisition and Presentation in the Rijksmuseum Voor Volkenkunde (National Museum of Ethnology) Leiden: In Tribute to Professor P.h. Pott on the 25th Anniversary of His Directorship of the Rijksmuseum Voor Volkenkunde Leiden. Amsterdam: Gieben, 1980."
       Persistent identifier: 
-        - "ISBN: 9789070265823"
-        - "OCLC: 906392484"
+        - ISBN: "9789070265823"
+        - OCLC: "906392484"
       Description and remarks: "Boek ter ere van het 25 jarige directeurschap van Pott. Bevat meer informatie over de persoon van Pieter Pott."
