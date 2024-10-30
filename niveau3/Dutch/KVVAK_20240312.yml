@@ -40,8 +40,8 @@ Relevant data:
       content: |
         Op de website van de KVVAK is een [overzicht](https://www.kvvak.nl/collectie/) van de volledige collectie van de vereniging. Ook op de [collectiewebsite](https://www.rijksmuseum.nl/nl/zoeken/uitgebreid) van het Rijksmuseum zijn deze objecten terug te vinden. Binnen de collectiewebsite is een selectie gemaakt van [Aziatische Kunst](https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst), maar let op: niet alle objecten zijn afkomstig van de KVVAK, het Rijksmuseum bezit ook zelf objecten die vallen onder de term Aziatische Kunst.
       content-type: text/markdown
-    Within Data Hub: "Link to objects from KVVAK when Rijksmuseum is added."
-    External Collections: "https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst"
+    Within Data Hub: "[]"
+
 
 Main-text:
   content: |
@@ -98,19 +98,22 @@ Sources:
       Description and remarks: "In dit artikel wordt ingegaan op de verwerving en herkomst van vier sculpturen uit Cambodja in de collectie van het Rijksmuseum. De beelden zijn begin jaren 1930 aangekocht door de KVVAK"
     - Type of source: "Boek"
       Name: "Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014."
-      Persistent identifier: 
-        - "ISBN: 9789071450945"
-        - "OCLC: 907556128"
+      Link: 
+        - ISBN: "9789071450945"
+        - OCLC: "907556128"
       Description and remarks: "Dit collectieboek presenteert 119 hoogtepunten uit de Aziatische kunstcollectie van het Rijksmuseum. De objecten uit India, Zuidoost-Azië, Korea, Japan en China worden ingeleid in essays van conservatoren."
     - Type of source: "Boek"
       Name: "Lim, K.W., et all. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979."
-      Persistent identifier: "OCLC: 63330271"
+      Link: 
+        - OCLC: "63330271"
       Description and remarks: "Een tentoonstellingscatalogus van de objecten van de KVVAK uit de eerste 60 jaar van de vereniging."
     - Type of source: "Catalogus"
       Name: "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954"
-      Persistent identifier: "OCLC: 1156720537"
+      Link: 
+        - OCLC: "1156720537"
       Description and remarks: "Tentoonstellingscatalogus van de KVVAK uit 1954."
     - Type of source: "Tijdschrift"
       Name: "Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 – Nu."
-      Persistent identifier: "ISSN: 2543-1749"
+      Link: 
+        - ISSN: "2543-1749"
       Description and remarks: "Het bij Brill uitgegeven tijdschrift van de KVVAK."
