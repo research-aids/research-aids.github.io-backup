@@ -109,7 +109,11 @@
             {
                 "Type of source": "Archive",
                 "Name": "AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum",
-                "Link": "https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4",
+                "Link": [
+                    {
+                        "URL": "https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4"
+                    }
+                ],
                 "Description and remarks": "Archives of the Stichting Afrika Museum within the archives of the Congregation of the Holy Spirit. It contains a wide range of documentation related to the Afrika Museum, from catalogs to (rental) agreements."
             }
         ],
@@ -122,7 +126,7 @@
                         "OCLC": "66932031"
                     },
                     {
-                        "ISBN": "9789071611131, 9071611132"
+                        "ISBN": "9789071611131"
                     }
                 ],
                 "Description and remarks": "This book from 2002, consisting of two volumes, describes the genesis of the Afrika Museum and provides an overview of the collections the museum held at the time."
