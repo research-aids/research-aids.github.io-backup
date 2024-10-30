@@ -107,13 +107,21 @@
             {
                 "Type of source": "Archieftoegang",
                 "Name": "NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
+                    }
+                ],
                 "Description and remarks": "Archief van het Konininklijk Instituut voor de Tropen tot en met 1995 dat is gedeponeerd bij het Nationaal Archief in Den Haag. Archieven na 1995 zijn nog fysiek aanwezig bij het KIT. De archiefbeschrijving bevat uitvoerige informatie over de geschiedenis van het Wereldmuseum Amsterdam en de opbouw van het archief."
             },
             {
                 "Type of source": "Archief",
                 "Name": "395 Archief van het Koninklijk Zo\u00f6logisch Genootschap Natura Artis Magistra",
-                "Link": "https://archief.amsterdam/inventarissen/details/395/",
+                "Link": [
+                    {
+                        "URL": "https://archief.amsterdam/inventarissen/details/395/"
+                    }
+                ],
                 "Description and remarks": "Archief van het Koninklijk Zo\u00f6logisch Genootschap Natura Artis Magistra, de tegenwoordige dierentuin Artis. Met name de archieven onder de inventarisnummers 1876 tot en met 1919 zijn interessant in het kader van de oprichting van het tegenwoordige Wereldmuseum Amsterdam."
             }
         ],
