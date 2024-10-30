@@ -58,15 +58,18 @@ Sources:
   Primary sources:
     - Type of source: "Archival piece"
       Name: "NL-AhGldA 0740  2324"
-      Link: "https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC"
+      Link:
+        - URL: "https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC"
       Description and remarks: "Contains documents relating to the ethnographic collection, dated 1941 (on donation of Papua objects from C.C.F.M. Le Roux by RMV) and 1955 (on the future of the collection)."
     - Type of source: "Archival piece"
       Name: "NL-AhGldA 0740  2833"
-      Link: "https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551"
+      Link:
+        - URL: "https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551"
       Description and remarks: "Contains an inventory of the collections and teaching resources of the Department of Geogrophy and Ethnology, created around 1904 and maintained until 1929."
     - Type of source: "Archival piece"
       Name: "NL-AhGldA 0740 1522"
-      Link: "https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9"
+      Link:
+        - URL: "https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9"
       Description and remarks: "Contains documents relating to exhibitions, 1947-1956."
     - Type of source: "Archival piece"
       Name: "NL-HaNA  2.20.69 4402"
@@ -74,6 +77,7 @@ Sources:
   Secondary sources:
     - Type of source: "Article"
       Name: "“Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953."
-      Link: "https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086"
+      Link:
+        - URL: "https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086"
       Description and remarks: "Article from 1953 describing that nearly one hundred objects from the College of Agriculture's collection are missing."
 
