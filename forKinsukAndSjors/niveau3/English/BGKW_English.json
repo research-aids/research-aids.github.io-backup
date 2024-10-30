@@ -83,25 +83,41 @@
             {
                 "Type of source": "Publication",
                 "Name": "Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen",
-                "Link": "https://www.biodiversitylibrary.org/bibliography/7371",
+                "Link": [
+                    {
+                        "URL": "https://www.biodiversitylibrary.org/bibliography/7371"
+                    }
+                ],
                 "Description and remarks": "The journal published by the Bataviaasch Genootschap from 1779 onwards. Many editions can be found through the Biodiversity Heritage Library website."
             },
             {
                 "Type of source": "Minutes",
                 "Name": "Notulen van de Algemeene en Directie-vergaderingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen",
-                "Link": "http://hdl.handle.net/1887.1/item:1112865",
+                "Link": [
+                    {
+                        "URL": "http://hdl.handle.net/1887.1/item:1112865"
+                    }
+                ],
                 "Description and remarks": "Minutes of meetings of the Bataviaasch Genootschap published from the 1850s onwards. Those from 1864 to 1922 are available through the University Library of Leiden University."
             },
             {
                 "Type of source": "Archive",
                 "Name": "K 75. Inventaris Arsip Tekstual Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (KBG) (1778-1962)",
-                "Link": "https://anri.go.id/",
+                "Link": [
+                    {
+                        "URL": "https://anri.go.id/"
+                    }
+                ],
                 "Description and remarks": "The archive of the Bataviaasch Genootschap is located at the ANRI in Jakarta. The inventory of the archive can be downloaded from the ANRI's website (in Indonesian)."
             },
             {
                 "Type of source": "Journal",
                 "Name": "Tijdschrift voor Indische taal- land- en volkenkunde",
-                "Link": "https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html",
+                "Link": [
+                    {
+                        "URL": "https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html"
+                    }
+                ],
                 "Description and remarks": "Journal published by the Bataviaasch Genootschap. Several editions are available through the KITLV. Other sources related to the Bataviaasch Genootschap can also be found on the listed web page."
             }
         ],
@@ -109,7 +125,11 @@
             {
                 "Type of source": "Book",
                 "Name": "Groot, Hans. Van Batavia naar Weltevreden: Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Amsterdam: Brill, 2009",
-                "Link": "http://library.oapen.org/handle/20.500.12657/34657",
+                "Link": [
+                    {
+                        "URL": "http://library.oapen.org/handle/20.500.12657/34657"
+                    }
+                ],
                 "Description and remarks": "Book by Hans de Groot with a comprehensive description of the Bataviaasch Genootschap from its foundation to 1867. Also contains a lot of information on acquired collections and specific members of the society."
             }
         ]
