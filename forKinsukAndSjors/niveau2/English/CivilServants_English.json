@@ -68,54 +68,86 @@
             {
                 "Type of source": "Almanac",
                 "Name": "Surinaamsche Almanak (1819-1846, 1887-1954)",
-                "Link": "https://www.dbnl.org/tekst/_sur001suri01_01/",
+                "Link": [
+                    {
+                        "URL": "https://www.dbnl.org/tekst/_sur001suri01_01/"
+                    }
+                ],
                 "Description and remarks": "Search for title 'Surniaamsche Almanak'. All editions of the Surinaamsche Almanak between 1819-1846 and 1887-1954 can be accessed online through the website of the Digital Library of Dutch Literature."
             },
             {
                 "Type of source": "Almanac",
                 "Name": "Regeeringsalmanak voor Nederlandsch-Indi\u00eb",
                 "Link": [
-                    "https://www.delpher.nl/",
-                    "https://digital.staatsbibliothek-berlin.de/)"
+                    {
+                        "URL": "https://www.delpher.nl/"
+                    },
+                    {
+                        "URL": "https://digital.staatsbibliothek-berlin.de/)"
+                    }
                 ],
                 "Description and remarks": "Via Delpher, the editions from 1865 until 1942 can be found by selecting the title 'Regeringsalmanak Nederlandsch-Indi\u00eb' within the periodicals section. At the Staatsbiblitohek zu Berlin, the editions from 1865 until 1912 can be found by searching for PPN718684745."
             },
             {
                 "Type of source": "Almanac",
                 "Name": "Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea (1856-1861)",
-                "Link": "https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00",
+                "Link": [
+                    {
+                        "URL": "https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00"
+                    }
+                ],
                 "Description and remarks": "Search fort the title Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea. The 1856, 1858-1860 editions can be accessed online through the website of the Digital Library of Dutch Literature."
             },
             {
                 "Type of source": "Parliamentary papers",
                 "Name": "Koloniaal Verslag",
-                "Link": "https://www.officielebekendmakingen.nl/",
+                "Link": [
+                    {
+                        "URL": "https://www.officielebekendmakingen.nl/"
+                    }
+                ],
                 "Description and remarks": "Within the Kamerstukken selection, search for Koloniaal verslag."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.10.02",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf"
+                    }
+                ],
                 "Description and remarks": "Complete inventory of the archives of the Ministry of Colonies, 1850-1900."
             }
         ],
         "Secondary sources": [
             {
                 "Type of source": "Search aid",
-                "Name": "Civil servants in the Dutch East Indies, 1814-1952",
+                "Name": [
+                    {
+                        "URL": "Civil servants in the Dutch East Indies, 1814-1952"
+                    }
+                ],
                 "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie",
                 "Description and remarks": "Search aid from the National Archives regarding archival records on civil servants in the Dutch East Indies. Tip: the data in the files are sometimes continued on another page. A note is then placed at the bottom of the page: zie verder with the relevant page number."
             },
             {
                 "Type of source": "Search aid",
                 "Name": "Officials in the West Indies: Suriname and the Antilles 1815-1936",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936"
+                    }
+                ],
                 "Description and remakrs": "Search aid from the National Archives regarding records on civil servants in the West Indies, Suriname and the Antilles. Tip: the data in the files are sometimes continued on another page. A note is then placed at the bottom of the page: zie verder with the relevant page number."
             },
             {
                 "Type of source": "Search aid",
                 "Name": "Overzicht van overheidsarchieven in het Nationaal Archief met betrekking tot Nederlands-Indi\u00eb.",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie"
+                    }
+                ],
                 "Description and remarks": "Search aid from the National Archives with an overview of all archives related to the Dutch East Indies and further information on accessing these archives."
             },
             {
