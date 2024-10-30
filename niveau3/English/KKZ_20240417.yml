@@ -91,15 +91,18 @@ Sources:
       Description and remarks: "Concerns outgoing letters from the king's secretary, including letters about donations. From the period 1815-1818, accessible online."
     - Type of source: Archival piece
       Name: "NL-HlmNHA 476 11.1"
-      Link: "https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701"
+      Link:
+        - URL: "https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701"
       Description and remarks: "Access from the archives of the Rijksmuseum containing all kinds of documents relating to the acquisition, loan and restoration of objects."
     - Type of source: Archival piece
       Name: "NL-HlmNHA 476 874-875"
-      Link: "https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC"
+      Link:
+        - URL: "https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC"
       Beschrijving en opmerkingen: "Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk."
     - Type of source: Archiefstuk
       Naam: "NL-HlmNHA 476 1076"
-      Link: "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688"
+      Link:
+        - URL: "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688"
       Beschrijving en opmerkingen: "Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnografisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888"
   Secondary Sources:
     - Type of source: "Book"
@@ -116,16 +119,17 @@ Sources:
       Name: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
       Link: 
         - OCLC: "63800039"
-        - "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
+        - URL: "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
       Description and remarks: "Manual for visiting the Royal Cabinet of Curiosities from 1823 by the director at the time, Reinier Pieter van de Kasteele."
     - Type of source: "Catalog"
       Name: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
       Link: 
         - OCLC: "899016583"
-        - "http://archive.org/details/kortehandleiding00kast"
-        - "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+        - URL: "http://archive.org/details/kortehandleiding00kast"
+        - URL: "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
       Description and remarks: "Manual for visiting the Royal Cabinet of Curiosities from 1860 by the director at that time, Abraham Anne van de Kasteele."
     - Type of source: "Book chapter"
       Name: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "
-      Link: "https://doi.org/10.4324/9781003044789"
+      Link:
+        - URL: "https://doi.org/10.4324/9781003044789"
       Description and remarks: "Book chapter covering the partitioning of the objects of the Royal Cabinet of Curiosities in 1883."
