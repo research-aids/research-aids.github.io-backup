@@ -68,15 +68,23 @@
             {
                 "Type of source": "Almanak",
                 "Name": "Surinaamsche Almanak (1819-1846, 1887-1954)",
-                "Link": "https://www.dbnl.org/tekst/_sur001suri01_01/",
+                "Link": [
+                    {
+                        "URL": "https://www.dbnl.org/tekst/_sur001suri01_01/"
+                    }
+                ],
                 "Description and remarks": "Zoek op titel 'Surniaamsche Almanak'. Alle edities van de Surinaamsche Almanak tussen 1819-1846 en 1887-1954 zijn online toegankelijk via de website van de digtiale bibliotheek voor de Nederlandse letteren."
             },
             {
                 "Type of source": "Almanak",
                 "Name": "Regeeringsalmanak voor Nederlandsch-Indi\u00eb",
                 "Link": [
-                    "https://www.delpher.nl/",
-                    "https://digital.staatsbibliothek-berlin.de/"
+                    {
+                        "URL": "https://www.delpher.nl/"
+                    },
+                    {
+                        "URL": "https://digital.staatsbibliothek-berlin.de/"
+                    }
                 ],
                 "Description and remarks": "Via Delpher zijn de edities van 1865 tot en met 1942 vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'Regeringsalmanak Nederlandsch-Indi\u00eb'. Bij de Staatsbiblitohek zu Berlin zijn de edities van 1865 tot en met 1912 vindbaar door te zoeken op 'PPN718684745'."
             },
@@ -89,13 +97,21 @@
             {
                 "Type of source": "Kamerstukken",
                 "Name": "Koloniaal Verslag",
-                "Link": "https://www.officielebekendmakingen.nl/",
+                "Link": [
+                    {
+                        "URL": "https://www.officielebekendmakingen.nl/"
+                    }
+                ],
                 "Description and remarks": "Zoek binnen de selectie 'Kamerstukken' op 'Koloniaal Verslag'."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.10.02",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf"
+                    }
+                ],
                 "Description and remarks": "Volledige inventaris van het archief van het Ministerie van Koloni\u00ebn, 1850-1900."
             }
         ],
@@ -103,19 +119,31 @@
             {
                 "Type of source": "Zoekhulp",
                 "Name": "Ambtenaren in Nederlands-Indi\u00eb",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie"
+                    }
+                ],
                 "Description and remarks": "Zoekhulp van het Nationaal Archief met betrekking tot archiefstukken over ambtenaren in Nederlands-Indi\u00eb. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: \u201czie verder\u201d met betreffende paginanummer."
             },
             {
                 "Type of source": "Zoekhulp",
                 "Name": "Ambtenaren in West-Indi\u00eb, Suriname en de Antillen (1815-1936)",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936"
+                    }
+                ],
                 "Description and remarks": "Zoekhulp van het Nationaal Archief met betrekking tot archiefstukken over ambtenaren in West-Indi\u00eb, Suriname en de Antillen. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: \u201czie verder\u201d met betreffende paginanummer."
             },
             {
                 "Type of source": "Zoekhulp",
                 "Name": "Overzicht van overheidsarchieven in het Nationaal Archief met betrekking tot Nederlands-Indi\u00eb.",
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie"
+                    }
+                ],
                 "Description and remarks": "Zoekhulp van het Nationaal Archief met een overzicht van alle archieftoegangen die betrekking hebben tot Nederlands-Indi\u00eb en verdere informatie over het raadplegen van deze archieven."
             },
             {
