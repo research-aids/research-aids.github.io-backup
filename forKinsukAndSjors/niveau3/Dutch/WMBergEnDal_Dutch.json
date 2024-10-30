@@ -109,7 +109,11 @@
             {
                 "Type of source": "Archief",
                 "Name": "AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum",
-                "Link": "https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4",
+                "Link": [
+                    {
+                        "URL": "https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4"
+                    }
+                ],
                 "Description and remarks": "Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten."
             }
         ],
