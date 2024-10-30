@@ -71,11 +71,13 @@ Sources:
   Primary sources:
     - Type of source: "Archief"
       Name: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108"
-      Link: "https://rkd.nl/nl/explore/collections/108"
+      Link: 
+        - URL: "https://rkd.nl/nl/explore/collections/108"
       Description and remarks: "Brieven en briefkaarten, voornamelijk van kunstenaars, en andere stukken over de periode 1927-1948"
     - Type of source: "Archief"
       Name: "RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065"
-      Link: "https://rkd.nl/explore/collections/65"
+      Link: 
+        - URL: "https://rkd.nl/explore/collections/65"
       Description and remarks: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
   Secondary sources:
     - Type of source: "Boek"
