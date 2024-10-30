@@ -79,13 +79,21 @@
             {
                 "Type of source": "Archive",
                 "Name": "RKD \u2013 Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108",
-                "Link": "https://rkd.nl/nl/explore/collections/108",
+                "Link": [
+                    {
+                        "URL": "https://rkd.nl/nl/explore/collections/108"
+                    }
+                ],
                 "Description and remarks": "Letters and postcards, mainly from artists, and other papers covering the period 1927-1948"
             },
             {
                 "Type of source": "Archive",
                 "Name": "RKD \u2013 Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065",
-                "Link": "https://rkd.nl/explore/collections/65",
+                "Link": [
+                    {
+                        "URL": "https://rkd.nl/explore/collections/65"
+                    }
+                ],
                 "Description and remarks": "Number of invitations Kunstzaal van Lier, 1951-1953; number of catalogs including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eug\u00e8ne Brands and others, 1954-1955."
             }
         ],
@@ -93,7 +101,11 @@
             {
                 "Type of source": "Book",
                 "Name": "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.",
-                "Link": "ISBN: 9789068683431",
+                "Link": [
+                    {
+                        "ISBN": "9789068683431"
+                    }
+                ],
                 "Description and remarks": "Biography of Carel van Lier."
             }
         ]
