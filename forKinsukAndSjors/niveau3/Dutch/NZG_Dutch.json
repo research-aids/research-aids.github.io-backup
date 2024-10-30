@@ -73,9 +73,13 @@
             {
                 "Type of source": "Boek",
                 "Name": "Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelinghuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874.",
-                "Persistent identifier": [
-                    "OCLC: 993621798",
-                    "Google Books ID: zoOCOEgNA4AC"
+                "Link": [
+                    {
+                        "OCLC": "993621798"
+                    },
+                    {
+                        "Google Books ID": "zoOCOEgNA4AC"
+                    }
                 ],
                 "Description and remarks": "Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG."
             },
@@ -88,18 +92,26 @@
             {
                 "Type of source": "Artikel",
                 "Name": "Djajasoebrata, Alit M.L.R. \u201cTo Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.\u201d In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147\u201367. Leiden: CNWS Publications, 2002.",
-                "Persistent identifier": [
-                    "ISBN: 9789057890789",
-                    "OCLC: 907014546"
+                "Link": [
+                    {
+                        "ISBN": "9789057890789"
+                    },
+                    {
+                        "OCLC": "907014546"
+                    }
                 ],
                 "Description and remarks": "Boek over de geschiedenis van het etnografisch verzamelen in Indonesi\u00eb. De collectie van het NZG wordt hierin ook behandeld."
             },
             {
                 "Type of source": "Artikel",
                 "Name": "Kanhai, Parveen. \u201cEen kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).\u201d Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80\u201397.",
-                "Persistent identifier": [
-                    "ISSN: 2214-1111",
-                    "OCLC: 844374705"
+                "Link": [
+                    {
+                        "ISSN": "2214-1111"
+                    },
+                    {
+                        "OCLC": "844374705"
+                    }
                 ],
                 "Description and remarks": "Artikel over de vroege verzameling van het NZG."
             },
