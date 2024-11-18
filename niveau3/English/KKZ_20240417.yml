@@ -78,7 +78,8 @@ Sources:
   Primary sources:
     - Type of source: "Archive"
       Name: "NL-HlmNHA 476 5"
-      Link: "https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552"
       Description and remarks: "Concerns the inventory of the archive of the Royal Cabinet of Curiosities within the archive of the Rijksmuseum and its legal predecessors."
     - Type of source: "Archive"
       Name: "NL-HaNA 2.04.13 2.2.4.1.2.06"
