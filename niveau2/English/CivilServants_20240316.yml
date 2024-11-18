@@ -97,9 +97,9 @@ Sources:
       Description and remarks: "Complete inventory of the archives of the Ministry of Colonies, 1850-1900."
   Secondary sources:
     - Type of source: "Search aid"
-      Name:
-        - URL: "Civil servants in the Dutch East Indies, 1814-1952"
-      Link: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie"
+      Name: "Civil servants in the Dutch East Indies, 1814-1952"
+      Link:
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie"
       Description and remarks: "Search aid from the National Archives regarding archival records on civil servants in the Dutch East Indies. Tip: the data in the files are sometimes continued on another page. A note is then placed at the bottom of the page: zie verder with the relevant page number."
     - Type of source: "Search aid"
       Name: "Officials in the West Indies: Suriname and the Antilles 1815-1936"
