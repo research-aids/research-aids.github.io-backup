@@ -122,12 +122,12 @@
         "Secondary sources": [
             {
                 "Type of source": "Search aid",
-                "Name": [
+                "Name": "Civil servants in the Dutch East Indies, 1814-1952",
+                "Link": [
                     {
-                        "URL": "Civil servants in the Dutch East Indies, 1814-1952"
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie"
                     }
                 ],
-                "Link": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie",
                 "Description and remarks": "Search aid from the National Archives regarding archival records on civil servants in the Dutch East Indies. Tip: the data in the files are sometimes continued on another page. A note is then placed at the bottom of the page: zie verder with the relevant page number."
             },
             {
