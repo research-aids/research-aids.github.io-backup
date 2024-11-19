@@ -91,7 +91,11 @@
             {
                 "Type of source": "Almanak",
                 "Name": "Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea (1856-1861)",
-                "Link": "https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00",
+                "Link": [
+                    {
+                        "URL": "https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00"
+                    }
+                ],
                 "Description and remarks": "Zoek op titel 'Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea'. De edities van 1856, 1858-1860 zijn online toegankelijk via de website van de digtiale bibliotheek voor de Nederlandse letteren."
             },
             {
