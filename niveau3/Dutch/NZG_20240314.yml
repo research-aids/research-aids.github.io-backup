@@ -68,7 +68,8 @@ Sources:
       Description and remarks: "Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG."
     - Type of source: "Artikel"
       Name: "“Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92."
-      Link: "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
+      Link: 
+        - URL: "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
       Description and remarks: "Lijst uit 1862 met objecten in het bezit van het NZG."
     - Type of source: "Artikel"
       Name: "Djajasoebrata, Alit M.L.R. “To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.” In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002."
