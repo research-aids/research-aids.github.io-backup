@@ -94,7 +94,11 @@
             {
                 "Type of source": "Artikel",
                 "Name": "\u201cLijst van voorwerpen en modellen in de kast van het Zendelingenhuis.\u201d Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87\u201392.",
-                "Link": "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094",
+                "Link": [
+                    {
+                        "URL": "https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094"
+                    }
+                ],
                 "Description and remarks": "Lijst uit 1862 met objecten in het bezit van het NZG."
             },
             {
