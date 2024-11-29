@@ -10,7 +10,7 @@ Content:
   content_type: text/markdown
 
 Breakdown:
-  "Herkomstonderzoek naar koloniale collecties":
+  "1. Herkomstonderzoek naar koloniale collecties":
     - "Hoe kan ik de datahub gebruiken voor mijn onderzoek?":
         link: "niveau1/Dutch/HoeGebruikIkDeDatahub_20240424.yml"
         rel_type: "see also"
@@ -26,7 +26,7 @@ Breakdown:
     - "Verslagleggen":
         link: "niveau1/Dutch/Verslagleggen_20240501.yml"
         rel_type: "see also"
-  Onderwerpen:
+  "2. Onderwerpen":
     - "De handel in koloniale objecten":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
@@ -89,4 +89,4 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
               rel_type: "see also"
-  Locaties: []
+  "3. Locaties": []
