@@ -10,7 +10,7 @@ Content:
   content_type: text/markdown
 
 Breakdown:
-  "Provenance research into colonial collections":
+  "1. Provenance research into colonial collections":
     - "How can I use the data hub for my research?":
         link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
         rel_type: "see also"
@@ -26,7 +26,7 @@ Breakdown:
     - "Reporting":
         link: "niveau1/English/Reporting_20240501.yml"
         rel_type: "see also"
-  Topics:
+  "2. Topics":
     - "The trade in colonial objects":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
@@ -89,4 +89,4 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
               rel_type: "see also"
-  Locations: []
+  "3. Locations": []
