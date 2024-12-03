@@ -76,7 +76,7 @@ Breakdown:
     - "Scientific research in the colonies":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
-        Deelonderwerpen:
+        Subtopics:
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
               link: "niveau3/English/BGKW_20240905.yml"
               rel_type: "see also"
