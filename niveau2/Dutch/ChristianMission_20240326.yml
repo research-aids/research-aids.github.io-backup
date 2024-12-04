@@ -2,21 +2,24 @@ Level: 2
 
 Title: "Zending en Missie"
 
-Abstract: "Protestante zendelingen en katholieke missionarissen droegen veelvuldig bij aan de verzameling van objecten gedurende het koloniale tijdperk."
+Abstract: "Protestante zendelingen en katholieke missionarissen droegen veelvuldig bij aan het verzamelen van objecten gedurende het koloniale tijdperk."
 
 RelatedAides: 
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap": 
         link: "niveau3/Dutch/NZG_20240314.yml"
-        rel_type: "example"
+        rel_type: "see also"
+  - "Wereldmuseum Berg en Dal":
+        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:
@@ -28,12 +31,12 @@ Relevant data:
       - "[Zendeling](http://www.wikidata.org/entity/Q20746152)"
       - "[Zuster](https://www.wikidata.org/entity/Q191808)"
     Geographical:
-      - "[China](https://www.geonames.org/1814991)"
-      - "[Congo](https://www.geonames.org/203312)"
-      - "[Indonesië](https://www.geonames.org/1643084)"
-      - "[Java](https://www.geonames.org/1642673)"
-      - "[Sulawesi](https://www.geonames.org/9062340)"
-      - "[Suriname](https://www.geonames.org/3382998)"
+      - "[China](https://sws.geonames.org/1814991)"
+      - "[Congo](https://sws.geonames.org/203312)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Java](https://sws.geonames.org/1642673)"
+      - "[Sulawesi](https://sws.geonames.org/9062340)"
+      - "[Suriname](https://sws.geonames.org/3382998)"
 
 Main-text:
   content: |
@@ -49,11 +52,11 @@ Main-text:
     
     ### Herkomstonderzoek
     
-    Informatie van individuele zendingswerkers is vaak te vinden in literatuur over en archieven van de organisaties waarvoor zij werkten. Een eerste stap bestaat uit het vaststellen om welke organisatie het gaat. In de portal van het [Repertorium van Nederlandse zendings- en missiearchieven 1800-1960] (https://resources.huygens.knaw.nl/repertoriumzendingmissie) zijn namenlijsten van zendingswerkers te vinden (onder het kopje Bijlagen) en zoekinformatie per organisatie. Van daaruit kan doorgezocht worden in de betreffende archieven. Sommige zendingsorganisaties waren internationaal vertakt, in dergelijke gevallen kan relevante informatie zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana] (https://www.proveana.de/en/start) en [Archivführer zur deutschen Kolonialgeschichte] (https://archivfuehrer-kolonialzeit.de).
+    Informatie van individuele zendingswerkers is vaak te vinden in literatuur over en archieven van de organisaties waarvoor zij werkten. Een eerste stap bestaat uit het vaststellen om welke organisatie het gaat. In de portal van het [Repertorium van Nederlandse zendings- en missiearchieven 1800-1960](https://resources.huygens.knaw.nl/repertoriumzendingmissie) zijn namenlijsten van zendingswerkers te vinden (onder het kopje Bijlagen) en zoekinformatie per organisatie. Van daaruit kan doorgezocht worden in de betreffende archieven. Sommige zendingsorganisaties waren internationaal vertakt, in dergelijke gevallen kan relevante informatie zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana](https://www.proveana.de/en/start) en [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de).
     
     Zendingswerkers werkten soms in specifieke functies, zoals arts, verpleegkundige of onderwijzer, en worden onder die functies omschreven in de bronnen. Zij zijn dan als zendingswerker te herkennen door te kijken naar de organisatie waarvoor zij werkten.
     
-    Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf.
+    Archieven van zendings- en missieorganisaties zijn verspreid. Omvangrijke archiefcollecties bevinden zich in het [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archief- en Documentatiecentrum van de Gereformeerde Kerken in Nederland](https://adckampen.nl/), [HDC Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) bij de Vrije Universiteit, [Katholiek Documentatie Centrum](https://www.ru.nl/kdc/), en het [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Ook in de landen waar de zending en missie actief waren, zijn veelal nog archieven te vinden, vaak zijn deze in bezit van de organisaties zelf.
   content-type: text/markdown
 
 Sources:

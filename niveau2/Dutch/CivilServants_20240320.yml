@@ -7,18 +7,36 @@ Abstract: "Nederlanders in overheidsdienst speelden een belangrijke rol in het v
 RelatedAides: 
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Leger en Marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
-  - "Pieter H. Pott":
-        link: "niveau3/Dutch/PieterPott_20240312.yml"
-        rel_type: "Example"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Handel":
+        link: "niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
         link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
+        link: "niveau3/Dutch/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden": 
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam": 
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -34,15 +52,15 @@ Relevant data:
       - "[Resident](http://www.wikidata.org/entity/Q19973930)"
     Type of objects:
     Geographical:
-      - "[Antillen](https://www.geonames.org/8505032)"
-      - "[Indonesië] (https://www.geonames.org/1643084)"
-      - "[Suriname] (https://www.geonames.org/3382998)"
+      - "[Antillen](https://sws.geonames.org/8505032)"
+      - "[Indonesië] (https://sws.geonames.org/1643084)"
+      - "[Suriname] (https://sws.geonames.org/3382998)"
 
 Main-text:
   content: |
     ### Beschrijving
     
-    Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://www.geonames.org/1643084) en [Suriname](https://www.geonames.org/3382998) waren vele ambtenaren actief, die vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
+    Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://sws.geonames.org/1643084) en [Suriname](https://sws.geonames.org/3382998) waren vele ambtenaren actief, die vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
       
     Het bestuursapparaat verschilde per kolonie, waarbij de positie van ‘gouverneur’ een overeenkomst is. De bestuurlijke structuur van een kolonie kan worden teruggevonden in de zoekhulp over die specifieke kolonie. Belangrijk om te weten is dat gedurende de Franse overheersing  van het Europese Nederland, het overgrote deel van het Nederlandse koloniale grondgebied onder Engels bestuur terecht kwam. Het kan dus voorkomen dat je met betrekking tot ambtenaren Engelse namen tegenkomt in archieven uit de periode tussen pakweg 1795 en 1820. Een voorbeeld hiervan is [Thomas Stamford Raffles], die tussen 1811 en 1816 gouverneur was van voormalig Nederlands-Indië.
       
@@ -54,7 +72,7 @@ Main-text:
       
     Koloniale ambtenaren wisselden regelmatig van functie en standplaats. De functie die vermeld staat in de objectdocumentatie kan een andere zijn dan de functie ten tijde van verwerving. De stamboeken in het Nationaal Archief en de almanakken die de overheid uitgaf zijn betrouwbare bronnen om de functie ten tijde van verwerving te achterhalen. Via de gedigitaliseerde kranten op [Delpher.nl](https://www.delpher.nl/) kan informatie over de werkzaamheden van de betreffende ambtenaar worden achterhaald.
       
-    De onderzoeksgids ['De koloniale staat 1854-1942'](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/10ED/file/Koloniale%20staat.pdf) bevat uitgebreide uitleg over de archieven met betrekking tot Nederlands-Indië en de diverse ambtelijke diensten.
+    De onderzoeksgids [De koloniale staat 1854-1942](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/10ED/file/Koloniale%20staat.pdf) bevat uitgebreide uitleg over de archieven met betrekking tot Nederlands-Indië en de diverse ambtelijke diensten.
       
     De archieven van koloniale overheid bevinden zich grotendeels in het [Nationaal Archief] in Den Haag. Ook in de voormalige koloniën zijn archieven te vinden.
       

@@ -7,25 +7,22 @@ Abstract: "De handel in koloniale voorwerpen en goederen stond aan de basis van 
 RelatedAides: 
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Ambtenaren": 
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
   - "Leger en Marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
-  - "Science":
-        link: "niveau2/English/Science_20240821.yml"
-        rel_type: "see also"
   - "Groote Koninklijke Bazar":
         link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
-        rel_type: "Example"
+        rel_type: "see also"
   - "Kunsthandel Van Lier":
         link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
-        rel_type: "Example"
+        rel_type: "see also"
   - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
         link: "niveau3/Dutch/KVVAK_20240312.yml"
         rel_type: "see also"
@@ -56,11 +53,11 @@ Relevant data:
     Type of objects:
     Geographical: 
       - "[China](http://vocab.getty.edu/aat/300417515)"
-      - "[Congo](https://www.geonames.org/203312)"
-      - "[Indonesië](https://www.geonames.org/1643084)"
-      - "[Iran](https://www.geonames.org/130758)"
-      - "[Japan](https://www.geonames.org/1861060)"
-      - "[Oceanië](https://www.geonames.org/6255151)"
+      - "[Congo](https://sws.geonames.org/203312)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Iran](https://sws.geonames.org/130758)"
+      - "[Japan](https://sws.geonames.org/1861060)"
+      - "[Oceanië](https://sws.geonames.org/6255151)"
 
 Main-text:
   content: |
@@ -68,9 +65,9 @@ Main-text:
     
     De handel in koloniale voorwerpen en goederen stond aan de basis van de vorming van collecties in Nederland. Handel en verkoop speelden een centrale rol in de circulatie van deze voorwerpen in Europa. Tegen het begin van de 20ste eeuw had de koloniale kunsthandel zich in Nederland tot een bloeiende business ontwikkeld. Musea kochten regelmatig bij handelaren en veilinghuizen, niet alleen in Nederland, maar ook in andere Europese koloniserende landen, met name Duitsland, België, Frankrijk en Groot-Britannië. Diezelfde handelaren en veilinghuizen waren bronnen voor privécollecties, van waaruit voorwerpen soms later weer in museumcollecties terechtkwamen.
     
-    Bekende handelaren die koloniale goederen aan musea en particulieren verkochten waren de firma’s [Van Lier (1927-1996)](https://hdl.handle.net/20.500.11840/pi57937), [Aalderink (1930-2023)](https://data.rkd.nl/artists/437058) en [Lemaire (1933-heden)](https://data.rkd.nl/artists/446005) en de Amsterdamse veilinghuizen [Frederik Muller & Co. (1876-1961)](https://www.wikidata.org/entity/Q18821838) en [Mak van Waay (1918-1974)](https://www.wikidata.org/entity/Q73900989). In Den Haag waren de winkels de [Groote Koninklijke Bazar (1841-1927)](https://hdl.handle.net/20.500.11840/pi56363) en [Boeatan (1903-1949)](https://www.wikidata.org/entity/Q101082502) gespecialiseerd in oosterse kunstnijverheid.
+    Bekende handelaren die koloniale goederen aan musea en particulieren verkochten waren de firma’s [Van Lier](https://hdl.handle.net/20.500.11840/pi57937) (1927-1996), [Aalderink](https://data.rkd.nl/artists/437058) (1930-2023) en [Lemaire](https://data.rkd.nl/artists/446005) (1933-heden) en de Amsterdamse veilinghuizen [Frederik Muller & Co.](https://www.wikidata.org/entity/Q18821838) (1876-1961) en [Mak van Waay](https://www.wikidata.org/entity/Q73900989) (1918-1974). In Den Haag waren de winkels de [Groote Koninklijke Bazar](https://hdl.handle.net/20.500.11840/pi56363) (1841-1927) en [Boeatan](https://www.wikidata.org/entity/Q101082502) (1903-1949) gespecialiseerd in oosterse kunstnijverheid.
     
-    Een andere connectie met handel was de handel in koloniale producten en grondstoffen, zoals rubber, ivoor, katoen en tabak. Ten behoeve van de handel in deze goederen werden [groothandelsfirma's] opgericht. De medewerkers van deze handelshuizen verzamelden (kunst)voorwerpen in het kielzog van hun werkzaamheden. Een voorbeeld is de [Nieuwe Afrikaansche Handels-Vennootschap N.V. (NAHV, 1880-1982)](https://www.wikidata.org/entity/Q2543001) dat handel dreef in [Centraal-Afrika](https://www.geonames.org/7729886). Een groot aantal Afrikaanse voorwerpen, vooral uit [Congo](https://www.geonames.org/203312), is door personen die aan dit bedrijf verbonden waren aan Nederlandse musea geschonken.
+    Een andere connectie met handel was de handel in koloniale producten en grondstoffen, zoals rubber, ivoor, katoen en tabak. Ten behoeve van de handel in deze goederen werden groothandelsfirma's opgericht. De medewerkers van deze handelshuizen verzamelden (kunst)voorwerpen in het kielzog van hun werkzaamheden. Een voorbeeld is de [Nieuwe Afrikaansche Handels-Vennootschap N.V.](https://www.wikidata.org/entity/Q2543001) (NAHV, 1880-1982) dat handel dreef in [Centraal-Afrika](https://sws.geonames.org/7729886). Een groot aantal Afrikaanse voorwerpen, vooral uit [Congo](https://sws.geonames.org/203312), is door personen die aan dit bedrijf verbonden waren aan Nederlandse musea geschonken.
     
     Naar de Nederlandse koloniale kunsthandel is nog weinig onderzoek gedaan. Er is meer bekend over de invloed van de handel op de kunstproductie in de gekoloniseerde gebieden. Gedurende de gehele koloniale periode zijn er kunstenaars uit herkomstlanden geweest die inspeelden op de vraag naar objecten vanuit Europa. Deze kunstenaars gingen zowel voor de eigen markt werken als voor de verkoop aan buitenlanders. Ook de transacties van dit type objecten, dat vroeger bekend stond als toeristenkunst, behoren tot de koloniale verzamelpraktijken.
     

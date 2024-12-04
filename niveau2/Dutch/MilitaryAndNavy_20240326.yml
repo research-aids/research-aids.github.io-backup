@@ -7,18 +7,27 @@ Abstract: "Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, 
 RelatedAides: 
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Ambtenaren": 
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
   - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
@@ -34,16 +43,16 @@ Relevant data:
       - "[Onderofficier](https://www.wikidata.org/entity/Q158950)"
       - "[Soldaat](http://vocab.getty.edu/aat/300185678)"
     Geographical:
-      - "[Antillen](https://www.geonames.org/8505032)"
-      - "[Indonesië](https://www.geonames.org/1643084)"
-      - "[Oceanië](https://www.geonames.org/6255151)"
-      - "[Suriname](https://www.geonames.org/3382998)"
+      - "[Antillen](https://sws.geonames.org/8505032)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Oceanië](https://sws.geonames.org/6255151)"
+      - "[Suriname](https://sws.geonames.org/3382998)"
 
 Main-text:
   content: |
     ### Beschrijving
     
-    Het Nederlandse gezag in [Nederlands-Indië](https://www.geonames.org/1643084), [Suriname](https://www.geonames.org/3382998) en op de [Caribische eilanden](https://www.geonames.org/8505032) steunde in belangrijke mate op de inzet van het leger. In Nederlands-Indië was het [Koninklijk Nederlandsch- Indisch Leger (KNIL)](https://hdl.handle.net/20.500.11840/pi7416) actief. Het KNIL werd gevormd door officieren met Nederlandse of een andere Europese nationaliteit en veelal lokale soldaten. In Suriname en [Curaçao](https://www.geonames.org/7626836) was de koloniale troepenmacht in de 19de eeuw het West-Indische leger, dat op zijn beurt deel was van het Nederlandse leger. In de 20ste eeuw werden de officieren voor Suriname gerekruteerd uit het KNIL, terwijl de onderofficieren en soldaten zowel in Europa als lokaal werden geworven. Tijdens de [onafhankelijkheidsoorlog van Indonesië (1945-1949)](https://www.wikidata.org/entity/Q1332160) werden tienduizenden dienstplichtige soldaten uit het Nederlandse leger ingezet.
+    Het Nederlandse gezag in [Nederlands-Indië](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998) en op de [Caribische eilanden](https://sws.geonames.org/8505032) steunde in belangrijke mate op de inzet van het leger. In Nederlands-Indië was het [Koninklijk Nederlandsch- Indisch Leger (KNIL)](https://hdl.handle.net/20.500.11840/pi7416) actief. Het KNIL werd gevormd door officieren met Nederlandse of een andere Europese nationaliteit en veelal lokale soldaten. In Suriname en [Curaçao](https://sws.geonames.org/7626836) was de koloniale troepenmacht in de 19de eeuw het West-Indische leger, dat op zijn beurt deel was van het Nederlandse leger. In de 20ste eeuw werden de officieren voor Suriname gerekruteerd uit het KNIL, terwijl de onderofficieren en soldaten zowel in Europa als lokaal werden geworven. Tijdens de [onafhankelijkheidsoorlog van Indonesië](https://www.wikidata.org/entity/Q1332160) (1945-1949) werden tienduizenden dienstplichtige soldaten uit het Nederlandse leger ingezet.
     
     Slechts een gering aantal voorwerpen in Nederlandse musea betreft officiële oorlogsbuit die op bevel van de koloniale legers naar Nederland werd gezonden. Een bekend voorbeeld is de zogenaamde [Lombokschat](https://www.wikidata.org/entity/Q115754448). Er zijn veel meer voorwerpen die afkomstig zijn van individuele militairen en die door particulier initiatief in Nederland terechtkwamen. Er waren verschillende manieren waarop militair personeel aan deze voorwerpen kwamen: ze konden zijn buitgemaakt, geschonken of gekocht van de lokale bevolking.
     
