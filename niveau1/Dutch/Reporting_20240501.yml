@@ -7,7 +7,7 @@ Abstract: "Hoe stel je een verslag op naar aanleiding van je (herkomst)onderzoek
 RelatedAides:
   - "Onderzoeken":
         link: "niveau1/Dutch/Onderzoeken_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
         rel_type: "see also"
@@ -31,7 +31,7 @@ Main-text:
     
     Een schematische weergave van de herkomst is nuttig om de belangrijkste gegevens in één oogopslag weer te geven. Dat kan in de vorm van een tijdlijn met de belangrijkste momenten van bezitsovergang of in de vorm van een herkomstzin: een gestandaardiseerde notatiewijze van de bekende jaartallen, bezitters en hun woonplaatsen, gescheiden door leestekens. In de schematische weergave worden ook eventuele lacunes in kennis opgenomen. 
     
-    Voorbeeld van een herkomstzin: *Grafsteen [Aceh, 16de-18de eeuw], onbekende begraafplaats in Lhoknga, tot 1901; (verwijderd uit Lhoknga door George Nijpels, 1901); geschonken aan Hoofdcursus, Kampen, 1902 tot 1923; overdracht aan Ethnografisch Museum Koninklijke Militaire Academie, Breda 1923 tot 1956; overdracht aan Rijksmuseum voor Volkenkunde / Wereldmuseum Leiden, 1956.*
+    Voorbeeld van een herkomstzin: *Grafsteen (Aceh, 16de-18de eeuw), onbekende begraafplaats in Lhoknga, tot 1901; (verwijderd uit Lhoknga door George Nijpels, 1901); geschonken aan Hoofdcursus, Kampen, 1902 tot 1923; overdracht aan Ethnografisch Museum Koninklijke Militaire Academie, Breda 1923 tot 1956; overdracht aan Rijksmuseum voor Volkenkunde / Wereldmuseum Leiden, 1956.*
     
     Voorbeeld van een tijdlijn:
     

@@ -7,37 +7,37 @@ Abstract: "Waar kan je bronnen voor herkomstonderzoek vinden en hoe moet je deze
 RelatedAides: 
   - "Onderzoeken":
         link: "niveau1/Dutch/Onderzoeken_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Ambtenaren":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Leger en Marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Zending en Missie":
         link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV_20240704.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Naturalis Biodiversity Center":
         link: "niveau3/Dutch/Naturalis_20240710.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Wereldmuseum Rotterdam":
         link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-        rel_type: "example"
+        rel_type: "see also"
 
 Main-text:
   content: |
@@ -53,7 +53,7 @@ Main-text:
     
     ## Zoektermen
     
-    Bij herkomstonderzoek naar koloniale collecties moet je andere zoektermen gebruiken dan de moderne termen die we nu gebruiken. Dit geldt onder meer voor plaatsnamen: deze zijn vaak veranderd na de onafhankelijkheid. Zo werd Batavia [Jakarta](https://www.geonames.org/1642911) en Leopoldville werd [Kinshasa](https://www.geonames.org/2314302). Wanneer plaatsnamen gelijk bleven was de spelling in de koloniale periode vaak anders dan nu (denk aan [Soerabaja/Surabaya](https://www.geonames.org/1625822) en [Tjirebon/Cirebon](https://www.geonames.org/1646170)).
+    Bij herkomstonderzoek naar koloniale collecties moet je andere zoektermen gebruiken dan de moderne termen die we nu gebruiken. Dit geldt onder meer voor plaatsnamen: deze zijn vaak veranderd na de onafhankelijkheid. Zo werd Batavia Jakarta en Leopoldville werd Kinshasa. Wanneer plaatsnamen gelijk bleven was de spelling in de koloniale periode vaak anders dan nu (denk aan Soerabaja/Surabaya en Tjirebon/Cirebon).
     
     Ook voor voorwerpen werden andere termen gebruikt dan in het Nederlands van nu. Als voorbeeld: een baadje noemen we tegenwoordig een jasje. In Nederlands-Indië werden ook Nederlandse termen gebruikt die uit het Indonesisch waren afgeleid, zoals rampokken en rampassen als synoniem voor plunderen. Niet-Nederlandse namen werden op verschillende manieren gespeld, ook in de koloniale tijd. Van Nederlanders werd vaak alleen de achternaam en initialen vermeld. Probeer daarom altijd te achterhalen welke namen en termen vroeger gebruikt werden en zoek met verschillende varianten in de zoeksystemen.
     
@@ -63,7 +63,7 @@ Main-text:
     
     Voor herkomstonderzoek naar objecten uit koloniale contexten zijn persoonlijke archieven vaak van cruciaal belang. Het gaat daarbij onder meer om dagboeken, memoires en correspondentie. Ook zijn in persoonlijke archieven kopieën van rapporten en verslagen te vinden die beroepshalve zijn gemaakt. Dit is belangrijk omdat aanzienlijke delen van koloniale overheidsarchieven niet bewaard zijn gebleven. 
     
-    Dergelijke particuliere collecties zijn te vinden in talloze archieven in Nederland. Het is daarom raadzaam om de zoektocht te beginnen bij [www.archieven.nl](https://www.archieven.nl/). Overigens zijn niet alle archiefinstellingen zijn hier te vinden, dus het is dikwijls noodzakelijk om de zoektocht buiten deze website te vervolgen. Vele Nederlanders die actief waren in het koloniale bestuur, leger of wetenschap brachten hun persoonlijke archief onder bij het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV)](https://www.wikidata.org/entity/Q2282075). Deze archieven maken tegenwoordig deel uit van de [Universitaire Bibliotheken Leiden]([https://digitalcollections.universiteitleiden.nl). Soms zijn er nog archiefstukken in particulier bezit, bij families, organisaties of bedrijven.
+    Dergelijke particuliere collecties zijn te vinden in talloze archieven in Nederland. Het is daarom raadzaam om de zoektocht te beginnen bij [www.archieven.nl](https://www.archieven.nl/). Overigens zijn niet alle archiefinstellingen zijn hier te vinden, dus het is dikwijls noodzakelijk om de zoektocht buiten deze website te vervolgen. Vele Nederlanders die actief waren in het koloniale bestuur, leger of wetenschap brachten hun persoonlijke archief onder bij het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV)](https://www.wikidata.org/entity/Q2282075). Deze archieven maken tegenwoordig deel uit van de [Universitaire Bibliotheken Leiden](https://digitalcollections.universiteitleiden.nl). Soms zijn er nog archiefstukken in particulier bezit, bij families, organisaties of bedrijven.
     
     Via het [Nationaal Archief](https://www.nationaalarchief.nl) zijn de personeelsdossiers (stamboeken) van koloniale ambtenaren, militairen en marinepersoneel digitaal doorzoekbaar. Op die manier is terug te vinden wanneer zij waar gestationeerd waren en voor welke daden zij eretekens en onderscheidingen ontvingen.
     
@@ -82,15 +82,15 @@ Main-text:
     **Boeken en tijdschriften**
     
     Nederlandse boeken en tijdschriften uit de koloniale tijd bevatten vaak uitgebreide reisrapportages en verslagen van allerhande gebeurtenissen. Deze publicaties zijn daarmee een rijke bron voor herkomstonderzoek, zij het door een koloniaal gekleurde bril. Daarnaast zijn er catalogi van tentoonstellingen en andere publicaties waarin voorwerpen voorkomen. Veel van deze publicaties zijn inmiddels gedigitaliseerd. Ze zijn doorzoekbaar via onder meer de volgende websites:
-    - [Delpher]https://www.delpher.nl
-    - [Digital Collections van de Universiteit Leiden(https://digitalcollections.universiteitleiden.nl)
+    - [Delpher](https://www.delpher.nl)
+    - [Digital Collections van de Universiteit Leiden](https://digitalcollections.universiteitleiden.nl)
     - [Google Books](https://books.google.nl)
     
     **Beeldmateriaal, kaarten en plattegronden**
     
     Foto’s kunnen een beeld geven van hoe objecten werden gebruikt in de gebieden van herkomst. Ook kunnen ze informatie bevatten over vindplaatsen, opgravingen, museumopstellingen of huisinterieurs aan de hand waarvan objecten kunnen worden geïdentificeerd. Ook ander beeldmateriaal, zoals tekeningen en schilderijen, kan daarbij van nut zijn.
     
-    De omvangrijkste beeldbanken met materiaal over de door Europeanen gekoloniseerde gebieden zijn die van de [Universitaire Bibliotheken Leiden]([https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv), het [Wereldmuseum](https://collectie.wereldculturen.nl) en daarnaast de beeldcollecties van het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/fotos) en [Rijksmuseum](https://www.rijksmuseum.nl/nl/rijksstudio). Het [Nationaal Fotomuseum](https://www.nederlandsfotomuseum.nl/) bezit de fotocollectie van het Wereldmuseum in Rotterdam.
+    De omvangrijkste beeldbanken met materiaal over de door Europeanen gekoloniseerde gebieden zijn die van de [Universitaire Bibliotheken Leiden](https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv), het [Wereldmuseum](https://collectie.wereldculturen.nl) en daarnaast de beeldcollecties van het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/fotos) en [Rijksmuseum](https://www.rijksmuseum.nl/nl/rijksstudio). Het [Nationaal Fotomuseum](https://www.nederlandsfotomuseum.nl/) bezit de fotocollectie van het Wereldmuseum in Rotterdam.
     
     Kaarten en plattegronden uit de koloniale tijd kunnen helpen om de plaats van herkomst te lokaliseren. Deze zijn te vinden in de collecties van het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/kaarten-en-tekeningen/navigatie-en-overzeese-expansie) en de [Universitaire Bibliotheken Leiden](https://www.library.universiteitleiden.nl/special-collections/collections/maps-and-atlases).
     

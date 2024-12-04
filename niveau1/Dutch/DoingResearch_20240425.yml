@@ -5,18 +5,19 @@ Title: "Onderzoeken"
 Abstract: "Welk stappenplan moet je volgen voor het doen van (herkomst)onderzoek en hoe kom je aan meer informatie?"
 
 RelatedAides:
-  - "Bronnen":
-        link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "narrower"
   - "Hoe gebruik ik de Datahub":
         link: "niveau1/Dutch/HoeGebruikIkDeDatahub_20240424.yml"
-        rel_type: "broader"
-  - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Verslagleggen":
         link: "niveau1/Dutch/Verslagleggen_20240501.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        rel_type: "see also"
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "see also"
+
 
 Main-text:
   content: |
@@ -41,7 +42,7 @@ Main-text:
     - Onderzoek naar het vroegere gebruik van het voorwerp.
     - Raadpleging van deskundigen en gemeenschappen van herkomst.
     
-    Aan de hand van een lijst met mogelijke [onderzoeksstappen]() kunnen de stappen en aandachtspunten geselecteerd worden die relevant zijn voor de onderzoeksvraag en het doel van het herkomstonderzoek. Het is doorgaans niet nodig om alle punten uit de lijst te onderzoeken. Het onderzoek kan sneller verlopen als er sprake is van meerdere objecten die op hetzelfde moment verworven zijn. Zeker als er in de onderzoeksbronnen meerdere objecten worden genoemd.
+    Aan de hand van een lijst met mogelijke onderzoeksstappen kunnen de stappen en aandachtspunten geselecteerd worden die relevant zijn voor de onderzoeksvraag en het doel van het herkomstonderzoek. Het is doorgaans niet nodig om alle punten uit de lijst te onderzoeken. Het onderzoek kan sneller verlopen als er sprake is van meerdere objecten die op hetzelfde moment verworven zijn. Zeker als er in de onderzoeksbronnen meerdere objecten worden genoemd.
     
     ## Hoe kom je aan informatie?
     
