@@ -4,17 +4,17 @@
     "Abstract": "Hoe de datahub kan helpen bij het doen van (herkomst)onderzoek",
     "RelatedAides": [
         {
-            "Selecteren en afbakenen": {
-                "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
-                "rel_type": "narrower",
-                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
+            "Onderzoeken": {
+                "link": "niveau1/Dutch/Onderzoeken_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/Onderzoeken_Dutch"
             }
         },
         {
-            "Onderzoeken": {
-                "link": "niveau1/Dutch/Onderzoeken_20240425.yml",
-                "rel_type": "narrower",
-                "linkFilename": "niveau1/Dutch/Onderzoeken_Dutch"
+            "Selecteren en afbakenen": {
+                "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
             }
         }
     ],
