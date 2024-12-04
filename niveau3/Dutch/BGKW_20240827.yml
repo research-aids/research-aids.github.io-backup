@@ -20,6 +20,18 @@ RelatedAides:
   - "Ethnografisch Museum Artis":
         link: "niveau3/Dutch/EMArtis_20240711.yml"
         rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
@@ -37,7 +49,7 @@ Relevant data:
       - "[Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591)"
       - "[Mineralen](http://vocab.getty.edu/aat/300011068)"
     Geographical:
-      - "[Indonesië](https://www.geonames.org/1643084)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
   Period of activity:
     Year of start: "1778"
     Year of end: "1962"

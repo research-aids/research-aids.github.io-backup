@@ -5,6 +5,9 @@ Title: "Koninklijk Kabinet van Zeldzaamheden"
 Abstract: "Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Willem I. De collectie bestond uit allerlei voorwerpen, waaronder ook vele uit gekoloniseerde gebieden." 
 
 RelatedAides: 
+  - "Ambtenaren":
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "see also"
   - "Leger en Marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
@@ -40,14 +43,14 @@ Relevant data:
       - "[Naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008)"
       - "[Numismatica](http://vocab.getty.edu/aat/300054419)"
     Geographical:
-      - "[China](https://www.geonames.org/1814991)"
-      - "[Indonesië](https://www.geonames.org/1643084)"
-      - "[Japan](https://www.geonames.org/1861060)"
-      - "[Noord-Amerika](https://www.geonames.org/6255149)"
-      - "[Papua](https://www.geonames.org/2088628)"
-      - "[Suriname](https://www.geonames.org/3382998)"
-      - "[Turkije](https://www.geonames.org/298795)"
-      - "[Zuid-Afrika](https://www.geonames.org/953987)"
+      - "[China](https://sws.geonames.org/1814991)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Japan](https://sws.geonames.org/1861060)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
+      - "[Papua](https://sws.geonames.org/2088628)"
+      - "[Suriname](https://sws.geonames.org/3382998)"
+      - "[Turkije](https://sws.geonames.org/298795)"
+      - "[Zuid-Afrika](https://sws.geonames.org/953987)"
   Period of activity:
     Year of start: "1816"
     Year of end: "1833"
@@ -123,15 +126,15 @@ Sources:
     - Type of source: "Catalogus"
       Name: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
       Link: 
+        - URL: "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
         - OCLC: "63800039" 
-        - Link: "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
       Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
     - Type of source: "Catalogus"
       Name: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
       Link: 
-        - OCLC: "899016583"
         - URL: "http://archive.org/details/kortehandleiding00kast"
         - URL: "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+        - OCLC: "899016583"
       Description and remarks: "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."
     - Type of source: "Hoofdstuk in boek"
       Name: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "

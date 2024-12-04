@@ -20,9 +20,6 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "See also"
-  - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-        rel_type: "see also"
 
 Relevant data:
   Identifiers:
@@ -41,12 +38,12 @@ Relevant data:
       - "[Kaarten](http://vocab.getty.edu/page/300028094)"
       - "[Manusripten](http://vocab.getty.edu/page/aat/300252927)"
     Geographical:
-      - "[Indonesië](https://www.geonames.org/1643084)"
-      - "[Nederlandse Antillen](https://www.geonames.org/8505032/)"
-      - "[Suriname](https://www.geonames.org/3382998)"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Nederlandse Antillen](https://sws.geonames.org/8505032/)"
+      - "[Suriname](https://sws.geonames.org/3382998)"
   Period of activity:
     Year of start: "1851"
-    Year of end: "Heden"
+    Year of end: "[]"
   Collections:
     General remarks:
       content: |
@@ -124,6 +121,7 @@ Sources:
     - Type of source: "Tijdschrift"
       Name: "Bijdragen tot de taal-, land- en volkenkunde"
       Link: 
+        - URL: "https://brill.com/view/journals/bki/bki-overview.xml"
         - ISSN: "2213-4379"
       Description and remarks: "Het tijdschrift van het KITLV, dat eerst door het KITLV zelf werd uitgegeven, maar tegenwoordig door Brill. Alle volumes, vanaf de eerste editie uit 1853, zijn beschikbaar via [Brill](https://brill.com/view/journals/bki/bki-overview.xml). Vroegere edities bevatten ook notulen van Bestuurs- en Algemene Vergaderingen, tegenwoordig ligt de focus op onderzoek uit en naar Zuid-Oost Azië in verschillende disciplines."
 
