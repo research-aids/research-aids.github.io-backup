@@ -4,13 +4,6 @@
     "Abstract": "Pieter H. Pott speelde een invloedrijke rol in de culturele betrekkingen tussen Indonesi\u00eb en Nederland in de tweede helft van de vorige eeuw.",
     "RelatedAides": [
         {
-            "Ambtenaren": {
-                "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
-                "rel_type": "example",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
-            }
-        },
-        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "broader",
@@ -39,10 +32,10 @@
                 "[Etnografica](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Indonesi\u00eb](https://www.geonames.org/1643084)",
-                "[Leiden](https://www.geonames.org/2751773)",
-                "[Nepal](https://www.geonames.org/1282988)",
-                "[Tibet](https://www.geonames.org/1279685)"
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
+                "[Leiden](https://sws.geonames.org/2751773)",
+                "[Nepal](https://sws.geonames.org/1282988)",
+                "[Tibet](https://sws.geonames.org/1279685)"
             ]
         },
         "Period of activity": {
@@ -136,7 +129,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Beurden, J. van. Treasures in Trusted Hands: Negotiating the Future of Colonial Cultural Objects. Leiden: Sidestone Press, 2017.",
+                "Name": "Beurden, J. van. Treasures in Trusted Hands: Negotiating the Future of Colonial Cultural Objects. Leiden: Sidestone Press, 2017",
                 "Persistent identifier": [
                     {
                         "ISBN": "9789088904417"
@@ -149,7 +142,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Pott P.H W.R. van Gulik Harald S. van der Straaten and Simon Kooijman. From Field-Case to Show-Case: Research Acquisition and Presentation in the Rijksmuseum Voor Volkenkunde (National Museum of Ethnology) Leiden: In Tribute to Professor P.h. Pott on the 25th Anniversary of His Directorship of the Rijksmuseum Voor Volkenkunde Leiden. Amsterdam: Gieben, 1980.",
+                "Name": "Pott, P.H W.R., van Gulik Harald, S. van der Straaten and Simon Kooijman. From Field-Case to Show-Case: Research Acquisition and Presentation in the Rijksmuseum Voor Volkenkunde (National Museum of Ethnology) Leiden: In Tribute to Professor P.h. Pott on the 25th Anniversary of His Directorship of the Rijksmuseum Voor Volkenkunde Leiden. Amsterdam: Gieben, 1980.",
                 "Persistent identifier": [
                     {
                         "ISBN": "9789070265823"

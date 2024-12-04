@@ -4,6 +4,13 @@
     "Abstract": "Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Willem I. De collectie bestond uit allerlei voorwerpen, waaronder ook vele uit gekoloniseerde gebieden.",
     "RelatedAides": [
         {
+            "Ambtenaren": {
+                "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+            }
+        },
+        {
             "Leger en Marine": {
                 "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
                 "rel_type": "see also",
@@ -65,14 +72,14 @@
                 "[Numismatica](http://vocab.getty.edu/aat/300054419)"
             ],
             "Geographical": [
-                "[China](https://www.geonames.org/1814991)",
-                "[Indonesi\u00eb](https://www.geonames.org/1643084)",
-                "[Japan](https://www.geonames.org/1861060)",
-                "[Noord-Amerika](https://www.geonames.org/6255149)",
-                "[Papua](https://www.geonames.org/2088628)",
-                "[Suriname](https://www.geonames.org/3382998)",
-                "[Turkije](https://www.geonames.org/298795)",
-                "[Zuid-Afrika](https://www.geonames.org/953987)"
+                "[China](https://sws.geonames.org/1814991)",
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
+                "[Japan](https://sws.geonames.org/1861060)",
+                "[Noord-Amerika](https://sws.geonames.org/6255149)",
+                "[Papua](https://sws.geonames.org/2088628)",
+                "[Suriname](https://sws.geonames.org/3382998)",
+                "[Turkije](https://sws.geonames.org/298795)",
+                "[Zuid-Afrika](https://sws.geonames.org/953987)"
             ]
         },
         "Period of activity": {
@@ -178,10 +185,10 @@
                 "Name": "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in \u2019s-Gravenhage. \u2019s Gravenhage, 1823.",
                 "Link": [
                     {
-                        "OCLC": "63800039"
+                        "URL": "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
                     },
                     {
-                        "Link": "https://play.google.com/books/reader?id=-p1RAAAAcAAJ"
+                        "OCLC": "63800039"
                     }
                 ],
                 "Description and remarks": "Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele."
@@ -191,13 +198,13 @@
                 "Name": "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in \u2019s Gravenhage. \u2019s Gravenhage: A.H. Bakhuijzen, 1860.",
                 "Link": [
                     {
-                        "OCLC": "899016583"
-                    },
-                    {
                         "URL": "http://archive.org/details/kortehandleiding00kast"
                     },
                     {
                         "URL": "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+                    },
+                    {
+                        "OCLC": "899016583"
                     }
                 ],
                 "Description and remarks": "Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele."

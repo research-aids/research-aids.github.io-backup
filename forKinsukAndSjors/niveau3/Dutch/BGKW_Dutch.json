@@ -37,6 +37,34 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
             }
+        },
+        {
+            "Koninklijk Kabinet van Zeldzaamheden": {
+                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+            }
         }
     ],
     "Relevant data": {
@@ -59,7 +87,7 @@
                 "[Mineralen](http://vocab.getty.edu/aat/300011068)"
             ],
             "Geographical": [
-                "[Indonesi\u00eb](https://www.geonames.org/1643084)"
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084)"
             ]
         },
         "Period of activity": {

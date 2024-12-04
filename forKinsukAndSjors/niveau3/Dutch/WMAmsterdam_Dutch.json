@@ -58,6 +58,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
             }
+        },
+        {
+            "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
+                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+            }
         }
     ],
     "Relevant data": {
@@ -79,11 +86,11 @@
                 "[Etnografica](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Afrika](https://www.geonames.org/6255146/)",
-                "[Azi\u00eb](https://www.geonames.org/6255147)",
-                "[Noord-Amerika](https://www.geonames.org/6255149)",
-                "[Oceani\u00eb](https://www.geonames.org/6255151)",
-                "[Zuid-Amerika](https://www.geonames.org/6255150)"
+                "[Afrika](https://sws.geonames.org/6255146/)",
+                "[Azi\u00eb](https://sws.geonames.org/6255147)",
+                "[Noord-Amerika](https://sws.geonames.org/6255149)",
+                "[Oceani\u00eb](https://sws.geonames.org/6255151)",
+                "[Zuid-Amerika](https://sws.geonames.org/6255150)"
             ]
         },
         "Period of activity": {

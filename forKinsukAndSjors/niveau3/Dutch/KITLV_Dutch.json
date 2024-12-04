@@ -37,13 +37,6 @@
                 "rel_type": "See also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
             }
-        },
-        {
-            "Wereldmuseum Rotterdam": {
-                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
-            }
         }
     ],
     "Relevant data": {
@@ -67,14 +60,14 @@
                 "[Manusripten](http://vocab.getty.edu/page/aat/300252927)"
             ],
             "Geographical": [
-                "[Indonesi\u00eb](https://www.geonames.org/1643084)",
-                "[Nederlandse Antillen](https://www.geonames.org/8505032/)",
-                "[Suriname](https://www.geonames.org/3382998)"
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
+                "[Nederlandse Antillen](https://sws.geonames.org/8505032/)",
+                "[Suriname](https://sws.geonames.org/3382998)"
             ]
         },
         "Period of activity": {
             "Year of start": "1851",
-            "Year of end": "Heden"
+            "Year of end": "[]"
         },
         "Collections": {
             "General remarks": {
@@ -179,6 +172,9 @@
                 "Type of source": "Tijdschrift",
                 "Name": "Bijdragen tot de taal-, land- en volkenkunde",
                 "Link": [
+                    {
+                        "URL": "https://brill.com/view/journals/bki/bki-overview.xml"
+                    },
                     {
                         "ISSN": "2213-4379"
                     }

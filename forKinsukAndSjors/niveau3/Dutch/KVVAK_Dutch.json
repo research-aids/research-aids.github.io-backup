@@ -6,7 +6,7 @@
         {
             "Handel": {
                 "link": "niveau2/Dutch/Handel_20240326.yml",
-                "rel_type": "example",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Handel_Dutch"
             }
         }
@@ -36,8 +36,8 @@
                 "[Etnografica](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Oost-Azi\u00eb](https://www.geonames.org/7729894)",
-                "[Zuidoost-Azi\u00eb](https://www.geonames.org/7729896)"
+                "[Oost-Azi\u00eb](https://sws.geonames.org/7729894)",
+                "[Zuidoost-Azi\u00eb](https://sws.geonames.org/7729896)"
             ]
         },
         "Period of activity": {
