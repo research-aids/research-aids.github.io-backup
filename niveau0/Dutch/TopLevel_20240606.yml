@@ -48,15 +48,27 @@ Breakdown:
           - "Koninklijk Kabinet van Zeldzaamheden":
               link: "niveau3/Dutch/KKZ_20240313.yml"
               rel_type: "see also"
+          - "Etnografisch Museum Artis":
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+              rel_type: "see also"
     - "Ambtenaren in de koloniën":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
         Deelonderwerpen:
-          - "Pieter H. Pott":
-              link: "niveau3/Dutch/PieterPott_20240312.yml"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
               rel_type: "see also"
-          - "Wageningen University & Research":
-              link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+          - "Wereldmuseum Leiden": 
+              link: "niveau3/Dutch/WMLeiden_20240327.yml" 
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
     - "Leger- en marinepersoneel":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
@@ -68,12 +80,21 @@ Breakdown:
           - "Wereldmuseum Leiden":
               link: "niveau3/Dutch/WMLeiden_20240327.yml"
               rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+              rel_type: "see also"
     - "Christelijke zendelingen en missionarissen":
         link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
           - "Nederlandsch Zendeling Genootschap": 
               link: "niveau3/Dutch/NZG_20240314.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
               rel_type: "see also"
     - "Wetenschappelijk onderzoek in de koloniën":
         link: "niveau2/Dutch/Science_20240814.yml"
@@ -82,11 +103,26 @@ Breakdown:
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
               link: "niveau3/Dutch/BGKW_20240827.yml"
               rel_type: "see also"
+          - "Etnografisch Museum Artis":
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
+              rel_type: "see also"
           - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
               link: "niveau3/Dutch/KITLV_20240704.yml"
               rel_type: "see also"
           - "Naturalis Biodiversity Center":
               link: "niveau3/Dutch/Naturalis_20240710.yml"
+              rel_type: "see also"
+          - "Pieter H. Pott":
+              link: "niveau3/Dutch/PieterPott_20240312.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/Dutch/WMLeiden_20240327.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
