@@ -42,9 +42,9 @@ Relevant data:
       - "[Maps](http://vocab.getty.edu/page/300028094)"
       - "[Manusripts](http://vocab.getty.edu/page/aat/300252927)"
     Geographical:
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Netherlands Antilles](https://www.geonames.org/8505032/)"
-      - "[Surinam](https://www.geonames.org/3382998)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Netherlands Antilles](https://sws.geonames.org/8505032/)"
+      - "[Surinam](https://sws.geonames.org/3382998)"
   Period of activity:
     Year of start: "1851"
     Year of end: "Now"
@@ -129,8 +129,7 @@ Sources:
         - OCLC: "47826802"
       Description and remarks: "Dutch version from 2001 of the book by Kuitenbrouwer above."
     - Type of source: "Magazine"
-      Name: "Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences
-of Southeast Asia"
+      Name: "Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences of Southeast Asia"
       Link: 
         - ISSN: "2213-4379"
       Description and remarks: "The journal of KITLV, first published by KITLV itself, but now published by Brill. All volumes, from the first 1853 edition onward, are available through [Brill](https://brill.com/view/journals/bki/bki-overview.xml). Earlier editions also contained minutes of Board and General Meetings; today the focus is on research from and into Southeast Asia in various disciplines."

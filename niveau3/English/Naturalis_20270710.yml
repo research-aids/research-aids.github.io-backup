@@ -50,12 +50,12 @@ Relevant data:
       - "[Minerals](http://vocab.getty.edu/aat/300011068)"
       - "[Fossils](http://vocab.getty.edu/aat/300011068)"
     Geographical:
-      - "[Europe](https://www.geonames.org/6255148)"
-      - "[Asia](https://www.geonames.org/6255147)"
-      - "[Africa](https://www.geonames.org/6255146)"
+      - "[Europe](https://sws.geonames.org/6255148)"
+      - "[Asia](https://sws.geonames.org/6255147)"
+      - "[Africa](https://sws.geonames.org/6255146)"
       - "[Oceania](https://geonames.org/6255151)"
-      - "[Norht America](https://www.geonames.org/6255149)"
-      - "[South America](https://www.geonames.org/6255150)"
+      - "[Norht America](https://sws.geonames.org/6255149)"
+      - "[South America](https://sws.geonames.org/6255150)"
   Period of activity:
     Year of start: "1820"
     Year of end: "Now"

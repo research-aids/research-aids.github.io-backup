@@ -23,13 +23,13 @@ Relevant data:
     Type of objects: 
       - "[Etnographics](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Bali](https://www.geonames.org/1650534)"
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Java](https://www.geonames.org/1642673)"
-      - "[Moluccas](https://www.geonames.org/1636629)"
-      - "[Sulawesi](https://www.geonames.org/9062340)"
-      - "[Sumatra](https://www.geonames.org/1626198)"
-      - "[Timor](https://www.geonames.org/1623843)"
+      - "[Bali](https://sws.geonames.org/1650534)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Java](https://sws.geonames.org/1642673)"
+      - "[Moluccas](https://sws.geonames.org/1636629)"
+      - "[Sulawesi](https://sws.geonames.org/9062340)"
+      - "[Sumatra](https://sws.geonames.org/1626198)"
+      - "[Timor](https://sws.geonames.org/1623843)"
   Period of activity:
     Year of start: "1797"
     Year of end: "1951"
@@ -44,7 +44,7 @@ Main-text:
   content: |
     ### Description
     
-    Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://www.geonames.org/1642673) en [Sulawesi](https://www.geonames.org/9062340), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://www.geonames.org/1643084) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea.
+    Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://sws.geonames.org/1642673) en [Sulawesi](https://sws.geonames.org/9062340), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://sws.geonames.org/1643084) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea.
   content-type: text/markdown
 
 Sources:

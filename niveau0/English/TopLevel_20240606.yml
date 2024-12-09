@@ -48,7 +48,7 @@ Breakdown:
           - "Royal Cabinet of Curiosities":
               link: "niveau3/English/RCC_20240417.yml"
               rel_type: "see also"
-          - "Ethnographic Museum Artis":
+          - "Artis Ethnographic Museum":
               link: "niveau3/English/EMArtis_20240712.yml"
               rel_type: "see also"
           - "Wereldmuseum Amsterdam":
@@ -70,7 +70,7 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
-          - "Ethnographic Museum Artis":
+          - "Artis Ethnographic Museum":
               link: "niveau3/English/EMArtis_20240712.yml"
               rel_type: "see also"
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
@@ -126,7 +126,7 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
               rel_type: "see also"
-          - "Ethnographic Museum Artis":
+          - "Artis Ethnographic Museum":
               link: "niveau3/Dutch/EMArtis_20240711.yml"
               rel_type: "see also"
           - "Naturalis Biodiversity Center":

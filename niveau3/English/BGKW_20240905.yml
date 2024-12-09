@@ -20,6 +20,18 @@ RelatedAides:
   - "Artis Etnographic Museum":
         link: "niveau3/English/EMArtis_20240712.yml"
         rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/English/WMRotterdam_2040822.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
@@ -37,7 +49,7 @@ Relevant data:
       - "[Natural history specimens](http://vocab.getty.edu/aat/300379591)"
       - "[Minerals](http://vocab.getty.edu/aat/300011068)"
     Geographical:
-      - "[Indonesia](https://www.geonames.org/1643084)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
   Period of activity:
     Year of start: "1778"
     Year of end: "1962"
