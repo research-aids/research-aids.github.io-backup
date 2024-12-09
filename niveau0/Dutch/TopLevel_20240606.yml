@@ -70,21 +70,6 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
-          - "Etnografisch Museum Artis":
-              link: "niveau3/Dutch/EMArtis_20240711.yml"
-              rel_type: "see also"
-          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-              link: "niveau3/Dutch/BGKW_20240827.yml"
-              rel_type: "see also"
-          - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
-              link: "niveau3/Dutch/KITLV_20240704.yml"
-              rel_type: "see also"
-          - "Koninklijk Kabinet van Zeldzaamheden":
-              link: "niveau3/Dutch/KKZ_20240313.yml"
-              rel_type: "see also"
-          - "Wageningen University & Research":
-              link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
-              rel_type: "see also"
     - "Leger- en marinepersoneel":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
