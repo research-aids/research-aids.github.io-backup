@@ -6,21 +6,21 @@
         {
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau1/English/Sources_English"
             }
         },
         {
             "Trade": {
                 "link": "niveau2/English/Trade_20240316.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/Trade_English"
             }
         },
         {
             "Military and navy": {
                 "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/MilitaryAndNavy_English"
             }
         },

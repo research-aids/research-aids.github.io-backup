@@ -6,14 +6,14 @@
         {
             "Civil servants": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
-                "rel_type": "example",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/CivilServants_English"
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
-                "rel_type": "example",
+                "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English"
             }
         }

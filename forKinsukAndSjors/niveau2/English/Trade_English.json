@@ -34,14 +34,14 @@
         {
             "Groote Koninklijke Bazar": {
                 "link": "niveau3/English/KoninklijkeBazaar_2040503.yml",
-                "rel_type": "Example",
+                "rel_type": "see also",
                 "linkFilename": "niveau3/English/KoninklijkeBazaar_English"
             }
         },
         {
             "Kunsthandel Van Lier": {
                 "link": "niveau3/English/KunsthandelVanLier_20240507.yml",
-                "rel_type": "Example",
+                "rel_type": "see also",
                 "linkFilename": "niveau3/English/KunsthandelVanLier_English"
             }
         },

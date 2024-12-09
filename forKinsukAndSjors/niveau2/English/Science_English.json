@@ -34,7 +34,7 @@
         {
             "Christian mission": {
                 "link": "niveau2/English/ChristianMission_20240417.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/ChristianMission_English"
             }
         },

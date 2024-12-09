@@ -6,7 +6,7 @@
         {
             "Trade": {
                 "link": "niveau2/English/Trade_20240316.yml",
-                "rel_type": "example",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/Trade_English"
             }
         }

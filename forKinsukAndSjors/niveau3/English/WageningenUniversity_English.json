@@ -6,7 +6,7 @@
         {
             "Civil servants": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
-                "rel_type": "broader",
+                "rel_type": "see also",
                 "linkFilename": "niveau2/English/CivilServants_English"
             }
         },
