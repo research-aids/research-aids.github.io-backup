@@ -16,6 +16,7 @@ RelatedAides:
         rel_type: "see also"
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
   - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"

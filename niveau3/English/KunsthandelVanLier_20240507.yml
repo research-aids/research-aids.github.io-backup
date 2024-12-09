@@ -7,13 +7,13 @@ Abstract: "Kunsthandel Van Lier dealt in artifacts and ethnographic objects from
 RelatedAides: 
   - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Groote Koninklijke Bazar":
         link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
-        rel_type: "example"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

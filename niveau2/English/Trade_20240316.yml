@@ -19,10 +19,10 @@ RelatedAides:
         rel_type: "see also"
   - "Groote Koninklijke Bazar":
         link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
-        rel_type: "Example"
+        rel_type: "see also"
   - "Kunsthandel Van Lier":
         link: "niveau3/English/KunsthandelVanLier_20240507.yml"
-        rel_type: "Example"
+        rel_type: "see also"
   - "Royal Asian Art Society in the Netherlands":
         link: "niveau3/English/RAAS_20240508.yml"
         rel_type: "see also"

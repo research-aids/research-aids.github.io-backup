@@ -7,7 +7,7 @@ Abstract: "From the early 20th century, the now Wageningen University & Research
 RelatedAides: 
   - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"

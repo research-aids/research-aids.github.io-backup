@@ -13,7 +13,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Kunsthandel Van Lier":
         link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
         rel_type: "see also"

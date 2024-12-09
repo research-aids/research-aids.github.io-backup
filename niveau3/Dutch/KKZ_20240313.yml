@@ -19,7 +19,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Ethnografisch Museum Artis":
         link: "niveau3/Dutch/EMArtis_20240711.yml"
         rel_type: "see also"
