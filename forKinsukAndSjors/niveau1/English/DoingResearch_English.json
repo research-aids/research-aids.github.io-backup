@@ -6,28 +6,28 @@
         {
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau1/English/Sources_English"
             }
         },
         {
-            "niveau1/English/Sources_20240501.yml": {
+            "How can I use the data hub for my research?": {
                 "link": "niveau1/English/HowToUseTheDataHub_20240424.yml",
-                "rel_type": "broader",
+                "rel_type": "see also",
                 "linkFilename": "niveau1/English/HowToUseTheDataHub_English"
             }
         },
         {
             "Select and delineate": {
                 "link": "niveau1/English/SelectAndDelineate_20240425.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau1/English/SelectAndDelineate_English"
             }
         },
         {
             "Reporting": {
                 "link": "niveau1/English/Reporting_20240501.yml",
-                "rel_type": "narrower",
+                "rel_type": "see also",
                 "linkFilename": "niveau1/English/Reporting_English"
             }
         }
