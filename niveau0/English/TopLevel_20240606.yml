@@ -6,7 +6,7 @@ Subtitle: "Research aides for conducting provenance research into colonial colle
 
 Content:
   content: |
-    #### **The Digital research guide is still under construction.  Therefore, certain components may not function properly or displayed information may be incorrect.**
+    #### **The Digital research guide is still under construction. Therefore, certain components may not function properly or displayed information may be incorrect.**
     
     On the page you can find various research aids that can help you with you (provenance) research into Dutch colonial collections. The research aids aim to help users in the first steps of their research into objects that were acquired in a colonial context and now part of museum collections in the Netherlands. The research aids are linked in an intuitive way, allowing relevant information to be found quickly. There are three different levels on which the research aides operate. First, there are general search aids that answer questions such as ‘How can I use the datahub for my research?’, ‘Where can I find sources for my research?’ and ‘How do I write a provenance report?’. Second, there are search aids that provide information on topics related to colonial collections in the Netherlands, such as the role of civil servants, missionaries, the military and science in collecting objects, or on the trade in colonial objects. Third, there are research aids that contain specific information on, for example, museums, other heritage institutions or individual handlers. Besides a brief description of the subject, the research aids provide the user with specific tips and references to relevant source material.
   content_type: text/markdown
@@ -61,8 +61,26 @@ Breakdown:
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
         Subtopics:
-          - "Pieter H. Pott":
-              link: "niveau3/English/PieterPott_20240508.yml"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden": 
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
+          - "Ethnographic Museum Artis":
+              link: "niveau3/English/EMArtis_20240712.yml"
+              rel_type: "see also"
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/English/BGKW_20240905.yml"
+              rel_type: "see also"
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/English/KITLV_20240704.yml"
+              rel_type: "see also"
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/KKZ_20240417.yml"
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
@@ -90,7 +108,9 @@ Breakdown:
           - "Nederlandsch Zendeling Genootschap":
               link: "niveau3/English/NZG_20240508.yml"
               rel_type: "see also"
-    - "Scientific research in the colonies":
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/English/WMBergEnDal_20241001.yml"
+    - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
         Subtopics:
@@ -105,5 +125,23 @@ Breakdown:
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
+              rel_type: "see also"
+          - "Ethnographic Museum Artis":
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
+              rel_type: "see also"
+          - "Naturalis Biodiversity Center":
+              link: "niveau3/English/Naturalis_20270710.yml"
+              rel_type: "see also"
+          - "Pieter H. Pott":
+              link: "niveau3/English/PieterPott_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
   "3. Locations": []
