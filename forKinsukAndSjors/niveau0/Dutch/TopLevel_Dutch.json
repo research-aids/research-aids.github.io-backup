@@ -46,7 +46,7 @@
         ],
         "2. Onderwerpen": [
             {
-                "De handel in koloniale objecten": {
+                "Handel": {
                     "link": "niveau2/Dutch/Handel_20240326.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
@@ -111,7 +111,7 @@
                 }
             },
             {
-                "Ambtenaren in de koloni\u00ebn": {
+                "Ambtenaren": {
                     "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
@@ -135,13 +135,48 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
                             }
+                        },
+                        {
+                            "Etnografisch Museum Artis": {
+                                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
+                                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Kabinet van Zeldzaamheden": {
+                                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                            }
+                        },
+                        {
+                            "Wageningen University & Research": {
+                                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
                 }
             },
             {
-                "Leger- en marinepersoneel": {
+                "Leger en marine": {
                     "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
@@ -178,7 +213,7 @@
                 }
             },
             {
-                "Christelijke zendelingen en missionarissen": {
+                "Zending en missie": {
                     "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
@@ -201,7 +236,7 @@
                 }
             },
             {
-                "Wetenschappelijk onderzoek in de koloni\u00ebn": {
+                "Wetenschap": {
                     "link": "niveau2/Dutch/Science_20240814.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [

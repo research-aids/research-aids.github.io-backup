@@ -46,7 +46,7 @@
         ],
         "2. Topics": [
             {
-                "The trade in colonial objects": {
+                "Trade": {
                     "link": "niveau2/English/Trade_20240316.yml",
                     "rel_type": "see also",
                     "Subtopics": [
@@ -84,13 +84,34 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RCC_English"
                             }
+                        },
+                        {
+                            "Ethnographic Museum Artis": {
+                                "link": "niveau3/English/EMArtis_20240712.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/EMArtis_English"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Amsterdam": {
+                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/WMAmsterdam_English"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Rotterdam": {
+                                "link": "niveau3/English/WMRotterdam_2040822.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/WMRotterdam_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Trade_English"
                 }
             },
             {
-                "Civil servants in the colonies": {
+                "Civil servants": {
                     "link": "niveau2/English/CivilServants_20240316.yml",
                     "rel_type": "see also",
                     "Subtopics": [
@@ -113,7 +134,7 @@
                 }
             },
             {
-                "Military and navy personnel": {
+                "Military and navy": {
                     "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                     "rel_type": "see also",
                     "Subtopics": [
@@ -150,7 +171,7 @@
                 }
             },
             {
-                "Christian missionaries": {
+                "Christian mission": {
                     "link": "niveau2/English/ChristianMission_20240417.yml",
                     "rel_type": "see also",
                     "Subtopics": [
