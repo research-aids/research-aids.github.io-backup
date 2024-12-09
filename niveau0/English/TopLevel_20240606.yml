@@ -48,12 +48,36 @@ Breakdown:
           - "Royal Cabinet of Curiosities":
               link: "niveau3/English/RCC_20240417.yml"
               rel_type: "see also"
+          - "Ethnographic Museum Artis":
+              link: "niveau3/English/EMArtis_20240712.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
     - "Civil servants in the colonies":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
         Subtopics:
-          - "Pieter H. Pott":
-              link: "niveau3/English/PieterPott_20240508.yml"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden": 
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/English/BGKW_20240905.yml"
+              rel_type: "see also"
+          - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+              link: "niveau3/English/KITLV_20240704.yml"
+              rel_type: "see also"
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/KKZ_20240417.yml"
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
@@ -68,6 +92,12 @@ Breakdown:
           - "Wereldmuseum Leiden":
               link: "niveau3/English/WMLeiden_20240508.yml"
               rel_type: "see also"
+          - "Wereldmuseum Amsterdam": 
+              link: "niveau3/English/WMAmsterdam_20240809.yml""
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
     - "Christian missionaries":
         link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "see also"
@@ -75,18 +105,33 @@ Breakdown:
           - "Nederlandsch Zendeling Genootschap":
               link: "niveau3/English/NZG_20240508.yml"
               rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/English/WMBergEnDal_20241001.yml"
+              rel_type: "see also"
     - "Scientific research in the colonies":
-        link: "niveau2/English/Science_20240821.yml"
-        rel_type: "see also"
-        Subtopics:
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
               link: "niveau3/English/BGKW_20240905.yml"
+              rel_type: "see also"
+          - "Ethnographic Museum Artis":
+              link: "niveau3/English/EMArtis_20240712.yml"
               rel_type: "see also"
           - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
               link: "niveau3/English/KITLV_20240704.yml"
               rel_type: "see also"
           - "Naturalis Biodiversity Center":
               link: "niveau3/English/Naturalis_20270710.yml"
+              rel_type: "see also"
+          - "Pieter H. Pott":
+              link: "niveau3/English/PieterPott_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
