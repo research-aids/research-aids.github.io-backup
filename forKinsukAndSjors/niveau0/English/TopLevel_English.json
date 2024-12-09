@@ -86,7 +86,7 @@
                             }
                         },
                         {
-                            "Ethnographic Museum Artis": {
+                            "Artis Ethnographic Museum": {
                                 "link": "niveau3/English/EMArtis_20240712.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/EMArtis_English"
@@ -137,7 +137,7 @@
                             }
                         },
                         {
-                            "Ethnographic Museum Artis": {
+                            "Artis Ethnographic Museum": {
                                 "link": "niveau3/English/EMArtis_20240712.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/EMArtis_English"
@@ -268,7 +268,7 @@
                             }
                         },
                         {
-                            "Ethnographic Museum Artis": {
+                            "Artis Ethnographic Museum": {
                                 "link": "niveau3/Dutch/EMArtis_20240711.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch"

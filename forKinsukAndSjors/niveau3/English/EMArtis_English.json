@@ -11,13 +11,6 @@
             }
         },
         {
-            "Christian mission": {
-                "link": "niveau2/English/ChristianMission_20240417.yml",
-                "rel_type": "See also",
-                "linkFilename": "niveau2/English/ChristianMission_English"
-            }
-        },
-        {
             "Civil servants": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "See also",
@@ -90,11 +83,11 @@
                 "[Ethnographics](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Africa](https://www.geonames.org/6255146/)",
-                "[Asia](https://www.geonames.org/6255147)",
-                "[North America](https://www.geonames.org/6255149)",
-                "[Oceania](https://www.geonames.org/6255151)",
-                "[South America](https://www.geonames.org/6255150)"
+                "[Africa](https://sws.geonames.org/6255146/)",
+                "[Asia](https://sws.geonames.org/6255147)",
+                "[North America](https://sws.geonames.org/6255149)",
+                "[Oceania](https://sws.geonames.org/6255151)",
+                "[South America](https://sws.geonames.org/6255150)"
             ]
         },
         "Period of activity": {

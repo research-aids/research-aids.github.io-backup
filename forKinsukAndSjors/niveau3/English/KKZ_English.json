@@ -58,14 +58,14 @@
                 "[Numismatics](http://vocab.getty.edu/aat/300054419)"
             ],
             "Geographical": [
-                "[China](https://www.geonames.org/1814991)",
-                "[Indonesia](https://www.geonames.org/1643084)",
-                "[Japan](https://www.geonames.org/1861060)",
-                "[North America](https://www.geonames.org/6255149)",
-                "[Papua](https://www.geonames.org/2088628)",
-                "[Republic of Suriname](https://www.geonames.org/3382998)",
-                "[Turkey](https://www.geonames.org/298795)",
-                "[South Africa](https://www.geonames.org/953987)"
+                "[China](https://sws.geonames.org/1814991)",
+                "[Indonesia](https://sws.geonames.org/1643084)",
+                "[Japan](https://sws.geonames.org/1861060)",
+                "[North America](https://sws.geonames.org/6255149)",
+                "[Papua](https://sws.geonames.org/2088628)",
+                "[Republic of Suriname](https://sws.geonames.org/3382998)",
+                "[Turkey](https://sws.geonames.org/298795)",
+                "[South Africa](https://sws.geonames.org/953987)"
             ]
         },
         "Period of activity": {

@@ -38,10 +38,10 @@
                 "[Etnographics](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Indonesia](https://www.geonames.org/1643084)",
-                "[Leiden](https://www.geonames.org/2751773)",
-                "[Nepal](https://www.geonames.org/1282988)",
-                "[Tibet](https://www.geonames.org/1279685)",
+                "[Indonesia](https://sws.geonames.org/1643084)",
+                "[Leiden](https://sws.geonames.org/2751773)",
+                "[Nepal](https://sws.geonames.org/1282988)",
+                "[Tibet](https://sws.geonames.org/1279685)",
                 "[Wereldmuseum Leiden](http://www.wikidata.org/entity/Q17339437)"
             ]
         },
