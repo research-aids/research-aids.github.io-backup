@@ -29,7 +29,7 @@ Breakdown:
         link: "niveau1/English/Reporting_20240501.yml"
         rel_type: "see also"
   "2. Topics":
-    - "The trade in colonial objects":
+    - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
         Subtopics:
@@ -48,7 +48,16 @@ Breakdown:
           - "Royal Cabinet of Curiosities":
               link: "niveau3/English/RCC_20240417.yml"
               rel_type: "see also"
-    - "Civil servants in the colonies":
+          - "Ethnographic Museum Artis":
+              link: "niveau3/English/EMArtis_20240712.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
+    - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
         Subtopics:
@@ -58,7 +67,7 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
               rel_type: "see also"
-    - "Military and navy personnel":
+    - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
         Subtopics:
@@ -74,7 +83,7 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
-    - "Christian missionaries":
+    - "Christian mission":
         link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "see also"
         Subtopics:

@@ -29,7 +29,7 @@ Breakdown:
         link: "niveau1/Dutch/Verslagleggen_20240501.yml"
         rel_type: "see also"
   "2. Onderwerpen":
-    - "De handel in koloniale objecten":
+    - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
@@ -57,7 +57,7 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
-    - "Ambtenaren in de koloniën":
+    - "Ambtenaren":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
         Deelonderwerpen:
@@ -70,7 +70,22 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
-    - "Leger- en marinepersoneel":
+          - "Etnografisch Museum Artis":
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
+              rel_type: "see also"
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/Dutch/BGKW_20240827.yml"
+              rel_type: "see also"
+          - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
+              link: "niveau3/Dutch/KITLV_20240704.yml"
+              rel_type: "see also"
+          - "Koninklijk Kabinet van Zeldzaamheden":
+              link: "niveau3/Dutch/KKZ_20240313.yml"
+              rel_type: "see also"
+          - "Wageningen University & Research":
+              link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+              rel_type: "see also"
+    - "Leger en marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
@@ -86,7 +101,7 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
-    - "Christelijke zendelingen en missionarissen":
+    - "Zending en missie":
         link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
@@ -96,7 +111,7 @@ Breakdown:
           - "Wereldmuseum Berg en Dal":
               link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
               rel_type: "see also"
-    - "Wetenschappelijk onderzoek in de koloniën":
+    - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
         Deelonderwerpen:
