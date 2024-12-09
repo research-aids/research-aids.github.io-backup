@@ -7,7 +7,7 @@ Abstract: "How do you compose a report based on your (provenance) research?"
 RelatedAides:
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
         rel_type: "see also"
@@ -31,7 +31,7 @@ Main-text:
     
     A schematic representation of provenance is useful to show the most important data at a glance. This can be in the form of a timeline showing key moments of property transitions or in the form of a provenance sentence: a standardized notation of known years, possessors and their places of residence, separated by punctuation. The schematic also includes possible gaps in the knowledge. 
     
-    Example of such a provenance sentence:: *Gravestone [Aceh, 16th-18th century], unknown burial site in Lhoknga, until 1901; (removed from Lhoknga by George Nijpels, 1901); donated to Hoofdcursus, Kampen, 1902 to 1923; transfer to the Ethnographic Museum of the Royal Military Academy, Breda 1923 to 1956; transfer to Rijksmuseum voor Volkenkunde / Wereldmuseum Leiden, 1956.*
+    Example of such a provenance sentence:: *Gravestone (Aceh, 16th-18th century), unknown burial site in Lhoknga, until 1901; (removed from Lhoknga by George Nijpels, 1901); donated to Hoofdcursus, Kampen, 1902 to 1923; transfer to the Ethnographic Museum of the Royal Military Academy, Breda 1923 to 1956; transfer to Rijksmuseum voor Volkenkunde / Wereldmuseum Leiden, 1956.*
     
     Example of a timeline:
     - **16th century - 18th century** Manufacture of the gravestone.

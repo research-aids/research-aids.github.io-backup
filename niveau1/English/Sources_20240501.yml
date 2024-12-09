@@ -7,37 +7,37 @@ Abstract: "Where can you find sources for provenance research and how should you
 RelatedAides: 
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Christian mission":
         link: "niveau2/English/ChristianMission_20240417.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
         link: "niveau3/English/KITLV_20240704.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Naturalis Biodiversity Center":
         link: "niveau3/English/Naturalis_20270710.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/English/WMAmsterdam_20240809.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Wereldmuseum Rotterdam":
         link: "niveau3/English/WMRotterdam_2040822.yml"
-        rel_type: "example"
+        rel_type: "see also"
 
 Main-text:
   content: |
@@ -53,7 +53,7 @@ Main-text:
       
     ## Keywords:
     
-    In provenance research into colonial collections, you have to use different keywords than the modern terminology we use today. This includes place names: these often changed after the decolonization. For example, Batavia became [Jakarta](https://www.geonames.org/1642911/jakarta.html) and Leopoldville became [Kinshasa](https://www.geonames.org/2314302/kinshasa.html). When place names remained the same, the spelling was often different during the colonial period than it is now (think for example of [Surabaya/Surabaya](https://www.geonames.org/1625822/surabaya.html) and [Tjirebon/Cirebon](https://www.geonames.org/1646170/cirebon.html)).
+    In provenance research into colonial collections, you have to use different keywords than the modern terminology we use today. This includes place names: these often changed after the decolonization. For example, Batavia became [Jakarta](https://sws.geonames.org/1642911/jakarta.html) and Leopoldville became [Kinshasa](https://sws.geonames.org/2314302/kinshasa.html). When place names remained the same, the spelling was often different during the colonial period than it is now (think for example of [Surabaya/Surabaya](https://sws.geonames.org/1625822/surabaya.html) and [Tjirebon/Cirebon](https://sws.geonames.org/1646170/cirebon.html)).
     
     For objects, too, different terminology was used than in today's language. As an example, a 'baadje' is nowadays called a jacket. In the Dutch East Indies, terms derived from Indonesian were also in use, such as 'rampokken' and 'rampassen' as synonyms for plundering. Non-Dutch names were spelled in different ways, even in colonial times. Dutch nationals were often referred to only by their last name and initials. Therefore, always try to find out which names and terms were used and search with different variants in the search engines.
     

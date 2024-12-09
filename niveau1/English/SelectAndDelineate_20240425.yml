@@ -7,22 +7,22 @@ Abstract: "How do you select objects and delineate your (provenance) research?"
 RelatedAides: 
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "How can I use the data hub for my research?":
         link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
         rel_type: "see also"
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Christian mission":
         link: "niveau2/English/ChristianMission_20240417.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
@@ -33,7 +33,7 @@ Main-text:
     
     Many Dutch museum and other collections contain objects acquired in a colonial context. Sometimes these are not traceable because the registration does not mention a place or culture of manufacture.  This may be due to objects being registered using general terms, such as "oriental" or "African," that do not provide sufficient information about their specific cultural provenance. 
     
-    The first step in provenance research is to identify the place of manufacture. This sometimes requires specific expertise, which can be provided by one of the consortium partners, such as [the Wereldmuseum](https://www.wikidata.org/entity/Q17153751), [Museum Bronbeek](https://www.wikidata.org/entity/Q61930724) and the [Rijksmuseum](https://www.wikidata.org/entity/Q190804). If you have specific questions about objects, you can contact the collection departments of these museums. Do you have a general question about colonial collections, or would you like to contact experts outside the Netherlands, for example in the countries of origin? Then contact the [consortium bureau](https://wp-dev.colonialcollections.org/index.php/contact/). They can help you further. If you want to know what is in Dutch collections from a culture of origin, use the [data hub](https://app.colonialcollections.nl/).
+    The first step in provenance research is to identify the place of manufacture. This sometimes requires specific expertise, which can be provided by one of the consortium partners, such as the [Wereldmuseum](https://www.wikidata.org/entity/Q17153751), [Museum Bronbeek](https://www.wikidata.org/entity/Q61930724) and the [Rijksmuseum](https://www.wikidata.org/entity/Q190804). If you have specific questions about objects, you can contact the collection departments of these museums. Do you have a general question about colonial collections, or would you like to contact experts outside the Netherlands, for example in the countries of origin? Then contact the [consortium bureau](https://wp-dev.colonialcollections.org/index.php/contact/). They can help you further. If you want to know what is in Dutch collections from a culture of origin, use the [data hub](https://app.colonialcollections.nl/).
     
     In provenance research into colonial collections, two moments are of particular importance: the moment the object came into European hands and the moment of export from the country of origin to Europe. For museum collections, the entry date into the collection is not an all-decisive indicator. With objects that came into the collection during the colonial period, you can usually assume that they were also exported from the area of origin while it was under colonial rule. But other objects may have been initially acquired in a colonial context and only entered the collection many years later. For this reason, it is important to examine not only the last moment of acquisition as recorded in the collection documentation, but also earlier moments of acquisition.
     
@@ -47,11 +47,11 @@ Main-text:
     - Objects from excavations, especially if they are undocumented 
     - Objects from areas known to be subject to significant looting (for example, the kingdom of Benin, Sudan, Aceh or Lombok).
     
-    If the object comes from a private collection, it is worthwhile to first find out whether it is known who brought the object to the Netherlands and what profession that person held. Professions directly related to the colonial system, such as [military](link to search aide army and navy) and [civil servants](sublink: search aide civil servants), may be grounds for further research into provenance.
+    If the object comes from a private collection, it is worthwhile to first find out whether it is known who brought the object to the Netherlands and what profession that person held. Professions directly related to the colonial system, such as [military](niveau2/English/MilitaryAndNavy_20240417.yml) and [civil servants](niveau2/English/CivilServants_20240316.yml), may be grounds for further research into provenance.
     
     ## How do you select objects when you want to share information?:
     
-    When your goal is to provide transparent information to your institution's audience, priority can be given to objects on display. In this case, it is important that the communities of origin are consulted and that their perspectives and interests are part of the research and exhibition. If it involves publishing large numbers of objects in an online database, the goal is to conduct at least [basic research](link to zh research) and make this data open to the public as much as possible.
+    When your goal is to provide transparent information to your institution's audience, priority can be given to objects on display. In this case, it is important that the communities of origin are consulted and that their perspectives and interests are part of the research and exhibition. If it involves publishing large numbers of objects in an online database, the goal is to conduct at least [basic research](niveau1/English/DoingResearch_20240425.yml) and make this data open to the public as much as possible.
     
     ##How do you select objects when you are preparing a restitution request?:
     

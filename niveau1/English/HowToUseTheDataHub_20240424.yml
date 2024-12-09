@@ -7,10 +7,10 @@ Abstract: "How the datahub can assist with (provenance) research"
 RelatedAides: 
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
 
 Main-text:
   content: |
@@ -44,7 +44,7 @@ Main-text:
     
     **Get clarity on the provenance of objects in your organization's collection?**
     
-    On this website, provenance research into objects from a colonial context is divided into two levels: basic research and extensive research. Each collecting institution's situation is different and may lead to different choices regarding the research. For example, it may be necessary to first complete the basic research into all objects from a colonial context and then investigate one or more objects more extensively. In other cases, it may be necessary to [prioritize](link to zh select and delineate) certain objects for extended research. 
+    On this website, provenance research into objects from a colonial context is divided into two levels: basic research and extensive research. Each collecting institution's situation is different and may lead to different choices regarding the research. For example, it may be necessary to first complete the basic research into all objects from a colonial context and then investigate one or more objects more extensively. In other cases, it may be necessary to [prioritize](niveau1/English/SelectAndDelineate_20240425.yml) certain objects for extended research. 
     
     **Tracing heritage that may be eligible for restitution?**
     

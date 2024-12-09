@@ -7,16 +7,16 @@ Abstract: "What roadmap should you follow for doing (provenance) research and ho
 RelatedAides:
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
-        rel_type: "narrower"
-  - "niveau1/English/Sources_20240501.yml":
+        rel_type: "see also"
+  - "How can I use the data hub for my research?":
         link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
   - "Reporting":
         link: "niveau1/English/Reporting_20240501.yml"
-        rel_type: "narrower"
+        rel_type: "see also"
 
 Main-text:
   content: |
