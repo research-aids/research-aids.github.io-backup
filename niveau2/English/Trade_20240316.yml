@@ -17,9 +17,6 @@ RelatedAides:
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
-  - "Wetenschap":
-        link: "niveau2/Dutch/Science_20240814.yml"
-        rel_type: "see also"
   - "Groote Koninklijke Bazar":
         link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
         rel_type: "Example"
@@ -35,14 +32,14 @@ RelatedAides:
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/KKZ_20240417.yml"
         rel_type: "see also"
-  - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+  - "Ethnograpich Museum Artis":
+        link: "niveau3/English/EMArtis_20240712.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "see also"
 
 
@@ -56,11 +53,11 @@ Relevant data:
     Type of objects:
     Geographical: 
       - "[China](http://vocab.getty.edu/aat/300417515)"
-      - "[Congo](https://www.geonames.org/203312)"
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Iran](https://www.geonames.org/130758)"
-      - "[Japan](https://www.geonames.org/1861060)"
-      - "[Oceania](https://www.geonames.org/6255151)"
+      - "[Congo](https://sws.geonames.org/203312)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Iran](https://sws.geonames.org/130758)"
+      - "[Japan](https://sws.geonames.org/1861060)"
+      - "[Oceania](https://sws.geonames.org/6255151)"
 
 Main-text:
   content: |
@@ -70,7 +67,7 @@ Main-text:
     
     Well known dealers who sold colonial goods to museums and individuals were the firms [Van Lier (1927-1996)](https://hdl.handle.net/20.500.11840/pi57937), [Aalderink (1930-2023)](https://data.rkd.nl/artists/437058) and [Lemaire (1933-present)](https://data.rkd.nl/artists/446005) and the Amsterdam auction houses [Frederik Muller & Co. (1876-1961)](https://www.wikidata.org/entity/Q18821838) and [Mak van Waay (1918-1974)](https://www.wikidata.org/entity/Q73900989). In The Hague, the stores the [Groote Koninklijke Bazar (1841-1927)](https://hdl.handle.net/20.500.11840/pi56363) and [Boeatan (1903-1949)](https://www.wikidata.org/entity/Q101082502) specialized in Asian decorative arts.
     
-    For the purpose of trading in colonial products and raw materials, such as rubber, ivory, cotton and tobacco, wholesale firms were established. The employees of these trading houses collected objects in the wake of their work. An example is the [Nieuwe Afrikaansche Handels-Vennootschap N.V. (NAHV, 1880-1982)](https://www.wikidata.org/entity/Q2543001) that traded in [Central Africa](https://www.geonames.org/7729886). A large number of African objects, especially from [Congo](https://www.geonames.org/203312), have been donated to Dutch museums by individuals associated with this company.
+    For the purpose of trading in colonial products and raw materials, such as rubber, ivory, cotton and tobacco, wholesale firms were established. The employees of these trading houses collected objects in the wake of their work. An example is the [Nieuwe Afrikaansche Handels-Vennootschap N.V. (NAHV, 1880-1982)](https://www.wikidata.org/entity/Q2543001) that traded in [Central Africa](https://sws.geonames.org/7729886). A large number of African objects, especially from [Congo](https://sws.geonames.org/203312), have been donated to Dutch museums by individuals associated with this company.
     
     Little research has been done into the Dutch colonial art trade. However, more is known about the influence of trade on art production in the colonized territories. Throughout the colonial period, artists from countries of origin responded to the demand for objects from Europe. These artists began working both for their own market and for the purpose of selling to foreigners. Transactions of this type of objects, formerly known as tourist art, are also part of colonial collecting practices.
     

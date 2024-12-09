@@ -7,18 +7,36 @@ Abstract: "Civil servants from the Netherlands played an important role in the c
 RelatedAides: 
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
-  - "Pieter H. Pott":
-        link: "niveau3/English/PieterPott_20240508.yml"
-        rel_type: "Example"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
         link: "niveau3/English/BGKW_20240905.yml"
+        rel_type: "see also"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+  - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+        link: "niveau3/English/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Royal Cabinet of Curiosities": 
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam": 
+        link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -34,15 +52,15 @@ Relevant data:
       - "[Resident](https://www.wikidata.org/entity/Q19973930)"
     Type of objects:
     Geographical:
-      - "[Netherlands Antilles](https://www.geonames.org/8505032)"
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Republic of Suriname](https://www.geonames.org/3382998)"
+      - "[Netherlands Antilles](https://sws.geonames.org/8505032)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Republic of Suriname](https://sws.geonames.org/3382998)"
 
 Main-text:
   content: |
     ### Description
     
-    Civil servants were appointed to govern the Dutch colonies. Especially in the former [Dutch East Indies](https://www.geonames.org/1643084) and [Suriname](https://www.geonames.org/3382998) there were many civil servants, who were managed from the Netherlands. Among them were not only officials for the administration, but also for education, justice, tax administration, police, agriculture and other government services, for example, the Kantoor voor Inlandse Zaken (the Office for Domestic Affairs), the meteorological service, and the archaeological service.
+    Civil servants were appointed to govern the Dutch colonies. Especially in the former [Dutch East Indies](https://sws.geonames.org/1643084) and [Suriname](https://sws.geonames.org/3382998) there were many civil servants, who were managed from the Netherlands. Among them were not only officials for the administration, but also for education, justice, tax administration, police, agriculture and other government services, for example, the Kantoor voor Inlandse Zaken (the Office for Domestic Affairs), the meteorological service, and the archaeological service.
     
     The administrative structure differed from colony to colony, with the position of "gouverneur" being a commonality. The administrative structure of a colony can be found in the research guide on that particular colony. It is important to note that during the French domination of the European Netherlands, most of the Dutch colonial territory came under English administration. Therefore, you may come across English names relating to civil servants in archives from the period between, say, 1795 and 1820. An example is Thomas Stamford Raffles, who was governor of the former Dutch East Indies between 1811 and 1816.
     

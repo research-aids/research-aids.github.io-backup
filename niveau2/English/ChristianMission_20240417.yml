@@ -6,13 +6,16 @@ Abstract: "Missionaries frequently contributed to the collection of objects duri
 RelatedAides: 
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
-        rel_type: "broader"
+        rel_type: "see also"
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
-        rel_type: "broader"
+        rel_type: "see also"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap": 
         link: "niveau3/English/NZG_20240508.yml"
-        rel_type: "example"
+        rel_type: "see also"
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
@@ -27,12 +30,12 @@ Relevant data:
       - "[Protestant missionary](http://www.wikidata.org/entity/Q20746152)"
       - "[Sister](https://www.wikidata.org/entity/Q191808)"
     Geographical:
-      - "[China](https://www.geonames.org/1814991)"
-      - "[Congo](https://www.geonames.org/203312)"
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Java](https://www.geonames.org/1642673)"
-      - "[Sulawesi](https://www.geonames.org/9062340)"
-      - "[Republic of Suriname](https://www.geonames.org/3382998)"
+      - "[China](https://sws.geonames.org/1814991)"
+      - "[Congo](https://sws.geonames.org/203312)"
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Java](https://sws.geonames.org/1642673)"
+      - "[Sulawesi](https://sws.geonames.org/9062340)"
+      - "[Republic of Suriname](https://sws.geonames.org/3382998)"
 
 Main-text:
   content: |
