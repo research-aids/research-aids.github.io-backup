@@ -4,13 +4,6 @@
     "Abstract": "Pieter Hendrik Pott played an influential role in cultural relations between Indonesia and the Netherlands in the second half of the twentieth century.",
     "RelatedAides": [
         {
-            "Civil servants": {
-                "link": "niveau2/English/CivilServants_20240316.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
-            }
-        },
-        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",

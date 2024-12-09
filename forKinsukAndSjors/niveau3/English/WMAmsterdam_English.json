@@ -46,6 +46,13 @@
             }
         },
         {
+            "Wereldmuseum Berg en Dal": {
+                "link": "niveau3/English/WMBergEnDal_20241001.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/WMBergEnDal_English"
+            }
+        },
+        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "See also",
@@ -57,6 +64,13 @@
                 "link": "niveau3/English/WMRotterdam_2040822.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English"
+            }
+        },
+        {
+            "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
+                "link": "niveau3/English/KITLV_20240704.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KITLV_English"
             }
         }
     ],

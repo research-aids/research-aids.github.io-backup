@@ -4,13 +4,6 @@
     "Abstract": "Naturalis Biodiversity Center, formerly the Rijksmuseum van Natuurlijke Historie, is a museum in Leiden founded in 1820. The focus of Naturalis is threefold: building and maintaining a collection of natural history objects, researching the collection and exhibiting it to a broad audience.",
     "RelatedAides": [
         {
-            "Doing research": {
-                "link": "niveau1/English/DoingResearch_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/English/DoingResearch_English"
-            }
-        },
-        {
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
                 "rel_type": "see also",
@@ -145,13 +138,16 @@
                 "Name": "Rijks Geologisch-Mineralogisch Museum. Sammlungen des Geologischen Reichs-Museums in Leiden. Leiden: Brill, 1891-1922.",
                 "Link": [
                     {
+                        "URL": "https://repository.naturalis.nl/org/5"
+                    },
+                    {
                         "OCLC": "72793114"
                     },
                     {
                         "ISSN": "1879-7814"
                     }
                 ],
-                "Description and remarks": "Journal of the Rijksmuseum van Geologie en Mineralogie published between 1891 and 1922 under the editorship of K. Martin. All editions are available through the [repository of Naturalis](https://repository.naturalis.nl/org/5)."
+                "Description and remarks": "Journal of the Rijksmuseum van Geologie en Mineralogie published between 1891 and 1922 under the editorship of K. Martin. All editions are available through the repository of Naturalis."
             }
         ],
         "Secondary sources": [

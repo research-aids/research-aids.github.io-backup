@@ -11,38 +11,17 @@
             }
         },
         {
-            "Trade": {
-                "link": "niveau2/English/Trade_20240316.yml",
+            "Christian mission": {
+                "link": "niveau2/English/ChristianMission_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English"
+                "linkFilename": "niveau2/English/ChristianMission_English"
             }
         },
         {
-            "Military and navy": {
-                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+            "Nederlandsch Zendeling Genootschap": {
+                "link": "niveau3/English/NZG_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
-            }
-        },
-        {
-            "Science": {
-                "link": "niveau2/English/Science_20240821.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
-            }
-        },
-        {
-            "Royal Cabinet of Curiosities": {
-                "link": "niveau3/English/KKZ_20240417.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/English/KKZ_English"
-            }
-        },
-        {
-            "Artis Ethnographic Museum": {
-                "link": "niveau3/English/EMArtis_20240712.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/English/EMArtis_English"
+                "linkFilename": "niveau3/English/NZG_English"
             }
         },
         {
@@ -101,7 +80,7 @@
         }
     },
     "Main-text": {
-        "content": "### Description\n\nThe Wereldmuseum Berg en Dal, hereafter Afrika Museum, was founded in 1954 by the [Congregation of the Holy Spirit](https://missie-geest.nl/) (also abbreviated as CSSp) in the villa Ooster Meerwijk. Soon there was a lack of space to exhibit the objects brought by missionaries from African countries, so the museum was expanded in 1957 the exhibition space with the building that served until the closure of the Afrika Museum in 2023. Although the collection initially consisted of objects donated by missionaries, in the second half of the twentieth century it expanded to include donations from laypeople living in Africa, African embassies and eventually purchases. \n\nAs early as 1956, the museum was operated by the Stichting Afrika Museum and, in addition to the collection, received an annual donation from the Congregation of the Holy Spirit. Because of this independent position, the focus during the 1960s and 1970s came to be more on the scientific approach towards African cultural objects, and cooperation arose with the, then still, Roman Catholic Radboud University in Nijmegen. In 1974, the congregation decided to discontinue its donation to the museum, after which the Afrika Museum became entirely dependent on government funding. The museum grounds were subsequently made available by the congregation and the building was rented for a small price to the Stichting Afrika Museuma and the collection was loaned to the association. \n\nThe Afrika Museum is known for the replicas of several African homes that were built on the museum grounds, openly visitable for the public. This outdoor museum and, first, also animal park, was founded in 1958 and expanded in 1987. In 2014, as part of the then centralization policy, the Afrika Museum was merged with [Museum Volkenkunde]() in Leiden, [the Tropenmuseum]() in Amsterdam and later [the Wereldmuseum]() in Rotterdam, these museums have continued under the name Wereldmuseum since 2023.\n\nIn 2021, a dispute arose between the National Museum of World Cultures foundation and the Congregation of the Holy Spirit over the museum's destiny. The views of the foundation, which rented the museum building and has part of the collection on loan from the congregation, were so far apart that it was decided to close the museum at the end of 2023. To date, the future of the museum and its collection is unknown.\n\n### Provenance research\n\nThe collection of the Afrika Museum can be identified within the collection of the World Museum by the attribute AM. Since the dispute over the museum's direction, the future of the Africa Museum's collection has been unclear. Part of it is still owned by the Congregation of the Holy Spirit; the other part is owned by the Wereldmuseum. \n\nThe archives of the Congregation of the Holy Spirit are available through the [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/) in St. Agatha. Under 'Overige deelarchieven' the archives of the Stichting Afrika Museum can be found. Documents relating to the Afrika Museum can also be found in the congregation's other archives. Prior permission from the provincial government is required to view records. This permission can be requested through the Erfgoedcentrum Nederlands Kloosterleven by sending an e-mail to <studiezaal@erfgoedkloosterleven.nl>.\n\nFor specific information on objects, the Wereldmuseum can also be contacted at <collectieinfo@wereldmuseum.nl>. The museum database contains the original inventory cards and handwritten object registers.\n",
+        "content": "### Description\n\nThe Wereldmuseum Berg en Dal, hereafter Afrika Museum, was founded in 1954 by the [Congregation of the Holy Spirit](https://missie-geest.nl/) (also abbreviated as CSSp) in the villa Ooster Meerwijk. Soon there was a lack of space to exhibit the objects brought by missionaries from African countries, so the museum was expanded in 1957 the exhibition space with the building that served until the closure of the Afrika Museum in 2023. Although the collection initially consisted of objects donated by missionaries, in the second half of the twentieth century it expanded to include donations from laypeople living in Africa, African embassies and eventually purchases. \n\nAs early as 1956, the museum was operated by the Stichting Afrika Museum and, in addition to the collection, received an annual donation from the Congregation of the Holy Spirit. Because of this independent position, the focus during the 1960s and 1970s came to be more on the scientific approach towards African cultural objects, and cooperation arose with the, then still, Roman Catholic Radboud University in Nijmegen. In 1974, the congregation decided to discontinue its donation to the museum, after which the Afrika Museum became entirely dependent on government funding. The museum grounds were subsequently made available by the congregation and the building was rented for a small price to the Stichting Afrika Museuma and the collection was loaned to the association. \n\nThe Afrika Museum is known for the replicas of several African homes that were built on the museum grounds, openly visitable for the public. This outdoor museum and, first, also animal park, was founded in 1958 and expanded in 1987. In 2014, as part of the then centralization policy, the Afrika Museum was merged with [Museum Volkenkunde](niveau3/English/WMLeiden_20240508.yml) in Leiden, [the Tropenmuseum](niveau3/English/WMAmsterdam_20240809.yml) in Amsterdam and later [the Wereldmuseum](niveau3/English/WMRotterdam_2040822.yml) in Rotterdam, these museums have continued under the name Wereldmuseum since 2023.\n\nIn 2021, a dispute arose between the National Museum of World Cultures foundation and the Congregation of the Holy Spirit over the museum's destiny. The views of the foundation, which rented the museum building and has part of the collection on loan from the congregation, were so far apart that it was decided to close the museum at the end of 2023. To date, the future of the museum and its collection is unknown.\n\n### Provenance research\n\nThe collection of the Afrika Museum can be identified within the collection of the World Museum by the attribute AM. Since the dispute over the museum's direction, the future of the Africa Museum's collection has been unclear. Part of it is still owned by the Congregation of the Holy Spirit; the other part is owned by the Wereldmuseum. \n\nThe archives of the Congregation of the Holy Spirit are available through the [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/) in St. Agatha. Under 'Overige deelarchieven' the archives of the Stichting Afrika Museum can be found. Documents relating to the Afrika Museum can also be found in the congregation's other archives. Prior permission from the provincial government is required to view records. This permission can be requested through the Erfgoedcentrum Nederlands Kloosterleven by sending an e-mail to <studiezaal@erfgoedkloosterleven.nl>.\n\nFor specific information on objects, the Wereldmuseum can also be contacted at <collectieinfo@wereldmuseum.nl>. The museum database contains the original inventory cards and handwritten object registers.\n",
         "content-type": "text/markdown"
     },
     "Sources": {
