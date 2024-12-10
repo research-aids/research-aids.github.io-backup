@@ -65,6 +65,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
             }
+        },
+        {
+            "Rijksmuseum van Oudheden": {
+                "link": "niveau3/Dutch/RMO_20241106.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+            }
         }
     ],
     "Relevant data": {
