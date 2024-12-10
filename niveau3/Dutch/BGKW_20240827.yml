@@ -32,6 +32,9 @@ RelatedAides:
   - "Wereldmuseum Rotterdam":
         link: "niveau3/Dutch/WMRotterdam_20240822.yml"
         rel_type: "see also"
+  - "Rijksmuseum van Oudheden":
+        link: "niveau3/Dutch/RMO_20241106.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

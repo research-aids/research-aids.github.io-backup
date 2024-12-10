@@ -32,6 +32,9 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "see also"
+  - "Rijksmuseum van Oudheden":
+        link: "niveau3/Dutch/RMO_20241106.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
