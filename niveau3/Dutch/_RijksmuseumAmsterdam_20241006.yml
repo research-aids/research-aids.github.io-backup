@@ -11,12 +11,33 @@ RelatedAides:
   - "Ambtenaren":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
+  - "Leger en marine":
+        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "see also"
+  - "Handel":
+        link: "niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
+        link: "niveau3/Dutch/KVVAK_20240312.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
     - "http://www.wikidata.org/entity/Q190804"
   Name variations:
-    - ""
+    - "[]"
   Tags:
     Activity:
       - "[Museum](http://vocab.getty.edu/aat/300312281)"
@@ -44,8 +65,6 @@ Main-text:
     
     Het Rijksmuseum in Amsterdam in zijn huidge vorm stamt uit 1885, toen de collecties van verschillende Nederlandse musea werden samengevoegd. Directe voorgangers van het Rijksmuseum zijn zodoende de [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) te Haarlem, Nederlandsch Museum van Geschiedenis en Kunst en het [Koninklijk Kabinet van Zeldzaamheden](http://www.wikidata.org/entity/Q34076860), beiden in Den Haag. Sinds 1952 wordt de collectie van de [Koninklijke Vereniging van Vrienden der Aziatische Kunst](http://www.wikidata.org/entity/Q96749093) (KVVAK) ook tentoongesteld in het Rijksmuseum. In het kader van onderzoek naar collecties uit een koloniale context, zijn met name de collecties van de KVVAK en het Koninklijk Kabinet van Zeldzaamheden binnen de Rijksmuseumcollectie interessant.
     
-    
-    
     ### Herkomstonderzoek
     
     De objectcollectie van het Rijksmuseum is toegankelijk en doorzoekbaar via de zogenaamde [Rijksstudio](https://www.rijksmuseum.nl/nl/zoeken), via de optie 'uitgebreid zoeken' zijn meer selectie mogelijkheden voor het vinden van objecten. Via de objectpaginas is veelal relevante informatie vindbaar voor herkomstonderzoek, ook worden er relevante publicaties getoond.
@@ -55,40 +74,16 @@ Main-text:
     Vrijwel alle collectiedocumentatie is toegankelijk voor onderzoeksdoeleinden. Indien een dossier aanwezig is, staat dit grotendeels vermeld onder “documentatie” bij de objectgegevens in [Rijksstudio](https://www.rijksmuseum.nl/nl/zoeken), de collectiewebsite van het Rijksmuseum.
     
     De [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/opac-main.pl) bevat een grote hoeveelheid aan boeken, tijdschriften, veiling-, tentoonstellings-, handels- en collectiecatalogi. Deze publicaties kunnen worden ingezien in de bibliotheek van het Rijksmuseum. Het Rijksmuseum bezit ook circa 130.000 veilingcatalogi, daterend van de zeventiende eeuw tot heden. Iets minder dan de helft van de catalogi is vindbaar binnen de digitale bibliotheekcatalogus van de Rijksmuseum Research Library. Catalogi die voor 1989 zijn verworven zijn alleen vindbaar in de papieren catalogus. Je kunt bij de Rijksmuseumbiblitoheek informeren of de door jou gezochte catalogus aanwezig is. In de bibliotheekcollectie is ook de [Art Sales Cataloques Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) (ASCO) toegankelijk. In deze databank zijn ruim 20.000 historische veilingcatalogi uit de periode 1600-1900 opgenomen. Het zogenaamde Special-Collections-segment binnen de collectie van de Rijksmuseumbiblitoheek bevat o.a. oude drukken, boeken met originele prenten of foto’s, bijzondere bibliofiele uitgaven, kunstenaarsboeken, receptuurboeken en alle werken van het [Koninklijk Oudheidkundig Genootschap](http://www.wikidata.org/entity/Q18635333) (KOG).
-    
   content-type: text/markdown
 
 Sources: 
   Primary sources:
-    - Type of source: "Film"
-      Name: "Bronbeek bijvoorbeeld"
-      Link: "https://player.eyefilm.nl/nl/films/bronbeek-bijvoorbeeld"
-      Description and remarks: "De korte documentaire Bronbeek bijvoorbeeld schetst een beeld van de oud-KNIL militairen die hun laatste dagen in het militaire tehuis Bronbeek in Arnhem doorbrengen."
+    - Type of source: ""
+      Name: ""
+      Link: ""
+      Description and remarks: ""
   Secondary sources:
-    - Type of source: "Boek"
-      Name: "Bevaart, Willem. Bronbeek. Tempo doeloe der liefdadigheid. Utrecht: Matrijs, 2009."
-      Link:
-        - ISBN: "9789053452875"
-        - OCLC: "71717276"
-      Description and remarks: "Boek uit 1998 over de geschiedenis van het tehuis met op pagina 76-81 kort aandacht voor de collectie van het museum."
-    - Type of source: "Boek"
-      Name: "Drossaard, Willem. Bronbeek een levend verleden. Franeker: Wever, 1984."
-      Link: 
-        - ISBN: "9789061353768"
-        - OCLC: "33354863"
-      Description and remarks: "Boekje uit 1984 van de stichting Vriende van Bronbeek. Het beschrijft de geschiedenis van het tehuis en biedt een uitgebreide gids tot het museum, aangevuld met historische overzichten van KNIL-acties en levensverhalen van bewoners."
-    - Type of source: "Boek"
-      Name: "Geerts, G.A. Gids voor het Museum van het Koninklijk Tehuis voor Oud­Miliairen Bronbeek te Arnhem. Arnhem, 1991."
-      Link: 
-        - OCLC: "66285117"
-      Description and remarks: "Museumgids uit 1991 voor het bezoeken van Bronbeek, geschreven door de toenmalige commandant van het tehuis."
-    - Type of source: "Boek"
-      Name: "Smits, J. C. J. Gedenkboek van Het Koloniall-Militair Invalidenhuis Bronbeek. Arhnhem: P. Gouda Quint, 1881."
-      Link: 
-        - OCLC: "882982014"
-        - Google: "https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1"
-      Description and remarks: "Boek uit 1881 geschreven door de eerste commandant van het tehuis, geeft een geschiedenis van de eerste periode en een uitvoerige beschrijving van de binnenkant van het tehuis. Het boek bevat vele illustraties waarop verschillende objecten duidelijk worden weergegeven."
-    - Type of source: "Website"
-      Name: "Vrienden van Bronbeek"
-      Link: "https://www.vriendenvanbronbeek.nl/"
-      Description and remarks: "Website van de stichting Vrienden van Bronbeek."
+    - Type of source: ""
+      Name: ""
+      Link: ""
+      Description and remarks: ""
