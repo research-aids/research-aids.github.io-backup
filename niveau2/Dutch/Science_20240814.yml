@@ -44,6 +44,9 @@ RelatedAides:
   - "Wageningen University & Research":
         link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
         rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
 
 Relevant data: 
   Tags:

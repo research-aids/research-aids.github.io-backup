@@ -41,6 +41,9 @@ RelatedAides:
   - "Wereldmuseum Rotterdam":
         link: "niveau3/Dutch/WMRotterdam_20240822.yml"
         rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

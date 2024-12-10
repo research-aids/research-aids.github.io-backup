@@ -50,6 +50,9 @@ RelatedAides:
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV_20240704.yml"
         rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

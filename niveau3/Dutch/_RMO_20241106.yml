@@ -4,10 +4,28 @@ Title: "Rijksmuseum van Oudheden"
 
 Abstract: "Het Rijksmuseum van Oudheden in Leiden is een in 1818 opgericht museum met een collectie van oudheidkundige objecten, tot begin 20ste eeuw waren ook verschillende Indonesische oudheden onderdeel van de collectie"
 
-RelatedAides: "This section shows related research aids."
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+RelatedAides:
+  - "Bronnen":
+        link: "niveau1/Dutch/Bronnen_20240425.yml"
+        rel_type: "see also"
+  - "Wetenschap":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Handel":
+        link: "niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
@@ -22,7 +40,7 @@ Relevant data:
     Type of objects: 
       - "[Oudheden](http://vocab.getty.edu/300311592)"
     Geographical:
-      - "[]"
+      - "[Indonesië](https://sws.geonames.org/1643084)"
   Period of activity:
     Year of start: "1818"
     Year of end: "Heden"
@@ -77,13 +95,13 @@ Sources:
     - Type of source: "Teruggave-advies en herkomstverslag"
       Name: "I-2023-3 Advies Singasari"
       Link:
-        URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf"
+        - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf"
       Description and remarks: "Teruggave-advies over vier beelden uit het tempelcomplex van Singasari: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) en Ganesha (RV-1403-1681). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2024 (ID-2023-6 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen."
     - Type of source: "Teruggave-advies en herkomstverslag"
-       Name: "ID-2023-6 Advies Singasari"
-       Link:
-         URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf"
-       Description and remarks: "Teruggave-advies over twee beelden uit het tempelcomplex van Singasari: Bhairava (RV-1403-1680) en Nandi (RV-1403-1682). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2023 (I-2023-3 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen."
+      Name: "ID-2023-6 Advies Singasari"
+      Link:
+       - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf"
+      Description and remarks: "Teruggave-advies over twee beelden uit het tempelcomplex van Singasari: Bhairava (RV-1403-1680) en Nandi (RV-1403-1682). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2023 (I-2023-3 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen."
     - Type of source: "Teruggave-advies en herkomstverslag"
       Name: "ID-2023-8 Advies Brahma"
       Link: 

@@ -8,6 +8,9 @@ RelatedAides:
   - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers: 
