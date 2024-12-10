@@ -9,6 +9,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Handel_Dutch"
             }
+        },
+        {
+            "Rijksmuseum Amsterdam": {
+                "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+            }
         }
     ],
     "Relevant data": {
