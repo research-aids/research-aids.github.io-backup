@@ -65,6 +65,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
             }
+        },
+        {
+            "Museum Bronbeek": {
+                "link": "niveau3/Dutch/Bronbeek_20241002.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Bronbeek_Dutch"
+            }
         }
     ],
     "Relevant data": {
