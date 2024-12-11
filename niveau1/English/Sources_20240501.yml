@@ -38,6 +38,9 @@ RelatedAides:
   - "Wereldmuseum Rotterdam":
         link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "see also"
+  - "Museum Bronbeek":
+        link: "niveau3/English/Bronbeek_20241002.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

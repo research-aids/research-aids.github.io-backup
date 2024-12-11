@@ -50,7 +50,7 @@ Main-text:
   content: |
     ### Beschrijving
     
-    Tijdens de zogenaamde *Kulturkampf* in Duitsland, besloot Arnold Janssen in 1875 om, vlak over de grens met Nederland, in Steyl de congregatie [Societas Verbi Divini](http://www.wikidata.org/entity/Q696656) (SVD) op te richten. Al vanaf de missie in 1879 naar China werden er door missionarissen objecten verzameld en meegenomen terug naar Steyl. In 1894 bouwt het missiehuis een nieuwe drukkerij, waar de collectie ook een plaats krijgt. Deze collectie groeit ondertussen gestaag met objecten uit verschillende landen waar de missionarissen uit Steyl naartoe vertrekken en wordt, naast etnografica, aangevuld met geprepareerde dieren, opgezet of op sterk water. Niet alle dieren en objecten worden overigens door de missionarissen uit Steyl verzameld, ook collecties van andere christelijke gemeenschappen worden overgenomen. Door de groeiende collectie krijgt het museum wederom een nieuwe locatie, waar het tot op heden zit.
+    Tijdens de zogenaamde *Kulturkampf* in Duitsland, besloot Arnold Janssen in 1875 om, vlak over de grens met Nederland, in Steyl de congregatie [Societas Verbi Divini](http://www.wikidata.org/entity/Q696656) (SVD) op te richten. Al vanaf de missie in 1879 naar China werden er door missionarissen objecten verzameld en meegenomen terug naar Steyl. In 1894 bouwt het missiehuis een nieuwe drukkerij, waar de collectie ook een plaats krijgt. Deze collectie groeit ondertussen gestaag met objecten uit verschillende landen waar de missionarissen uit Steyl naartoe vertrekken en wordt, naast etnografica, aangevuld met geprepareerde dieren, opgezet of op sterkwater. Niet alle dieren en objecten worden overigens door de missionarissen uit Steyl verzameld, ook collecties van andere christelijke gemeenschappen worden overgenomen. Door de groeiende collectie krijgt het museum wederom een nieuwe locatie, waar het tot op heden zit.
     
     Het museum zoals dat in 1931 opende was volledig ingericht naar het idee van Broeder Berchamns, wie ook verantwoordelijk is voor de grote vlindercollectie van het museum. Na het overlijden van Berchmans in 1934 is de presentatie van de collectie in het Missiemuseum vrijwel niet aangepast. De vitrines met etnografica zijn zodoende, in lijn met de heersende ideeën in 1931 ingedeeld naar de vermeende mate van 'beschaving' van verschillende volkeren. Aangezien de opstelling van het museum sinds 1934 vrijwel niet meer is aangepast, is het Missiemuseum in Steyl een 'museum in een museum', dat een goed beeld geeft van hoe er in de twintigste eeuw tegen etnografische collecties werd aangekeken.
     
@@ -72,9 +72,11 @@ Sources:
   Secondary sources:
     - Type of source: "Rapport"
       Name: "Collectieplan Missiemuseum Steyl 2023-2028"
-      Link: "https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf"
+      Link: 
+        - URL: "https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf"
       Description and remarks: "Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie."
     - Type of source: "Collectiedatabase"
       Name: "Limburgs Efgoednet"
-      Link: "https://limburgserfgoednet.nl/"
+      Link: 
+        - URL: "https://limburgserfgoednet.nl/"
       Description and remarks: "Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet."

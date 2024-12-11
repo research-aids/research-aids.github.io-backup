@@ -1,0 +1,84 @@
+Level: 3
+
+Title: "Missiemuseum Steyl"
+
+Abstract: "The Missiemuseum in Steyl was established in 1931 with the collection that the missionaries from the Societas Verbi Divini congregation brought back from their missions in Asia and Africa. Almost nothing has changed to the arrangement of the exhibition since 1934."
+
+RelatedAides: 
+  - "Christian mission":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+  - "Nederlandsch Zendeling Genootschap":
+        link: "niveau3/English/NZG_20240508.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Berg en Dal":
+        link: "niveau3/English/WMBergEnDal_20241001.yml"
+        rel_type: "see also"
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q2534749"
+  Name variations:
+    - "[]"
+  Tags:
+    Activity:
+      - "[Ethnographic museum](http://vocab.getty.edu/aat/300451067)"
+      - "[Collection](http://vocab.getty.edu/aat/300025976)"
+    Type of objects: 
+      - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[People's Republic of China](https://sws.geonames.org/1814991)"
+      - "[Japan](https://sws.geonames.org/1861060)"
+      - "[Republic of Indonesia](https://sws.geonames.org/1643084)"
+      - "[Republic of the Philippines](https://sws.geonames.org/1694008)"
+      - "[Papua New Guinea](https://sws.geonames.org/2088628)"
+      - "[Ghana](https://sws.geonames.org/2300660)"
+      - "[Togo](https://sws.geonames.org/2363686)"
+      - "[Democratic Republic of Congo](https://sws.geonames.org/2260494)"
+      - "[Paraguay](https://sws.geonames.org/3437598)"
+  Period of activity:
+    Year of start: "1931"
+    Year of end: "Present"
+  Collections:
+    General remarks:
+      content: |
+        "Not the entire collection of the Steyl Mission Museum has been registered yet. Also, during this registration, the collection will be digitised and made accessible via the [Limburgs Erfgoednet](https://limburgserfgoednet.nl/) website."
+      content-type: text/markdown
+    Within the Data Hub: "[]"
+      
+Main-text:
+  content: |
+    ### Description
+    
+    In 1875, during the so-called *Kulturkampf* in Germany, Arnold Janssen decided to establish the congregation [Societas Verbi Divini](http://www.wikidata.org/entity/Q696656) (SVD) in Steyl, just across the border with the Netherlands. Ever since the mission in 1879 to China, objects were collected by missionaries and taken back to Steyl. 
+
+    In 1894, the mission house built a new printing house, where the collection was also given a place. In the meantime, this collection grew steadily with objects from various countries to which the Steyl missionaries went and, in addition to ethnographic objects, was supplemented with prepared animals, stuffed or preserved in formalin. Collections from other Christian communities are also incidentally acquired. Due to the growing collection, the museum once again got a new location, where it is still.
+    
+    The museum as it opened in 1931 was completely furnished according to the idea of Brother Berchamns, who is also responsible for the museum's large butterfly collection. After Berchmans' death in 1934, the presentation of the collection at the Missiemuseum was virtually unchanged. Thus, in line with prevailing ideas in 1931, the showcases with ethnographic objects were arranged according to the supposed degree of ‘civilisation’ of different peoples. As the arrangement of the museum has remained virtually unchanged since 1934, the Steyl Mission Museum is a ‘museum within a museum’, giving a good idea of how ethnographic collections were perceived in the twentieth century.
+    
+    Brother Berchams left little documentation relating to the museum collection after his death; for this reason, the precise provenance history of many objects is not known. Much of the natural history collection was bought from zoos and merchants. Ethnographic objects were mainly acquired by SVB missionaries. Unfortunately, little is known about the method of acquisition. The natural history collection of the Missiemuseum does not focus purely on flora and fauna from abroad, but also includes objects from the Netherlands. The Steyl Mission Museum also holds the Schmutzer collection, which is a group of wooden sculptures made between 1924 and 1927 by Indonesian artist Iko, commissioned by [Joseph Schmutzer](http://www.wikidata.org/entity/Q1876872).
+    
+    ### Provenance research
+    
+    As Brother Berchams left little documentation regarding the Missiemuseum collection, the provenance history of many objects is sparse. A marginal register was noted and kept until 1934. There is also a museum archive, but it is not openly accessible. On request, researchers can use the archive, a message should be sent to the [curator](conservator@missiemuseumsteyl.nl). 
+    
+    To date, the Missiemuseum's collection has not been fully registered. During this registration, it is planned that the museum collection will become available via the [Limburgs Erfgoednet](https://limburgserfgoednet.nl/), where some objects from the museum are already visible. Besides the museum collection, the SVD also has a library with several natural history and ethnography books from the eighteenth and nineteenth century and a collection of photographs and glass negatives. The [Collection Plan 2023-2028](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf) provides more information about the Missiemuseum Steyl's collection.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Website"
+      Name: "Website Missiemuseum Steyl"
+      Link: "https://www.missiemuseum.nl/nl"
+      Description and remarks: "The Missiemuseum's website contains relevant (contact) information."
+  Secondary sources:
+    - Type of source: "Report"
+      Name: "Collectieplan Missiemuseum Steyl 2023-2028"
+      Link: 
+        - URL: "https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf"
+      Description and remarks: "The Missiemuseum's collection plan (in Dutch) contains relevant information about the origins of the museum's collection."
+    - Type of source: "Collection database"
+      Name: "Limburgs Efgoednet"
+      Link: 
+        - URL: "https://limburgserfgoednet.nl/"
+      Description and remarks: "When the entire museum collection of the Missiemuseum is registered and digitised, it will be accessible via the Limburgs Erfgoednet website."
