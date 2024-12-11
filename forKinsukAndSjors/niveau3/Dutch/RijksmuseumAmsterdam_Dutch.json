@@ -113,22 +113,8 @@
         "content-type": "text/markdown"
     },
     "Sources": {
-        "Primary sources": [
-            {
-                "Type of source": "",
-                "Name": "",
-                "Link": "",
-                "Description and remarks": ""
-            }
-        ],
-        "Secondary sources": [
-            {
-                "Type of source": "",
-                "Name": "",
-                "Link": "",
-                "Description and remarks": ""
-            }
-        ]
+        "Primary sources": null,
+        "Secondary sources": null
     },
     "File name": "RijksmuseumAmsterdam"
 }

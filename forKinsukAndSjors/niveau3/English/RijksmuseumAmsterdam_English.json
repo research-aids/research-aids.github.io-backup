@@ -1,0 +1,113 @@
+{
+    "Level": 3,
+    "Title": "Rijksmuseum Amsterdam",
+    "Abstract": "Today's Rijksmuseum Amsterdam dates from 1885 and is an amalgamation of several Dutch collections from the nineteenth century.",
+    "RelatedAides": [
+        {
+            "Sources": {
+                "link": "niveau1/English/Sources_20240501.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/English/Sources_English"
+            }
+        },
+        {
+            "Civil servants": {
+                "link": "niveau2/English/CivilServants_20240316.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/CivilServants_English"
+            }
+        },
+        {
+            "Military and navy": {
+                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+            }
+        },
+        {
+            "Science": {
+                "link": "niveau2/English/Science_20240821.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Science_English"
+            }
+        },
+        {
+            "Trade": {
+                "link": "niveau2/English/Trade_20240316.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Trade_English"
+            }
+        },
+        {
+            "Royal Cabinet of Curiosities": {
+                "link": "niveau3/English/KKZ_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KKZ_English"
+            }
+        },
+        {
+            "Royal Asian Art Society in the Netherlands": {
+                "link": "niveau3/English/KVVAK_20240508.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KVVAK_English"
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/English/WMAmsterdam_20240809.yml\"",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/WMAmsterdam_English"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden_20240508.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/WMLeiden_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q190804"
+        ],
+        "Name variations": [
+            "[]"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Museum](http://vocab.getty.edu/aat/300312281)",
+                "[Collection](http://vocab.getty.edu/aat/300025976)"
+            ],
+            "Type of objects": [
+                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)",
+                "[Paintings](http://vocab.getty.edu/page/aat/300033618)",
+                "[Decorative arts](http://vocab.getty.edu/page/aat/300054168)"
+            ],
+            "Geographical": [
+                "[Republic of Indonesia](https://sws.geonames.org/1643084)",
+                "[Sri Lanka](https://sws.geonames.org/1227603)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1885",
+            "Year of end": "Present"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"The Rijksmuseum collection within the data hub is a selection of objects originating from a colonial context.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?publishers=Rijksmuseum"
+        }
+    },
+    "Main-text": {
+        "content": "### Description\n\nThe Rijksmuseum in Amsterdam in its current form dates from 1885, when the collections of several Dutch museums were merged. Direct predecessors of the Rijksmuseum are the [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) in Haarlem, Nederlandsch Museum van Geschiedenis en Kunst and the [Royal Cabinet of Curiosities](http://www.wikidata.org/entity/Q34076860), both in The Hague. Since 1952, the collection of the [Royal Society of Friends of Asian Art](http://www.wikidata.org/entity/Q96749093) (KVVAK) has also been exhibited at the Rijksmuseum. In the context of researching collections from a colonial context, the collections of the KVVAK and the Royal Cabinet of Curiosities within the Rijksmuseum collection are of particular interest.\n\n### Provenance research\n\nThe Rijksmuseum's object collection is accessible through the so-called [Rijksstudio](https://www.rijksmuseum.nl/nl/zoeken), via the \u2018extended search\u2019 option there are more selection options for finding objects. Relevant information for provenance research can often be found via the object pages; relevant publications are also displayed.\n\nThe archives of the Rijksmuseum and its predecessors up to 1995 are available via the [Noord-Hollands Archief](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25) and are accompanied by an extensive archival description. The more recent archives are available through the Rijksmuseum itself. For information on these archival materials and consultation options, please contact the [Rijksmuseum's archival staff](archief@rijksmuseum.nl).\n\nAlmost all collection documentation is accessible for research purposes. If a file is present, it is generally listed under \u2018documentation\u2019 under object details in the [Rijksstudio](https://www.rijksmuseum.nl/nl/zoeken), the Rijksmuseum's collection website.\n\nThe [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/opac-main.pl) contains a large quantity of books, journals, auction, exhibition, trade and collection catalogues. These publications can be viewed in the Rijksmuseum library. The Rijksmuseum also owns around 130,000 auction catalogues, dating from the seventeenth century to the present. Just under half of the catalogues can be found within the digital library catalogue of the Rijksmuseum Research Library. Catalogues acquired before 1989 can only be found in the paper catalogue. You can enquire at the Rijksmuseum Library if the catalogue you are looking for is available. Also accessible in the library collection is the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) (ASCO). This database contains over 20,000 historical auction catalogues from the period 1600-1900. The so-called Special-Collections segment within the collection of the National Museum Library includes old prints, books with original prints or photographs, special bibliophile editions, artists' books, recipe books and all the works of the [Royal Archaeological Society](http://www.wikidata.org/entity/Q18635333) (KOG).\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": null,
+        "Secondary sources": null
+    },
+    "File name": "RijksmuseumAmsterdam"
+}

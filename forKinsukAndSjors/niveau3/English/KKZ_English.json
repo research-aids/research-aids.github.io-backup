@@ -51,6 +51,13 @@
                 "rel_type": "See also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English"
             }
+        },
+        {
+            "Rijksmuseum Amsterdam\"": {
+                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+            }
         }
     ],
     "Relevant data": {
@@ -147,7 +154,7 @@
             },
             {
                 "Type of source": "Archival piece",
-                "Naam": "NL-HlmNHA 476 1076",
+                "Name": "NL-HlmNHA 476 1076",
                 "Link": [
                     {
                         "URL": "https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688"
