@@ -85,11 +85,11 @@ Sources:
       Description and remarks: "Website die toegang geeft tot de archieven van het RMO. Het archief is benaderbaar via de 'tegels', het veld 'Museumarchief', of door te zoeken via het zoekveld."
     - Type of source: "Archief"
       Name: "NL-LdnRMV_A03_018 - Inventaris van het RMO"
-      Link: "[]"
+      Link:
       Description and remarks: "Archieftoegang in het archief van het Wereldmuseum Leiden waarin de inventaris van het RMO is opgenomen. In 1904 werden de collecties Aziatische en Amerikaanse objecten overgedragen aan het 's Rijks Ethnographisch Museum, het tegenwoordige Wereldmuseum Leiden."
     - Type of source: "Archief"
       Name: "NL-LdnRMV_Seriedossier RV-1403"
-      Link: "[]"
+      Link:
       Description and remarks: "Seriedossier dat gekoppeld is aan de RV-1403 collectie, die bestaat uit de objecten die in 1904 vanuit het RMO aan het toenmalig Rijks Etnografisch Museum zijn overgedragen."
   Secondary sources:
     - Type of source: "Teruggave-advies en herkomstverslag"

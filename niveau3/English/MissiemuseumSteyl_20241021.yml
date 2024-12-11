@@ -69,7 +69,8 @@ Sources:
   Primary sources:
     - Type of source: "Website"
       Name: "Website Missiemuseum Steyl"
-      Link: "https://www.missiemuseum.nl/nl"
+      Link: 
+        - URL: "https://www.missiemuseum.nl/nl"
       Description and remarks: "The Missiemuseum's website contains relevant (contact) information."
   Secondary sources:
     - Type of source: "Report"
