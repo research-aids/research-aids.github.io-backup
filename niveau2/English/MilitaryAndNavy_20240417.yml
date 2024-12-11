@@ -35,6 +35,9 @@ RelatedAides:
   - "Museum Bronbeek":
         link: "niveau3/English/Bronbeek_20241002.yml"
         rel_type: "see also"
+  - Rijksmuseum Amsterdam":
+        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:
