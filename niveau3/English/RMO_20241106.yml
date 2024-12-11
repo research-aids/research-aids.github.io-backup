@@ -1,0 +1,121 @@
+Level: 3
+
+Title: "Rijksmuseum van Oudheden"
+
+Abstract: "The Rijksmuseum van Oudheden in Leiden is a museum founded in 1818 with a collection of antiquities, until the early 20th century several Indonesian antiquities were also part of the collection"
+
+RelatedAides: 
+  - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
+  - "Science":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Trade":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "niveau3/English/BGKW_20240905.yml"
+        rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+        link: "niveau3/English/KKZ_20240417.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden_20240508.yml"
+        rel_type: "see also"
+  - "niveau3/English/RijksmuseumAmsterdam_20240905.yml":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
+
+Relevant data:
+  Identifiers:
+    - "http://www.wikidata.org/entity/Q1860378"
+  Name variations:
+    - "Museum van Oudheden"
+    - "RMO"
+  Tags:
+    Activity:
+      - "[National museum](http://vocab.getty.edu/300312321)"
+      - "[Historical museum](http://vocab.getty.edu/300312304)"
+    Type of objects: 
+      - "[Antiquities](http://vocab.getty.edu/300311592)"
+    Geographical:
+      - "[Indonesia](https://sws.geonames.org/1643084)"
+  Period of activity: 
+    Year of start: "1818"
+    Year of end: "Present"
+  Collections:
+    General remarks:
+      content: |
+        "The collection of the National Museum of Antiquities is not included in the Datahub. The objects transferred to the Ethnographic Museum in Leiden in 1904 are marked with the inventory number RV-1403"
+      content-type: text/markdown
+    Within the Data Hub: "https://app.colonialcollections.nl/en/objects?query=oudheden&publishers=Wereldmuseum"
+      
+Main-text:
+  content: |
+    ### Description
+    
+    1818 is usually referred to as the founding year of the Rijksmuseum van Oudheden (RMO). This is the year in which [Caspar Reuvens](http://www.wikidata.org/entity/Q1863369) was appointed professor of archaeology at Leiden University, which also made him director of the university's archaeological cabinet. The objects from this cabinet were initially exhibited in a building on Houtstraat in Leiden, since 1918 the collection has been displayed in the building on Rapenburg, where the museum is still located today.
+    
+    King William I played an important role in the expansion of the Museum of Antiquities, as it was initially called. Therefore the RMO can be seen in the same category as the National Museum of Natural History (now Naturalis) and the Royal Cabinet of Rarities. All these museums played an important role in the professionalisation of museums in the Netherlands and the expansion of museum collections in the nineteenth century.
+    
+    Interestingly, the museum collection was more broadly oriented than the present-day collection that focuses on Egypt, Classical Antiquity, the Near East and archaeology in the Netherlands. In fact, the first director, Caspar Reuvens, held a broader definition of antiquities, so Hindu-Buddhist statues originating from the Singhasari temple in East Java were also added to the collection. Only later, in the early 20th century, was it decided to narrow the museum's focus to the present-day delineations. This should be seen in an overall specialisation of the museum field of the Netherlands during that period. The collection of Asian and American antiquities were thus transferred to the then ‘s Rijks Ethnographisch Museum in 1904. In 2023 and 2024, several of the Singhasari statues originating from the former RMO collection were returned to Indonesia.
+    
+    The Rijksmuseum of Antiquities' collection is also interesting in the broader context of archaeological collections from southern Europe, Egypt and the Middle East. Although relations were different from those in areas colonised by the Netherlands, archaeological collections in the nineteenth century were excavated and collected in ways contrary to current norms. Well-known examples of archaeological objects collected under these unequal power relations in the nineteenth century are the Parthenon friezes, the Rosetta Stone (both in the Brithish Museum) and the Bust of Nefertiti (owned by the Neues Museum in Berlin). It is therefore important to also see archaeological collection, such as that of the RMO, in the context of the colonial past.
+    
+    ### Provenance research
+    
+    The website of the [National Museum of Antiquities](https://www.rmo.nl) contains a lot of useful information about the museum, its history and collection. The [museum archive](https://archieven.rmo.nl/) is also available through the website. Searching through the archive can be done in three ways:
+    - Via the category tiles, such as the letter and photo archive;
+    - Via the ‘Museum Archive’ field, in which all underlying archives are visible;
+    - Via the search bar
+    Specific questions about the RMO archive can be emailed to the archivist, whose contact details are available on the website.
+    
+    Other museums also hold archival material relating to the RMO's collection. Of interest here are the archives of the Royal Cabinet of Rarities (KKZ) and the archives of the Wereldmuseum Leiden. The archive of the KKZ, which is part of the Rijksmuseum Archive, is managed by the Noord-Hollands Archief in Haarlem. The World Museum Leiden archive includes an inventory of objects transferred to the then ‘s Rijks Ethnographisch Museum in 1904 under inventory number NL-LdnRMV_A03_018. This archive is available on request only, for which contact should be made to the [collection service department](collectieservice@wereldmusem.nl) of the Wereldmuseum. 
+    
+    Archives of correspondence between various institutions or donors such as C.G.C. Reinwardt or Nicolaus Engelhard may also contain information on the provenance history of the RMO's collection. Provenance reports produced in the context of a return request for the Singhasari sculptures by Indonesia provide a good insight of relevant archives. These reports and further secondary literature can also be found below.
+  content-type: text/markdown
+
+Sources: 
+  Primary sources:
+    - Type of source: "Website"
+      Name: "Archives of the Rijksmuseum van Oudheden"
+      Link: 
+        - URL: "https://archieven.rmo.nl/"
+      Description and remarks: "Website providing access to the archives of the RMO. The archive can be accessed via the ‘tiles’, the ‘Museum Archive’ field, or by searching using the search field."
+    - Type of source: "Archive"
+      Name: "NL-LdnRMV_A03_018 - Inventaris van het RMO"
+      Link:
+      Description and remarks: "Archive entrance in the archives of the Wereldmuseum Leiden containing the inventory of the RMO. In 1904, the collections of Asian and American objects were transferred to the ‘s Rijks Ethnographisch Museum, the present Wereldmuseum Leiden."
+    - Type of source: "Archive"
+      Name: "NL-LdnRMV_Seriedossier RV-1403"
+      Link:
+      Description and remarks: "Series file linked to the RV-1403 collection, which consists of the objects transferred from the RMO to the then State Ethnographic Museum in 1904."
+  Secondary sources:
+    - Type of source: "Restitution advice and provenance report"
+      Name: "I-2023-3 Advies Singasari"
+      Link:
+        - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf"
+      Description and remarks: "Restitution advice on four statues from the Singasari temple complex: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) and Ganesha (RV-1403-1681). The provenance report is similar to that of the 2024 Singasari Opinion (ID-2023-6 Singasari Opinion). The report lists several archives that may be relevant for further research into objects that came to the Wereldmuseum via the Rijksmuseum van Oudheden."
+    - Type of source: "Restitution advice and provenance report"
+      Name: "ID-2023-6 Advies Singasari"
+      Link:
+       - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf"
+      Description and remarks: "Restitution advice on two statues from the Singasari temple complex: Bhairava (RV-1403-1680) and Nandi (RV-1403-1682). The provenance report is similar to that of the 2023 Singasari opinion (I-2023-3 Singasari opinion). The report lists several archives that may be relevant for further research into objects that came to the Wereldmuseum via the Rijksmuseum van Oudheden."
+    - Type of source: "Restitution advice and provenance report"
+      Name: "ID-2023-8 Advies Brahma"
+      Link: 
+        - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf"
+      Description and remarks: "Restitution advice on statue of Brahma from temple complex of Singasari (RV-1403-1582). The report lists several archives and other sources that may be relevant for further research on objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden."
+    - Type of source: "Restitution advice and provenance report"
+      Name: "ID-2023-9 Advies Ganesha"
+      Link: 
+        - URL: "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf"
+      Description and remarks: "Restitution advice on a statue of Ganesha (RV-1403-1759). The report lists several archives and other sources that may be relevant for further research on objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden."
+    - Type of source: "Book"
+      Name: "Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012."
+      Link:
+        - OCLC: "779255199"
+        - ISBN: "9782503541525"
+      Description and remarks: "Dissertation by Mirjam Hoijtink from 2012 that examines the work and life of Caspar Reuvens, the first director of the Rijksmuseum van Oudheden in Leiden. The book also pays attention to why Reuvens initially included Indian and other non-‘classical’ antiquities in the museum's collection and places these ideas in the developments of scholarship and the museum field in the nineteenth century."
+
