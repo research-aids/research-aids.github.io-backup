@@ -23,8 +23,8 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "see also"
-  - "niveau3/English/RijksmuseumAmsterdam_20240905.yml":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
         rel_type: "see also"
 
 Relevant data:
