@@ -1,0 +1,89 @@
+{
+    "Level": 3,
+    "Title": "Museum Bronbeek",
+    "Abstract": "Museum Bronbeek was opened in 1863 as part of the Koloniaal Militair Invalidenhuis, near Arnhem. It contains a large collection of militaria, as well as ethnographic and other types of objects.",
+    "RelatedAides": [
+        {
+            "Sources": {
+                "link": "niveau1/English/Sources_20240501.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/English/Sources_English"
+            }
+        },
+        {
+            "Military and navy": {
+                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q61930724"
+        ],
+        "Name variations": [
+            "[]"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Military museum](http://vocab.getty.edu/aat/300312314)",
+                "[Collection](http://vocab.getty.edu/aat/300025976)"
+            ],
+            "Type of objects": [
+                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
+            ],
+            "Geographical": [
+                "[Indonesia](https://sws.geonames.org/1643084)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1863",
+            "Year of end": "Present"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"The dataset browser of the datahub contains Museum Bronbeek's collection of studbooks.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "[]"
+        }
+    },
+    "Main-text": {
+        "content": "### Description\n\nAfter [King William III](http://www.wikidata.org/entity/Q125649) ceded the Bronbeek estate in Arnhem to the Dutch state in 1862, a home was established there in 1863 for disabled colonial soldiers who had served in the [Royal Dutch East Indies Army](http://www.wikidata.org/entity/Q523553) (KNIL). Many of these former soldiers owned items that had been taken as booty from the battlefield or that they had brought back as souvenirs after their time in Indonesia. In addition, the Ministry of Colonies, members of the royal family and private individuals also donated various militaria such as weapons, banners, medals and portraits. This gave the home a museum function as well. \n\nUntil 1959, the home and its museum belonged to the Ministry of Colonies, after which it fell under the then new Ministry of Defence, of which it is still part today. In the 1950s, the objects in the museum were still displayed in the typical nineteenth-century manner: the walls were full of paintings and on either side of a narrow path a large number of objects were displayed. All this changed with a major renovation in 1963, prompted partly by the changing social view of the Dutch colonial past. In the remainder of the twentieth century, too, the museum's layout would change considerably several more times. From 1970, Bronbeek was opened to all former professional soldiers, not just from the KNIL.\n\nIn 2024, Museum Bronbeek opened a new permanent display of the collection.\n\n### Provenance research\n\nMuseum Bronbeek's collection is searchable on the museum's [collection website](http://museumbronbeek.nl/). The library with more than 15,000 books is available through [Worldcat](https://mindef.on.worldcat.org/discovery). Archives related to Bronbeek can be found at the museum itself, at the [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken) in The Hague and at the [Netherlands Institute for Military History](https://www.nimh.nl/) (NIMH). \n\nIn 2024, Museum Bronbeek launched a [website](http://www.rmwo.nl/) with 6,000 biographies of Knights in the Military Order of William. In it, various publications on the Military William Order have been collected, supplemented and made available online. It is possible to search by name, year, rank or army unit. Individual pages contain personal information, information on posting and archival references.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Website",
+                "Name": "Ridders Militaire Willems-Orde",
+                "Link": [
+                    {
+                        "URL": "https://www.rmwo.nl/"
+                    }
+                ],
+                "Description and remarks": "Website (in Dutch) with 6,000 biographies of Knights in the Military Order of William. Pages contain a lot of information about individual soldiers (rank, posting, etc.)."
+            },
+            {
+                "Type of source": "Website",
+                "Name": "Webiste Collection of Museum Bronbeek",
+                "Link": [
+                    {
+                        "URL": "http://museumbronbeek.nl/"
+                    }
+                ],
+                "Description and remarks": "Collection website of Museum Bronbeek, through which the whole collection can be explored."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": null,
+                "Name": null,
+                "Link": null,
+                "Description and remarks": null
+            }
+        ]
+    },
+    "File name": "Bronbeek"
+}
