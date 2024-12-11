@@ -19,6 +19,9 @@ RelatedAides:
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
+  - "Missiemuseum Steyl":
+        link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:
