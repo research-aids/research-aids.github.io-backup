@@ -65,6 +65,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English"
             }
+        },
+        {
+            "Museum Bronbeek": {
+                "link": "niveau3/English/Bronbeek_20241002.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/Bronbeek_English"
+            }
         }
     ],
     "Relevant data": {
