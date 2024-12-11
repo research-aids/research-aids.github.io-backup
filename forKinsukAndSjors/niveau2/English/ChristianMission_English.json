@@ -37,6 +37,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Science_English"
             }
+        },
+        {
+            "Missiemuseum Steyl": {
+                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
+            }
         }
     ],
     "Relevant data": {
