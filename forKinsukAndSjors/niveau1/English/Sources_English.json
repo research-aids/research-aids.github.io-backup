@@ -88,10 +88,17 @@
             }
         },
         {
-            "Rijksmuseum Amsterdam\"": {
+            "Rijksmuseum Amsterdam": {
                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+            }
+        },
+        {
+            "Rijksmuseum van Oudheden": {
+                "link": "niveau3/English/RMO_20241106.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/RMO_English"
             }
         }
     ],
