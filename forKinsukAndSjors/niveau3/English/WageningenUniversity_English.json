@@ -49,14 +49,14 @@
         },
         "Period of activity": {
             "Year of start": "1876",
-            "Year of end": "Heden"
+            "Year of end": []
         },
         "Collections": {
             "General remarks": {
                 "content": "The [Agricultural College](https://www.wikidata.org/entity/Q422208) collection was disposed of from about 1962 and dispersed around various institutions. Objects are currently in the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754) and [Museum Bronbeek](https://www.wikidata.org/entity/Q61930724). Objects may also be in other museums, especially when they were part of the collection of [Museum Nusantara](https://www.wikidata.org/entity/Q2668933).\n",
                 "content-type": "text/markdown"
             },
-            "Within the Data Hub": "Link to search results for Landbouwhogeschool (not possible yet)."
+            "Within the Data Hub": []
         }
     },
     "Main-text": {
@@ -98,6 +98,7 @@
             {
                 "Type of source": "Archival piece",
                 "Name": "NL-HaNA  2.20.69 4402",
+                "Link": [],
                 "Description and remarks": "Contains correspondence regarding the sale of objects by the Indisch Instituut (now Wereldmuseum Amsterdam) in 1948."
             }
         ],

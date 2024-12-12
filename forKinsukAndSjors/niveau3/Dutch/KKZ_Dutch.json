@@ -73,6 +73,7 @@
             "https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22",
             "https://hdl.handle.net/20.500.11840/pi57733"
         ],
+        "Name variations": [],
         "Tags": {
             "Activity": [
                 "[Collectie](http://vocab.getty.edu/aat/300025976)",
@@ -127,16 +128,19 @@
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.13 2.2.4.1.2.06",
+                "Link": [],
                 "Description and remarks": "Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.01 4925-4954",
+                "Link": [],
                 "Description and remarks": "Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.01 4030",
+                "Link": [],
                 "Description and remarks": "Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk."
             },
             {

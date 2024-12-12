@@ -56,7 +56,7 @@
                 "content": "Op de website van de KVVAK is een [overzicht](https://www.kvvak.nl/collectie/) van de volledige collectie van de vereniging. Ook op de [collectiewebsite](https://www.rijksmuseum.nl/nl/zoeken/uitgebreid) van het Rijksmuseum zijn deze objecten terug te vinden. Binnen de collectiewebsite is een selectie gemaakt van [Aziatische Kunst](https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst), maar let op: niet alle objecten zijn afkomstig van de KVVAK, het Rijksmuseum bezit ook zelf objecten die vallen onder de term Aziatische Kunst.\n",
                 "content-type": "text/markdown"
             },
-            "Within Data Hub": "[]"
+            "Within Data Hub": []
         }
     },
     "Main-text": {
@@ -68,36 +68,43 @@
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.14.73 663",
+                "Link": [],
                 "Description and remarks": "Stukken betreffende het financieel beheer van het Museum voor Oost-Aziatische Kunst te Amsterdam 1940-1960."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.14.73 674",
+                "Link": [],
                 "Description and remarks": "Stukken betreffende de aankoop van kunststukken en de onderbrenging van de verzameling van het Museum voor Oost-Aziatische Kunst in het Rijksmuseum te Amsterdam, 1947-1960."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.14.73 6609",
+                "Link": [],
                 "Description and remarks": "Stukken betreffende een subsidieverlening aan het Museum van Aziatische Kunst te Amsterdam, 1942-1964."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.27.19 2934",
+                "Link": [],
                 "Description and remarks": "Stukken betreffende het goedkeuren van uitleen- en bruikleenovereenkomsten van kunstvoorwerpen tussen het Rijksmuseum en de Vereniging Vrienden der Aziatische Kunst, 1970 - 1971."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.24.25 554-555",
+                "Link": [],
                 "Description and remarks": "Foto's van de tentoonstelling 'Aziatische Kunst' in het Museum voor Aziatische Kunst in 1936. Inventarisnummer 554 beslaat een overzicht van de tentoonstellingsruimte. Inventarisnummer 555 beslaat een overzicht van het 'Chinees ceramiek'."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.24.25 1281-1288",
+                "Link": [],
                 "Description and remarks": "Verschillende foto-overzichten van de tentoonstellingsruimtes van Museum voor Aziatische Kunst te Amsterdam tussen 1931-1958. Het beslaat dus zowel foto's uit het Stedelijk Museum als het Rijksmuseum in Amsterdam."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.20.69 2982",
+                "Link": [],
                 "Description and remarks": "Correspondentie tussen het Koninklijk Instituut voor de Tropen en het Rijksmuseum te Amsterdam betreffende het Museum voor Aziatische Kunst, 1941."
             },
             {

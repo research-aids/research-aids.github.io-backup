@@ -39,7 +39,7 @@
             }
         },
         {
-            "Ethnografisch Museum Artis": {
+            "Etnografisch Museum Artis": {
                 "link": "niveau3/Dutch/EMArtis_20240711.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
@@ -109,7 +109,7 @@
         },
         "Period of activity": {
             "Year of start": "1926",
-            "Year of end": "Heden"
+            "Year of end": []
         },
         "Collections": {
             "General remarks": {

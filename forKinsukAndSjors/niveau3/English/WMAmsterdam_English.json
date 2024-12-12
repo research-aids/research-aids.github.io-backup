@@ -109,7 +109,7 @@
         },
         "Period of activity": {
             "Year of start": "1926",
-            "Year of end": "Now"
+            "Year of end": []
         },
         "Collections": {
             "General remarks": {
@@ -181,7 +181,7 @@
                         "ISBN": "9062550770"
                     }
                 ],
-                "Description and remarks": "Book from 1981 describing the history of the Royal Tropical Institute up to 1950. The book contains many photos and also provides detailed descriptions of external and internal characteristics of the current Wereldmuseum Amsterdam. It also focuses on how the organisation of KIT was arranged during the first decades of its existance."
+                "Description and remarks": "Book from 1981 describing the history of the Royal Tropical Institute up to 1950. The book contains many photos and also provides detailed descriptions of external and internal characteristics of the current Wereldmuseum Amsterdam. It also focuses on how the organisation of KIT was arranged during the first decades of its existence."
             },
             {
                 "Type of source": "Boek",

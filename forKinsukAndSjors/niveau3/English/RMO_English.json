@@ -75,7 +75,7 @@
         },
         "Period of activity": {
             "Year of start": "1818",
-            "Year of end": "Present"
+            "Year of end": []
         },
         "Collections": {
             "General remarks": {
@@ -104,13 +104,13 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-LdnRMV_A03_018 - Inventaris van het RMO",
-                "Link": null,
+                "Link": [],
                 "Description and remarks": "Archive entrance in the archives of the Wereldmuseum Leiden containing the inventory of the RMO. In 1904, the collections of Asian and American objects were transferred to the \u2018s Rijks Ethnographisch Museum, the present Wereldmuseum Leiden."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-LdnRMV_Seriedossier RV-1403",
-                "Link": null,
+                "Link": [],
                 "Description and remarks": "Series file linked to the RV-1403 collection, which consists of the objects transferred from the RMO to the then State Ethnographic Museum in 1904."
             }
         ],

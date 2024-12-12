@@ -87,17 +87,10 @@
         },
         "Period of activity": {
             "Year of start": "1820",
-            "Year of end": "Now"
+            "Year of end": []
         },
         "Collections": {
-            "General remarks": [
-                {
-                    "content": "[]\n"
-                },
-                {
-                    "content-type": "text/markdown"
-                }
-            ],
+            "General remarks": [],
             "Within the Data Hub": []
         }
     },
