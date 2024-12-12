@@ -47,7 +47,7 @@ Relevant data:
     Year of start: "1825"
     Year of end: "1927"
   Collections:
-    Within the Data Hub: "[]"
+    Within the Data Hub: []
 
 Main-text:
   content: |
@@ -64,9 +64,11 @@ Sources:
   Primary sources:
     - Type of source: "Archive"
       Name: "NL-HaNA 2.09.46"
+      Link: []
       Description and remarks: "When public and later private limited companies were formed, approval of the articles of association by the Ministry of Justice was required. The content of the files could range from a single opinion to a pack of documents, consisting of articles of incorporation, appeals, opinions, royal decrees and correspondence."
     - Type of source: "Archive"
       Name: "NL-HaNA 3.17.13.03"
+      Link: []
       Description and remarks: "Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a series of trade files."
     - Type of source: "Archive"
       Name: "NL-HlmNHA 476 811"

@@ -55,12 +55,9 @@ Relevant data:
       - "[South America](https://sws.geonames.org/6255150)"
   Period of activity:
     Year of start: "1820"
-    Year of end: "Now"
+    Year of end: []
   Collections:
-    General remarks:
-      - content: |
-          []
-      - content-type: text/markdown
+    General remarks: []
     Within the Data Hub: []
       
 Main-text:

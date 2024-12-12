@@ -46,7 +46,7 @@ Relevant data:
     Year of start: "1825"
     Year of end: "1927"
   Collecties:
-    Within the Data Hub: "Link to search results for Groote Koninklijke Bazar (not possible yet)."
+    Within the Data Hub: []
 
 Main-text:
   content: |
@@ -63,9 +63,11 @@ Sources:
   Primary sources:
     - Type of source: "Archiefstuk"
       Name: "NL-HaNA 2.09.46"
+      Link: []
       Description and remarks: "Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie."
     - Type of source: "Archiefstuk"
       Name: "NL-HaNA 3.17.13.03"
+      Link: []
       Description and remarks: "Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers."
     - Type of source: "Archiefstuk"
       Name: "NL-HlmNHA 476 836-839"

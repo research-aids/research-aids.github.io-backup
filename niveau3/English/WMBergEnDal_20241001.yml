@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Wereldmuseum Berg en Dal"
 
-Abstract: "The World Museum Berg and Dal, formerly known as the Afrika Museum, was a museum in Berg and Dal founded in 1954 part of the Congegration of the Holy Spirit. From 2014, it was part of the Nationaal Museum van Wereldculturen, until it closed its doors in 2023."
+Abstract: "The World Museum Berg and Dal, formerly known as the Afrika Museum, was a museum in Berg and Dal founded in 1954 part of the Congregation of the Holy Spirit. From 2014, it was part of the Nationaal Museum van Wereldculturen, until it closed its doors in 2023."
 
 RelatedAides:
   - "Sources":
@@ -48,7 +48,7 @@ Relevant data:
   Collections:
     General remarks:
       content: |
-        When the Africa Museum became part of the Nationaal Museum van Wereldculturen, the collection was taken over as a loan by the assosciation. Since the closure of the museum there has been a dispute over the ownership of the collection. In the collection of the Wereldmuseum, objects from the Africa Museum can be identified by the characteristic AM.
+        When the Africa Museum became part of the Nationaal Museum van Wereldculturen, the collection was taken over as a loan by the association. Since the closure of the museum there has been a dispute over the ownership of the collection. In the collection of the Wereldmuseum, objects from the Africa Museum can be identified by the characteristic AM.
       content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/nl/objects?query=AM&publishers=Wereldmuseum"
       
@@ -58,7 +58,7 @@ Main-text:
     
     The Wereldmuseum Berg en Dal, hereafter Afrika Museum, was founded in 1954 by the [Congregation of the Holy Spirit](https://missie-geest.nl/) (also abbreviated as CSSp) in the villa Ooster Meerwijk. Soon there was a lack of space to exhibit the objects brought by missionaries from African countries, so the museum was expanded in 1957 the exhibition space with the building that served until the closure of the Afrika Museum in 2023. Although the collection initially consisted of objects donated by missionaries, in the second half of the twentieth century it expanded to include donations from laypeople living in Africa, African embassies and eventually purchases. 
     
-    As early as 1956, the museum was operated by the Stichting Afrika Museum and, in addition to the collection, received an annual donation from the Congregation of the Holy Spirit. Because of this independent position, the focus during the 1960s and 1970s came to be more on the scientific approach towards African cultural objects, and cooperation arose with the, then still, Roman Catholic Radboud University in Nijmegen. In 1974, the congregation decided to discontinue its donation to the museum, after which the Afrika Museum became entirely dependent on government funding. The museum grounds were subsequently made available by the congregation and the building was rented for a small price to the Stichting Afrika Museuma and the collection was loaned to the association. 
+    As early as 1956, the museum was operated by the Stichting Afrika Museum and, in addition to the collection, received an annual donation from the Congregation of the Holy Spirit. Because of this independent position, the focus during the 1960s and 1970s came to be more on the scientific approach towards African cultural objects, and cooperation arose with the, then still, Roman Catholic Radboud University in Nijmegen. In 1974, the congregation decided to discontinue its donation to the museum, after which the Afrika Museum became entirely dependent on government funding. The museum grounds were subsequently made available by the congregation and the building was rented for a small price to the Stichting Afrika Museum and the collection was loaned to the association. 
     
     The Afrika Museum is known for the replicas of several African homes that were built on the museum grounds, openly visitable for the public. This outdoor museum and, first, also animal park, was founded in 1958 and expanded in 1987. In 2014, as part of the then centralization policy, the Afrika Museum was merged with [Museum Volkenkunde](niveau3/English/WMLeiden_20240508.yml) in Leiden, [the Tropenmuseum](niveau3/English/WMAmsterdam_20240809.yml) in Amsterdam and later [the Wereldmuseum](niveau3/English/WMRotterdam_2040822.yml) in Rotterdam, these museums have continued under the name Wereldmuseum since 2023.
     

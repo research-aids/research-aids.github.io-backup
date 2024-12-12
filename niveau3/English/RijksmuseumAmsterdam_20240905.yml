@@ -39,8 +39,7 @@ RelatedAides:
 Relevant data:
   Identifiers:
     - "http://www.wikidata.org/entity/Q190804"
-  Name variations:
-    - "[]"
+  Name variations: []
   Tags:
     Activity:
       - "[Museum](http://vocab.getty.edu/aat/300312281)"
@@ -54,7 +53,7 @@ Relevant data:
       - "[Sri Lanka](https://sws.geonames.org/1227603)"
   Period of activity:
     Year of start: "1885"
-    Year of end: "Present"
+    Year of end: []
   Collections:
     General remarks:
       content: |
@@ -80,7 +79,6 @@ Main-text:
   content-type: text/markdown
 
 Sources:
-  Primary sources:
-
-  Secondary sources:
+  Primary sources: []
+  Secondary sources: []
 

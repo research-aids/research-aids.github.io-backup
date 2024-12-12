@@ -18,8 +18,7 @@ RelatedAides:
 Relevant data:
   Identifiers:
     - "http://www.wikidata.org/entity/Q2534749"
-  Name variations:
-    - "[]"
+  Name variations: []
   Tags:
     Activity:
       - "[Ethnographic museum](http://vocab.getty.edu/aat/300451067)"
@@ -44,7 +43,7 @@ Relevant data:
       content: |
         "Not the entire collection of the Steyl Mission Museum has been registered yet. Also, during this registration, the collection will be digitised and made accessible via the [Limburgs Erfgoednet](https://limburgserfgoednet.nl/) website."
       content-type: text/markdown
-    Within the Data Hub: "[]"
+    Within the Data Hub: []
       
 Main-text:
   content: |

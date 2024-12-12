@@ -43,7 +43,7 @@ Relevant data:
       - "[Indonesia](https://sws.geonames.org/1643084)"
   Period of activity: 
     Year of start: "1818"
-    Year of end: "Present"
+    Year of end: []
   Collections:
     General remarks:
       content: |
@@ -85,11 +85,11 @@ Sources:
       Description and remarks: "Website providing access to the archives of the RMO. The archive can be accessed via the ‘tiles’, the ‘Museum Archive’ field, or by searching using the search field."
     - Type of source: "Archive"
       Name: "NL-LdnRMV_A03_018 - Inventaris van het RMO"
-      Link:
+      Link: []
       Description and remarks: "Archive entrance in the archives of the Wereldmuseum Leiden containing the inventory of the RMO. In 1904, the collections of Asian and American objects were transferred to the ‘s Rijks Ethnographisch Museum, the present Wereldmuseum Leiden."
     - Type of source: "Archive"
       Name: "NL-LdnRMV_Seriedossier RV-1403"
-      Link:
+      Link: []
       Description and remarks: "Series file linked to the RV-1403 collection, which consists of the objects transferred from the RMO to the then State Ethnographic Museum in 1904."
   Secondary sources:
     - Type of source: "Restitution advice and provenance report"

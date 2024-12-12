@@ -55,12 +55,9 @@ Relevant data:
       - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
   Period of activity:
     Year of start: "1820"
-    Year of end: "[]"
+    Year of end: []
   Collections:
-    General remarks:
-      - content: |
-          []
-      - content-type: text/markdown
+    General remarks: []
     Within the Data Hub: []
       
 Main-text:
@@ -119,7 +116,7 @@ Sources:
       Link: 
         - OCLC: "72793114"
         - ISSN: "1879-7814"
-      Description and remarks: "Tijschrift van het Rijksmuseum voor Geologie en Mineralogie dat verscheen tussen 1891 en 1922 onder redactie van K. Martin. Alle edities zijn beschikbaar via de [repository van Naturalis](https://repository.naturalis.nl/org/5)."
+      Description and remarks: "Tijdschrift van het Rijksmuseum voor Geologie en Mineralogie dat verscheen tussen 1891 en 1922 onder redactie van K. Martin. Alle edities zijn beschikbaar via de [repository van Naturalis](https://repository.naturalis.nl/org/5)."
   Secondary sources:
     - Type of source: "Boek"
       Name: "Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995."

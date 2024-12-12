@@ -15,8 +15,7 @@ RelatedAides:
 Relevant data:
   Identifiers:
     - "http://www.wikidata.org/entity/Q61930724"
-  Name variations:
-    - "[]"
+  Name variations: []
   Tags:
     Activity:
       - "[Military museum](http://vocab.getty.edu/aat/300312314)"
@@ -33,7 +32,7 @@ Relevant data:
       content: |
         "The dataset browser of the datahub contains Museum Bronbeek's collection of studbooks."
       content-type: text/markdown
-    Within the Data Hub: "[]"
+    Within the Data Hub: []
       
 Main-text:
   content: |

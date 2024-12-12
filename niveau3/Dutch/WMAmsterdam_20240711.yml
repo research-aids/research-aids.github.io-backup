@@ -20,7 +20,7 @@ RelatedAides:
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ_20240313.yml"
         rel_type: "see also"
-  - "Ethnografisch Museum Artis":
+  - "Etnografisch Museum Artis":
         link: "niveau3/Dutch/EMArtis_20240711.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
@@ -62,7 +62,7 @@ Relevant data:
       - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
   Period of activity: 
     Year of start: "1926"
-    Year of end: "Heden"
+    Year of end: []
   Collections:
     General remarks:
       content: |
