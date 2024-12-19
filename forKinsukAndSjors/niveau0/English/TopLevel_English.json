@@ -170,6 +170,13 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WageningenUniversity_English"
                             }
+                        },
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/English/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Reinwardt_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/CivilServants_English"
@@ -307,6 +314,13 @@
                                 "link": "niveau3/English/WMRotterdam_2040822.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English"
+                            }
+                        },
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/English/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Reinwardt_English"
                             }
                         }
                     ],
