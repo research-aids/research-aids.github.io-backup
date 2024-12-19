@@ -282,13 +282,6 @@
                             }
                         },
                         {
-                            "Naturalis Biodiversity Center": {
-                                "link": "niveau3/English/Naturalis_20270710.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Naturalis_English"
-                            }
-                        },
-                        {
                             "Pieter H. Pott": {
                                 "link": "niveau3/English/PieterPott_20240508.yml",
                                 "rel_type": "see also",
