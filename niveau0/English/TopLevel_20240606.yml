@@ -34,19 +34,19 @@ Breakdown:
         rel_type: "see also"
         Subtopics:
           - "Groote Koninklijke Bazar":
-              link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+              link: "niveau3/English/KoninklijkeBazar_2040503.yml"
               rel_type: "see also"
           - "Kunsthandel Van Lier":
               link: "niveau3/English/KunsthandelVanLier_20240507.yml"
               rel_type: "see also"
           - "Royal Asian Art Society in the Netherlands":
-              link: "niveau3/English/RAAS_20240508.yml"
+              link: "niveau3/English/KVVAK_20240508.yml"
               rel_type: "see also"
           - "Wereldmuseum Leiden":
               link: "niveau3/English/WMLeiden_20240508.yml"
               rel_type: "see also"
           - "Royal Cabinet of Curiosities":
-              link: "niveau3/English/RCC_20240417.yml"
+              link: "niveau3/English/KKZ_20240417.yml"
               rel_type: "see also"
           - "Artis Ethnographic Museum":
               link: "niveau3/English/EMArtis_20240712.yml"
@@ -93,7 +93,7 @@ Breakdown:
         rel_type: "see also"
         Subtopics:
           - "Royal Cabinet of Curiosities":
-              link: "niveau3/English/RCC_20240417.yml"
+              link: "niveau3/English/KKZ_20240417.yml"
               rel_type: "see also"
           - "Wereldmuseum Leiden":
               link: "niveau3/English/WMLeiden_20240508.yml"
