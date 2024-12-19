@@ -85,6 +85,9 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
               rel_type: "see also"
+          - "C.G.C. Reinwardt":
+              link: "niveau3/English/Reinwardt_20241217.yml"
+              rel_type: "see also"
     - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
@@ -143,5 +146,8 @@ Breakdown:
               rel_type: "see also"
           - "Wereldmuseum Rotterdam":
               link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
+          - "C.G.C. Reinwardt":
+              link: "niveau3/English/Reinwardt_20241217.yml"
               rel_type: "see also"
   "3. Locations": []
