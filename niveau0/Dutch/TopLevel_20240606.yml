@@ -85,6 +85,9 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
               rel_type: "see also"
+          - "C.G.C. Reinwardt":
+              link: "niveau3/Dutch/Reinwardt_20241217.yml"
+              rel_type: "see also"
     - "Leger en marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
@@ -141,5 +144,8 @@ Breakdown:
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+              rel_type: "see also"
+          - "C.G.C. Reinwardt":
+              link: "niveau3/Dutch/Reinwardt_20241217.yml"
               rel_type: "see also"
   "3. Locaties": []

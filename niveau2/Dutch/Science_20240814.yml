@@ -50,6 +50,9 @@ RelatedAides:
   - "Rijksmuseum van Oudheden":
         link: "niveau3/Dutch/RMO_20241106.yml"
         rel_type: "see also"
+  - "C.G.C. Reinwardt":
+        link: "niveau3/Dutch/Reinwardt_20241217.yml"
+        rel_type: "see also"
 
 Relevant data: 
   Tags:
