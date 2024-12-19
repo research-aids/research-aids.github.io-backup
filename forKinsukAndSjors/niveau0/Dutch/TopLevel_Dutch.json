@@ -170,6 +170,13 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
                             }
+                        },
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
@@ -301,6 +308,13 @@
                                 "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                            }
+                        },
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
                             }
                         }
                     ],

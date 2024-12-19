@@ -1,0 +1,220 @@
+{
+    "Level": 3,
+    "Title": "C.G.C. Reinwardt",
+    "Abstract": "Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst die een grote rol heeft gespeeld binnen het erfgoedlandschap van Nederland in de negentiende eeuw.",
+    "RelatedAides": [
+        {
+            "Ambtenaren": {
+                "link": "niveau2/Dutch/CivilServants_20240320.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+            }
+        },
+        {
+            "Wetenschap": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
+            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+            }
+        },
+        {
+            "RMO": {
+                "link": "niveau3/Dutch/RMO_20241106.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q63165"
+        ],
+        "Name variations": [],
+        "Tags": {
+            "Activity": [
+                "[Botanist](http://www.wikidata.org/entity/Q2374149)",
+                "[Wetenschapper](http://www.wikidata.org/entity/Q901)"
+            ],
+            "Type of objects": [],
+            "Geographical": []
+        },
+        "Period of activity": {
+            "Year of start": "1773",
+            "Year of end": "1854"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"Reinwardt verzamelde allerhande objecten in onder andere Indonesi\u00eb, die in verschillende Nederlandse museumcollecties terecht zijn gekomen.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://app.colonialcollections.nl/en/objects?query=reinwardt"
+        }
+    },
+    "Main-text": {
+        "content": "### Beschrijving\n\nCaspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst. Op veertienjarige leeftijd kwam hij in 1787 naar Amsterdam, waar hij onderwijs in botanie en chemie genoot aan het [Athenaeum Illustre](http://www.wikidata.org/entity/Q505639). In 1800 werd Reinwardt aangesteld als hoogleraar chemie, natuurlijke historie en botanie aan de [Universiteit van Harderwijk](http://www.wikidata.org/entity/Q1816221). Ondertussen werd in 1806 [Lodewijk Napoleon](http://www.wikidata.org/entity/Q7729) koning van het Nederlandse grondgebied. Deze stelde Reinwardt in 1808 aan als directeur van zijn botanische en zo\u00f6logische tuinen en museum, eerst in Soest, alvorens in Haarlem - in [Paviljoen Welgelegen](http://www.wikidata.org/entity/Q1802996), wat ook later zou dienen als voorloper van het [Rijksmuseum Amsterdam](http://www.wikidata.org/entity/Q190804) en [Wereldmuseum Amsterdam](http://www.wikidata.org/entity/Q1131589) - en daarna in Amsterdam. Nadat Nederland in 1810 onderdeel werd van het Franse keizerrijk werd Reinwardt aan het Athenaeum Illustre aangesteld als hoogleraar in verschillende disciplines. Reinwardt had zich zodoende in een relatief korte periode weten op te werken tot een belangrijke persoon in de Nederlandse academische en bestuurlijke wereld. Het is dus ook niet verrassend dat Koning Willem I, nadat het Nederlandse koninkrijk in 1813 weer hersteld was, Reinwardt aanstelde als directeur van landbouwkundige aangelegenheden, wetenschappen en kunsten in de commissie die de Indische archipel, na het interregnum van de Britten, bestuurlijk opnieuw moest worden inrichten.\n\nIn die rol opende Reinwardt op 18 mei 1817 's Lands Plantentuin in Buitenzorg (Bogor), waarvan hij ook de eerste directeur werd. Tijdens zijn verblijf in Indonesi\u00eb ondernam Reinwardt meerdere expedities om de collectie van 'zijn' botanische tuin aan te vullen, maar zoals gebruikelijk indertijd hield hij het niet bij het verzamelen van enkel fauna specimen. Ook ander natuurhistorisch en etnografisch materiaal werd door Reinwardt naar Bogor meegenomen en tentoongesteld in een klein natuurhistorisch museum in de botanische tuin. Ook stuurde hij vele natuurhistorische objecten richting Europees Nederland, waar deze ten behoeve kwamen aan de collectie van de koning, 's Lands Kabinet van Natuurlijke Historie, die later de basis zou vormen voor het [Rijksmuseum van Natuurlijke Historie](http://www.wikidata.org/entity/Q3432011) (tegenwoordig [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). Op zijn reizen werd Reinwardt bijgestaan door persoonlijke 'verzamelaars', waarvan Jacob D'Arnaud van Boeckholtz en August Fransz Treffz de belangrijkste zijn.\n\nIn 1820 werd Reinwardt door Koning Willem I aangesteld als hoogleraar botanie, natuurlijke historie en scheikunde aan de [Universiteit Leiden](http://www.wikidata.org/entity/Q156598), alsmede het directeurschap van de Hortus Botanicus in Leiden. Reinwardt kreeg echter wel nog toestemming om tot 1822 in Indonesi\u00eb te verblijven, die hij vulde met een reis naar Timor, de Molukken en Celebes. Postuum, aan de hand van door Reinwardt achtergelaten aantekeningen, verscheen over deze reis het boek _Reis naar het oostelijk gedeelte van den Indischen archipel in het jaar 1821_. In zijn positie als directeur van de Hortus Botanicus schreef Reinwardt een nieuwe catalogus, die hard nodig was na de vele toevoegingen aan de collectie van de tuin. Ondertussen hadden andere natuurhistorische wetenschappers in Nederland niet stil gezeten, waardoor bijvoorbeeld de door Reinwardt geambieerde positie van directeur van het Rijksmuseum van Natuurlijke Historie al vergeven was aan [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). In 1854 overleed Caspar Georg Carl Reinwardt. Hoewel hij niet aan al zijn wetenschappelijke ambities heeft kunnen voldoen, zoals zijn vele aantekeningen omzetten in verschillende wetenschappelijke publicaties, heeft hij wel nadrukkelijk zijn stempel gedrukt op de (natuurhistorische) museum collecties in Nederland.\n\n### Herkomstonderzoek\n\nVeel archiefmateriaal en door Reinwardt gepubliceerde werken zijn online beschikbaar. Het persoonlijke archief van Reinwardt wordt beheerd door de Universiteit Leiden, de bibliotheek heeft een uitgebreide [collectiegids](https://collectionguides.universiteitleiden.nl/resources/ubl208) met informatie over het archief. De correspondentie van Reinwardt tussen 1802 en 1854 is door het Huygens Instituut uitgegeven en [online beschikbaar](https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf). Vanwege de relatief grote rol die Reinwardt speelde in de ontwikkeling van de museumwereld in Nederland in de negentiende eeuw, is de kans groot dat je aan hem gerelateerde documenten in de archieven van verschillende Nederlandse musea kan tegenkomen. De biografie _Hybrid ambitions : science, governance, and empire in the career of Caspar G.C. Reinwardt (1773-1854)_ van Andreas Weber geeft een uitgebreid overzicht van het leven van Reinwardt en kan dienen als verwijzing naar relevant archiefmateriaal. Zie hieronder voor meer relevante primaire- en secundaire bronnen.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archief",
+                "Name": "Caspar George Carl Reinwardt archive and collection",
+                "Link": [
+                    {
+                        "URL": "https://collectionguides.universiteitleiden.nl/resources/ubl208"
+                    }
+                ],
+                "Description and remarks": "Collectiegids van de Universiteit Leiden over het Reinwardt-archief aldaar. Staan ook handige verwijzingen in naar ander relevant archiefmateriaal."
+            },
+            {
+                "Type of source": "Archief",
+                "Name": "Inventaris van het archief van prof. C.G.C. Reinwardt, 1808-1828 (NL-HaNA, Reinwardt, 2.21.204)",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf"
+                    }
+                ],
+                "Description and remarks": "Archief van Reinwardt bij het Nationaal Archief in Den Haag. Bevat allerhande soorten documenten."
+            },
+            {
+                "Type of source": "Correspondentie",
+                "Name": "Reinwardt, C. G. C., and Teunis Willem van Heiningen. The Correspondence of Caspar Georg Carl Reinwardt (1773-1854). Voorburg: U2pi, 2011.",
+                "Link": [
+                    {
+                        "URL": "https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf"
+                    },
+                    {
+                        "OCLC": "800943285"
+                    }
+                ],
+                "Description and remarks": "Door T.W. van Heiningen gecombineerde correspondentie van Reinwardt, bevat briefwisselingen met allerhande relevante figuren."
+            },
+            {
+                "Type of source": "Website",
+                "Name": "Hoogleraren Universiteit Leiden - Caspar Georg Carl Reinwardt",
+                "Link": [
+                    {
+                        "URL": "https://hoogleraren.universiteitleiden.nl/s/hoogleraren/item/1738"
+                    }
+                ],
+                "Description and remarks": "Database van de Universiteit Leiden met biografische gegevens van (voormalige) hoogleraren."
+            },
+            {
+                "Type of source": "Website",
+                "Name": "Biografisch Portaal Nederland - Caspar Georg Carl Reinwardt",
+                "Link": [
+                    {
+                        "URL": "http://www.biografischportaal.nl/persoon/40457008"
+                    }
+                ],
+                "Description and remarks": "Biografisch portaal met daarin biografische gegevens van allerhande 'belangrijke' Nederlandse personen. Bevat o.a. verwijzingen naar andere biografie\u00ebn."
+            },
+            {
+                "Type of source": "Website",
+                "Name": "DBNL - Caspar Georg Carl Reinwardt",
+                "Link": [
+                    {
+                        "URL": "https://www.dbnl.org/auteurs/auteur.php?id=rein010"
+                    }
+                ],
+                "Description and remarks": "Overzicht van relevante literatuur over Reinwardt binnen het DBNL platform."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": "Boek",
+                "Name": "Reinwardt, Caspar Georg Carl. Waarnemingen aangaande de gesteldheid van de grond van het eiland Aruba, en het goud aldaar gevonden. Nederland: n.p., 1827.",
+                "Link": [
+                    {
+                        "URL": "https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0"
+                    },
+                    {
+                        "OCLC": "71445372"
+                    }
+                ],
+                "Description and remarks": "Boek van Reinwardt uit 1851 over de aanwezigheid van goud in de bodem van Aruba."
+            },
+            {
+                "Type of source": "Boek",
+                "Name": "Reinwardt, C.G.C. Reis naar het oostelijk gedeelte van den Indischen Archipel, in het jaar 1821. Frederik Muller, 1858.",
+                "Link": [
+                    {
+                        "URL": "https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf"
+                    }
+                ],
+                "Description and remarks": "Boek dat de opvolger van Reinwardt bij de Universiteit Leiden, W.H. de Vriese, opstelde aan de hand van aantekeningen van Reinwardt. Beschrijft de reis die Reinwardt tussen 1820 en 1822 maakte naar Timor, de Molukken en Celebes."
+            },
+            {
+                "Type of source": "Oratie",
+                "Name": "Reinwardt, Caspar Georg Carl. Redevoering van C.G.C. Reinwardt: over hetgeen het onderzoek van Indi\u00eb tot uitbreiding der natuurlijke historie heeft toegebragt. Gehouden den 3 mei 1823, bij het plegtig aanvaarden van het gewoon hoogleeraarsambt in de scheikunde, kruidkunde en natuurlijke historie aan de Hoogschool te Leyden. Nederland: J. van der Hey, 1823.",
+                "Link": [
+                    {
+                        "URL": "https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC"
+                    },
+                    {
+                        "OCLC": "45125153"
+                    }
+                ],
+                "Description and remarks": "Oratie van Reinwardt bij zijn inauguratie als hoogleraar scheikunde, botanie en natuurlijke historie en tevens directeur van de Hortus Botanicus aan de Universiteit Leiden."
+            },
+            {
+                "Type of source": "Verhandelingen",
+                "Name": "Haan, W. de, P. W. Korthals, Salomon Mu\u0308ller, H. Schlegel, C.J. Temminck, and Natuurkundige Commissie in Oost-Indie\u0308 (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.",
+                "Link": [
+                    {
+                        "DOI": "https://doi.org/10.5962/bhl.title.114730"
+                    },
+                    {
+                        "OCLC": "12686361"
+                    }
+                ],
+                "Description and remarks": "Verhandelingen over de werkzaamheden van de Natuurkundige Commissie in Indonesi\u00eb, werd oorspronkelijk in delen gepubliceerd tussen 1839 en 1847. Beslaat drie volumes: 1: Land- en Volkenkunde, 2: Zo\u00f6logie en 3: Zo\u00f6logie (vervolg) en Botanie."
+            },
+            {
+                "Type of source": "Dissertatie",
+                "Name": "Weber, A. Hybrid Ambitions: Science, Governance, and Empire in the Career of Caspar G.C. Reinwardt (1773-1854). Leiden University Press (LUP), 2012.",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/1887/18924"
+                    }
+                ],
+                "Description and remarks": "Dissertatie van Andreas Weber uit 2012 in de vorm van een biografie van Reinwardt, geeft een uitgebreid overzicht van het leven en werkzaamheden van Reinwardt en plaatst het in de chronologische context. Bevat veel verwijzingen naar relevant (archief)materiaal."
+            },
+            {
+                "Type of source": "Artikel",
+                "Name": "Weber, Andreas. \u201cBitter Fruits of Accumulation: The Case of Caspar Georg Carl Reinwardt (1773-1854).\u201d History of Science 52 (3): 297-318. 2014.",
+                "Link": [
+                    {
+                        "DOI": "https://doi.org/10.1177/0073275314546970"
+                    },
+                    {
+                        "OCLC": "5723532657"
+                    }
+                ],
+                "Description and remarks": "Artikel van Andreas Weber, over het leven en werk van Reinwardt."
+            }
+        ]
+    },
+    "File name": "Reinwardt"
+}
