@@ -52,9 +52,9 @@
                     "Subtopics": [
                         {
                             "Groote Koninklijke Bazar": {
-                                "link": "niveau3/English/KoninklijkeBazaar_2040503.yml",
+                                "link": "niveau3/English/KoninklijkeBazar_2040503.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KoninklijkeBazaar_English"
+                                "linkFilename": "niveau3/English/KoninklijkeBazar_English"
                             }
                         },
                         {
@@ -66,9 +66,9 @@
                         },
                         {
                             "Royal Asian Art Society in the Netherlands": {
-                                "link": "niveau3/English/RAAS_20240508.yml",
+                                "link": "niveau3/English/KVVAK_20240508.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RAAS_English"
+                                "linkFilename": "niveau3/English/KVVAK_English"
                             }
                         },
                         {
@@ -80,9 +80,9 @@
                         },
                         {
                             "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/RCC_20240417.yml",
+                                "link": "niveau3/English/KKZ_20240417.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RCC_English"
+                                "linkFilename": "niveau3/English/KKZ_English"
                             }
                         },
                         {
@@ -189,9 +189,9 @@
                     "Subtopics": [
                         {
                             "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/RCC_20240417.yml",
+                                "link": "niveau3/English/KKZ_20240417.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RCC_English"
+                                "linkFilename": "niveau3/English/KKZ_English"
                             }
                         },
                         {
