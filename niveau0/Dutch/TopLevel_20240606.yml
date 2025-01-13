@@ -72,7 +72,7 @@ Breakdown:
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
               rel_type: "see also"
     - "Musea en erfgoedbeheerders":
-        link: "niveau2/Dutch/MuseaErfgoed.yml"
+        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
         rel_type: "see also"
         Deelonderwerpen:
           - "Wereldmuseum Leiden":
@@ -109,7 +109,7 @@ Breakdown:
               link: "niveau3/Dutch/Bronbeek_20241002.yml"
               rel_type: "see also"
     - "Personen":
-        link: "niveau2/Dutch/Personen.yml"
+        link: "niveau2/Dutch/Persons_20250113.yml"
         rel_type: "see also"
         Deelonderwerpen:
           - "Pieter H. Pott":
