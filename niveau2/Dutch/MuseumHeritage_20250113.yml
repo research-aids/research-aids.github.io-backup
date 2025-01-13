@@ -4,7 +4,40 @@ Title: "Musea en efgoedbeherende instellingen"
 
 Abstract: []
 
-RelatedAides: []
+RelatedAides:
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ_20240313.yml"
+        rel_type: "see also"
+  - "Etnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        rel_type: "see also"
+  - "Missiemuseum Steyl":
+        link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center": 
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        rel_type: "see also"
+  - "Rijksmuseum van Oudheden":
+        link: "niveau3/Dutch/RMO_20241106.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Berg en Dal":
+        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        rel_type: "see also"
+  - "Museum Bronbeek":
+        link: "niveau3/Dutch/Bronbeek_20241002.yml"
+        rel_type: "see also"
 
 Relevant data: []
 
