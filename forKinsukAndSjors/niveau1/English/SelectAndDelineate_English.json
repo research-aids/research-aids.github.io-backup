@@ -11,10 +11,10 @@
             }
         },
         {
-            "How can I use the data hub for my research?": {
-                "link": "niveau1/English/HowToUseTheDataHub_20240424.yml",
+            "Introduction to conducting provenance research": {
+                "link": "niveau1/English/Introduction_20250120.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/HowToUseTheDataHub_English"
+                "linkFilename": "niveau1/English/Introduction_English"
             }
         },
         {
