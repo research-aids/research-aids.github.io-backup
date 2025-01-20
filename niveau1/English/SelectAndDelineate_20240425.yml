@@ -8,8 +8,8 @@ RelatedAides:
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
         rel_type: "see also"
-  - "How can I use the data hub for my research?":
-        link: "niveau1/English/HowToUseTheDataHub_20240424.yml"
+  - "Introduction to conducting provenance research":
+        link: "niveau1/English/Introduction_20250120.yml"
         rel_type: "see also"
   - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
