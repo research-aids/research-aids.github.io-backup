@@ -14,8 +14,8 @@ Content:
 
 Breakdown:
   "1. Herkomstonderzoek naar koloniale collecties":
-    - "A. Hoe kan ik de datahub gebruiken voor mijn onderzoek?":
-        link: "niveau1/Dutch/HoeGebruikIkDeDatahub_20240424.yml"
+    - "A. Introductie op het doen van herkomstonderzoek":
+        link: "niveau1/Dutch/Introduction_20250120.yml"
         rel_type: "see also"
     - "B. Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
