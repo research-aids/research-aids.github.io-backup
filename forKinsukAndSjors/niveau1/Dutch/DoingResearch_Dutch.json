@@ -12,13 +12,13 @@
         },
         {
             "Verslagleggen": {
-                "link": "niveau1/Dutch/Verslagleggen_20240501.yml",
+                "link": "niveau1/Dutch/Reporting_20240501.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Verslagleggen_Dutch"
+                "linkFilename": "niveau1/Dutch/Reporting_Dutch"
             }
         },
         {
-            "Selecteren en afbakenen": {
+            "niveau1/Dutch/SelectAndDelineate_20240425.yml": {
                 "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
@@ -26,9 +26,9 @@
         },
         {
             "Bronnen": {
-                "link": "niveau1/Dutch/Bronnen_20240425.yml",
+                "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch"
             }
         }
     ],

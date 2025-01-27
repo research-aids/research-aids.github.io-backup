@@ -5,9 +5,9 @@
     "RelatedAides": [
         {
             "Onderzoeken": {
-                "link": "niveau1/Dutch/Onderzoeken_20240425.yml",
+                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Onderzoeken_Dutch"
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch"
             }
         },
         {
@@ -19,30 +19,30 @@
         },
         {
             "Leger en Marine": {
-                "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
+                "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch"
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
             }
         },
         {
             "Ambtenaren": {
-                "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
+                "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
             }
         },
         {
             "Handel": {
-                "link": "niveau2/Dutch/Handel_20240326.yml",
+                "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Handel_Dutch"
+                "linkFilename": "niveau2/Dutch/Trade_Dutch"
             }
         },
         {
             "Zending en Missie": {
-                "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
+                "link": "niveau2/Dutch/ChristianMission_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
+                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch"
             }
         },
         {

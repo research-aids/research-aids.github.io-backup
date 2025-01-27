@@ -5,23 +5,23 @@
     "RelatedAides": [
         {
             "Onderzoeken": {
-                "link": "niveau1/Dutch/Onderzoeken_20240425.yml",
+                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Onderzoeken_Dutch"
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch"
             }
         },
         {
             "Bronnen": {
-                "link": "niveau1/Dutch/Bronnen_20240425.yml",
+                "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch"
             }
         },
         {
             "Selecteren en afbakenen": {
-                "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
+                "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
+                "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch"
             }
         }
     ],
