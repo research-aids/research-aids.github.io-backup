@@ -5,7 +5,7 @@ Title: "Onderzoeken"
 Abstract: "Welk stappenplan moet je volgen voor het doen van (herkomst)onderzoek en hoe kom je aan meer informatie?"
 
 RelatedAides:
-  - "Introductie op het doen van herkomstonderzoek":
+  - "Introductie tot het doen van herkomstonderzoek":
         link: "niveau1/Dutch/Introduction_20250120.yml"
         rel_type: "see also"
   - "Verslagleggen":
@@ -23,24 +23,24 @@ Main-text:
   content: |
     ## Welk stappenplan kan je volgen?
     
-    Herkomstonderzoek verloopt in verschillende fasen. Afhankelijk van het doel van je onderzoek doorloop je één of meerdere stappen. In de praktijk lopen de onderzoeksstappen in elkaar over en kunnen ze vaak gelijktijdig worden uitgevoerd.
+    Herkomstonderzoek verloopt in verschillende fases. Afhankelijk van het doel van je onderzoek doorloop je één of meerdere stappen. In de praktijk lopen de onderzoeksstappen in elkaar over en kunnen ze vaak gelijktijdig worden uitgevoerd.
     
     **Fase 1: Basisonderzoek**
     
     - Het onderzoeken van het voorwerp zelf, herkomstinformatie op het object en de identificatie van de functie en de geografische en culturele herkomst.
     - Het raadplegen van de aanwezige collectiedocumentatie, zowel digitaal als op papier.
     - Het vaststellen van wie de huidige eigenaar het voorwerp heeft verworven, wanneer en op welke wijze.
-    - Onderzoek naar de instelling of persoon van wie het voorwerp is verworven, gericht op het vaststellen van diens identiteit, zoals volledige naam, geboorte- en sterftejaar, beroep, plaats van vestiging.
+    - Onderzoek naar de instelling of persoon van wie het voorwerp is verworven, gericht op het vaststellen van diens identiteit, zoals volledige naam, geboorte- en sterftejaar, beroep en plaats van vestiging.
     
     **Fase 2: Uitgebreid onderzoek**
     
-    In de meeste gevallen zal basisonderzoek niet leiden naar informatie over op welke manier het voorwerp in het gebied van herkomst is verworven. Hiervoor is uitgebreid onderzoek nodig. 
+    In de meeste gevallen zal basisonderzoek niet leiden tot informatie over de manier waarop het voorwerp uit het gebied van herkomst is meegenomen. Hiervoor is uitgebreid onderzoek nodig. 
     
-    Uit het basisonderzoek komen meestal één of meerdere personen of instellingen naar voren die met de verwerving van het object zijn verbonden. Een veelgebruikte methode is om het onderzoek te vervolgen door eerst deze personen of instellingen te onderzoeken en daarna steeds verder in de tijd terug te gaan aan de hand van de bronnen die zo worden gevonden. Een andere methode gaat uit van het voorwerp zelf en de kennis die daarover is bij gemeenschappen van oorsprong, en werkt vandaaruit in de tijd vooruit. Beide methoden kunnen één of meerdere van de volgende stappen omvatten:
+    Uit het basisonderzoek komen meestal één of meerdere personen of instellingen naar voren die met de verwerving van het object zijn verbonden. Een veelgebruikte methode is om het onderzoek te vervolgen door eerst deze personen of instellingen te onderzoeken en daarna steeds verder terug in de tijd te gaan aan de hand van de bronnen die naar voren komen. Een andere methode gaat uit van het voorwerp zelf en de kennis die daarover is bij gemeenschappen van oorsprong, en werkt van daaruit in de tijd vooruit. Beide methoden kunnen één of meerdere van de volgende stappen omvatten:
     
     - Onderzoek naar de wijze van verwerving in de koloniale context en de bredere context waarin dit plaatsvond.
     - Onderzoek naar het vroegere gebruik van het voorwerp.
-    - Raadpleging van deskundigen en gemeenschappen van herkomst.
+    - Raadpleging van gemeenschappen van herkomst en andere deskundigen.
     
     Aan de hand van een lijst met mogelijke onderzoeksstappen kunnen de stappen en aandachtspunten geselecteerd worden die relevant zijn voor de onderzoeksvraag en het doel van het herkomstonderzoek. Het is doorgaans niet nodig om alle punten uit de lijst te onderzoeken. Het onderzoek kan sneller verlopen als er sprake is van meerdere objecten die op hetzelfde moment verworven zijn. Zeker als er in de onderzoeksbronnen meerdere objecten worden genoemd.
     
@@ -50,7 +50,7 @@ Main-text:
     
     In Nederlandse archieven bevinden zich vele documenten afkomstig van personen en instellingen die voorwerpen meenamen uit de koloniën. Het ligt voor de hand in ieder geval de archieven te raadplegen van alle instellingen en personen die het object in de loop der tijd in bezit of beheer hebben gehad. Ook bronnen die in relatie staan tot de gebeurtenissen rond de verwerving kunnen interessant zijn. Tips voor het zoeken in Nederlandse archieven vind je op de website van het [Kennisnetwerk Informatie en Archief](http://kia.pleio.nl/archieftips). Specifiek voor het Nationaal Archief is de zoekhulp [Hoe doe ik onderzoek in archieven?](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven) gemaakt.
     
-    Mogelijke bronnen zijn:
+    Mogelijke bronnen kunnen zijn:
     
     - Persoonsarchieven en egodocumenten
     - Archieven van instellingen en overheden
@@ -58,9 +58,9 @@ Main-text:
     - Beeldmateriaal (bijvoorbeeld foto’s en tekeningen)
     - Kaarten en plattegronden
     - Gemeenschappen in de gebieden van herkomst
-    - Deskundigen met kennis van het object of koloniale geschiedenis
+    - Deskundigen met kennis van het object of het koloniale verleden
     
-    De zoekhulp [Bronnen voor herkomstonderzoek](niveau1/Dutch/Sources_20240425.yml) geeft informatie over waar deze bronnen te vinden zijn. Achtergronden van personen, koloniale instellingen en gebeurtenissen kan via de zoekhulpen binnen de datahub worden achterhaald, of elders worden gevonden, zoals op Wikipedia. Houd er rekening mee dat in de Nederlandstalige versie van Wikipedia veelal informatie vanuit koloniaal perspectief ongefilterd is overgenomen. Het is daarom aanbevolen om ook altijd de versie in de taal van het herkomstgebied te raadplegen.
+    De zoekhulp [Bronnen](niveau1/Dutch/Sources_20240425.yml) geeft informatie over waar deze bronnen te vinden zijn. Achtergronden van personen, koloniale instellingen en gebeurtenissen kunnen via door middel van de [DataHub](https://app.colonialcollections.nl/nl) worden achterhaald, of elders worden gevonden, zoals op Wikipedia. Houd er rekening mee dat in de Nederlandstalige versie van Wikipedia veelal informatie vanuit een koloniaal perspectief ongefilterd is overgenomen. Het is daarom aanbevolen om ook altijd de versie in de taal van het herkomstgebied te raadplegen.
     
     Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale collecties is inmiddels gedigitaliseerd, hetgeen het onderzoek aanzienlijk vergemakkelijkt. Digitale databanken worden voortdurend aangevuld. Het loont daarom om een zoektocht die niets heeft opgeleverd na enige tijd te herhalen.
   content-type: text/markdown

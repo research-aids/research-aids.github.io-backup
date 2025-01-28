@@ -6,14 +6,14 @@ Subtitle: "Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecti
 
 Content:
   content: |
-    #### **De zoekhulpen zijn in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld. Een eerste presentatie is gepland voor eind maart 2025.**  
+    #### **De zoekhulpen zijn nog in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld. Een eerste presentatie is gepland voor eind maart 2025.**  
     
     Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. Ze bevatten informatie over het doen van onderzoek naar objecten die zijn verworven in een koloniale context en welke zich nu in een Nederlandse museumcollectie bevinden. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen de gebruiker specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
   content_type: text/markdown
 
 Breakdown:
   "1. Herkomstonderzoek naar koloniale collecties":
-    - "A. Introductie op het doen van herkomstonderzoek":
+    - "A. Introductie tot het doen van herkomstonderzoek":
         link: "niveau1/Dutch/Introduction_20250120.yml"
         rel_type: "see also"
     - "B. Selecteren en afbakenen":
