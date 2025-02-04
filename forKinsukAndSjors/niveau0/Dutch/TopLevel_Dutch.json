@@ -9,35 +9,35 @@
     "Breakdown": {
         "1. Herkomstonderzoek naar koloniale collecties": [
             {
-                "A. Introductie tot het doen van herkomstonderzoek": {
+                "Introductie tot het doen van herkomstonderzoek": {
                     "link": "niveau1/Dutch/Introduction_20250120.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/Dutch/Introduction_Dutch"
                 }
             },
             {
-                "B. Selecteren en afbakenen": {
+                "Selecteren en afbakenen": {
                     "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
                 }
             },
             {
-                "C. Onderzoeken": {
+                "Onderzoeken": {
                     "link": "niveau1/Dutch/Onderzoeken_20240425.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/Dutch/Onderzoeken_Dutch"
                 }
             },
             {
-                "D. Bronnen": {
+                "Bronnen": {
                     "link": "niveau1/Dutch/Bronnen_20240425.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
                 }
             },
             {
-                "E. Verslagleggen": {
+                "Verslagleggen": {
                     "link": "niveau1/Dutch/Verslagleggen_20240501.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/Dutch/Verslagleggen_Dutch"
@@ -70,78 +70,7 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/KVVAK_Dutch"
                             }
-                        }
-                    ],
-                    "linkFilename": "niveau2/Dutch/Handel_Dutch"
-                }
-            },
-            {
-                "Ambtenaren": {
-                    "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [],
-                    "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
-                }
-            },
-            {
-                "Leger en marine": {
-                    "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [],
-                    "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch"
-                }
-            },
-            {
-                "Zending en missie": {
-                    "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [
-                        {
-                            "Nederlandsch Zendeling Genootschap": {
-                                "link": "niveau3/Dutch/NZG_20240314.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/NZG_Dutch"
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
-                }
-            },
-            {
-                "Wetenschap": {
-                    "link": "niveau2/Dutch/Science_20240814.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [
-                        {
-                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "niveau3/Dutch/BGKW_20240827.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
-                            }
                         },
-                        {
-                            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
-                                "link": "niveau3/Dutch/KITLV_20240704.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
-                            }
-                        },
-                        {
-                            "Wageningen University & Research": {
-                                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/Dutch/Science_Dutch"
-                }
-            },
-            {
-                "Musea en erfgoedbeheerders": {
-                    "link": "niveau2/Dutch/MuseumHeritage_20250113.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [
                         {
                             "Wereldmuseum Leiden": {
                                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
@@ -176,26 +105,77 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
                             }
-                        },
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/Handel_Dutch"
+                }
+            },
+            {
+                "Ambtenaren": {
+                    "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
                         {
-                            "Missiemuseum Steyl": {
-                                "link": "niveau3/Dutch/MissiemuseumSteyl_20241021.yml",
+                            "Wereldmuseum Amsterdam": {
+                                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch"
+                                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
                             }
                         },
                         {
-                            "Naturalis Biodiversity Center": {
-                                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                            "Wereldmuseum Leiden": {
+                                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
                             }
                         },
                         {
-                            "Rijksmuseum van Oudheden": {
-                                "link": "niveau3/Dutch/RMO_20241106.yml",
+                            "Wereldmuseum Rotterdam": {
+                                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+                            }
+                        },
+                        {
+                            "Etnografisch Museum Artis": {
+                                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
+                                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Kabinet van Zeldzaamheden": {
+                                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                            }
+                        },
+                        {
+                            "Wageningen University & Research": {
+                                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                            }
+                        },
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
                             }
                         },
                         {
@@ -203,6 +183,59 @@
                                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                }
+            },
+            {
+                "Leger en marine": {
+                    "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
+                        {
+                            "Koninklijk Kabinet van Zeldzaamheden": {
+                                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Leiden": {
+                                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Amsterdam": {
+                                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Rotterdam": {
+                                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch"
+                }
+            },
+            {
+                "Zending en missie": {
+                    "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
+                        {
+                            "Nederlandsch Zendeling Genootschap": {
+                                "link": "niveau3/Dutch/NZG_20240314.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/NZG_Dutch"
                             }
                         },
                         {
@@ -213,26 +246,82 @@
                             }
                         },
                         {
-                            "Museum Bronbeek": {
-                                "link": "niveau3/Dutch/Bronbeek_20241002.yml",
+                            "Missiemuseum Steyl": {
+                                "link": "niveau3/Dutch/MissiemuseumSteyl_20241021.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/Bronbeek_Dutch"
+                                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch"
                             }
                         }
                     ],
-                    "linkFilename": "niveau2/Dutch/MuseumHeritage_Dutch"
+                    "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
                 }
             },
             {
-                "Personen": {
-                    "link": "niveau2/Dutch/Persons_20250113.yml",
+                "Wetenschap": {
+                    "link": "niveau2/Dutch/Science_20240814.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
+                        {
+                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                            }
+                        },
+                        {
+                            "Etnografisch Museum Artis": {
+                                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                            }
+                        },
+                        {
+                            "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
+                                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+                            }
+                        },
+                        {
+                            "Naturalis Biodiversity Center": {
+                                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                            }
+                        },
                         {
                             "Pieter H. Pott": {
                                 "link": "niveau3/Dutch/PieterPott_20240312.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/PieterPott_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Amsterdam": {
+                                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Leiden": {
+                                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Rotterdam": {
+                                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+                            }
+                        },
+                        {
+                            "Wageningen University & Research": {
+                                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
                             }
                         },
                         {
@@ -243,7 +332,7 @@
                             }
                         }
                     ],
-                    "linkFilename": "niveau2/Dutch/Persons_Dutch"
+                    "linkFilename": "niveau2/Dutch/Science_Dutch"
                 }
             }
         ],

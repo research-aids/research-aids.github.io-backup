@@ -177,6 +177,13 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Reinwardt_English"
                             }
+                        },
+                        {
+                            "Rijksmuseum Amsterdam": {
+                                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/CivilServants_English"
@@ -235,6 +242,13 @@
                             "Wereldmuseum Berg en Dal": {
                                 "link": "niveau3/English/WMBergEnDal_20241001.yml",
                                 "linkFilename": "niveau3/English/WMBergEnDal_English"
+                            }
+                        },
+                        {
+                            "Missiemuseum Steyl": {
+                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
                             }
                         }
                     ],
