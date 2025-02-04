@@ -88,6 +88,9 @@ Breakdown:
           - "C.G.C. Reinwardt":
               link: "niveau3/English/Reinwardt_20241217.yml"
               rel_type: "see also"
+          - "Rijksmuseum Amsterdam":
+              link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+              rel_type: "see also"
     - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
@@ -113,6 +116,9 @@ Breakdown:
               rel_type: "see also"
           - "Wereldmuseum Berg en Dal":
               link: "niveau3/English/WMBergEnDal_20241001.yml"
+          - "Missiemuseum Steyl":
+              link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+              rel_type: "see also"
     - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
