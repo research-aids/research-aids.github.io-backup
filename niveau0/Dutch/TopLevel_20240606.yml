@@ -13,9 +13,6 @@ Content:
 
 Breakdown:
   "1. Herkomstonderzoek naar koloniale collecties":
-    - "Introductie tot het doen van herkomstonderzoek":
-        link: "niveau1/Dutch/Introduction_20250120.yml"
-        rel_type: "see also"
     - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
         rel_type: "see also"
