@@ -144,13 +144,6 @@
                             }
                         },
                         {
-                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "niveau3/English/KITLV_20240704.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KITLV_English"
-                            }
-                        },
-                        {
                             "Royal Cabinet of Curiosities": {
                                 "link": "niveau3/English/KKZ_20240417.yml",
                                 "rel_type": "see also",
