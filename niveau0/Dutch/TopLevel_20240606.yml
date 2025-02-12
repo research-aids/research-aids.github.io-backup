@@ -95,6 +95,9 @@ Breakdown:
           - "Koninklijk Kabinet van Zeldzaamheden":
               link: "niveau3/Dutch/KKZ_20240313.yml"
               rel_type: "see also"
+          - "Museum Bronbeek":
+              link: "niveau3/Dutch/Bronbeek_20241002.yml"
+              rel_type: "see also"
           - "Wereldmuseum Leiden":
               link: "niveau3/Dutch/WMLeiden_20240327.yml"
               rel_type: "see also"
