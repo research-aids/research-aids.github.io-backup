@@ -4,6 +4,13 @@
     "Abstract": "Het Missiemuseum in Steyl is in 1931 opgericht met de collectie die missionarissen van Steyl meenamen van hun missies in Azi\u00eb en Afrika. Aan de opstelling zoals die was in 1934 is sindsdien vrijwel niets veranderd.",
     "RelatedAides": [
         {
+            "Musea en erfgoedbeherende instellingen": {
+                "link": "niveau2/Dutch/MuseumHeritage_20250113.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/MuseumHeritage_Dutch"
+            }
+        },
+        {
             "Zending en missie": {
                 "link": "niveau2/Dutch/ChristianMission_20240326.yml",
                 "rel_type": "see also",

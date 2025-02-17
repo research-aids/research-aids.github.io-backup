@@ -4,6 +4,13 @@
     "Abstract": "Het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen is een in 1778 opgericht genootschap dat zichzelf de taak toedichte de (schone) kunsten en wetenschappen in voormalig Nederlands-Indi\u00eb te bevorderen. Na 1962 is de collectie van het Genootschap opgegaan in het Nationale Museum van Indonesi\u00eb.",
     "RelatedAides": [
         {
+            "Musea en erfgoedbeherende instellingen": {
+                "link": "niveau2/Dutch/MuseumHeritage_20250113.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/MuseumHeritage_Dutch"
+            }
+        },
+        {
             "Ambtenaren": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",

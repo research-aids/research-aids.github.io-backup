@@ -4,6 +4,13 @@
     "Abstract": "Museum Bronbeek werd in 1863 geopend als onderdeel van het Koloniaal Militair Invalidenhuis, nabij Arnhem. Het bevat een grote collectie aan militaria, maar ook etnografische en andersoortige objecten.",
     "RelatedAides": [
         {
+            "Musea en erfgoedbeherende instellingen": {
+                "link": "niveau2/Dutch/MuseumHeritage_20250113.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/MuseumHeritage_Dutch"
+            }
+        },
+        {
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
