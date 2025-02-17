@@ -5,6 +5,9 @@ Title: "Rijksmuseum Amsterdam"
 Abstract: "Het huidige Rijksmuseum Amsterdam stamt uit 1885 en is een samenvoeging van verschillende Nederlandse collecties uit de negentiende eeuw."
 
 RelatedAides: 
+  - "Musea en erfgoedbeherende instellingen":
+        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
+        rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
         rel_type: "see also"

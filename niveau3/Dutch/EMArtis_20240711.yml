@@ -4,7 +4,10 @@ Title: "Etnografisch Museum Artis"
 
 Abstract: "Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige Wereldmuseum Amsterdam."
 
-RelatedAides: 
+RelatedAides:
+  - "Musea en erfgoedbeherende instellingen":
+        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
+        rel_type: "see also" 
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
         rel_type: "See also"

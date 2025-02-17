@@ -5,6 +5,9 @@ Title: "Wereldmuseum Rotterdam"
 Abstract: "Het tegenwoordige Wereldmuseum Rotterdam is in de negentiende eeuw opgericht en bezit een ruime collectie objecten uit Azië, Oceanië, Afrika en Amerika."
 
 RelatedAides:
+  - "Musea en erfgoedbeherende instellingen":
+        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
+        rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
         rel_type: "see also"
