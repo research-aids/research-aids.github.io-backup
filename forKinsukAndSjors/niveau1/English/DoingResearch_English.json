@@ -11,13 +11,6 @@
             }
         },
         {
-            "Introduction to conducting provenance research": {
-                "link": "niveau1/English/Introduction_20250120.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/English/Introduction_English"
-            }
-        },
-        {
             "Select and delineate": {
                 "link": "niveau1/English/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
@@ -29,6 +22,13 @@
                 "link": "niveau1/English/Reporting_20240501.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/English/Reporting_English"
+            }
+        },
+        {
+            "The Dutch restitution policy": {
+                "link": "niveau1/English/RestitutionPolicy_20250123.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/English/RestitutionPolicy_English"
             }
         }
     ],
