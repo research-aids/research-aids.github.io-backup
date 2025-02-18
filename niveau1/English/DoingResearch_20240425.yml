@@ -8,15 +8,15 @@ RelatedAides:
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
         rel_type: "see also"
-  - "Introduction to conducting provenance research":
-        link: "niveau1/English/Introduction_20250120.yml"
-        rel_type: "see also"
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
         rel_type: "see also"
   - "Reporting":
         link: "niveau1/English/Reporting_20240501.yml"
         rel_type: "see also"
+  - "The Dutch restitution policy":
+        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        rel_type: "see also" 
 
 Main-text:
   content: |

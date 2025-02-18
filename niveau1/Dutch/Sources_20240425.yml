@@ -8,6 +8,9 @@ RelatedAides:
   - "Onderzoeken":
         link: "niveau1/Dutch/DoingResearch_20240425.yml"
         rel_type: "see also"
+  - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also" 
   - "Ambtenaren":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"

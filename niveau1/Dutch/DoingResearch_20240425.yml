@@ -5,19 +5,18 @@ Title: "Onderzoeken"
 Abstract: "Welke stappen moet je volgen voor het doen van (herkomst)onderzoek en hoe kom je aan meer informatie?"
 
 RelatedAides:
-  - "Introductie tot het doen van herkomstonderzoek":
-        link: "niveau1/Dutch/Introduction_20250120.yml"
-        rel_type: "see also"
   - "Verslagleggen":
         link: "niveau1/Dutch/Reporting_20240501.yml"
         rel_type: "see also"
-  - "niveau1/Dutch/SelectAndDelineate_20240425.yml":
+  - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
         rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
         rel_type: "see also"
-
+  - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also" 
 
 Main-text:
   content: |

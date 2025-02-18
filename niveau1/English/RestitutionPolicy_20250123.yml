@@ -1,19 +1,19 @@
 Level: 1
 
-Title: "Het Nederlandse restitutiebeleid"
+Title: "The Dutch restitution policy"
 
-Abstract: "Deze zoekhulp behandeld het Nederlandse regeringsbeleid met betrekking tot de restitutie van objecten die zijn verworven in een koloniale context."
+Abstract: "This research aid comprises information on the Dutch policy regarding the restitution of objects in the state collection that were acquired in a colonial context."
 
 RelatedAides:
   - "Doing research":
     link: "niveau1/English/DoingResearch_20240425.yml"
     rel_type: "see also"
-  - "Introduction to conducting provenance research":
-    link: "niveau1/English/Introduction_20250120.yml"
-    rel_type: "see also"
   - "Sources":
     link: "niveau1/English/Sources_20240501.yml"
     rel_type: "see also"
+  - "Reporting":
+        link: "niveau1/English/Reporting_20240501.yml"
+        rel_type: "see also"
 
 
 Main-text:
