@@ -11,13 +11,6 @@
             }
         },
         {
-            "Het Nederlandse restitutiebeleid": {
-                "link": "niveau1/Dutch/RestitutionPolicy_20250123.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/RestitutionPolicy_Dutch"
-            }
-        },
-        {
             "Ambtenaren": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
