@@ -5,9 +5,6 @@ Title: "Wereldmuseum Amsterdam"
 Abstract: "Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw ontstaan uit verschillende koloniale collecties."
 
 RelatedAides:
-  - "Musea en erfgoedbeherende instellingen":
-        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
-        rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Bronnen_20240425.yml"
         rel_type: "see also"
