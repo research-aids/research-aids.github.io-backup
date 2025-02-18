@@ -26,10 +26,23 @@ Breakdown:
         link: "niveau1/Dutch/Verslagleggen_20240501.yml"
         rel_type: "see also"
   "2. Onderwerpen":
+    - "Ambtenaren":
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "C.G.C. Reinwardt":
+              link: "niveau3/Dutch/Reinwardt_20241217.yml"
+              rel_type: "see also" 
+          - "Koninklijk Kabinet van Zeldzaamheden":
+              link: "niveau3/Dutch/KKZ_20240313.yml"
+              rel_type: "see also"   
     - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
+          - "Etnografisch Museum Artis":
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
+              rel_type: "see also"
           - "Groote Koninklijke Bazar":
               link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
               rel_type: "see also"
@@ -39,28 +52,26 @@ Breakdown:
           - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
               link: "niveau3/Dutch/KVVAK_20240312.yml"
               rel_type: "see also"
-    - "Ambtenaren":
-        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "C.G.C. Reinwardt":
-              link: "niveau3/Dutch/Reinwardt_20241217.yml"
+          - "Rijksmuseum Amsterdam":
+              link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+              rel_type: "see also"
+          - "Rijksmuseum van Oudheden":
+              link: "niveau3/Dutch/RMO_20241106.yml"
               rel_type: "see also"
     - "Leger en marine":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
-        Deelonderwerpen: []
-    - "Zending en missie":
-        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
-        rel_type: "see also"
         Deelonderwerpen:
-          - "Nederlandsch Zendeling Genootschap": 
-              link: "niveau3/Dutch/NZG_20240314.yml"
+          - "Museum Bronbeek":
+              link: "niveau3/Dutch/Bronbeek_20241002.yml"
               rel_type: "see also"
     - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
         Deelonderwerpen:
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/Dutch/BGKW_20240827.yml"
+              rel_type: "see also"
           - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
               link: "niveau3/Dutch/KITLV_20240704.yml"
               rel_type: "see also"
@@ -70,30 +81,8 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
               rel_type: "see also"
-    - "Musea en efgoedbeherende instellingen":
-        link: "niveau2/Dutch/MuseumHeritage_20250113.yml"
-        rel_type: "see also"
-        Deelonderwerpen: 
-          - "Etnografisch Museum Artis":
-              link: "niveau3/Dutch/EMArtis_20240711.yml"
-              rel_type: "see also"
-          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-              link: "niveau3/Dutch/BGKW_20240827.yml"
-              rel_type: "see also"
-          - "Koninklijk Kabinet van Zeldzaamheden":
-              link: "niveau3/Dutch/KKZ_20240313.yml"
-              rel_type: "see also"
-          - "Rijksmuseum Amsterdam":
-              link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
-              rel_type: "see also"
-          - "Rijksmuseum van Oudheden":
-              link: "niveau3/Dutch/RMO_20241106.yml"
-              rel_type: "see also"
           - "Wereldmuseum Amsterdam":
               link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Berg en Dal":
-              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
               rel_type: "see also"
           - "Wereldmuseum Leiden":
               link: "niveau3/Dutch/WMLeiden_20240327.yml"
@@ -101,10 +90,17 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
+    - "Zending en missie":
+        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "Nederlandsch Zendeling Genootschap": 
+              link: "niveau3/Dutch/NZG_20240314.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+              rel_type: "see also"
           - "Missiemuseum Steyl":
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
-              rel_type: "see also"
-          - "Museum Bronbeek":
-              link: "niveau3/Dutch/Bronbeek_20241002.yml"
               rel_type: "see also"
   "3. Locaties": []
