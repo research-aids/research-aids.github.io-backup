@@ -69,13 +69,13 @@ Main-text:
     
     Military personnel in the colonial armies regularly changed positions and duty stations, and they rose in rank. The rank listed in the object documentation may be different from the rank at the time of acquisition in the country of origin. The personnel files (stamboeken) in the National Archives and the officer's books are reliable sources to find out the rank, function and station at the time of acquisition. Through the digitized newspapers on [Delpher](https://www.delpher.nl/), further information about the wartime actions and further activities of the soldier in question can be retrieved.
     
-    To find information about a soldier, it is important to first determine which army or army unit the soldier served with, such as the Landmacht (the Dutch Army), the KNIL or the Navy. The [search aids](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en- naval personnel) of the National Archives can be of service in this regard. 
+    To find information about a soldier, it is important to first determine which army or army unit the soldier served with, such as the Landmacht (the Dutch Army), the KNIL or the Navy. The [research aids](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en- naval personnel) of the National Archives can be of service in this regard. 
+
+    Through the National Archives, personnel files (studbooks) of military and naval personnel are digitally searchable. There are search aids for the Dutch East Indies, West Indies and the various naval and army units. The studbooks contain information about when a serviceman or marine was stationed where and summary personal information. A [glossary](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militaire-stamboeken-afkortingen-en-verklarende-woordenlijst) explains abbreviations in the studbooks.
     
     The personnel files of conscripts deployed to Indonesia in 1945-1949 are at the Ministry of Defence until 2026-2027 and are retrievable on the [website of the ministry]](https://www.defensie.nl/onderwerpen/privacyrechten/privacyrechten-persoonsgegevens). To access a service record, a death certificate must be provided. Death certificates are subject to privacy restrictions, but an extract from the "persoonskaart" also applies. Extracts can be requested from the CBG (Center for Family History). Important information on the record is in which army unit the soldier served. Records and/or ego documents relating to almost every army unit can be found in archives and publications. These are mainly in the collections of the NIOD, the NIMH and at the Leiden University Libraries.
     
-    Through the National Archives, personnel files (studbooks) of military and naval personnel are digitally searchable. There are search aids for the Dutch East Indies, West Indies and the various naval and army units. The studbooks contain information about when a serviceman or marine was stationed where and summary personal information. A [glossary](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militaire-stamboeken-afkortingen-en-verklarende-woordenlijst) explains abbreviations in the studbooks.
-    
-    [Museum Bronbeek](https://www.defensie.nl/onderwerpen/bronbeek) is a knowledge center of the colonial-military past of the Netherlands. The emphasis is on the Dutch East Indies, but material from other colonies is also available. You can contact <loket.bronbeek@mindef.nl> to request information about a particular soldier, event or object.
+    [Museum Bronbeek](https://www.defensie.nl/onderwerpen/bronbeek) is a knowledge center of the colonial-military past of the Netherlands. The emphasis is on the Dutch East Indies, but material from other colonies is also available. You can contact [loket.bronbeek@mindef.nl](mailto:loket.bronbeek@mindef.nl) to request information about a particular soldier, event or object.
   content-type: text/markdown
 
 Sources:
@@ -85,7 +85,7 @@ Sources:
       Link:
         - URL: "https://www.delpher.nl/"
       Description and remarks: "Via Delpher, the editions can be found by selecting the title 'Regeringsalmanak Nederlandsch-Indië' within the periodicals section. At the Staatsbibliothek zu Berlin, the editions can be found by searching PPN718684745."
-    - Type of source: "Image colllection"
+    - Type of source: "Image collection"
       Name: "Nederlands Instituut voor Militaire Historie"
       Link:
         - URL: "https://nimh-beeldbank.defensie.nl/"
@@ -112,7 +112,7 @@ Sources:
         - ISBN: "9789057891526"
         - OCLC: "907175634"
       Description and remarks: "Book following a conference at the Nieuwe Kerk, Amsterdam, in 2006. The book focuses on collecting objects in the former Dutch East Indies, with attention to military personnel."
-    - Type of source: "Search aid"
+    - Type of source: "Research aid"
       Name: "Militairen en Marinepersoneel"
       Link:
         - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
