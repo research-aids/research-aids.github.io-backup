@@ -50,7 +50,17 @@ Main-text:
   content: |
     ### Description
     
-    Het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) (NZG) was de eerste zendingsorganisatie die volledig vanuit Nederland opereerde. Veel leden en donateurs van het NZG waren verbonden aan de Nederlandse Hervormde Kerk. De meeste zendelingen van het NZG waren gestationeerd op [Java](https://sws.geonames.org/1642673) en [Sulawesi](https://sws.geonames.org/9062340), in mindere mate waren zij ook in andere gebieden binnen voormalig [Nederlands-Indië](https://sws.geonames.org/1643084) actief. Het NZG was zeer actief in het verzamelen van objecten. De collectie van het NZG diende om toekomstige zendelingen les te kunnen geven over de Indonesische culturen. In de tweede helft van de 19de eeuw had het NZG een eigen museumopstelling, later werden de collecties uitgeleend aan diverse tentoonstellingen en musea.
+    During the time of the Dutch East India Company (VOC) and the Dutch West India Company (WIC), the care of the church and missionary work in the Dutch overseas territories was assigned to the companies, with the VOC in the eastern colonies and the WIC in the western colonies bearing this responsibility. The VOC did not allow private missionaries, but in Surinam the Herrnhutters were admitted from the eighteenth century onwards. For this reason, the church archives from this period are part of the Company archives, which in the case of the VOC are held by the National Archives of the Republic of Indonesia (ANRI). The Dutch government took over the responsibilities of the VOC and WIC in the 19th century, which led to the creation of the Protestant Church in the Dutch East Indies, also known as the Indian Church, and the Protestant Church in the West Indies. This transition made it possible for Dutch Christians to carry out missionary work in the Dutch overseas territories. Following the English example, the [Netherlands Missionary Society](https://www.wikidata.org/entity/Q1946670) was founded in 1797 and established in Rotterdam.
+
+    Many members and donors of the NZG were affiliated with the Dutch Reformed Church. Most of the NZG missionaries were stationed on [Java](https://sws.geonames.org/1642673) and [Sulawesi](https://sws.geonames.org/9062340), and to a lesser extent they were also active in other areas within the former [Dutch East Indies](https://sws.geonames.org/1643084). The NZG was very active in collecting objects. The NZG collection was used to teach future missionaries about Indonesian languages and cultures. Later, the collections were loaned to various exhibitions and museums, such as the 1883 World Exhibition and the Museum voor Land-, Taal- en Volkenkunde (now the Wereldmuseum Rotterdam).
+
+    In addition to missionary work, missionaries also supervised public education and were active in all kinds of other areas such as scientific research, but also managing shops and printing workshops, among other things.
+
+    ### Provenance research
+
+    The NZG archive is available through the [Utrechts Archief](https://hetutrechtsarchief.nl/onderzoek/resultaten/archieven?mivast=39&mizig=210&miadt=39&miview=inv2&milang=nl&mizk_alle=1102-1&micode=1102-1) within the inventory of the legal predecessors of the Raad voor de Zending. The introduction to this archive provides extensive information about the history of the NZG and the organisation's archiving. The [publicity section](https://hetutrechtsarchief.nl/collectie/609C5B9FAC4B4642E0534701000A17FD), under 1.2.2.6. 8, contains documents about objects belonging to the NZG that were loaned to the World Exhibition in 1867 and 1883 and to the Museum voor Land- en Volkenkunde (now the Wereldmuseum Rotterdam). These documents are digitally available.
+
+    In the [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960] (https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829), which was compiled by the Huygens Institute, you can find a detailed entry on the Nederlandsch Zendeling Genootschap. It contains a brief history of the society and references to relevant source publications and archive material. 
   content-type: text/markdown
 
 Sources:
@@ -91,3 +101,8 @@ Sources:
     - Type of source: "Magazine"
       Name: "Mededeelingen van wege het Nederlandsche Zendelinggenootschap"
       Description and remarks: "The journal contains mostly contributions from NZG missionaries about their activities, only incidentally about the items they collected. Editions from 1857 through 1919 are all digitally accessible via Delpher."
+    - Type of source: "Website"
+      Name: "Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap"
+      Link:
+        - URL: "https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829"
+      Description and remarks: "Online database of the Huygens Institute with information about the history of the NZG and relevant (archival) material."
