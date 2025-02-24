@@ -1,8 +1,8 @@
 Level: 3
 
-Title: "Artis Etnographic Museum"
+Title: "Artis Ethnographic Museum"
 
-Abstract: "The Etnografisch Museum Artis is a former etnographic museum in Amsterdam, that formed a part of the Artis Zoo. In 1921, the collection of the etnographic museum of Artis moved to the current Wereldmuseum Amsterdam."
+Abstract: "The Etnografisch Museum Artis is a former ethnographic museum in Amsterdam, that formed a part of the Artis Zoo. In 1921, the collection of the ethnographic museum of Artis moved to the current Wereldmuseum Amsterdam."
 
 RelatedAides: 
   - "Sources":
@@ -66,9 +66,9 @@ Main-text:
     
     ### Provenance research
     
-    The collection of the Ethnographic Museum Artis can be found within the collection of Wereldmuseum Amsterdam with the attribute 'TM-A'. The collection has been brought together by a multitude of private individuals, including civil servants, missionaries, traders, other types of travelers and scientific societies. An important donor to the collection of the Ethnographic Museum Artis, for example, was the linguist [Herman Neubronner van der Tuuk](http://www.wikidata.org/entity/Q549882).
+    The collection of the Ethnographic Museum Artis can be found within the collection of Wereldmuseum Amsterdam with the attribute 'TM-A'. The collection has been brought together by a multitude of private individuals, including civil servants, missionaries, traders, other types of travellers and scientific societies. An important donor to the collection of the Ethnographic Museum Artis, for example, was the linguist [Herman Neubronner van der Tuuk](http://www.wikidata.org/entity/Q549882). Donations of objects to the Artis Ethnographic Museum, with the name of the donor, were listed in the 'Yearbook of the Royal Zoological Society Natura Artis Magistra'. The editions from 1852 to 1875 are available digitally on the Hathi Trust website (https://catalog.hathitrust.org/Record/007328956).
     
-    Archives relating to the Artis Ethnographic Museum are spread across several institutions. Under entry 395, the City Archives of Amsterdam holds the [general archives](https://archief.amsterdam/inventarissen/details/395/) of the Koninklijk Zoölogisch Genootschap Artis Magistra. Inventory numbers that are relevant regarding the Etnografisch Museum Artis are: *1842-1860 Etnologisch Museum met insectarium*, *1861-1873 Weekrapporten van het Etnologisch Museum*, *1876-1905 Ethnografisch Museum en verzamelingen*, *1906-1919 Stukken betreffende de vestiging van een Koloniaal Museum te Amsterdam [...]* en *1909-1919 Vereeniging "Koloniaal Instituut ", opgericht in 1910*.Archives of the Colonial Institute relating to the Artis ethnographic collection are available through the [National Archives](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69). Inventory numbers 4395 and 7851-7858 (which are still held by the Royal Tropical Institute) refer to the collection and transfer of these to the Colonial Museum in Amsterdam in 1926. According to a report by the National Museum of World Cultures, the archives of the Artis Ethnographic Museum have been digitized by KIT and are available through the Media module of the World Museum's collection registration system. Regarding specific questions about the Artis Ethnographic Museum collection and to view the archives, contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl)
+    Archives relating to the Artis Ethnographic Museum are spread across several institutions. Under entry 395, the City Archives of Amsterdam holds the [general archives](https://archief.amsterdam/inventarissen/details/395/) of the Koninklijk Zoölogisch Genootschap Artis Magistra. Inventory numbers that are relevant regarding the Etnografisch Museum Artis are: *1842-1860 Etnologisch Museum met insectarium*, *1861-1873 Weekrapporten van het Etnologisch Museum*, *1876-1905 Ethnografisch Museum en verzamelingen*, *1906-1919 Stukken betreffende de vestiging van een Koloniaal Museum te Amsterdam [...]* en *1909-1919 Vereeniging "Koloniaal Instituut ", opgericht in 1910*. Archives of the Colonial Institute relating to the Artis ethnographic collection are available through the [National Archives](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69). Inventory numbers 4395 and 7851-7858 (which are still held by the Royal Tropical Institute) refer to the collection and transfer of these to the Colonial Museum in Amsterdam in 1926. According to a report by the National Museum of World Cultures, the archives of the Artis Ethnographic Museum have been digitized by KIT and are available through the Media module of the World Museum's collection registration system. Regarding specific questions about the Artis Ethnographic Museum collection and to view the archives, contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl).
   content-type: text/markdown
 
 Sources:
@@ -79,50 +79,20 @@ Sources:
         - URL: "https://archief.amsterdam/inventarissen/details/395/"
       Description and remarks: "Archives of the Koninklijk Zoölogisch Genootschap Natura Artis Magistra at the City Archives of Amsterdam. Inventory numbers 1876-1905 contain documentation on the museum's collection. Inventory numbers 1906-1919 contain documentation on the decision to transfer the Artis collection to the Colonial Museum in Amsterdam. Some documents are digitally accessible, others must be requested in order to be consulted."
     - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7851"
-      Link:
+      Name: "NL-HaNA 2.20.69 - 7851 until 7858"
+      Link: 
         - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Records concerning the objects of the collection of the society 'Natura Artis Magistra' in Amsterdam, series nos. 3 to 363 from the archives of the Royal Tropical Institute, present at the National Archives in The Hague."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7852"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Records concerning loans within the Artis collection that came to the Colonial Institute with the NAM (Natura Artis Magistra) collection, from loan of the Rev. C. Rogge collection in 1888 to loan of the collection of Prof. Dr. F.A.F. Molengraaf in 1894. Part of the archives of the Royal Tropical Institute, still at the KIT (sisn 7778)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7853"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Artis inventory (NAM nrs.) by area in Asia and classification of object, with reference to current A numbers. Original title: Azië inventaris der Ethnologische verzameling van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra. Part of the archives of the Royal Tropical Institute, still at the KIT (sisn 7791)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7854"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "List of series. Artis (NAM) and NKV (Dutch Colonial Society). Inventory by area and classification of object, with reference to current numbers. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7792)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7855"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Artis inventory by area and classification of object - Japan and China, NAM numbers with reference to current A numbers. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7793)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7856"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Artis inventory (NAM numbers). Ethnographic collection, series 1 to 365. Plus note regarding the Christy Collection 1870-1871. With mention of donor, purchase, etc. Part of the archives of the Royal Tropical Institute, still held at the KIT (sisn 7794)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7857"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Register of Artis (NAM) as well as Royal Dutch Geographical Society ( KNAG). NAM numbers 1 to 83 (0) and 1 to 364 (A) + KNAG numbers 1 to 236. NAM and KNAG numbers with reference to current numbers, incl. the numbers of De Groot, Jansen, Koyne, Molengraaff, Schuver and Prof. Max Weber. Part of the archives of the Royal Tropical Institute, still held by the KIT (sisn 7795)."
-    - Type of source: "Archive"
-      Name: "NL-HaNA 2.20.69 - 7858"
-      Link:
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
-      Description and remarks: "Artis inventory. Former KNV (Dutch Colonial Society). numbers 1 to 12, with reference to current A numbers. Part of the archives of the Royal Tropical Institute, still held by the KIT (sisn 7796)."
+      Description and remarks: "Relevant archival material relating to the Artis Ethnographic Museum is held in the inventory of the Royal Tropical Institute at the National Archives in The Hague."
     - Type of source: "Archive"
       Name: "NL-HaNA 2.20.69 - 4395"
       Link:
         - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69"
       Description and remarks: "Papers relating to the transfer of the ethnographic collection of the society 'Natura Artis Magistra' in Amsterdam. Part of the archives of the Royal Tropical Institute, present at the National Archives in The Hague."
+    - Type of source: "Document"
+      Name: "Jaarboekje van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra"
+      Link: 
+        - URL: "https://catalog.hathitrust.org/Record/00732895"
+      Description and remarks: "In the yearbook, donations of objects to the Artis Ethnographic Museum are listed with the names of the donors."
   Secondary sources:
     - Type of source: "Article"
       Name: "Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011."
