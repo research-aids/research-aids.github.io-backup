@@ -6,7 +6,7 @@ Abstract: "Het tegenwoordige Wageningen University & Research had vanaf begin 20
 
 RelatedAides: 
   - "Ambtenaren":
-        link: "niveau2/Dutch/Ambtenaren_20240320.ymll"
+        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
   - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
