@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Ambtenaren": {
-                "link": "niveau2/Dutch/Ambtenaren_20240320.ymll",
+                "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
             }
