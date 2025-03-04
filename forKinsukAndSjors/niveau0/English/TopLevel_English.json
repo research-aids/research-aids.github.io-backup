@@ -39,10 +39,40 @@
         ],
         "2. Topics": [
             {
+                "Civil servants": {
+                    "link": "niveau2/English/CivilServants_20240316.yml",
+                    "rel_type": "see also",
+                    "Subtopics": [
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/English/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Reinwardt_English"
+                            }
+                        },
+                        {
+                            "Royal Cabinet of Curiosities": {
+                                "link": "niveau3/English/KKZ_20240417.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/KKZ_English"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/English/CivilServants_English"
+                }
+            },
+            {
                 "Trade": {
                     "link": "niveau2/English/Trade_20240316.yml",
                     "rel_type": "see also",
                     "Subtopics": [
+                        {
+                            "Artis Ethnographic Museum": {
+                                "link": "niveau3/English/EMArtis_20240712.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/EMArtis_English"
+                            }
+                        },
                         {
                             "Groote Koninklijke Bazar": {
                                 "link": "niveau3/English/KoninklijkeBazar_2040503.yml",
@@ -65,114 +95,21 @@
                             }
                         },
                         {
-                            "Wereldmuseum Leiden": {
-                                "link": "niveau3/English/WMLeiden_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMLeiden_English"
-                            }
-                        },
-                        {
-                            "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/KKZ_20240417.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KKZ_English"
-                            }
-                        },
-                        {
-                            "Artis Ethnographic Museum": {
-                                "link": "niveau3/English/EMArtis_20240712.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/EMArtis_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Amsterdam": {
-                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMAmsterdam_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Rotterdam": {
-                                "link": "niveau3/English/WMRotterdam_2040822.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMRotterdam_English"
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/English/Trade_English"
-                }
-            },
-            {
-                "Civil servants": {
-                    "link": "niveau2/English/CivilServants_20240316.yml",
-                    "rel_type": "see also",
-                    "Subtopics": [
-                        {
-                            "Wereldmuseum Amsterdam": {
-                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMAmsterdam_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Leiden": {
-                                "link": "niveau3/English/WMLeiden_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMLeiden_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Rotterdam": {
-                                "link": "niveau3/English/WMRotterdam_2040822.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMRotterdam_English"
-                            }
-                        },
-                        {
-                            "Artis Ethnographic Museum": {
-                                "link": "niveau3/English/EMArtis_20240712.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/EMArtis_English"
-                            }
-                        },
-                        {
-                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "niveau3/English/BGKW_20240905.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/BGKW_English"
-                            }
-                        },
-                        {
-                            "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/KKZ_20240417.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KKZ_English"
-                            }
-                        },
-                        {
-                            "Wageningen University & Research": {
-                                "link": "niveau3/English/WageningenUniversity_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WageningenUniversity_English"
-                            }
-                        },
-                        {
-                            "C.G.C. Reinwardt": {
-                                "link": "niveau3/English/Reinwardt_20241217.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Reinwardt_English"
-                            }
-                        },
-                        {
                             "Rijksmuseum Amsterdam": {
                                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
                             }
+                        },
+                        {
+                            "Rijksmuseum van Oudheden": {
+                                "link": "niveau3/Dutch/RMO_20241106.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                            }
                         }
                     ],
-                    "linkFilename": "niveau2/English/CivilServants_English"
+                    "linkFilename": "niveau2/English/Trade_English"
                 }
             },
             {
@@ -181,64 +118,14 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
-                            "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/KKZ_20240417.yml",
+                            "Museum Bronbeek": {
+                                "link": "niveau3/English/Bronbeek_20241002.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KKZ_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Leiden": {
-                                "link": "niveau3/English/WMLeiden_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMLeiden_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Amsterdam": {
-                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMAmsterdam_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Rotterdam": {
-                                "link": "niveau3/English/WMRotterdam_2040822.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMRotterdam_English"
+                                "linkFilename": "niveau3/English/Bronbeek_English"
                             }
                         }
                     ],
                     "linkFilename": "niveau2/English/MilitaryAndNavy_English"
-                }
-            },
-            {
-                "Christian mission": {
-                    "link": "niveau2/English/ChristianMission_20240417.yml",
-                    "rel_type": "see also",
-                    "Subtopics": [
-                        {
-                            "Nederlandsch Zendeling Genootschap": {
-                                "link": "niveau3/English/NZG_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/NZG_English"
-                            }
-                        },
-                        {
-                            "Wereldmuseum Berg en Dal": {
-                                "link": "niveau3/English/WMBergEnDal_20241001.yml",
-                                "linkFilename": "niveau3/English/WMBergEnDal_English"
-                            }
-                        },
-                        {
-                            "Missiemuseum Steyl": {
-                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/English/ChristianMission_English"
                 }
             },
             {
@@ -275,13 +162,6 @@
                             }
                         },
                         {
-                            "Artis Ethnographic Museum": {
-                                "link": "niveau3/Dutch/EMArtis_20240711.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
-                            }
-                        },
-                        {
                             "Wereldmuseum Amsterdam": {
                                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                                 "rel_type": "see also",
@@ -301,16 +181,38 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English"
                             }
-                        },
-                        {
-                            "C.G.C. Reinwardt": {
-                                "link": "niveau3/English/Reinwardt_20241217.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Reinwardt_English"
-                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Science_English"
+                }
+            },
+            {
+                "Christian mission": {
+                    "link": "niveau2/English/ChristianMission_20240417.yml",
+                    "rel_type": "see also",
+                    "Subtopics": [
+                        {
+                            "Nederlandsch Zendeling Genootschap": {
+                                "link": "niveau3/English/NZG_20240508.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/NZG_English"
+                            }
+                        },
+                        {
+                            "Wereldmuseum Berg en Dal": {
+                                "link": "niveau3/English/WMBergEnDal_20241001.yml",
+                                "linkFilename": "niveau3/English/WMBergEnDal_English"
+                            }
+                        },
+                        {
+                            "Missiemuseum Steyl": {
+                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/English/ChristianMission_English"
                 }
             }
         ],
