@@ -26,10 +26,23 @@ Breakdown:
         link: "niveau1/English/Reporting_20240501.yml"
         rel_type: "see also"
   "2. Topics":
+    - "Civil servants":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "C.G.C. Reinwardt":
+              link: "niveau3/English/Reinwardt_20241217.yml"
+              rel_type: "see also"
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/KKZ_20240417.yml"
+              rel_type: "see also"
     - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
         Subtopics:
+          - "Artis Ethnographic Museum":
+              link: "niveau3/English/EMArtis_20240712.yml"
+              rel_type: "see also"
           - "Groote Koninklijke Bazar":
               link: "niveau3/English/KoninklijkeBazar_2040503.yml"
               rel_type: "see also"
@@ -39,79 +52,18 @@ Breakdown:
           - "Royal Asian Art Society in the Netherlands":
               link: "niveau3/English/KVVAK_20240508.yml"
               rel_type: "see also"
-          - "Wereldmuseum Leiden":
-              link: "niveau3/English/WMLeiden_20240508.yml"
-              rel_type: "see also"
-          - "Royal Cabinet of Curiosities":
-              link: "niveau3/English/KKZ_20240417.yml"
-              rel_type: "see also"
-          - "Artis Ethnographic Museum":
-              link: "niveau3/English/EMArtis_20240712.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Amsterdam":
-              link: "niveau3/English/WMAmsterdam_20240809.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Rotterdam":
-              link: "niveau3/English/WMRotterdam_2040822.yml"
-              rel_type: "see also"
-    - "Civil servants":
-        link: "niveau2/English/CivilServants_20240316.yml"
-        rel_type: "see also"
-        Subtopics:
-          - "Wereldmuseum Amsterdam":
-              link: "niveau3/English/WMAmsterdam_20240809.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Leiden": 
-              link: "niveau3/English/WMLeiden_20240508.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Rotterdam":
-              link: "niveau3/English/WMRotterdam_2040822.yml"
-              rel_type: "see also"
-          - "Artis Ethnographic Museum":
-              link: "niveau3/English/EMArtis_20240712.yml"
-              rel_type: "see also"
-          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-              link: "niveau3/English/BGKW_20240905.yml"
-              rel_type: "see also"
-          - "Royal Cabinet of Curiosities":
-              link: "niveau3/English/KKZ_20240417.yml"
-              rel_type: "see also"
-          - "Wageningen University & Research":
-              link: "niveau3/English/WageningenUniversity_20240508.yml"
-              rel_type: "see also"
-          - "C.G.C. Reinwardt":
-              link: "niveau3/English/Reinwardt_20241217.yml"
-              rel_type: "see also"
           - "Rijksmuseum Amsterdam":
               link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+              rel_type: "see also"
+          - "Rijksmuseum van Oudheden":
+              link: "niveau3/Dutch/RMO_20241106.yml"
               rel_type: "see also"
     - "Military and navy":
         link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
         Subtopics:
-          - "Royal Cabinet of Curiosities":
-              link: "niveau3/English/KKZ_20240417.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Leiden":
-              link: "niveau3/English/WMLeiden_20240508.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Amsterdam": 
-              link: "niveau3/English/WMAmsterdam_20240809.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Rotterdam":
-              link: "niveau3/English/WMRotterdam_2040822.yml"
-              rel_type: "see also"
-    - "Christian mission":
-        link: "niveau2/English/ChristianMission_20240417.yml"
-        rel_type: "see also"
-        Subtopics:
-          - "Nederlandsch Zendeling Genootschap":
-              link: "niveau3/English/NZG_20240508.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Berg en Dal":
-              link: "niveau3/English/WMBergEnDal_20241001.yml"
-          - "Missiemuseum Steyl":
-              link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+          - "Museum Bronbeek":
+              link: "niveau3/English/Bronbeek_20241002.yml"
               rel_type: "see also"
     - "Science":
         link: "niveau2/English/Science_20240821.yml"
@@ -129,9 +81,6 @@ Breakdown:
           - "Wageningen University & Research":
               link: "niveau3/English/WageningenUniversity_20240508.yml"
               rel_type: "see also"
-          - "Artis Ethnographic Museum":
-              link: "niveau3/Dutch/EMArtis_20240711.yml"
-              rel_type: "see also"
           - "Wereldmuseum Amsterdam":
               link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
               rel_type: "see also"
@@ -141,7 +90,16 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
-          - "C.G.C. Reinwardt":
-              link: "niveau3/English/Reinwardt_20241217.yml"
+    - "Christian mission":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Nederlandsch Zendeling Genootschap":
+              link: "niveau3/English/NZG_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/English/WMBergEnDal_20241001.yml"
+          - "Missiemuseum Steyl":
+              link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
   "3. Locations": []
