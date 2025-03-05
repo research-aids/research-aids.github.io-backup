@@ -44,6 +44,9 @@ RelatedAides:
   - "C.G.C. Reinwardt":
         link: "niveau3/Dutch/Reinwardt_20241217.yml"
         rel_type: "see also"
+  - "Museum Nusantara":
+        link: "niveau3/Dutch/MNusantara_20250130.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

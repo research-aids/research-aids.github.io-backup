@@ -36,6 +36,9 @@ Breakdown:
           - "Koninklijk Kabinet van Zeldzaamheden":
               link: "niveau3/Dutch/KKZ_20240313.yml"
               rel_type: "see also"   
+          - "Museum Nusantara":
+              link: "niveau3/Dutch/MNusantara_20250130.yml"
+              rel_type: "see also"
     - "Handel":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
