@@ -36,6 +36,9 @@ Breakdown:
           - "Royal Cabinet of Curiosities":
               link: "niveau3/English/KKZ_20240417.yml"
               rel_type: "see also"
+          - "Museum Nusantara":
+              link: "niveau3/English/MNusantara_20250225.yml"
+              rel_type: "see also"
     - "Trade":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
