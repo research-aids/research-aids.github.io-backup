@@ -93,6 +93,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
             }
+        },
+        {
+            "Museum Nusantara": {
+                "link": "niveau3/Dutch/MNusantara_20250130.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MNusantara_Dutch"
+            }
         }
     ],
     "Relevant data": {
