@@ -23,6 +23,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Naturalis_English"
             }
+        },
+        {
+            "Museum Nusantara": {
+                "link": "niveau3/English/MNusantara_20250225.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/MNusantara_English"
+            }
         }
     ],
     "Relevant data": {
