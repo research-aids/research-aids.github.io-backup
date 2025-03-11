@@ -6,11 +6,11 @@ Abstract: "Deze zoekhulp behandeld het Nederlandse regeringsbeleid met betrekkin
 
 RelatedAides:
   - "Onderzoeken":
-    link: "niveau1/Dutch/DoingResearch_20240425.yml"
-    rel_type: "see also"
+        link: "niveau1/Dutch/DoingResearch_20240425.yml"
+        rel_type: "see also"
   - "Bronnen":
-    link: "niveau1/Dutch/Sources_20240425.yml"
-    rel_type: "see also"
+        link: "niveau1/Dutch/Sources_20240425.yml"
+        rel_type: "see also"
 
 
 Main-text:
