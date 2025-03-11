@@ -20,7 +20,7 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "see also"
-  - "Artis Etnographic Museum":
+  - "Artis Ethnographic Museum":
         link: "niveau3/English/EMArtis_20240712.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
@@ -54,8 +54,8 @@ Relevant data:
       - "[Indonesia](https://sws.geonames.org/1643084)"
       - "[Japan](https://sws.geonames.org/1861060)"
       - "[North America](https://sws.geonames.org/6255149)"
-      - "[Papua](https://sws.geonames.org/2088628)"
-      - "[Republic of Suriname](https://sws.geonames.org/3382998)"
+      - "[Papua New Guinea](https://sws.geonames.org/2088628)"
+      - "[Suriname](https://sws.geonames.org/3382998)"
       - "[Turkey](https://sws.geonames.org/298795)"
       - "[South Africa](https://sws.geonames.org/953987)"
   Period of activity:
