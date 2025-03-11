@@ -105,7 +105,7 @@
     "Relevant data": {
         "Tags": {
             "Activity": [
-                "[Kunstandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)",
+                "[Kunsthandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)",
                 "[Etnografica](http://vocab.getty.edu/aat/300234108)",
                 "[Kunstnijverheid](http://vocab.getty.edu/aat/300054168)",
                 "[Handelshuis](http://vocab.getty.edu/aat/300417515)",
@@ -114,11 +114,9 @@
             "Type of objects": [],
             "Geographical": [
                 "[China](http://vocab.getty.edu/aat/300417515)",
-                "[Congo](https://sws.geonames.org/203312)",
-                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
-                "[Iran](https://sws.geonames.org/130758)",
-                "[Japan](https://sws.geonames.org/1861060)",
-                "[Oceani\u00eb](https://sws.geonames.org/6255151)"
+                "[Democratische Republiek Congo](https://sws.geonames.org/203312)",
+                "[Republiek Indonesi\u00eb](https://sws.geonames.org/1643084)",
+                "[Japan](https://sws.geonames.org/1861060)"
             ]
         }
     },

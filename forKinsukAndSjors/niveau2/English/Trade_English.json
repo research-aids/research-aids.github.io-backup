@@ -106,7 +106,7 @@
         "Tags": {
             "Activity": [
                 "[Art trade](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)",
-                "[Etnografic objects](http://vocab.getty.edu/aat/300234108)",
+                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)",
                 "[Decorative arts](http://vocab.getty.edu/aat/300054168)",
                 "[Auction houses](http://vocab.getty.edu/aat/300417515)"
             ],
@@ -115,9 +115,7 @@
                 "[China](http://vocab.getty.edu/aat/300417515)",
                 "[Congo](https://sws.geonames.org/203312)",
                 "[Indonesia](https://sws.geonames.org/1643084)",
-                "[Iran](https://sws.geonames.org/130758)",
-                "[Japan](https://sws.geonames.org/1861060)",
-                "[Oceania](https://sws.geonames.org/6255151)"
+                "[Japan](https://sws.geonames.org/1861060)"
             ]
         }
     },
