@@ -14,6 +14,9 @@ RelatedAides:
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
         rel_type: "see also"
+  - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

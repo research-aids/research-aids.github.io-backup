@@ -8,6 +8,9 @@ RelatedAides:
   - "Doing research":
         link: "niveau1/English/DoingResearch_20240425.yml"
         rel_type: "see also"
+  - "The Dutch restitution policy":
+        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
   - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"

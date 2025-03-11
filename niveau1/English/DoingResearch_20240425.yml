@@ -14,6 +14,9 @@ RelatedAides:
   - "Reporting":
         link: "niveau1/English/Reporting_20240501.yml"
         rel_type: "see also"
+  - "The Dutch restitution policy":
+        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |
