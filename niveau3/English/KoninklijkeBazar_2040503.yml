@@ -64,11 +64,13 @@ Sources:
   Primary sources:
     - Type of source: "Archive"
       Name: "NL-HaNA 2.09.46"
-      Link: []
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index"
       Description and remarks: "When public and later private limited companies were formed, approval of the articles of association by the Ministry of Justice was required. The content of the files could range from a single opinion to a pack of documents, consisting of articles of incorporation, appeals, opinions, royal decrees and correspondence."
     - Type of source: "Archive"
       Name: "NL-HaNA 3.17.13.03"
-      Link: []
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401"
       Description and remarks: "Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a series of trade files."
     - Type of source: "Archive"
       Name: "NL-HlmNHA 476 811"
@@ -94,14 +96,17 @@ Sources:
     - Type of source: "Book"
       Name: "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000."
       Link: 
+        - URL: "https://search.worldcat.org/title/902181455?oclcNum=902181455"
         - ISBN: "9789074822251"
       Description and remarks: "Book about a previous store owned by Dirk Boer."
     - Type of source: "Book"
       Name: "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854."
       Link: 
+        - URL: "https://search.worldcat.org/title/67736999"
         - OCLC: "67736999"
     - Type of source: "Catalog"
       Name: "Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841."
       Link: 
+        - URL: "https://search.worldcat.org/title/67826958"
         - OCLC: "67826958"
       Description and remarks: "Description of the Royal Bazar by Dirk Boer."

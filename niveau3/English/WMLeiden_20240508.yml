@@ -121,17 +121,14 @@ Sources:
     - Type of source: "Book"
       Name: "Effert, F.R., en Nola Caffey. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008."
       Link:
+        - URL: "https://search.worldcat.org/title/244247206"
         - ISBN: "9789057891595"
         - OCLC: "244247206"
       Description and remarks: "History of the Rijks Etnografisch Museum (the current Wereldmuseum Leiden) in Leiden and how it was constituted from the collections of the Royal Cabinet of Curiosities."
     - Type of source: "Book"
-      Name: "Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003."
-      Link: 
-        - OCLC: "317117313"
-      Description and remarks: "Dissertation by Rudolf Effert, equal to the English version. About the history of the National Ethnographic Museum and how it was formed from the collections of the Royal Cabinet of Curiosities."
-    - Type of source: "Book"
       Name: "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913."
       Link: 
+        - URL: "https://search.worldcat.org/title/562473153?oclcNum=562473153"
         - OCLC: "562473153"
       Description and remarks: "Book by Joseph Marquart, a German historian and curator of the Rijks Etnografisch Museum in Leiden, about the Benin collection of the museum."
     - Type of source: "Book"
@@ -142,12 +139,14 @@ Sources:
     - Type of source: "Magazine"
       Name: "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021."
       Link:
+        - URL: "https://search.worldcat.org/title/1293851263"
         - ISBN: "9789088909986"
         - OCLC: "1293851263"
       Description and remarks: "Publication of the Wereldmuseum regarding its Benin collection. Provides information on the link between objects from Benin within the Wereldmuseum collection (not just in Leiden) and the looting of British soldiers at Benin City in 1897."
     - Type of source: "Book"
       Name: "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002."
-      Link:
+      Link: 
+        - URL: "https://search.worldcat.org/title/901467113"
         - ISBN: "9789071310812"
         - OCLC: "901467113"
       Description and remarks: "Book about the history of today's Wereldmuseum in Leiden."

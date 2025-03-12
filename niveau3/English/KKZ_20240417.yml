@@ -97,15 +97,18 @@ Sources:
       Description and remarks: "The inventory access of the archive of the Royal Cabinet of Curiosities within the archive of the Rijksmuseum and its legal predecessors." 
     - Type of source: "Archive"
       Name: "NL-HaNA 2.04.13 2.2.4.1.2.06"
-      Link: []
+      Link:
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06"
       Description and remarks: "Archive access within the archives of the Ministry of the Interior containing documents from the years 1875-1887 relating to the Royal Cabinet of Curiosities." 
     - Type of source: "Archive"
       Name: "NL-HaNA 2.04.01 4925-4954"
-      Link: []
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954"
       Description and remarks: "Concerns indices of the department of Arts and Science of the Ministry of the Interior from 1824 to 1848. Correspondence concerning acquisitions can be traced via an index. The indices can be accessed online." 
     - Type of source: Archive
       Name:  "NL-HaNA 2.04.01 4030" 
-      Link: []
+      Link: 
+        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001"
       Description and remarks: "Outgoing letters from the king's secretary, concerning donations and other matters. From the period 1815-1818, accessible online." 
     - Type of source: Archival document
       Name: "NL-HlmNHA 476 11.1"
@@ -124,15 +127,11 @@ Sources:
       Description and remarks: "Documents concerning the handling of the distribution of objects from the former Royal Cabinet of Curiosities between the Rijks Ethnografisch Museum in Leiden and the Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888." 
   Secondary Sources:
     - Type of source: "Book"
-      Name: "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003."
-      Link: 
-        - OCLC: "163275947"
-      Description and remarks: "Dissertation by Rudolf Effert from 2003 about the history of the Royal Cabinet of Curiosities and the Rijks Etnografisch Museum (now Wereldmuseum Leiden)."
-    - Type of source: "Book"
       Name: "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008."
       Link: 
+        - URL: "https://search.worldcat.org/title/244247206"
         - ISBN: "9789057891595"
-      Description and remarks: "English translation of Effert's dissertation."
+      Description and remarks: "Dissertation by Rudolf Effert from 2003 about the history of the Royal Cabinet of Curiosities and the Rijks Etnografisch Museum (now Wereldmuseum Leiden)."
     - Type of source: "Catalogue"
       Name: "Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in ’s-Gravenhage. ’s Gravenhage, 1823."
       Link: 
@@ -142,9 +141,8 @@ Sources:
     - Type of source: "Catalogue"
       Name: "Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in ’s Gravenhage. ’s Gravenhage: A.H. Bakhuijzen, 1860."
       Link: 
-        - OCLC: "899016583"
         - URL: "http://archive.org/details/kortehandleiding00kast"
-        - URL: "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
+        - OCLC: "899016583"
       Description and remarks: "1860 visitors guide to the Royal Cabinet of Curiosities by the director at the time, Abraham Anne van de Kasteele."
     - Type of source: "Book chapter"
       Name: "Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. "
