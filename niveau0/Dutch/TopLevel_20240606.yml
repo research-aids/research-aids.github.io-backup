@@ -109,4 +109,7 @@ Breakdown:
           - "Missiemuseum Steyl":
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
-  "3. Locaties": []
+  "3. Locaties":
+    - "De ABCSSS-eilanden":
+        link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
+        rel_type: "see also"                 
