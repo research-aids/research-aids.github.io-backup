@@ -35,6 +35,13 @@
                     "rel_type": "see also",
                     "linkFilename": "niveau1/English/Reporting_English"
                 }
+            },
+            {
+                "The Dutch restitution policy": {
+                    "link": "niveau1/English/RestitutionPolicy_20250123.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau1/English/RestitutionPolicy_English"
+                }
             }
         ],
         "2. Topics": [
