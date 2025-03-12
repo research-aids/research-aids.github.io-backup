@@ -100,7 +100,7 @@
                         "OCLC": "993621798"
                     },
                     {
-                        "Google Books ID": "zoOCOEgNA4AC"
+                        "URL": "https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false"
                     }
                 ],
                 "Description and remarks": "Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG."
@@ -120,6 +120,9 @@
                 "Name": "Djajasoebrata, Alit M.L.R. 'To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.' In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147\u201367. Leiden: CNWS Publications, 2002.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/907014546?oclcNum=907014546"
+                    },
+                    {
                         "ISBN": "9789057890789"
                     },
                     {
@@ -132,6 +135,9 @@
                 "Type of source": "Artikel",
                 "Name": "Kanhai, Parveen. \u201cEen kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).\u201d Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80\u201397.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/844374705?oclcNum=844374705"
+                    },
                     {
                         "ISSN": "2214-1111"
                     },

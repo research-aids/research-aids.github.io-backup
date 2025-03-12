@@ -167,6 +167,9 @@
                 "Name": "Kuitenbrouwer, Maarten and Harry A. Poeze. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/858749398?oclcNum=858749398"
+                    },
+                    {
                         "ISBN": "9789004257870"
                     },
                     {
@@ -176,22 +179,12 @@
                 "Description and remarks": "Historiography of the KITLV that covers one hundred and fifty years of KITLV history, but is at the same time a history of the scholarship regarding the (former) Dutch colonies. This is an English version, not a one-on-one translation, of the in 2001 published Tussen orie\u0308ntalisme en wetenschap (see below)."
             },
             {
-                "Type of source": "Book",
-                "Name": "Kuitenbrouwer, Maarten. Tussen orie\u0308ntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.",
-                "Link": [
-                    {
-                        "ISBN": "9789067181747"
-                    },
-                    {
-                        "OCLC": "47826802"
-                    }
-                ],
-                "Description and remarks": "Dutch version from 2001 of the book by Kuitenbrouwer above."
-            },
-            {
                 "Type of source": "Magazine",
                 "Name": "Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences of Southeast Asia",
                 "Link": [
+                    {
+                        "URL": "https://brill.com/view/journals/bki/bki-overview.xml"
+                    },
                     {
                         "ISSN": "2213-4379"
                     }

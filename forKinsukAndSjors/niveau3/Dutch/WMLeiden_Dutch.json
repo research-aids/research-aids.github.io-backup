@@ -189,21 +189,11 @@
         "Secondary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Effert, F.R., en Nola Caffey. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008.",
-                "Link": [
-                    {
-                        "ISBN": "9789057891595"
-                    },
-                    {
-                        "OCLC": "244247206"
-                    }
-                ],
-                "Description and remarks": "Geschiedenis van het Rijks Etnografisch Museum in Leiden (het tegenwoordige Wereldmuseum Leiden) en hoe dat is gevormd uit de collecties van het Koninklijk Kabinet van Zeldzaamheden."
-            },
-            {
-                "Type of source": "Boek",
                 "Name": "Effert, Rudolf. \u201cVolkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.\u201d Dissertatie, Universiteit Leiden, Leiden 2003.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/317117313?oclcNum=317117313"
+                    },
                     {
                         "OCLC": "317117313"
                     }
@@ -214,6 +204,9 @@
                 "Type of source": "Boek",
                 "Name": "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums fu\u0308r Vo\u0308lkerkunde in Leiden. Beschrieben und mit ausfu\u0308hrlichen Prolegomena zur Geschichte der Handelswege und Vo\u0308lkerbewegungen in Nordafrika, Leiden: Brill, 1913.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/562473153?oclcNum=562473153"
+                    },
                     {
                         "OCLC": "562473153"
                     }
@@ -235,6 +228,9 @@
                 "Name": "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/1293851263"
+                    },
+                    {
                         "ISBN": "9789088909986"
                     },
                     {
@@ -247,6 +243,9 @@
                 "Type of source": "Boek",
                 "Name": "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/901467113"
+                    },
                     {
                         "ISBN": "9789071310812"
                     },

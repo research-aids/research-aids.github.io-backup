@@ -105,7 +105,11 @@
             {
                 "Type of source": "Archival piece",
                 "Name": "NL-HaNA  2.20.69 4402",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402"
+                    }
+                ],
                 "Description and remarks": "Contains correspondence regarding the sale of objects by the Indisch Instituut (now Wereldmuseum Amsterdam) in 1948."
             }
         ],

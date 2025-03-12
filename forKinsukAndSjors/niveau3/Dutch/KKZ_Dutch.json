@@ -127,19 +127,31 @@
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.13 2.2.4.1.2.06",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06"
+                    }
+                ],
                 "Description and remarks": "Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.01 4925-4954",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954"
+                    }
+                ],
                 "Description and remarks": "Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk."
             },
             {
                 "Type of source": "Archief",
                 "Name": "NL-HaNA 2.04.01 4030",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001"
+                    }
+                ],
                 "Description and remarks": "Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk."
             },
             {
@@ -179,23 +191,13 @@
                 "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/163275947?oclcNum=163275947"
+                    },
+                    {
                         "OCLC": "163275947"
                     }
                 ],
                 "Description and remarks": "Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum."
-            },
-            {
-                "Type of source": "Boek",
-                "Name": "Effert, Rudolf. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology 1816-1883. Leiden: CNWS, 2008.",
-                "Link": [
-                    {
-                        "ISBN": "9789057891595"
-                    },
-                    {
-                        "OCLC": "244247206"
-                    }
-                ],
-                "Description and remarks": "Engelse vertaling van de dissertatie van Effert. Betreft de geschiedenis van het KKZ en het Rijksetnographisch Museum in Leiden."
             },
             {
                 "Type of source": "Catalogus",
@@ -216,9 +218,6 @@
                 "Link": [
                     {
                         "URL": "http://archive.org/details/kortehandleiding00kast"
-                    },
-                    {
-                        "URL": "https://play.google.com/books/reader?id=VQRSAAAAcAAJ"
                     },
                     {
                         "OCLC": "899016583"

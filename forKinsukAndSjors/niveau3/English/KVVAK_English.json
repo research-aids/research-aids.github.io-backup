@@ -69,43 +69,71 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 663",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663"
+                    }
+                ],
                 "Description and remarks": "Records concerning the financial management of the Museum of East Asian Art at Amsterdam 1940-1960."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 674",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674"
+                    }
+                ],
                 "Description and remarks": "Records concerning the acquisition of art works and the housing of the collection of the Museum voor Oost-Aziatische Kunst at the Rijksmuseum in Amsterdam, 1947-1960."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 6609",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609"
+                    }
+                ],
                 "Description and remarks": "Records concerning to a grant to the Museum van Aziatische Kunst in Amsterdam, 1942-1964."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.27.19 2934",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934"
+                    }
+                ],
                 "Description and remarks": "Records concerning the approval of loan agreements of objects between the Rijksmuseum and the Asian Art Society in the Netherlands, 1970 - 1971."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.24.25 554-555",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555"
+                    }
+                ],
                 "Description and remarks": "Photographs of the Aziatische Kunst exhibition at the Museum voor Aziatische Kunst in 1936. Inventory number 554 covers an overview of the exhibition space. Inventory number 555 covers an overview of the Chinese ceramics."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.24.25 1281-1288",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288"
+                    }
+                ],
                 "Description and remarks": "Various photos of the exhibition rooms of Museum of Asian Art in Amsterdam between 1931-1958. It therefore contains both photographs from the Stedelijk Museum and the Rijksmuseum in Amsterdam."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 2982",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982"
+                    }
+                ],
                 "Description and remarks": "Correspondence between the Royal Tropical Institute and the Rijksmuseum in Amsterdam regarding the Museum voor Aziatische Kunst, 1941."
             },
             {
@@ -155,6 +183,9 @@
                 "Name": "Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/907556128"
+                    },
+                    {
                         "OCLC": "907556128"
                     }
                 ],
@@ -164,6 +195,9 @@
                 "Type of source": "Catalog",
                 "Name": "Lim, K.W., et all. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/63330271?oclcNum=63330271"
+                    },
                     {
                         "OCLC": "63330271"
                     }
@@ -175,6 +209,9 @@
                 "Name": "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/1156720537"
+                    },
+                    {
                         "OCLC": "1156720537"
                     }
                 ],
@@ -184,6 +221,9 @@
                 "Type of source": "Magazine",
                 "Name": "Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 \u2013 Nu.",
                 "Link": [
+                    {
+                        "URL": "https://brill.com/view/journals/vvak/vvak-overview.xml"
+                    },
                     {
                         "ISSN": "2543-1749"
                     }

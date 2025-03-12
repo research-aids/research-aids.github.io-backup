@@ -79,13 +79,21 @@
             {
                 "Type of source": "Archiefstuk",
                 "Name": "NL-HaNA 2.09.46",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index"
+                    }
+                ],
                 "Description and remarks": "Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan vari\u00ebren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie."
             },
             {
                 "Type of source": "Archiefstuk",
                 "Name": "NL-HaNA 3.17.13.03",
-                "Link": [],
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401"
+                    }
+                ],
                 "Description and remarks": "Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers."
             },
             {
@@ -145,6 +153,9 @@
                 "Name": "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/902181455?oclcNum=902181455"
+                    },
+                    {
                         "ISBN": "9789074822251"
                     },
                     {
@@ -158,6 +169,9 @@
                 "Name": "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.",
                 "Link": [
                     {
+                        "URL": "https://search.worldcat.org/title/67736999"
+                    },
+                    {
                         "OCLC": "67736999"
                     }
                 ]
@@ -166,6 +180,9 @@
                 "Type of source": "Catalogus",
                 "Name": "Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.",
                 "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/67826958"
+                    },
                     {
                         "OCLC": "67826958"
                     }
