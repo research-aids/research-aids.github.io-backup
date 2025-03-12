@@ -25,6 +25,9 @@ Breakdown:
     - "Verslagleggen":
         link: "niveau1/Dutch/Verslagleggen_20240501.yml"
         rel_type: "see also"
+    - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
   "2. Onderwerpen":
     - "Ambtenaren":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
