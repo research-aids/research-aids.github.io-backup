@@ -106,12 +106,14 @@ Sources:
     - Type of source: "Book"
       Name: "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
       Link: 
+        - URL: "https://search.worldcat.org/title/906982001"
         - ISBN: "9789068321975"
         - OCLC: "906982001"
       Description and remarks: "Book describing the trade in various ethnographic objects, with a focus on the Low Countries."
     - Type of source: "Book"
       Name: "Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006."
       Link:
+        - URL: "https://search.worldcat.org/title/71681153?oclcNum=71681153"
         - OCLC: "71681153"
       Description and remarks: "Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands."
 
