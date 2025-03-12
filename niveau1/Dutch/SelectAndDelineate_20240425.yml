@@ -26,6 +26,9 @@ RelatedAides:
   - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
+  - "De ABCSSS-eilanden":
+        link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
+        rel_type: "see also" 
 
 Main-text:
   content: |

@@ -38,6 +38,9 @@ RelatedAides:
   - "Rijksmuseum Amsterdam":
         link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
         rel_type: "see also"
+  - "The ABCSSS islands":
+        link: "niveau2/English/ABCSSSislands_20241125.yml"
+        rel_type: "see also" 
 
 Relevant data:
   Tags:

@@ -20,6 +20,9 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "See also"
+  - "The ABCSSS islands":
+        link: "niveau2/English/ABCSSSislands_20241125.yml"
+        rel_type: "see also" 
 
 
 Relevant data:

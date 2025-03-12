@@ -26,6 +26,9 @@ RelatedAides:
   - "Science":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
+  - "The ABCSSS islands":
+        link: "niveau2/English/ABCSSSislands_20241125.yml"
+        rel_type: "see also" 
 
 Main-text:
   content: |

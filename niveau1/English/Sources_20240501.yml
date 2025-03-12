@@ -50,6 +50,9 @@ RelatedAides:
   - "Rijksmuseum van Oudheden":
         link: "niveau3/English/RMO_20241106.yml"
         rel_type: "see also"
+  - "The ABCSSS islands":
+        link: "niveau2/English/ABCSSSislands_20241125.yml"
+        rel_type: "see also" 
 
 Main-text:
   content: |

@@ -31,7 +31,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Rotterdam": 
         link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-        rel_type: "see also"
+        rel_type: "see also" 
 
 Relevant data:
   Tags:
