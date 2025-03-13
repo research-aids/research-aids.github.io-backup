@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Naturalis Biodiversity Center"
 
-Abstract: "Naturalis Biodiversity Center, formerly the Rijksmuseum van Natuurlijke Historie, is a museum in Leiden founded in 1820. The focus of Naturalis is threefold: building and maintaining a collection of natural history objects, researching the collection and exhibiting it to a broad audience."
+Abstract: "Naturalis Biodiversity Center, before the Rijksmuseum van Natuurlijke Historie (State Museum of Natural History), was founded in 1820 in Leiden. The focus of Naturalis is threefold: accumulating and maintaining a collection of natural historical objects, conducting research into the collection and exhibit the collection to a broad audience. A large part of Naturalis' collection originates from the former Dutch East Indies and other former Dutch colonies. In the 19th and 20th century, scientists amassed large collections of natural historical specimens in these regions."
 
 RelatedAides: 
   - "Sources":
@@ -65,6 +65,8 @@ Relevant data:
       
 Main-text:
   content: |
+    Naturalis Biodiversity Center, before the Rijksmuseum van Natuurlijke Historie (State Museum of Natural History), was founded in 1820 in Leiden. The focus of Naturalis is threefold: accumulating and maintaining a collection of natural historical objects, conducting research into the collection and exhibit the collection to a broad audience. A large part of Naturalis' collection originates from the former Dutch East Indies and other former Dutch colonies. In the 19th and 20th century, scientists amassed large collections of natural historical specimens in these regions.
+    
     ### Description
     
     In 1820, by Royal Decree, [King Willem I](http://www.wikidata.org/entity/Q2079957) established the ['s Rijksmuseum van Natuurlijke Historie](http://www.wikidata.org/entity/Q3432011), which is called Naturalis Biodiversity Center since 2010. The museum collection was created by combining the collections of Leiden University, 's Lands Kabinet van Natuurlijke Historie and the personal collection of the first director [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). These collections, which were initially collected as curiosities, became increasingly the focus of emerging scientific interest during the nineteenth century. Temminck succeeded in getting people abroad to acquire natural objects to add to the collection of the Rijksmuseum van Natuurlijke Historie (RMNH). The collection of natural objects from Japan, which [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), whose ethnographic collection served as the basis of the later Rijks Etnografisch Museum in Leiden, was, for instance also added to the RMNH collection. 

@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Wereldmuseum Amsterdam"
 
-Abstract: "Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw opgericht vanuit verschillende koloniale collecties, waaronder die van het voormalige [Etnografisch Museum Artis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593)."
+Abstract: "Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw ontstaan vanuit verschillende koloniale collecties, waaronder die van het voormalige Etnografisch Museum Artis."
 
 RelatedAides:
   - "Bronnen":
@@ -42,7 +42,6 @@ RelatedAides:
         link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
         rel_type: "see also" 
 
-
 Relevant data:
   Identifiers:
     - "http://www.wikidata.org/entity/Q1131589"
@@ -75,7 +74,7 @@ Relevant data:
       
 Main-text:
   content: |
-    Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw opgericht vanuit verschillende koloniale collecties, waaronder die van het voormalige [Etnografisch Museum Artis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593).
+    Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw ontstaan vanuit verschillende koloniale collecties, waaronder die van het voormalige [Etnografisch Museum Artis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593).
     
     ### Beschrijving
     

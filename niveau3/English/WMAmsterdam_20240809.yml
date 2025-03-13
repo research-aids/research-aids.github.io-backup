@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Wereldmuseum Amsterdam"
 
-Abstract: "Today's Wereldmuseum Amsterdam, formerly the Tropenmuseum, is a museum that during the nineteenth century emerged from several colonial collections."
+Abstract: "Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it's origins in the 19th century. The collection of the Wereldmuseum Amsterdam includes objects from several other museums, including the former Artis Ethnographic Museum."
 
 RelatedAides:
   - "Sources":
@@ -74,6 +74,8 @@ Relevant data:
       
 Main-text:
   content: |
+    Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it's origins in the 19th century. The collection of the Wereldmuseum Amsterdam includes objects from several other museums, including the former [Artis Ethnographic Museum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593).
+    
     ### Description
     
     The current Wereldmuseum Amsterdam emerged from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893) in Haarlem, founded in 1871. This Colonial Museum, located in the Paviljoen Welgelegen was initially mainly a products museum, where a variety of colonial goods were displayed. This museum served as a resource for colonial entrepreneurs, providing them with knowledge about, among other things, minerals and natural resources. Important donors of objects were government officials, such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname, [Johand von Schmidt](http://www.wikidata.org/entity/Q1694028), the Dutch East Indies Government, 's Lands Plantentuin in Bogor and several other trading companies and businesses.
