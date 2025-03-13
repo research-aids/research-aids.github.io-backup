@@ -62,9 +62,6 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/Dutch/MNusantara_20250130.yml"
         rel_type: "see also"
-  - "De ABCSSS-eilanden":
-        link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
-        rel_type: "see also"  
 
 Relevant data:
   Identifiers:

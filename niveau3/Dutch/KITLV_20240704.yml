@@ -19,10 +19,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "See also"
-  - "De ABCSSS-eilanden":
-        link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
-        rel_type: "see also" 
+        rel_type: "See also" 
 
 Relevant data:
   Identifiers:

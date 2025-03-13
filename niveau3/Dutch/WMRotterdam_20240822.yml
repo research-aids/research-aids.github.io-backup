@@ -25,10 +25,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
-        rel_type: "see also"
-  - "De ABCSSS-eilanden":
-        link: "niveau2/Dutch/ABCSSSislands_20241125.yml"
-        rel_type: "see also"  
+        rel_type: "see also" 
 
 Relevant data:
   Identifiers:
