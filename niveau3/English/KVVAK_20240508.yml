@@ -54,7 +54,7 @@ Main-text:
     
     The [Royal Asian Art Society in the Netherlands](https://www.wikidata.org/entity/Q96749093) is an association founded in 1918 that holds the designation "Royal" since 2018. The KVVAK was founded on June 29, 1918 by the engineer [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) and  collector and art dealer [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681), with the aim to give greater publicity to high quality [Asian art](https://www.wikidata.org/entity/Q3399573), stimulate interest, and promote scholarship on the topic of Asian art. The association's first president was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) 1868-1941, who would later bequeath his own collection to the KVVAK. The association's collection currently comprises around 1,850 objects, consisting of various art forms such as [sculptures](http://vocab.getty.edu/aat/300047090), Japanese [prints](http://vocab.getty.edu/aat/300106750) and [ceramics](http://vocab.getty.edu/aat/300310706). 
     
-    After several temporary exhibitions, in 1928, on the occasion of the tenth anniversary of the KVVAK, it was decided to establish a fund with which the ascociation could acquire its own collection and found a museum. In 1932, the so-called Museum of Asian Art was opened in the Tuinzaal of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335). In 1952, the collection was moved to the [Rijksmuseum](https://www.wikidata.org/entity/Q190804) in Amsterdam, where it is still on display. Initially, the KVVAK collection was exhibited in the Druckeruitbouw, which later became part of the current Philips wing. After the major renovation of the Rijksmuseum in 2013, the KVVAK collection was housed in the Asian Pavilion (http://www.wikidata.org/entity/Q37769044). Not the entire Asian art collection of the Rijksmuseum is on loan from the KVVAK; the museum also has Asian artefacts in its own collection. Most of the KVVAK objects are labelled ‘AK-MAK’, but a few prints are labelled ‘RP’. For the best overview of the KVVAK collection, please visit the association's website (https://www.kvvak.nl/collectie/). In addition to maintaining its own collection, the KVVAK organises lectures and trips, among other things. The magazine [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) is published by De Gruyter Brill.
+    After several temporary exhibitions, in 1928, on the occasion of the tenth anniversary of the KVVAK, it was decided to establish a fund with which the ascociation could acquire its own collection and found a museum. In 1932, the so-called Museum of Asian Art was opened in the Tuinzaal of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335). In 1952, the collection was moved to the [Rijksmuseum](https://www.wikidata.org/entity/Q190804) in Amsterdam, where it is still on display. Initially, the KVVAK collection was exhibited in the Druckeruitbouw, which later became part of the current Philips wing. After the major renovation of the Rijksmuseum in 2013, the KVVAK collection was housed in the Asian Pavilion (http://www.wikidata.org/entity/Q37769044). Not the entire Asian art collection of the Rijksmuseum is on loan from the KVVAK; the museum also has Asian artefacts in its own collection. Most of the KVVAK objects are labelled ‘AK-MAK’, but a few prints are labelled ‘RP’. For the best overview of the KVVAK collection, please visit the [association's website](https://www.kvvak.nl/collectie/). In addition to maintaining its own collection, the KVVAK organises lectures and trips, among other things. The magazine [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) is published by De Gruyter Brill.
     
     ### Provenance research
     
@@ -123,23 +123,19 @@ Sources:
       Name: "Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014."
       Link: 
         - URL: "https://search.worldcat.org/title/907556128"
-        - OCLC: "907556128"
       Description and remarks: "This book presents 119 highlights from the Rijksmuseum's Asian art collection. Objects from India, Southeast Asia, Korea, Japan and China are introduced in essays by curators."
     - Type of source: "Catalog"
       Name: "Lim, K.W., et all. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979."
       Link: 
         - URL: "https://search.worldcat.org/title/63330271?oclcNum=63330271"
-        - OCLC: "63330271"
       Description and remarks: "A catalog containing all objects acquired in the first 60 years of the KVVAK."
     - Type of source: "Catalog"
       Name: "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954"
       Link: 
         - URL: "https://search.worldcat.org/title/1156720537"
-        - OCLC: "1156720537"
       Description and remarks: "Exhibition catalog of the KVVAK from 1954."
     - Type of source: "Magazine"
       Name: "Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 – Nu."
       Link: 
         - URL: "https://brill.com/view/journals/vvak/vvak-overview.xml"
-        - ISSN: "2543-1749"
       Beschrijving en opmerkingen: "The journal of the KVVAK issued by Brill publishers."
