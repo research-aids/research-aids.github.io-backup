@@ -127,7 +127,7 @@
                 "Name": "I-2023-3 Advies Singasari",
                 "Link": [
                     {
-                        "URL": "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf"
+                        "URL": "https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all"
                     }
                 ],
                 "Description and remarks": "Restitution advice on four statues from the Singasari temple complex: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) and Ganesha (RV-1403-1681). The provenance report is similar to that of the 2024 Singasari Opinion (ID-2023-6 Singasari Opinion). The report lists several archives that may be relevant for further research into objects that came to the Wereldmuseum via the Rijksmuseum van Oudheden."
@@ -137,7 +137,7 @@
                 "Name": "ID-2023-6 Advies Singasari",
                 "Link": [
                     {
-                        "URL": "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf"
+                        "URL": "https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all"
                     }
                 ],
                 "Description and remarks": "Restitution advice on two statues from the Singasari temple complex: Bhairava (RV-1403-1680) and Nandi (RV-1403-1682). The provenance report is similar to that of the 2023 Singasari opinion (I-2023-3 Singasari opinion). The report lists several archives that may be relevant for further research into objects that came to the Wereldmuseum via the Rijksmuseum van Oudheden."
@@ -147,7 +147,7 @@
                 "Name": "ID-2023-8 Advies Brahma",
                 "Link": [
                     {
-                        "URL": "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf"
+                        "URL": "https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all"
                     }
                 ],
                 "Description and remarks": "Restitution advice on statue of Brahma from temple complex of Singasari (RV-1403-1582). The report lists several archives and other sources that may be relevant for further research on objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden."
@@ -157,7 +157,7 @@
                 "Name": "ID-2023-9 Advies Ganesha",
                 "Link": [
                     {
-                        "URL": "https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf"
+                        "URL": "https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all"
                     }
                 ],
                 "Description and remarks": "Restitution advice on a statue of Ganesha (RV-1403-1759). The report lists several archives and other sources that may be relevant for further research on objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden."
@@ -168,12 +168,6 @@
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/779255199?oclcNum=779255199"
-                    },
-                    {
-                        "OCLC": "779255199"
-                    },
-                    {
-                        "ISBN": "9782503541525"
                     }
                 ],
                 "Description and remarks": "Dissertation by Mirjam Hoijtink from 2012 that examines the work and life of Caspar Reuvens, the first director of the Rijksmuseum van Oudheden in Leiden. The book also pays attention to why Reuvens initially included Indian and other non-\u2018classical\u2019 antiquities in the museum's collection and places these ideas in the developments of scholarship and the museum field in the nineteenth century."
