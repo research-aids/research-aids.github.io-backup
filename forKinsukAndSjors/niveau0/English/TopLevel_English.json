@@ -3,7 +3,7 @@
     "Title": "Digital Research Aids",
     "Subtitle": "Research aids for conducting provenance research into colonial collections",
     "Content": {
-        "content": "#### **These research aids are currently under construction. Therefore, they are subject to change and additions. An initial presentation takes place on 20 March 2025, [you can follow the presentation online](https://spui25.nl/programma/colonial-collections-under-scrutiny-researching-dutch-museums).**  \n\nOn this page you can find various research aids that can assist you in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands. Besides a brief description of the subject, the research aids provide the user with specific research tips and references to relevant source material.\n",
+        "content": "#### **The research aids are constantly under construction and therefore subject to changes.**\n\nOn March 20, 2025, an init initial presentation of the digital research aids took place at Spui25 in Amsterdam. You can watch a recording of the event via the [Spui25 website](https://spui25.nl/programma/colonial-collections-under-scrutiny-researching-dutch-museums).  \n\nOn this page you can find various research aids that can assist you in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands. Besides a brief description of the subject, the research aids provide the user with specific research tips and references to relevant source material.\n\nWe are curious about your thoughts on the digital research aids. Therefore, we have created [a questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u). The form allows you to provide any feedback or additional information.\n",
         "content_type": "text/markdown"
     },
     "Breakdown": {
@@ -230,15 +230,7 @@
                 }
             }
         ],
-        "3. Locations": [
-            {
-                "The ABCSSS islands": {
-                    "link": "niveau2/English/ABCSSSislands_20241125.yml",
-                    "rel_type": "see also",
-                    "linkFilename": "niveau2/English/ABCSSSislands_English"
-                }
-            }
-        ]
+        "3. Locations": []
     },
     "File name": "TopLevel"
 }
