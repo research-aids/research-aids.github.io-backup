@@ -1,0 +1,33 @@
+name: EXPORT
+run-name: "Exporting YAML files (created by ${{ github.actor }}) to PDF and DOCX" 
+on: [push]
+jobs:
+  export-all:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "Make sure this workflow has write permissions under Settings > Actions > General!"
+      - run: echo "branch = ${{ github.ref }}; repository = ${{ github.repository }}"
+      - run: echo "workspace = ${{ github.workspace }}"
+      - name: Check out repository code (necessary - otherwise the workspace is empty)
+        uses: actions/checkout@v4    
+      - name: list YAML files
+        run: ls ${{ github.workspace }}/niveau*/**
+      - name: running python script
+        run: |
+          pip install tqdm
+          pip install Markdown2docx
+          pip install markdown-pdf
+          pip install yaml_to_markdown
+          python ${{ github.workspace }}/scripts/yaml_to_export.py --file_format "pdf"
+          python ${{ github.workspace }}/scripts/yaml_to_export.py --file_format "docx"
+      - run: git diff-index HEAD
+      - name: pushing generated files back to repo 
+        run: |
+          git config user.email "valevogelmann@gmail.com"
+          git config user.name "valevo"
+          git add .
+          git commit -m "automated commit by GitHub Action defined in scripts/yaml_to_json.yml"
+          git push
+        # if: ${{ git diff-index HEAD }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."

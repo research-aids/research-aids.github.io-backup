@@ -1,0 +1,96 @@
+from tqdm import tqdm
+import os
+from glob import glob
+import yaml
+import json
+import re
+import argparse
+from io import StringIO
+
+# from docx import Document
+from Markdown2docx import Markdown2docx
+from markdown_pdf import MarkdownPdf, Section
+from yaml_to_markdown.md_converter import MDConverter
+MD_CONV = MDConverter()
+
+
+BASE_DIR = "."
+eng = glob(f"{BASE_DIR}/*/English/*.yml")
+dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
+top = glob(f"{BASE_DIR}/TopLevel/*.yml")
+
+yaml_files = top + dutch + eng
+
+
+def parse_filename(orig_path, has_path=False):
+    path_part = '.+\/' if has_path else ''
+    m = re.search(f'{path_part}(.*)_[0-9]+\.yml', orig_path)
+    if m:
+        return m.group(1)
+    raise ValueError(f"{orig_path} couldn't be parsed!")
+
+def parse_filepath(fp):
+    *pref, level, lang, fname  = fp.split(os.path.sep)
+    return level, lang, parse_filename(fname)
+
+
+def export_markdown(f, out_dir, return_content=True):
+    md_name = f"{out_dir}/MD/{level}/{lang}/{name}.md"
+    os.makedirs(os.path.dirname(md_name), exist_ok=True)
+    
+    with open(f) as handle:
+        yaml_content = yaml.safe_load(handle)
+        yaml_content["author"] = "wreints"
+
+        with open(md_name, "w") as md_handle:
+            MD_CONV.convert(yaml_content, md_handle)     
+
+    with open(md_name) as handle:
+        markdown_content = handle.read()
+        return markdown_content
+
+
+
+if __name__ == "__main__":
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument("--file_format", help="Output file format, PDF, DOCX and Markdown are supported.")
+    args = argparser.parse_args()
+    if not args.file_format or (not args.file_format.lower().strip() in ("pdf", "docx", "md")):
+        raise ValueError("Please specify either PDF, DOCX or Markdown ('md')!")
+
+    
+    for f in tqdm(yaml_files):
+        # print(f"processing {f}...")
+
+        OUT_DIR = f"{BASE_DIR}/EXPORTS"
+        level, lang, name = parse_filepath(f)
+
+        new_name = f"{OUT_DIR}/{args.file_format.upper()}/{level}/{lang}/{name}.{args.file_format}"
+        os.makedirs(os.path.dirname(new_name), exist_ok=True)
+
+        try:
+            markdown_content = export_markdown(f, OUT_DIR)
+            print(f"!!!! file {f} worked!")
+        except IndexError:
+            print(f"file {f} lead to a yaml-to-markdown parser error.\n\t probably because of an empty list in the yaml")
+            continue
+            
+        if args.file_format == "pdf":
+            pdf = MarkdownPdf()#toc_level=2)
+            pdf.add_section(Section(markdown_content, toc=False))
+            # pdf.meta["title"] = f"{name}_{lang}"
+            # pdf.meta["author"] = f"{author}"
+            pdf.save(new_name)
+        elif args.file_format == "docx":
+            try:
+                docx = Markdown2docx(name, markdown=[markdown_content])
+                docx.eat_soup()
+                docx.outfile = new_name
+                docx.save()
+            except TypeError:
+                print(f"EXPORTING {f} TO DOCX FAILED!")
+                continue
+
+            
+        else:
+            pass
