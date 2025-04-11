@@ -1,0 +1,55 @@
+## Level
+2
+## Title
+Science
+## Abstract
+In 19th and 20th century, the areas colonised by the Netherlands formed the basis for many (new) scientific branches, such as anthropology and geology. For the purpose of research, many objects were collected and send to Europe where they ended up in museums.
+## Relatedaides
+| Select And Delineate | Sources | Civil Servants | Military And Navy | Christian Mission | Koninklijk Bataviaasch Genootschap Van Kunsten En Wetenschappen | Artis Etnographic Museum | Royal Netherlands Institute Of Southeast Asian And Caribbean Studies (Kitlv) | Naturalis Biodiversity Center | Wereldmuseum Amsterdam | Wereldmuseum Rotterdam | Wereldmuseum Leiden | Wageningen University & Research | Rijksmuseum Amsterdam | Rijksmuseum Van Oudheden | C.G.C. Reinwardt |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| {'link': 'niveau1/English/SelectAndDelineate_20240425.yml', 'rel_type': 'broader'} |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | {'link': 'niveau1/English/Sources_20240501.yml', 'rel_type': 'narrower'} |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | {'link': 'niveau2/English/CivilServants_20240316.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | {'link': 'niveau2/English/MilitaryAndNavy_20240417.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | {'link': 'niveau2/English/ChristianMission_20240417.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  | {'link': 'niveau3/English/BGKW_20240905.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | {'link': 'niveau3/English/EMArtis_20240712.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | {'link': 'niveau3/English/KITLV_20240704.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | {'link': 'niveau3/English/Naturalis_20270710.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/WMAmsterdam_20240809.yml', 'rel_type': 'see also'} |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/WMRotterdam_2040822.yml', 'rel_type': 'see also'} |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/WMLeiden_20240508.yml', 'rel_type': 'see also'} |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/WageningenUniversity_20240508.yml', 'rel_type': 'see also'} |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/RijksmuseumAmsterdam_20240905.yml', 'rel_type': 'see also'} |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/RMO_20241106.yml', 'rel_type': 'see also'} |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | {'link': 'niveau3/English/Reinwardt_20241217.yml', 'rel_type': 'see also'} |
+## Relevant Data
+### Tags
+#### Activity
+* [Investigators](http://vocab.getty.edu/aat/300025576)
+* [Science](http://vocab.getty.edu/aat/300054135)
+#### Type Of Objects
+* [Natural history objects](http://vocab.getty.edu/aat/300379591)
+* [Ethnographics](http://vocab.getty.edu/aat/300234108)
+#### Geographical
+* [Indonesia](https://sws.geonames.org/1643084)
+* [Suriname](https://sws.geonames.org/3382998)
+* [ABCSSS islands](https://sws.geonames.org/8505032)
+
+
+## Main Text
+### Content
+In 19th and 20th century, the areas colonised by the Netherlands formed the basis for many (new) scientific branches, such as anthropology and geology. For the purpose of research, many objects were collected and send to Europe where they ended up in museums.<br/><br/>### Description<br/><br/>The development of various scientific disciplines, such as ethnography and geology, during mainly the nineteenth century went hand in hand with European colonial and imperial expansion. The Dutch colonial territories and the nature, culture and  local people consequently formed an important source for scientific research by scholars from the Netherlands and other countries. A well-known example where scientific research and colonialism went hand in hand are the excavations that took place under [Eugène Dubois](http://www.wikidata.org/entity/Q317176) in Sumatra and Java at the end of the nineteenth century, during which 50 forced labourers excavated a collection of nearly 40,000 objects. This collection is still part of [Naturalis]( https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb) in Leiden to this day, and the _Homo erectus_ fossils found during these excavations are still considered an important scientific discovery. Without the colonial system, Eugène Dubois would not have been able to make this discovery.<br/><br/>Many European scientists had interests that went beyond their own field of study and so it may well be that for example a geologist also collected other types of objects and later donated them to a Dutch museum. Missionaries, in addition to converting the local population, also engaged in scientific research. The collections they amassed were therefore not only brought together from their mission’s point of view but could also be of a scientific nature. Collections put together by missionaries were often used for teaching in the Netherlands. Photography also merits a special mention. This then relatively new technology, developed in the nineteenth century, was extensively used during scientific research in the colonial territories. Later these photographs often remained part of the collections amassed there, thus contributing to the image created in Europe of the people, culture and nature in the colonies.<br/><br/>Scientists in the colonies were often already affiliated with a Dutch university or gradually became so. At the same time not all scientists active in Dutch colonies were from the Netherlands; other Europeans also conducted scientific research in these regions and sent collections to institutions outside of the Netherlands. In addition there were local scientists who collected objects which were also sent to the Netherlands; a well-known example is the Indonesian painter, scientist and writer Raden Saleh. In addition to having an affiliation with a university in Europe scientists also gathered in various associations. Well-known examples are the [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) (KITLV) in the Netherlands and the [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) in Indonesia. The Royal Netherlands Academy of Arts and Sciences (KNAW) also had strong ties with the colonies. Through such associations and universities the findings of scientific research were published in a wide variety of journals and books. The objects, documents and photographs collected during the research later often found their way into the collections of the institutions with which the researchers in question were affiliated. As such, many colonial collections in the Netherlands are in some way connected to scientific research in colonised areas. In addition to well-known museums such as the Wereldmuseum, Naturalis and the Rijksmuseum, many university museums also contain collections that were amassed in former colonies.<br/><br/>### Provenance research<br/><br/>Provenance research into scientific collections amassed in formerly colonised areas will often begin with a specific individual or scientific institution or association. Archives on such collections are often located at the relevant institutions or the local archive. In order to find what you are looking for it is important to have knowledge of the Dutch archival landscape. For example, the archives of the University of Amsterdam are held at the [Stadsarchief Amsterdam] [Amsterdam City Archive](https://archief.amsterdam/inventarissen/details/30114). [Leiden University](https://www.bibliotheek.universiteitleiden.nl/subject-guides/universiteitsarchieven#archieven) manages its own archive while the archive of Utrecht University can be found in the provincial archive[Utrechts Archief](https://hetutrechtsarchief.nl/). Archives relating to specific scientists may also be in the possession of descendants.<br/><br/>Be aware that scientists may have been active at several institutions and so it may be worthwhile to consult several archives. Obviously it is most fruitful to search in archives from the period when the scientist was part of a particular institution. Several scientific societies also possess archival material, which once again can be found in various Dutch archives. Correspondence archives may also contain valuable information about the provenance of certain objects. Finally, it is possible that information about scientific collections is still held in archives in the former colonised regions. For example the [Arsip Nasional Republik Indonesia](https://anri.go.id/) (ANRI) holds a large range of archives of the Bataviaasch Genootschap.<br/>
+### Content Type
+text/markdown
+
+## Sources
+### Secondary Sources
+| Type Of Source | Name | Link | Description And Remarks |
+| --- | --- | --- | --- |
+| Book | Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014. | <ul><li>{'URL': 'https://search.worldcat.org/title/858749398?oclcNum=858749398'}</li><li>{'ISBN': '9789004257870'}</li><li>{'OCLC': '858749398'}</li></ul> | Historiography of the KITLV that covers 150 years of KITLV history but is at the same time a history of scientific practice in the (former) Dutch colonies. This English version is not a one-on-one translation of the 2001 Dutch original Tussen oriëntalisme en wetenschap. |
+| Book | Holthuis, Lipke. 1820 - 1958: Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995. | <ul><li>{'OCLC': '69079231'}</li><li>{'URL': 'https://repository.naturalis.nl/pub/268714'}</li></ul> | Book from 1995 describing the history of the former Nationaal Natuurhistorisch Museum from 1820 to 1958. Contains structured information about the building of the museum collection and the curators of the time. |
+| Article |  Weber, Andreas. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” BMGN: Low Countries Historical Review. | <ul><li>{'OCLC': '9627499338'}</li><li>{'URL': 'https://doi.org/10.18352/bmgn-lchr.10741'}</li></ul> | Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies). |
+
+## Author
+wreints

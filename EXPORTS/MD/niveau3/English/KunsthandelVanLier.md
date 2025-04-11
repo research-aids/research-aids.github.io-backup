@@ -1,0 +1,76 @@
+## Level
+3
+## Title
+Kunsthandel Van Lier
+## Abstract
+The Van Lier art trading company was founded in 1924 by Carel van Lier. He traded in art and ethnographic objects from Africa, Asia and North America. After the Second World War, Van Lier's company was continued by his widow. Eventually, the company was taken over and continued by Leendert van Lier (not a relative).
+## Relatedaides
+| Trade | Groote Koninklijke Bazar | Wereldmuseum Leiden |
+| --- | --- | --- |
+| {'link': 'niveau2/English/Trade_20240316.yml', 'rel_type': 'see also'} |  |  |
+|  | {'link': 'niveau3/English/KoninklijkeBazaar_2040503.yml', 'rel_type': 'see also'} |  |
+|  |  | {'link': 'niveau3/English/WMLeiden_20240508.yml', 'rel_type': 'see also'} |
+## Relevant Data
+### Identifiers
+* https://www.wikidata.org/entity/Q87665942
+* https://hdl.handle.net/20.500.11840/pi57937
+* https://rkd.nl/explore/artists/446007
+* https://rkd.nl/nl/explore/artists/49975
+### Name Variations
+* Kunstzaal Van Lier
+* Carel van Lier
+* Leendert van Lier
+### Tags
+#### Activity
+* [Art market](http://vocab.getty.edu/aat/300055675)
+#### Type Of Objects
+* [Ethnographic objects](http://vocab.getty.edu/aat/300234108)
+* [Ceramics](http://vocab.getty.edu/aat/300151343)
+* [Sculptures](http://vocab.getty.edu/aat/300047090)
+#### Geographical
+* [Africa](https://sws.geonames.org/6255146)
+* [Asia](https://sws.geonames.org/6255147)
+* [Indonesia](https://sws.geonames.org/1643084)
+* [China](https://sws.geonames.org/1814991)
+* [Congo](https://sws.geonames.org/203312)
+* [Papua New Guinea](https://sws.geonames.org/2088628)
+* [North America](https://sws.geonames.org/6255149)
+* [South America](https://sws.geonames.org/6255150)
+* [Oceania](https://sws.geonames.org/6255151)
+
+### Period Of Activity
+#### Year Of Start
+1924
+#### Year Of End
+1996
+
+### Collections
+#### General Remarks
+##### Content
+Objects sold by Kunsthandel Van Lier are, among others, in the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), [Museum de Fundatie](https://www.wikidata.org/entity/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/entity/Q679527) and the [Weltkulturenmuseum](https://www.wikidata.org/entity/Q1954571) in Frankfurt. Also the collection of [Museum Nusantara](https://www.wikidata.org/entity/Q2668933) included objects purchased from Kunsthandel Van Lier.<br/>
+##### Content Type
+text/markdown
+
+
+[Within The Data Hub](https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier)
+
+
+## Main Text
+### Content
+The Van Lier art trading company was founded in 1924 by Carel van Lier. He traded in art and ethnographic objects from Africa, Asia and North America. After the Second World War, Van Lier's company was continued by his widow. Eventually, the company was taken over and continued by Leendert van Lier (not a relative).<br/><br/>### Description<br/><br/>[Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) started a gallery in [Laren](https://sws.geonames.org/2751874) in 1924 and moved to Amsterdam three years later. In the early years, [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) was primarily concerned with [modern European art](http://vocab.getty.edu/aat/300264736). However, Van Lier also became fascinated with the aesthetics of [African sculpture styles](http://vocab.getty.edu/aat/300108572). The exhibition of his private collection of African art at the [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 had an influence on modernist painters at the time. Soon Van Lier was dealing in [Asian art](https://www.wikidata.org/entity/Q3399573), [African sculpture](http://vocab.getty.edu/aat/300108572) and [ethnographic objects](http://vocab.getty.edu/aat/300234108) from around the world, including [Native North America](https://hdl.handle.net/20.500.11840/termmaster10075993). These objects were acquired from private collectors in the Netherlands, during trips to [London](https://sws.geonames.org/2643743), [Paris](https://sws.geonames.org/2988507), [Brussels](https://sws.geonames.org/2800866) and [Antwerp](https://sws.geonames.org/2803138), and through his network of relations in the international ethnographic art trade, like art dealer [Charles Ratton](https://www.wikidata.org/entity/Q15220243) in Paris. <br/><br/>During the Second World War, Carel van Lier, who was of Jewish origin, enjoyed some form of protection due to his marriage to his non-Jewish wife, Elisabeth van de Velde. Among other things, it allowed him to continue his art dealing activities. In 1942, his business was eventually placed under administration, which presumably meant that Van Lier could no longer carry out his work. Van Lier was arrested by the German occupying forces in April 1943 because of his involvement in the resistance. After deportation and a stay in various concentration camps, Van Lier died in Mühlenberg in March 1945.<br/><br/>The widow of Carel van Lier, Elisabeth van de Velde, continued the business for several years after the war. In 1949, she sold the business to [Leendert van Lier](https://www.wikidata.org/entity/Q24188979) (1910-1995, not a relative). Leendert van Lier also sold [tribal art](http://vocab.getty.edu/aat/300343731), [Chinese ceramics](http://vocab.getty.edu/aat/300018504) and modern European art. In 1954 he moved to [Utrecht](https://sws.geonames.org/2745912) and the sales were carried out from his home. A similar arrangement continued from 1961 in the small town of [Veere](https://sws.geonames.org/2745739) in the province of Zeeland, where lovers of tribal art, such as professor and collector [Theo Van Baaren](https://www.wikidata.org/entity/Q1923049), knew where to find Leendert van Lier. The art dealer made regular trips to London and Paris to acquire objects for his trade. After his death, his collection of ethnographic objects was auctioned at [Christie's](https://www.wikidata.org/entity/Q503176) Amsterdam in 1997.<br/><br/>### Provenance research<br/><br/>Records from the period of [Carel van Lier and his wife (1927-1948)](https://rkd.nl/collections/108) are kept at the RKD, as are a number of records from the period of [Leendert van Lier](https://rkd.nl/collections/65) (these appear to mainly relate to European art). The remainder of the archives are in the possession of the heirs of Carel van Lier and Leendert van Lier.<br/><br/>During the Second World War, thousands of cultural artefacts from the Netherlands ended up in Germany, including objects from the collection of Kunsthandel Van Lier. Some of these objects from Van Lier, which were sold to the [Museum für Völkerkunde](http://www.wikidata.org/entity/Q1954571) during the war, were returned to the Netherlands afterwards and were subsequently added to the national collection. They are therefore part of the [Nederlands Kunstbeztit collection](http://www.wikidata.org/entity/Q28103043). These objects can be found on the website of the NK collection. In 2007, the heirs of Carel van Lier submitted a [restitution request](https://www.restitutiecommissie.nl/advies/kunsthandel-van-lier/) with regard to these objects, after which one object was returned to the family.<br/>
+### Content Type
+text/markdown
+
+## Sources
+### Primary Sources
+| Type Of Source | Name | Link | Description And Remarks |
+| --- | --- | --- | --- |
+| Archive | [Name](RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108) | <ul><li>{'URL': 'https://rkd.nl/nl/explore/collections/108'}</li></ul> | Letters and postcards, mainly from artists, and other papers covering the period 1927-1948 |
+| Archive | [Name](RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065) | <ul><li>{'URL': 'https://rkd.nl/explore/collections/65'}</li></ul> | Number of invitations Kunstzaal van Lier, 1951-1953; number of catalogs including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eugène Brands and others, 1954-1955. |
+### Secondary Source
+| Type Of Source | Name | Link | Description And Remarks |
+| --- | --- | --- | --- |
+| Book | Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003. | <ul><li>{'URL': 'https://search.worldcat.org/title/902336725?oclcNum=902336725'}</li><li>{'ISBN': '9789068683431'}</li></ul> | Biography of Carel van Lier. |
+
+## Author
+wreints
