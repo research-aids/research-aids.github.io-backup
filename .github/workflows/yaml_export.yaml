@@ -1,5 +1,5 @@
 name: EXPORT
-run-name: "Exporting YAML files (created by ${{ github.actor }}) to PDF and DOCX" 
+run-name: "Exporting YAML files to Markdown, PDF and DOCX (created by ${{ github.actor }})" 
 on: [push]
 jobs:
   export-all:

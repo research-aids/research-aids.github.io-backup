@@ -19,7 +19,7 @@ eng = glob(f"{BASE_DIR}/*/English/*.yml")
 dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
 top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 
-yaml_files = top + dutch + eng
+yaml_files = sorted(top + dutch + eng)
 
 
 def parse_filename(orig_path, has_path=False):
@@ -58,6 +58,7 @@ if __name__ == "__main__":
     if not args.file_format or (not args.file_format.lower().strip() in ("pdf", "docx", "md")):
         raise ValueError("Please specify either PDF, DOCX or Markdown ('md')!")
 
+    fmt = args.file_format
     
     for f in tqdm(yaml_files):
         # print(f"processing {f}...")
@@ -65,7 +66,7 @@ if __name__ == "__main__":
         OUT_DIR = f"{BASE_DIR}/EXPORTS"
         level, lang, name = parse_filepath(f)
 
-        new_name = f"{OUT_DIR}/{args.file_format.upper()}/{level}/{lang}/{name}.{args.file_format}"
+        new_name = f"{OUT_DIR}/{fmt.upper()}/{level}/{lang}/{name}.{fmt}"
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
 
         try:
@@ -75,13 +76,15 @@ if __name__ == "__main__":
             print(f"file {f} lead to a yaml-to-markdown parser error.\n\t probably because of an empty list in the yaml")
             continue
             
-        if args.file_format == "pdf":
+        if fmt.lower() == "pdf":
+            print("!!!SAVING PDF")
             pdf = MarkdownPdf()#toc_level=2)
             pdf.add_section(Section(markdown_content, toc=False))
-            # pdf.meta["title"] = f"{name}_{lang}"
-            # pdf.meta["author"] = f"{author}"
+            pdf.meta["title"] = name
+            pdf.meta["author"] = "wreints"
+            print(f"saving {new_name}")
             pdf.save(new_name)
-        elif args.file_format == "docx":
+        elif fmt.lower()s == "docx":
             try:
                 docx = Markdown2docx(name, markdown=[markdown_content])
                 docx.eat_soup()
