@@ -84,7 +84,7 @@ if __name__ == "__main__":
             pdf.meta["author"] = "wreints"
             print(f"saving {new_name}")
             pdf.save(new_name)
-        elif fmt.lower()s == "docx":
+        elif fmt.lower() == "docx":
             try:
                 docx = Markdown2docx(name, markdown=[markdown_content])
                 docx.eat_soup()
