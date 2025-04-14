@@ -7,7 +7,8 @@ import re
 import argparse
 from io import StringIO
 
-# from docx import Document
+
+# unused: from docx import Document
 from Markdown2docx import Markdown2docx
 from markdown_pdf import MarkdownPdf, Section
 from yaml_to_markdown.md_converter import MDConverter
