@@ -228,6 +228,14 @@
                     ],
                     "linkFilename": "niveau2/English/ChristianMission_English"
                 }
+            },
+            {
+                "Museums and collection holding institutions": {
+                    "link": "niveau2/English/MuseumHeritage_20250113.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [],
+                    "linkFilename": "niveau2/English/MuseumHeritage_English"
+                }
             }
         ],
         "3. Locations": []
