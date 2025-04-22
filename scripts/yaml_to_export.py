@@ -103,9 +103,9 @@ if __name__ == "__main__":
         else:
             pass
 
-    with open(f"{OUT_DIR}/didnt_parse.txt") as handle:
-        handle.write("\nn".join(didnt_parse))
+    with open(f"{OUT_DIR}/didnt_parse.txt", "w") as handle:
+        handle.write("\n".join(didnt_parse))
 
 
-    with open(f"{OUT_DIR}/failed_to_save.txt") as handle:
-        handle.write("\nn".join(failed_to_save))
+    with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
+        handle.write("\n".join(failed_to_save))
