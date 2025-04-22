@@ -60,7 +60,9 @@ if __name__ == "__main__":
         raise ValueError("Please specify either PDF, DOCX or Markdown ('md')!")
 
     fmt = args.file_format
-    
+
+    didnt_parse = []
+    failed_to_save = []
     for f in tqdm(yaml_files):
         # print(f"processing {f}...")
 
@@ -75,15 +77,16 @@ if __name__ == "__main__":
             print(f"!!!! file {f} worked!")
         except IndexError:
             print(f"file {f} lead to a yaml-to-markdown parser error.\n\t probably because of an empty list in the yaml")
+            didnt_parse.append(f)
             continue
             
         if fmt.lower() == "pdf":
-            print("!!!SAVING PDF")
+            # print("!!!SAVING PDF")
             pdf = MarkdownPdf()#toc_level=2)
             pdf.add_section(Section(markdown_content, toc=False))
             pdf.meta["title"] = name
             pdf.meta["author"] = "wreints"
-            print(f"saving {new_name}")
+            # print(f"saving {new_name}")
             pdf.save(new_name)
         elif fmt.lower() == "docx":
             try:
@@ -93,8 +96,16 @@ if __name__ == "__main__":
                 docx.save()
             except TypeError:
                 print(f"EXPORTING {f} TO DOCX FAILED!")
+                failed_to_save.append(f)
                 continue
 
             
         else:
             pass
+
+    with open(f"{OUT_DIR}/didnt_parse.txt") as handle:
+        handle.write("\nn".join(didnt_parse))
+
+
+    with open(f"{OUT_DIR}/failed_to_save.txt") as handle:
+        handle.write("\nn".join(failed_to_save))
