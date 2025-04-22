@@ -3,7 +3,7 @@
 ## Title
 Museums and collection holding institutions
 ## Abstract
-Deze pagina is nog in ontwikkeling
+This page is under construction
 ## Relatedaides
 | Wereldmuseum Leiden | Royal Cabinet Of Curiosities | Artis Ethnographic Museum | Wereldmuseum Amsterdam | Wereldmuseum Rotterdam | Missiemuseum Steyl | Naturalis Biodiversity Center | Rijksmuseum Van Oudheden | Rijksmuseum Amsterdam | Wereldmuseum Berg En Dal | Museum Bronbeek |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -3,7 +3,7 @@
 ## Title
 Musea en efgoedbeherende instellingen
 ## Abstract
-Deze pagina is nog in ontwikkeling
+Deze pagina is nog in ontwikkeling.
 ## Relatedaides
 | Wereldmuseum Leiden | Koninklijk Kabinet Van Zeldzaamheden | Etnografisch Museum Artis | Wereldmuseum Amsterdam | Wereldmuseum Rotterdam | Missiemuseum Steyl | Naturalis Biodiversity Center | Rijksmuseum Van Oudheden | Rijksmuseum Amsterdam | Wereldmuseum Berg En Dal | Museum Bronbeek |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
