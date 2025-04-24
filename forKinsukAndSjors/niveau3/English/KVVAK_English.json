@@ -61,7 +61,7 @@
         }
     },
     "Main-text": {
-        "content": "The Royal Asian Art Society in the Netherlands (KVVAK) is a collectors society that has established a large collection of Asian art over time. Since 1952, KVVAK's collection is displayed at the [Rijksmuseum Amsterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47).\n\n### Description\n\nThe [Royal Asian Art Society in the Netherlands](https://www.wikidata.org/entity/Q96749093) is an association founded in 1918 that holds the designation \"Royal\" since 2018. The KVVAK was founded on June 29, 1918 by the engineer [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) and  collector and art dealer [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681), with the aim to give greater publicity to high quality [Asian art](https://www.wikidata.org/entity/Q3399573), stimulate interest, and promote scholarship on the topic of Asian art. The association's first president was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) 1868-1941, who would later bequeath his own collection to the KVVAK. The association's collection currently comprises around 1,850 objects, consisting of various art forms such as [sculptures](http://vocab.getty.edu/aat/300047090), Japanese [prints](http://vocab.getty.edu/aat/300106750) and [ceramics](http://vocab.getty.edu/aat/300310706). \n\nAfter several temporary exhibitions, in 1928, on the occasion of the tenth anniversary of the KVVAK, it was decided to establish a fund with which the ascociation could acquire its own collection and found a museum. In 1932, the so-called Museum of Asian Art was opened in the Tuinzaal of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335). In 1952, the collection was moved to the [Rijksmuseum](https://www.wikidata.org/entity/Q190804) in Amsterdam, where it is still on display. Initially, the KVVAK collection was exhibited in the Druckeruitbouw, which later became part of the current Philips wing. After the major renovation of the Rijksmuseum in 2013, the KVVAK collection was housed in the Asian Pavilion (http://www.wikidata.org/entity/Q37769044). Not the entire Asian art collection of the Rijksmuseum is on loan from the KVVAK; the museum also has Asian artefacts in its own collection. Most of the KVVAK objects are labelled \u2018AK-MAK\u2019, but a few prints are labelled \u2018RP\u2019. For the best overview of the KVVAK collection, please visit the [association's website](https://www.kvvak.nl/collectie/). In addition to maintaining its own collection, the KVVAK organises lectures and trips, among other things. The magazine [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) is published by De Gruyter Brill.\n\n### Provenance research\n\nThe archive of the KVVAK is located within the Rijksmuseum's collection. To consult the archive, you need to contact the Rijksmuseum's collections department. In addition, the research library of the Rijksmuseum has a collection of publications, including catalogs of past exhibitions, that are of interest with regard to provenance research on the KVVAK collection.\n",
+        "content": "The Royal Asian Art Society in the Netherlands (KVVAK) is a collectors society that has established a large collection of Asian art over time. Since 1952, KVVAK's collection is displayed at the [Rijksmuseum Amsterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47).\n\n### Description\n\nThe [Royal Asian Art Society in the Netherlands](https://www.wikidata.org/entity/Q96749093) (KVVAK) was founded on 29 June 1918 and has held the designation \"Royal\" since 2018. The association was founded by the engineer [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) and the collector and art dealer [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681), with the aim of raising awareness of and interest in [Asian art](https://www.wikidata.org/entity/Q3399573) and promoting scholarship in the field. The association's first president was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) (1868-1941), who would later bequeath his own collection to the KVVAK. The association's collection currently comprises around 1,850 objects, consisting of various art forms such as [sculptures](http://vocab.getty.edu/aat/300047090), Japanese [prints](http://vocab.getty.edu/aat/300106750) and [ceramics](http://vocab.getty.edu/aat/300310706). \n\nAfter several temporary exhibitions it was decided in 1928, on the occasion of the tenth anniversary of the KVVAK, to establish a fund which the association could use to acquire its own collection and establish a museum. In 1932 the so-called Museum of Asian Art was opened in the Tuinzaal of the [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335). In 1952 the collection was moved to the [Rijksmuseum](https://www.wikidata.org/entity/Q190804) in Amsterdam, where it is still on display. The KVVAK collection was initially exhibited in the Druckeruitbouw, which later became part of the current Philips Wing. After the major renovation of the Rijksmuseum in 2013 the KVVAK collection was housed in the Asian Pavilion (http://www.wikidata.org/entity/Q37769044). In addition to maintaining its own collection the KVVAK organises activities including lectures and trips. It also produces the magazine [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml), which is published by De Gruyter Brill.\n\n### Provenance research\n\nThe archive of the KVVAK is in the custody of the Rijksmuseum. To consult the archive, you need to contact the Rijksmuseum's collections department. In addition the Rijksmuseum research library has a collection of publications, including catalogues of past exhibitions, which are of interest for provenance research into the KVVAK collection. \n\nNot all of the Asian art collection in the Rijksmuseum is on loan from the KVVAK; the museum also has Asian artefacts of its own. Most of the KVVAK objects are labelled \u2018AK-MAK\u2019 although a few prints are labelled \u2018RP\u2019. For the best overview of the KVVAK collection, please visit the [association's website](https://www.kvvak.nl/collectie/).\n",
         "content-type": "text/markdown"
     },
     "Sources": {
@@ -69,92 +69,64 @@
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 663",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663"
-                    }
-                ],
-                "Description and remarks": "Records concerning the financial management of the Museum of East Asian Art at Amsterdam 1940-1960."
+                "Link": [],
+                "Description and remarks": "Records concerning the financial management of the Museum of East Asian Art at Amsterdam, 1940-1960."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 674",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674"
-                    }
-                ],
+                "Link": [],
                 "Description and remarks": "Records concerning the acquisition of art works and the housing of the collection of the Museum voor Oost-Aziatische Kunst at the Rijksmuseum in Amsterdam, 1947-1960."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.14.73 6609",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609"
-                    }
-                ],
+                "Link": [],
                 "Description and remarks": "Records concerning to a grant to the Museum van Aziatische Kunst in Amsterdam, 1942-1964."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.27.19 2934",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934"
-                    }
-                ],
+                "Link": [],
                 "Description and remarks": "Records concerning the approval of loan agreements of objects between the Rijksmuseum and the Asian Art Society in the Netherlands, 1970 - 1971."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.24.25 554-555",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555"
-                    }
-                ],
-                "Description and remarks": "Photographs of the Aziatische Kunst exhibition at the Museum voor Aziatische Kunst in 1936. Inventory number 554 covers an overview of the exhibition space. Inventory number 555 covers an overview of the Chinese ceramics."
+                "Link": [],
+                "Description and remarks": "Photographs of the \u2018Aziatische Kunst\u2019 exhibition at the Museum voor Aziatische Kunst in 1936. Inventory number 554 comprises an overview of the exhibition space. Inventory number 555 comprises an overview of the \u2018Chinese ceramics.\u2019"
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.24.25 1281-1288",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288"
-                    }
-                ],
-                "Description and remarks": "Various photos of the exhibition rooms of Museum of Asian Art in Amsterdam between 1931-1958. It therefore contains both photographs from the Stedelijk Museum and the Rijksmuseum in Amsterdam."
+                "Link": [],
+                "Description and remarks": "Various photos of the exhibition rooms of the Museum of Asian Art in Amsterdam from 1931 to1958. The archive thus contains both photographs from both the Stedelijk Museum and the Rijksmuseum in Amsterdam."
             },
             {
                 "Type of source": "Archive",
                 "Name": "NL-HaNA 2.20.69 2982",
-                "Link": [
-                    {
-                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982"
-                    }
-                ],
+                "Link": [],
                 "Description and remarks": "Correspondence between the Royal Tropical Institute and the Rijksmuseum in Amsterdam regarding the Museum voor Aziatische Kunst, 1941."
             },
             {
-                "Type of source": "Archival piece",
+                "Type of source": "Archive document",
                 "Name": "NL-HlmNHA 476 2506",
                 "Link": [
                     {
                         "URL": "https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A"
                     }
                 ],
-                "Description and remarks": "Report by H.F.E. Visser on the desirability of achieving the establishment of a State Museum for Asian Art as part of the reorganization of the Dutch museums, (c. 1920)."
+                "Description and remarks": "Report by H.F.E. Visser on the desirability of bringing about the establishment of a State Museum for Asian Art as part of the reorganisation of the Dutch museums, c. 1920."
             },
             {
-                "Type of source": "Archival piece",
+                "Type of source": "Archive document",
                 "Name": "NL-HlmNHA 64 116",
                 "Link": [
                     {
                         "URL": "https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4"
                     }
                 ],
-                "Description and remarks": "Correspondence between H.F.E. Visser, curator of the Museum van Aziatische Kunst, Amsterdam, and the Royal Dutch Academy of Arts and Sciences (KNAW) regarding the identification and placement of a Buddha's head from the Borobudur, in possession of the KNAW, 1939."
+                "Description and remarks": "Correspondence between H.F.E. Visser, curator of the Museum van Aziatische Kunst in Amsterdam, and the Royal Dutch Academy of Arts and Sciences (KNAW) regarding identification and placement of a Buddha's head from the Borobudur, in the possession of the KNAW, 1939."
             }
         ],
         "Secondary sources": [
@@ -183,30 +155,30 @@
                 "Name": "Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014.",
                 "Link": [
                     {
-                        "URL": "https://search.worldcat.org/title/907556128"
+                        "OCLC": "907556128"
                     }
                 ],
                 "Description and remarks": "This book presents 119 highlights from the Rijksmuseum's Asian art collection. Objects from India, Southeast Asia, Korea, Japan and China are introduced in essays by curators."
             },
             {
-                "Type of source": "Catalog",
-                "Name": "Lim, K.W., et all. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.",
+                "Type of source": "Catalogue",
+                "Name": "Lim, K.W., et al. Aziatische kunst uit het bezit van leden: Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.",
                 "Link": [
                     {
-                        "URL": "https://search.worldcat.org/title/63330271?oclcNum=63330271"
+                        "OCLC": "63330271"
                     }
                 ],
-                "Description and remarks": "A catalog containing all objects acquired in the first 60 years of the KVVAK."
+                "Description and remarks": "A catalogue containing objects acquired in the first 60 years of the KVVAK."
             },
             {
-                "Type of source": "Catalog",
-                "Name": "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
+                "Type of source": "Catalogue",
+                "Name": "Fontein, J., et al. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
                 "Link": [
                     {
-                        "URL": "https://search.worldcat.org/title/1156720537"
+                        "OCLC": "1156720537"
                     }
                 ],
-                "Description and remarks": "Exhibition catalog of the KVVAK from 1954."
+                "Description and remarks": "Exhibition catalogue of the KVVAK from 1954."
             },
             {
                 "Type of source": "Magazine",
@@ -214,9 +186,12 @@
                 "Link": [
                     {
                         "URL": "https://brill.com/view/journals/vvak/vvak-overview.xml"
+                    },
+                    {
+                        "ISSN": "2543-1749"
                     }
                 ],
-                "Beschrijving en opmerkingen": "The journal of the KVVAK issued by Brill publishers."
+                "Description and remarks": "The journal of the KVVAK published by Brill."
             }
         ]
     },
