@@ -229,14 +229,6 @@
                     ],
                     "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
                 }
-            },
-            {
-                "Musea en erfgoedbeherende instellingen": {
-                    "link": "niveau2/Dutch/MuseumHeritage_20250113.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [],
-                    "linkFilename": "niveau2/Dutch/MuseumHeritage_Dutch"
-                }
             }
         ],
         "3. Locaties": []
