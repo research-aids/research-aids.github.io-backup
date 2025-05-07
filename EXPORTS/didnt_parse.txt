@@ -3,12 +3,10 @@
 ./niveau2/Dutch/ChristianMission_20240326.yml
 ./niveau2/Dutch/CivilServants_20240320.yml
 ./niveau2/Dutch/MilitaryAndNavy_20240326.yml
-./niveau2/Dutch/MuseumHeritage_20250113.yml
 ./niveau2/Dutch/Trade_20240326.yml
 ./niveau2/English/ChristianMission_20240417.yml
 ./niveau2/English/CivilServants_20240316.yml
 ./niveau2/English/MilitaryAndNavy_20240417.yml
-./niveau2/English/MuseumHeritage_20250113.yml
 ./niveau2/English/Trade_20240316.yml
 ./niveau3/Dutch/BGKW_20240827.yml
 ./niveau3/Dutch/Bronbeek_20241002.yml

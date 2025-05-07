@@ -3,7 +3,7 @@
 ## Title
 Missiemuseum Steyl
 ## Abstract
-The Missiemuseum in Steyl was established in 1931 with the collection of objects that missionaries brought from their jobs in Asia and Africa. The exhibition of the museum has virtually not changed since 1934. 
+The Missiemuseum in Steyl was established in 1931 with the collection of objects that missionaries brought from their activities in Asia and Africa. The exhibition of the museum has virtually been unchanged since 1934.
 ## Relatedaides
 | Christian Mission | Nederlandsch Zendeling Genootschap | Wereldmuseum Berg En Dal |
 | --- | --- | --- |
