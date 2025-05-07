@@ -1,4 +1,3 @@
-
 # Little Handbook for Writing Research Guides
 # in YAML & Markdown
 

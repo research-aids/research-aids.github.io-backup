@@ -98,8 +98,6 @@ if __name__ == "__main__":
                 print(f"EXPORTING {f} TO DOCX FAILED!")
                 failed_to_save.append(f)
                 continue
-
-            
         else:
             pass
 
