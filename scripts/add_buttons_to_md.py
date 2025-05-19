@@ -16,8 +16,7 @@ def add_button(md_str, link, link_text):
     to_add = f"[link_text]({link}){{: .btn .btn-green }}"
     return to_add + "\n\n" + md_str
 
-def download_link_from_path(path):
-    
+# def download_link_from_path(path):    
 
 for f in mds:
     with open(f) as handle:
