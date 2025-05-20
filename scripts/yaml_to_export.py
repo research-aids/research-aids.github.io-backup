@@ -15,12 +15,12 @@ from yaml_to_markdown.md_converter import MDConverter
 MD_CONV = MDConverter()
 
 
-BASE_DIR = "."
+BASE_DIR = "./published"
 eng = glob(f"{BASE_DIR}/*/English/*.yml")
 dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
-top = glob(f"{BASE_DIR}/TopLevel/*.yml")
+# top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 
-yaml_files = sorted(top + dutch + eng)
+yaml_files = sorted(dutch + eng)
 
 
 def parse_filename(orig_path, has_path=False):

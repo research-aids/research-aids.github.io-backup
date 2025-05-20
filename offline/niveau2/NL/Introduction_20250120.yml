@@ -1,0 +1,60 @@
+Level: 1
+
+Title: "Introductie tot het doen van herkomstonderzoek"
+
+Abstract: "Basisinformatie over het doen van herkomstonderzoek."
+
+RelatedAides: 
+  - "Onderzoeken":
+        link: "niveau1/Dutch/DoingResearch_20240425.yml"
+        rel_type: "see also"
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
+        rel_type: "see also"
+
+Main-text:
+  content: |
+    ## Zoekhulpen
+    
+    In de zoekhulpen op deze website leggen we je uit hoe je onderzoek kunt doen naar de herkomst van [voorwerpen uit een koloniale context](https://app.colonialcollections.nl/en/faq). We laten onder andere zien waar en hoe je bronnen kunt zoeken, hoe je een voorselectie van voorwerpen kan maken en hoe je verslag legt van je onderzoek.
+    
+    **Meer weten over welke koloniale collecties zich in Nederland bevinden?**
+    
+    Via de [datahub](https://app.colonialcollections.nl) kun je zoeken naar voorwerpen uit een koloniale context die zich in Nederlandse museumcollecties bevinden. 
+    
+    **Meer weten over het restitutiebeleid in Nederland?**
+    
+    Het bureau van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/index.php/contact/) is het eerste aanspreekpunt  voor mogelijke rechthebbenden en andere collectiebeheerders met vragen over het Nederlandse restitutiebeleid, de procedure van het indienen van een restitutieverzoek en het doen van herkomstonderzoek. Ook onderzoekers kunnen er advies vragen over het doen van herkomstonderzoek. Je vindt meer informatie op de [website van het Consortium](https://www.colonialcollections.nl/).
+    
+    ## Wat is herkomstonderzoek?
+    
+    Herkomstonderzoek onderzoekt de omstandigheden van het bezit en beheer van een object vanaf het ontstaan van het object tot het heden. Het doel is een historisch overzicht te maken van de verschillende personen en/of gemeenschappen die het voorwerp in beheer hebben gehad, de locaties waar het zich heeft bevonden en de manieren waarop het gebruikt of beheerd is. Bij herkomstonderzoek naar voorwerpen uit een koloniale context is ook de manier waarop en het moment wanneer het object overging in Europese handen van groot belang. De inhoudelijke overwegingen bij herkomstonderzoek naar koloniale contexten komen aan bod in hoofdstuk 1 van de publicatie [Sporen](https://www.niod.nl/nl/publicaties/sporen-PPROCE).
+    
+    ## Wat zijn koloniale voorwerpen?
+    
+    De zoekhulpen op deze website zijn gemaakt voor onderzoek naar objecten die op enig moment verworven zijn in gebieden die onder Europees koloniaal gezag stonden en die zich nu in Nederlandse museumcollecties bevinden. Het gaat daarbij niet alleen om Nederlandse koloniale gebieden, maar ook om andere door Europeanen gekoloniseerde regio's. Veelal betreft het religieuze-, spirituele- of gebruiksvoorwerpen die vervaardigd zijn in deze gebieden, natuurlijke objecten of grondstoffen die zich daar bevonden of om menselijke resten. Voor een bondige beschrijving van 'objecten uit een koloniale context' verwijzen we naar de [werkcriteria](https://wp-dev.colonialcollections.org/index.php/beleid-koloniale-collecties/) die de DatHub hanteert.
+    
+    Het koloniale tijdperk bestrijkt enkele eeuwen, maar per gebied verschilt het wanneer koloniale overheersing begon en eindigde. Een overzicht van deze gebieden en tijdvakken worden in het rapport [Care of Collections from Colonial Contexts](https://www.museumsbund.de/wp-content/uploads/2021/03/mb-leitfaden-en-web.pdf) van de Duitse museumbond en het Nederlandse rapport [Koloniale collecties en erkenning van onrecht](https://open.overheid.nl/documenten/ronl-1889c640-46ce-4ce7-87d0-f7b4299b8c3e/pdf) gegeven. Herkomstonderzoek zal in eerste plaats betrekking hebben op objecten en naturalia die in deze gebieden en in deze tijdvakken zijn verzameld. Er kunnen overigens ook goede redenen zijn om voorwerpen uit andere gebieden of perioden te onderzoeken, bijvoorbeeld als er sprake was van ongelijke machtsverhoudingen.
+    
+    De term koloniaal erfgoed kan bovendien een bredere betekenis hebben en betrekking hebben op in op Europa vervaardigde voorwerpen die een (in)directe relatie hebben met het kolonialisme, bijvoorbeeld via wat er op het voorwerp wordt afgebeeld, vanwege de functie van het object, of omdat ze zijn verworven met winsten uit koloniale exploitatie. Daarnaast bevinden zich in veel collecties voorwerpen die in Europa vervaardigd zijn van materiaal dat afkomstig is uit de koloniën. Voor de omgang met koloniale collecties in deze bredere betekenis, heeft de Rijksdienst voor het Cultureel Erfgoed deze handreiking gemaakt: [Onderzoek naar sporen van slavernij en het koloniale verleden in de collectieregistratie](https://www.cultureelerfgoed.nl/binaries/cultureelerfgoed/documenten/publicaties/2021/01/01/handreiking-onderzoek-naar-sporen-van-slavernij-en-het-koloniale-verleden-in-de-collectieregistratie/Handreiking+sporen+slavernij+en+koloniaal+verleden+in+collectieregistratie.pdf).
+    
+    ## Beginnen met herkomstonderzoek
+    
+    Wanneer je aan de slag gaat met herkomstonderzoek naar koloniale collecties is het van belang om eerst te bepalen wat je hiermee wil bereiken. Wil je bijvoorbeeld:
+    
+    **Duidelijkheid krijgen over de herkomst van voorwerpen in de collectie van jouw erfgoedorganisatie?**
+    
+    Het herkomstonderzoek naar voorwerpen uit een koloniale context is op deze website verdeeld in twee niveaus: basisonderzoek en uitgebreid onderzoek. De situatie van elke collectiebeherende instelling is anders en kan leiden tot andere keuzes in het onderzoek. Zo kan het nodig zijn om eerst het basisonderzoek naar alle voorwerpen uit een koloniale context af te ronden en daarna een of meerdere voorwerpen uitgebreider te onderzoeken. In andere gevallen kan het nodig zijn om direct bepaalde voorwerpen te [prioriteren](niveau1/Dutch/SelectAndDelineate_20240425.yml) voor uitgebreid onderzoek. 
+    
+    **Erfgoed opsporen dat mogelijk in aanmerking komt voor restitutie?**
+    
+    Wanneer je een teruggaveverzoek wil indienden kan je overwegen om eerst te onderzoeken of en op welke manier het voorwerp in een koloniale context is verworven. Als er een verzoek is ingediend voor teruggave zal de beheerder van het voorwerp het herkomstonderzoek moeten uitvoeren, gericht op de wijze waarop het voorwerp is weggenomen in de voormalige kolonie. Hier is in de meeste gevallen uitgebreid onderzoek voor nodig. 
+    
+    **Meer informatie krijgen over het voorwerp zelf?**
+    
+    Herkomstonderzoek kan een manier zijn om meer te weten te komen over het voorwerp zelf, de oorsprong en het doel waarvoor het is vervaardigd. Bij voorwerpen waarvan de maker niet bekend is, is het een belangrijke manier om tot een exactere datering te komen. Herkomstonderzoek kan ook inzicht geven in de veranderingen in betekenis van het voorwerp door de tijd heen.
+    
+    **Informatie over de herkomst van voorwerpen kunnen verstrekken?**
+    
+    Veel musea en andere instellingen met koloniale collecties willen open zijn over welke voorwerpen zij beheren, zodat gemeenschappen van herkomst goed op de hoogte zijn van de collecties die hen aangaan. Dit betekent informatie delen over de herkomst van voorwerpen en de wijze van verzamelen. Herkomstonderzoek is vaak een noodzakelijke stap om die informatie te verkrijgen. Vervolgens kan de herkomstinformatie wordt gedeeld in tentoonstellingsteksten of online, via collectiewebsites.
+  content-type: text/markdown

@@ -7,12 +7,12 @@ import networkx as nx
 # import matplotlib.pyplot as plt
 
 
-BASE_DIR = "."
+BASE_DIR = "./published"
 eng = glob(f"{BASE_DIR}/*/English/*.yml")
 dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
-top = glob(f"{BASE_DIR}/TopLevel/*.yml")
+# top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 
-yaml_files = top + dutch + eng
+yaml_files = dutch + eng
 
 for f in tqdm(yaml_files):
     print(f"processing {f}...")

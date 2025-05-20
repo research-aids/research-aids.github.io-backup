@@ -11,7 +11,7 @@ jobs:
       - name: Check out repository code (necessary - otherwise the workspace is empty)
         uses: actions/checkout@v4    
       - name: list YAML files
-        run: ls ${{ github.workspace }}/niveau*/**
+        run: ls ${{ github.workspace }}/published/niveau*/**
       - name: running python script
         run: |
           pip install tqdm

@@ -5,16 +5,16 @@ import yaml
 import json
 import re
 
-BASE_DIR = "."
-OUT_DIR = f"{BASE_DIR}/forKinsukAndSjors"
+BASE_DIR = "./published"
+OUT_DIR = "./forKinsukAndSjors"
 
 
 
 eng = glob(f"{BASE_DIR}/*/English/*.yml")
 dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
-top = glob(f"{BASE_DIR}/TopLevel/*.yml")
+# top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 
-yaml_files = top + dutch + eng
+yaml_files = dutch + eng
 
 
 def parse_filename(orig_path, has_path=False):
