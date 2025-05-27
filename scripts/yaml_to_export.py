@@ -14,6 +14,8 @@ from markdown_pdf import MarkdownPdf, Section
 from yaml_to_markdown.md_converter import MDConverter
 MD_CONV = MDConverter()
 
+from ResearchAids import ResearchAid
+
 
 BASE_DIR = "./published"
 eng = glob(f"{BASE_DIR}/*/English/*.yml")
@@ -41,14 +43,22 @@ def export_markdown(f, out_dir, return_content=True):
     
     with open(f) as handle:
         yaml_content = yaml.safe_load(handle)
-        yaml_content["author"] = "wreints"
+        ra = ResearchAid(yml)
+        if ra._parsed:
+            md_content = ra()
+            with open(md_name, "w") as md_handle:
+                md_handle.write(md_content)
+            return md_content
+        
+        
+    #     yaml_content["author"] = "wreints"
 
-        with open(md_name, "w") as md_handle:
-            MD_CONV.convert(yaml_content, md_handle)     
+    #     with open(md_name, "w") as md_handle:
+    #         MD_CONV.convert(yaml_content, md_handle)     
 
-    with open(md_name) as handle:
-        markdown_content = handle.read()
-        return markdown_content
+    # with open(md_name) as handle:
+    #     markdown_content = handle.read()
+    #     return markdown_content
 
 
 
@@ -72,11 +82,8 @@ if __name__ == "__main__":
         new_name = f"{OUT_DIR}/{fmt.upper()}/{level}/{lang}/{name}.{fmt}"
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
 
-        try:
-            markdown_content = export_markdown(f, OUT_DIR)
-            print(f"!!!! file {f} worked!")
-        except IndexError:
-            print(f"file {f} lead to a yaml-to-markdown parser error.\n\t probably because of an empty list in the yaml")
+        markdown_content = export_markdown(f, OUT_DIR)
+        if not markdown_content:
             didnt_parse.append(f)
             continue
             
