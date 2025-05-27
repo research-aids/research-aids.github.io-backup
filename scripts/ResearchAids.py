@@ -1,7 +1,9 @@
 from datetime import datetime
 
 class ResearchAid:
-    levels = [Level0, Level1, Level2, Level3]
+    @staticmethod
+    def get_level(level_id):
+        return [Level0, Level1, Level2, Level3][level_id]
 
     def __init__(self, yml, raise_parsing_error=False):
         self.level_id = int(yml["Level"])
@@ -9,7 +11,7 @@ class ResearchAid:
         self.author = "Wiebe Reints (@wreints)"
         self.time = datetime.today().strftime("%Y-%m-%d")
         try:
-            self.level = self.levels[self.level_id](yml)
+            self.level = self.get_level(self.level_id)(yml)
             self._parsed = True
         except Exception as e:
             self._parsed = False
