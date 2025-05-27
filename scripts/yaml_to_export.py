@@ -43,7 +43,7 @@ def export_markdown(f, out_dir, return_content=True):
     
     with open(f) as handle:
         yaml_content = yaml.safe_load(handle)
-        ra = ResearchAid(yml)
+        ra = ResearchAid(yaml_content)
         if ra._parsed:
             md_content = ra()
             with open(md_name, "w") as md_handle:
