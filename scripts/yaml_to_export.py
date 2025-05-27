@@ -17,9 +17,11 @@ MD_CONV = MDConverter()
 from ResearchAids import ResearchAid
 
 
-BASE_DIR = "./published"
-eng = glob(f"{BASE_DIR}/*/English/*.yml")
-dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
+IN_DIR = "./published"
+OUT_DIR = "./EXPORTS"
+
+eng = glob(f"{IN_DIR}/*/English/*.yml")
+dutch = glob(f"{IN_DIR}/*/Dutch/*.yml")
 # top = glob(f"{BASE_DIR}/TopLevel/*.yml")
 
 yaml_files = sorted(dutch + eng)
@@ -76,7 +78,6 @@ if __name__ == "__main__":
     for f in tqdm(yaml_files):
         # print(f"processing {f}...")
 
-        OUT_DIR = f"{BASE_DIR}/EXPORTS"
         level, lang, name = parse_filepath(f)
 
         new_name = f"{OUT_DIR}/{fmt.upper()}/{level}/{lang}/{name}.{fmt}"

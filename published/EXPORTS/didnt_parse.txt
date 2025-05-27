@@ -1,5 +1,0 @@
-./published/niveau0/Dutch/TopLevel_20240606.yml
-./published/niveau0/English/TopLevel_20240606.yml
-./published/niveau2/Dutch/MilitaryAndNavy_20240326.yml
-./published/niveau2/English/MilitaryAndNavy_20240417.yml
-./published/niveau3/English/NZG_20240508.yml
