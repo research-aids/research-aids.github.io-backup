@@ -113,4 +113,11 @@ Breakdown:
           - "Missiemuseum Steyl":
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
-  "3. Locaties": []            
+  "3. Locaties": []    
+
+editing_metadata:
+  - date: 2024-06-06
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.        

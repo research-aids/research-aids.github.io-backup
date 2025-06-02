@@ -85,3 +85,10 @@ Main-text:
     
     Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadslaging aangeboden aan de Minister van OCW (als het een object uit de rijkscollectie betreft) of een eventuele andere objecteigenaar. Deze neemt vervolgens een besluit aan de hand van het advies, waarbij dit in de praktijk altijd in lijn is met de aanbevelingen van de Commissie Koloniale Collecties. Hierna wordt het advies van de commissie en het aanhangende herkomstonderzoeksrapport openbaar gemaakt op de website van de Commissie Koloniale Collecties. [Eerdere adviezen](https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all) zijn zodoende voor iedereen openbaar toegankelijk.
   content-type: text/markdown
+
+editing_metadata:
+  - date: 2025-01-23
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.     

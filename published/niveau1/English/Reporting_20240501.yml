@@ -61,6 +61,16 @@ Main-text:
     The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/sites/default/files/2021-04/words_matter.pdf.pdf) provides tips for dealing with colonial terminology.
   content-type: text/markdown
 
-
+editing_metadata:
+  - date: 2024-05-01
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-03-12
+    applies_to: Main-text
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints 
 
 

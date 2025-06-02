@@ -82,3 +82,10 @@ Sources:
       Link: 
         - URL: "https://limburgserfgoednet.nl/"
       Description and remarks: "Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet."
+
+editing_metadata:
+  - date: 2024-10-21
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

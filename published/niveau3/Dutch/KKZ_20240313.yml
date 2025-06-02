@@ -163,3 +163,10 @@ Sources:
         - OCLC: "1463743743"
         - ISBN: "9789462625709"
       Description and remarks: "Catalogus van de tentoonstelling over het Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis in 2024."
+
+editing_metadata:
+  - date: 2024-03-13
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

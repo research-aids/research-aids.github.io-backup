@@ -128,3 +128,9 @@ Sources:
         - ISSN: "2213-4379"
       Description and remarks: "Het tijdschrift van het KITLV, dat eerst door het KITLV zelf werd uitgegeven, maar tegenwoordig door Brill. Alle volumes, vanaf de eerste editie uit 1853, zijn beschikbaar via Brill. Vroegere edities bevatten ook notulen van Bestuurs- en Algemene Vergaderingen, tegenwoordig ligt de focus op onderzoek uit en naar Zuid-Oost Azië in verschillende disciplines."
 
+editing_metadata:
+  - date: 2024-07-04
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

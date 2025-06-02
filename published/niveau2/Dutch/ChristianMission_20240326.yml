@@ -106,3 +106,10 @@ Sources:
       Link: 
         - URL: "https://doi.org/10.5040/9781474255554.ch-026"
       Description and remarks: "Hoofdstuk in het boek Religion in Museums van Chris Wingfield over missie musea."
+
+editing_metadata:
+  - date: 2024-03-26
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

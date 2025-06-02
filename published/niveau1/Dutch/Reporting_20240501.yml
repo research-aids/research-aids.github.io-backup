@@ -59,3 +59,10 @@ Main-text:
     
     De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/files/2018-09/WordsMatter_DEF_Totale_PDF_NL_0.pdf) van het Wereldmuseum geeft tips voor de omgang met koloniale terminologie.
   content-type: text/markdown
+
+editing_metadata:
+  - date: 2024-05-01
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.    

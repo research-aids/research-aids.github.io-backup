@@ -114,3 +114,9 @@ Sources:
         - URL: "https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829"
       Description and remarks: "Online database van het Huygens Instituut met informatie over de geschiedenis van het NZG en waar relevant (archief)materiaal te vinden is."
 
+editing_metadata:
+  - date: 2024-03-14
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -90,3 +90,15 @@ Sources:
         - URL: "https://search.worldcat.org/title/902336725?oclcNum=902336725"
         - ISBN: "9789068683431"
       Description and remarks: "Biography of Carel van Lier."
+
+editing_metadata:
+  - date: 2024-05-07
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-24
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

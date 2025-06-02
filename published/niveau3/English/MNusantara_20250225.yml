@@ -87,3 +87,10 @@ Sources:
         - ISBN: "9789071423048"
         - OCLC: "905471545"
       Description and remarks: "A book about the (pre)history of the Indische Instelling in Delft and the origins of what would later become Museum Nusantara."
+
+editing_metadata:
+  - date: 2025-02-25
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

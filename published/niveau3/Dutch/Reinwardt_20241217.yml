@@ -129,3 +129,10 @@ Sources:
         - URL: "https://doi.org/10.1177/0073275314546970"
         - OCLC: "5723532657"
       Description and remarks: "Artikel van Andreas Weber, over het leven en werk van Reinwardt."
+
+editing_metadata:
+  - date: 2024-12-17
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

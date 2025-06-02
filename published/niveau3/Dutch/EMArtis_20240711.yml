@@ -120,3 +120,10 @@ Sources:
         - URL: "https://search.worldcat.org/title/1178618962?oclcNum=1178618962"
         - OCLC: "1178618962"
       Description and remarks: "Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis."
+
+editing_metadata:
+  - date: 2024-07-11
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

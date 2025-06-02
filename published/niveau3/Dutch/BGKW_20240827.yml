@@ -115,3 +115,10 @@ Sources:
       Link: 
         - URL: "http://library.oapen.org/handle/20.500.12657/34657"
       Description and remarks: "Boek van Hans Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap."
+
+editing_metadata:
+  - date: 2024-08-27
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

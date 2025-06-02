@@ -158,3 +158,10 @@ Sources:
         - ISBN: "9789035114050"
         - OCLC: "471738724"
       Description and remarks: "Boek over de ontwikkeling van het Nederlandse koloniale bestuur in Indonesië tussen 1808 en 1942."
+
+editing_metadata:
+  - date: 2024-03-20
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

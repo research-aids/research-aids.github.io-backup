@@ -127,3 +127,14 @@ Sources:
         - URL: "https://brill.com/view/journals/bki/bki-overview.xml"
       Description and remarks: "The journal of the KITLV, initially published by the KITLV itself but now published by Brill. All volumes from the first 1853 edition onward are available through Brill. Earlier editions also contain minutes of Board and General Meetings; nowadays the focus is on research from and into Southeast Asia in various disciplines."
 
+editing_metadata:
+  - date: 2024-07-04
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-07
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

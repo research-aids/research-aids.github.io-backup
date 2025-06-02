@@ -64,5 +64,16 @@ Main-text:
     Provenance research can also be undertaken proactively, for example if the custodian expects an application for restitution to be made. In that case, priority may be given to objects known to be of great historical, cultural or spiritual value to communities of origin. Ideally, prioritisation of provenance research should take place on the recommendation of, or in consultation with, communities of origin and local experts.
   content-type: text/markdown
 
+editing_metadata:
+  - date: 2024-04-25
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-03-12
+    applies_to: Main-text
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints 
 
 

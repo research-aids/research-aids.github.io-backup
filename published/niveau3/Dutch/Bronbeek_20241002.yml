@@ -92,3 +92,10 @@ Sources:
         - URL: "https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1"
         - OCLC: "882982014"
       Description and remarks: "Boek uit 1881 geschreven door de eerste commandant van het tehuis, geeft een geschiedenis van de eerste periode en een uitvoerige beschrijving van de binnenkant van het tehuis. Het boek bevat vele illustraties waarop verschillende objecten duidelijk worden weergegeven."
+
+editing_metadata:
+  - date: 2024-10-02
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

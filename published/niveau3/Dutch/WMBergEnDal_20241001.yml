@@ -89,3 +89,10 @@ Sources:
         - OCLC: "66932031"
         - ISBN: "9789071611131, 9071611132"
       Description and remarks: "Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde."
+
+editing_metadata:
+  - date: 2024-10-01
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

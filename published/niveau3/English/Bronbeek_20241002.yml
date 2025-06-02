@@ -92,3 +92,15 @@ Sources:
         - URL: "https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1"
         - OCLC: "882982014"
       Description and remarks: "Book from 1881 written by the first commander of the home. It gives a history of the early period and a detailed description of the interior of the house at that time. The book contains many illustrations clearly showing various objects."
+
+editing_metadata:
+  - date: 2024-10-02
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-07
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

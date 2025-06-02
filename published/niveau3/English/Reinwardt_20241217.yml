@@ -130,3 +130,14 @@ Sources:
         - OCLC: "5723532657"
       Description and remarks: "Article by Andreas Weber on the life and work of Reinwardt."
 
+editing_metadata:
+  - date: 2024-12-17
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-24
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

@@ -119,4 +119,15 @@ Sources:
         - OCLC: "71681153"
       Description and remarks: "Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands."
 
+editing_metadata:
+  - date: 2024-03-16
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-03-12
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints 
 

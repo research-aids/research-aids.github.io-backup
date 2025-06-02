@@ -103,3 +103,10 @@ Sources:
       Link: 
         - URL: "https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum"
       Description and remarks: "Website van het Wereldmuseum met een korte geschiedenis van het museum in Rotterdam."
+
+editing_metadata:
+  - date: 2024-08-22
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -128,4 +128,14 @@ Sources:
         - ISBN: "9782503541525"
       Description and remarks: "Dissertation by Mirjam Hoijtink from 2012 that examines the work and life of Caspar Reuvens, the first director of the Rijksmuseum van Oudheden in Leiden. The book also looks at why Reuvens initially included antiquities from the Dutch East Indies and other non-‘classical’ antiquities in the museum's collection and places these ideas in the context of the developments of scholarship and the museum sector in the nineteenth century."
 
-
+editing_metadata:
+  - date: 2024-11-06
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-24
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

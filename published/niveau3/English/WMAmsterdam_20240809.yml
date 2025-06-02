@@ -125,3 +125,14 @@ Sources:
         - ISBN: "906832229X"
       Description and remarks: "Like Jans' book, this 1990 book focuses mainly on the external characteristics of the current Wereldmuseum Amsterdam. The book contains detailed information on the facades, galleries, materials used and the colonial symbolism of the decorations around the building."
 
+editing_metadata:
+  - date: 2024-08-09
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-04-24
+    applies_to: Main-text; Sources
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints

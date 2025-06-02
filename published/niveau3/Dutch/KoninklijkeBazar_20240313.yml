@@ -117,3 +117,10 @@ Sources:
         - URL: "https://search.worldcat.org/title/67826958"
         - OCLC: "67826958"
       Description and remarks: "Beschrijving van de Koninklijke bazar door Dirk Boer."
+
+editing_metadata:
+  - date: 2024-03-13
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

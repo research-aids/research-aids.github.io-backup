@@ -85,3 +85,10 @@ Main-text:
     
     After deliberation, the final advice of the Colonial Collections Committee is presented to the Minister of OCW (if it concerns an object from the state collection) or any other object owner. The latter then makes a decision, which in practice is always in line with the recommendations of the Colonial Collections Committee. After this, the committee's advice and the related provenance research report are made publicly available through the website of the Colonial Collections Committee. [Previous advisory reports](https://committee.kolonialecollecties.nl/publications?size=n_10_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all) are therefore publicly available to everyone.
   content-type: text/markdown
+
+editing_metadata:
+  - date: 2025-01-23
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -91,3 +91,10 @@ Sources:
         - ISBN: "9789068683431"
         - OCLC: "902336725"
       Description and remarks: "Biografie over Carel van Lier."
+
+editing_metadata:
+  - date: 2024-03-13
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

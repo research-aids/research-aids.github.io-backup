@@ -119,3 +119,10 @@ Sources:
       Link: 
         - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
       Description and remarks: "Zoekhulp van het Nationaal Archief over Nederlandse militairen en marinepersoneel. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: 'zie verder' met het betreffende paginanummer."
+
+editing_metadata:
+  - date: 2024-03-26
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

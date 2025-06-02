@@ -146,3 +146,10 @@ Sources:
         - URL: "https://brill.com/view/journals/vvak/vvak-overview.xml"
         - ISSN: "2543-1749"
       Description and remarks: "Het bij Brill uitgegeven tijdschrift van de KVVAK."
+
+editing_metadata:
+  - date: 2024-03-12
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

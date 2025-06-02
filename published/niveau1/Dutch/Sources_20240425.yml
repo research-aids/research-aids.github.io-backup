@@ -124,3 +124,10 @@ Main-text:
     
     Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest zijn en relevante informatie kan zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana](https://www.proveana.de/en/start), [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) en de database [Sammlungsgut aus Kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over verzamelaars, handelaren en collecties op het gebied van de archeologie en kunstgeschiedenis, waaronder ook Aziatische kunst.
   content-type: text/markdown
+
+editing_metadata:
+  - date: 2024-04-25
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.     

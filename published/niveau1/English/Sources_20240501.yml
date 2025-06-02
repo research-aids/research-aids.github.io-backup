@@ -125,3 +125,14 @@ Main-text:
     Some collectors and organisations were active in several European countries, which means that relevant information may also be located in other European countries. In Germany such information can be found through the portals [Proveana](https://www.proveana.de/en/start) and [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) and the database [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). The French portal [AGORHA](https://agorha.inha.fr) contains information on collectors, dealers and collections in the fields of archaeology and art history, including Asian art.
   content-type: text/markdown
 
+editing_metadata:
+  - date: 2024-05-01
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-03-12
+    applies_to: Maint-text
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints 

@@ -128,3 +128,10 @@ Sources:
         - OCLC: "905775747"
         - ISBN: "906832229X"
       Description and remarks: "Net als het boek van Jans besteedt dit boek uit 1990 voornamelijk aandacht aan de uiterlijke kenmerken van het tegenwoordige Wereldmuseum Amsterdam. Het boek bevat gedetailleerde informatie over de gevels, de zalen, materialen en de koloniale symboliek van de decoraties die rondom het gebouw zijn te vinden."
+
+editing_metadata:
+  - date: 2024-07-11
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -92,3 +92,9 @@ Sources:
         - URL: "https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf"
       Description and remarks: "Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een aantal objecten uit Rijksmuseum Amsterdam onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten."
 
+editing_metadata:
+  - date: 2024-10-06
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

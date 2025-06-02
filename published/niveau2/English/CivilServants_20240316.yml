@@ -158,3 +158,15 @@ Sources:
         - ISBN: "9789035114050"
         - OCLC: "471738724"
       Description and remarks: "Book about the development of the Dutch colonial administration in Indonesia from 1808 to 1942." 
+
+editing_metadata:
+  - date: 2024-03-16
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.
+  - date: 2025-03-12
+    applies_to: Main-text; Sources 
+    author: abacus
+    role: translator
+    editing_notes: abacus translations processed by wiebe reints  
