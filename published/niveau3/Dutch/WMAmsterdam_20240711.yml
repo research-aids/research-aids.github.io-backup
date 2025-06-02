@@ -28,7 +28,7 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "See also"
+        rel_type: "see also"
   - "Wereldmuseum Rotterdam":
         link: "niveau3/Dutch/WMRotterdam_20240822.yml"
         rel_type: "see also"
