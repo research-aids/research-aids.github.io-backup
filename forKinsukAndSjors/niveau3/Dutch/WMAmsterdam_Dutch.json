@@ -55,7 +55,7 @@
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
-                "rel_type": "See also",
+                "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
             }
         },
