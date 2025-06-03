@@ -16,6 +16,7 @@ RelatedAides:
         rel_type: "see also"
   - "Museum Nusantara":
         link: "published/niveau3/English/MNusantara_20250225.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
