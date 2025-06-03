@@ -17,6 +17,15 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/Dutch/MNusantara_20250130.yml"
         rel_type: "see also"
+  - "Hoofdcursus Kampen":
+        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum 'Gerardus van der Leeuw'":
+        link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

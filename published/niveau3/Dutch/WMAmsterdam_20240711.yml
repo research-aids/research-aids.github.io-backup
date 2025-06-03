@@ -38,6 +38,9 @@ RelatedAides:
   - "Rijksmuseum Amsterdam":
         link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
         rel_type: "see also"
+  - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
+        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

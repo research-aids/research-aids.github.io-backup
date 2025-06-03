@@ -38,6 +38,12 @@ RelatedAides:
   - "Rijksmuseum Amsterdam":
         link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
         rel_type: "see also"
+  - "Hoofdcursus Kampen":
+        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

@@ -11,6 +11,12 @@ RelatedAides:
   - "Leger en marine":
         link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
         rel_type: "see also"
+  - "Hoofdcursus Kampen":
+        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

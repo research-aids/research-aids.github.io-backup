@@ -47,6 +47,12 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/Dutch/MNusantara_20250130.yml"
         rel_type: "see also" 
+  - "Museon-Omniversum":
+        link: "published/niveau3/Dutch/Museon_20250429.yml"
+        rel_type: "see also"
+  - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
+        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

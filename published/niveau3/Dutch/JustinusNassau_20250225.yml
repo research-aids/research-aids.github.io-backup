@@ -21,6 +21,10 @@ RelatedAides:
         rel_type: "see also"
   - "Museum Nusantara":
         link: "published/niveau3/Dutch/MNusantara_20250130.yml"
+        rel_type: "see also"
+  - "Hoofdcursus Kampen":
+        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

@@ -18,6 +18,10 @@ RelatedAides:
         rel_type: "see also"
   - "Museum Nusantara":
         link: "published/niveau3/Dutch/MNusantara_20250130.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

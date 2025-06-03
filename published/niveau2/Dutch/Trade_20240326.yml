@@ -47,6 +47,9 @@ RelatedAides:
   - "Rijksmuseum van Oudheden":
         link: "niveau3/Dutch/RMO_20241106.yml"
         rel_type: "see also"
+  - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
+        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:
