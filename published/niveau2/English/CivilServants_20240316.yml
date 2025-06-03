@@ -47,6 +47,12 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/English/MNusantara_20250225.yml"
         rel_type: "see also"
+  - "Museon-Omniversum":
+        link: "published/niveau3/English/Museon_20250513.yml"
+        rel_type: "see also"
+  - "International Colonial and Export Exhibition 1883":
+        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:

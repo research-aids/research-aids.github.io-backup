@@ -62,6 +62,12 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/English/MNusantara_20250225.yml"
         rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "published/niveau3/English/JustinusNassau_20250513.yml"
+        rel_type: "see also"
+  - "International Colonial and Export Exhibition 1883":
+        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

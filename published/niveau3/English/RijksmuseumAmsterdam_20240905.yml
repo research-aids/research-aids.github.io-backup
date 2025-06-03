@@ -35,6 +35,9 @@ RelatedAides:
   - "Rijksmuseum van Oudheden":
         link: "niveau3/English/RMO_20241106.yml"
         rel_type: "see also"
+  - "International Colonial and Export Exhibition 1883":
+        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
