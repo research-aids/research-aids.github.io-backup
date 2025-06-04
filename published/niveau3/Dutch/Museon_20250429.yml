@@ -90,7 +90,7 @@ Sources:
     - Type of source: "Website"
       Name: "Website Museon-Omniversum"
       Link: 
-        URL: "https://www.museon-omniversum.nl/"
+        - URL: "https://www.museon-omniversum.nl/"
       Description and remarks: "Website van het museum. Hier vind je een korte geschiedenis van de instelling, maar ook het jaarverslag en het collectiebeleid."
     - Type of source: "Archief"
       Name: "0538-01 Museum voor het Onderwijs (Museon)"
