@@ -100,7 +100,7 @@ for f in tqdm(yaml_files):
     print(f"processing {f}...")
     try:
         with open(f) as handle:
-            yaml_content = yaml.safe_load(handle, Loader=NoDatesSafeLoader)
+            yaml_content = yaml.load(handle, Loader=NoDatesSafeLoader)
     
         level, lang, name = parse_filepath(f)
         yaml_content["File name"] = name
