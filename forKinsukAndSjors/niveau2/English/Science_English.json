@@ -114,6 +114,27 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Reinwardt_English"
             }
+        },
+        {
+            "Museon-Omniversum": {
+                "link": "published/niveau3/English/Museon_20250513.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/Museon_English"
+            }
+        },
+        {
+            "International Colonial and Export Exhibition 1883": {
+                "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English"
+            }
+        },
+        {
+            "Volkenkundig museum 'Gerardus van der Leeuw'": {
+                "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/GerardusLeeuw_English"
+            }
         }
     ],
     "Relevant data": {
@@ -183,5 +204,21 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-08-21",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": "2025-03-12",
+            "applies_to": "Main-text; Sources",
+            "author": "abacus",
+            "role": "translator",
+            "editing_notes": "abacus translations processed by wiebe reints"
+        }
+    ],
     "File name": "Science"
 }

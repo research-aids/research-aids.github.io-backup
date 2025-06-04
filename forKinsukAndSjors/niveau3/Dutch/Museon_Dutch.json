@@ -1,0 +1,170 @@
+{
+    "Level": 3,
+    "Title": "Museon-Omniversum",
+    "Abstract": "Het Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht als onderwijsmuseum. Vanaf 1909 hield het verschillende tentoonstellingen met de verworven collectie die is opgedeeld in drie thema's: natuur, cultuur en technologie. Binnen zowel de natuurhistorische- als etnografische collecties van het museum bevinden zich verschillende objecten die zijn verworven in een koloniale context.",
+    "RelatedAides": [
+        {
+            "Ambtenaren": {
+                "link": "published/niveau2/Dutch/CivilServants_20240320.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+            }
+        },
+        {
+            "Wetenschap": {
+                "link": "published/niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
+            "Etnografisch Museum Artis": {
+                "link": "published/niveau3/Dutch/EMArtis_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+            }
+        },
+        {
+            "Naturalis": {
+                "link": "published/niveau3/Dutch/Naturalis_20240710.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "https://www.wikidata.org/wiki/Q1954331"
+        ],
+        "Name variations": [
+            "Museum ten bate van het Onderwijs",
+            "Gemeentelijk museum voor het Onderwijs",
+            "Museon"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Etnografisch museum](http://vocab.getty.edu/aat/300451067)"
+            ],
+            "Type of objects": [
+                "[Etnografica](http://vocab.getty.edu/aat/300234108)",
+                "[Natuurlijke objecten](http://vocab.getty.edu/aat/300404125)",
+                "[Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591)",
+                "[Dierlijke specimens](http://vocab.getty.edu/aat/300420186)",
+                "[Mineralen](http://vocab.getty.edu/aat/300011068)",
+                "[Fossielen](http://vocab.getty.edu/aat/300011068)",
+                "[Oudheidkundige objecten](http://vocab.getty.edu/aat/300234110)"
+            ],
+            "Geographical": [
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
+                "[Tibet](https://sws.geonames.org/8449601)",
+                "[Nepal](https://sws.geonames.org/1282988)",
+                "[Thailand](https://sws.geonames.org/1605651)",
+                "[India](https://sws.geonames.org/1269750)",
+                "[Azi\u00eb](https://sws.geonames.org/6255147)",
+                "[Noord-Afrika](https://sws.geonames.org/7729887)",
+                "[Zuidelijk Afrika](https://sws.geonames.org/9406051)",
+                "[Centraal Afrika](https://sws.geonames.org/7729886)",
+                "[Oost-Afrika](https://sws.geonames.org)",
+                "[West-Afrika](https://sws.geonames.org/7729885)",
+                "[Noord-Amerika](https://sws.geonames.org/6255149/north-america.html)",
+                "[Suriname](https://sws.geonames.org/3382998)",
+                "[Midden-Amerika](https://sws.geonames.org/7729892/central-america.html)",
+                "[Zuid-Amerika](https://sws.geonames.org/6255150/south-america.html)",
+                "[Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628)",
+                "[Oceani\u00eb](https://www.geonames.org/6255151/oceania.html)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1904",
+            "Year of end": []
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"Het Museon heeft een soortgelijke collectiewebsite als het Wereldmuseum. De volledige collectie is benaderbaar en is onderverdeeld in 'Natuur', 'Cultuur', 'Technologie' en 'Beeldmateriaal'.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://cc.museon-omniversum.nl/#/query/01056f93-83f2-47b0-bc5b-fd7033c7ee0c"
+        }
+    },
+    "Main-text": {
+        "content": "Het Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht als onderwijsmuseum. Vanaf 1909 hield het verschillende tentoonstellingen met de verworven collectie die is opgedeeld in drie thema's: natuur, cultuur en technologie. Binnen zowel de natuurhistorische- als etnografische collecties van het museum bevinden zich verschillende objecten die zijn verworven in een koloniale context.\n\n### Beschrijving \n\nIn oktober 1904 werd de 'Vereeniging Het museum ten bate van het Onderwijs' opgericht door een groep onderwijsvernieuwers die voorstanders waren van zogenaamd 'aanschouwelijk onderwijs'. Hiermee werd onderwijs bedoeld dat wordt ondersteund door het laten zien van bijvoorbeeld voorwerpen, foto's of films. Enkele jaren later, in 1909, werd daadwerkelijk het Museum ten bate van het Onderwijs opgericht. Het 'Schoolmuseum' zoals het in de volksmond bekend kwam te staan was gevestigd aan de Nieuwmarkt in Den Haag en behandelde de vakgebieden geologie, volkenkunde, biologie en nijverheid. De collectie van de eerste directeur van het museum, de geoloog [Herman van Cappelle](http://www.wikidata.org/entity/Q2659534), vormde de basis van het museum. Van Cappelle is voornamelijk bekend van zijn onderzoekingen in Suriname. Door verschillende andere schenkingen van onder andere Koningin Juliana is de collectie objecten uit Suriname van het Museon \u00e9\u00e9n van de grootste van Nederland.\n\nDe objectcollectie van het Museon is opgedeeld in drie deelcollecties: natuur, cultuur en technologie. Zowel binnen de natuurlijke- als culturele collecties van het museum zijn objecten te vinden die verworven zijn in een koloniale context. In het collectieplan van het Museon voor 2024-2028 is een lijst opgenomen met objecten afkomstig uit een (voormalige) koloniale context, echter is de natuurhistorische collectie niet meegenomen in de telling, terwijl deze ook objecten bevat die bijvoorbeeld in voormalig Nederlands-Indi\u00eb of Suriname zijn verzameld. Enkele belangrijke koloniale collecties zijn de eerder genoemde collectie uit Suriname, voornamelijk bijeen gebracht door de eerste directeur Herman van Cappelle; de collectie Congolese voorwerpen die grotendeels in 1935 is samengesteld uit aankopen en schenkingen uit de collecties van de Rotterdamse Diergaarde Blijdorp en het Koloniaal Museum in Antwerpen - De objecten dateren grotendeels uit het einde van de negentiende eeuw en zijn voornamelijk afkomstig van de Vili, Cabinda, Congo, Yombe en Woyo bevolkingsgroepen -; de Inuit-collectie die door Niko Timbergen is samengesteld, later zijn hier ook objecten van een mede expeditielid aan toegevoegd. Bovendien zijn er ook enkele Noord-Amerikaanse objecten uit het voormalige Tropenmuseum (nu Wereldmuseum Amsterdam) overgedragen aan het Museon, hierbij zitten ook objecten uit de voormalige etnografische collectie van [Artis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593). Van belang is bovendien dat er grote delen van de culturele collectie van het Museon in de jaren '70 en '80 van de twintigste eeuw zijn verzameld, deze vallen zodoende ook niet in de collectie objecten die afkomstig zijn uit een koloniale context.\n\nHet museum is sinds 1921 een gemeentelijk museum, de gemeente Den Haag is dus de eigenaar van de collectie. Vanaf 1985 ging het museum verder onder de naam 'Museon' en in 2022 fuseerde de instelling met het Omniversum, een grootbeeld filmtheater, ook in Den Haag. De offici\u00eble naam is om die reden tegenwoordig 'Museon-Omniversum.' Het Museon is sinds enkele jaren bezig de koloniale geschiedenis van de collectie te onderzoeken, op een later moment wordt de museumcollectie ook beschikbaar via de Colonial Collections Datahub. Onder andere de houtmonsters uit de natuurhistorische collectie van het museum zijn onder de loep genomen, ook is er een schedelkorwar van Papoea (coll. nr. 54098) onderzocht. Deze korwar bevat onder andere ook menselijke resten, iets wat ook geldt voor andere objecten uit de volkenkundige collectie van het museum. Naast de objectcollectie heeft het Museon ook beschikking over een grote collectie beeldmateriaal, noemenswaardig is de collectie foto's van de 'Zuid-Celebes expeditie' van 1905-1906.\n\n### Herkomstonderzoek\n\nDe collectie van het Museon is volledig doorzoekbaar via de [collectiewebsite](https://cc.museon-omniversum.nl/#/query/aa7bc606-74fd-43ad-97e6-5cdff4e3fb47) die op eenzelfde manier is ingericht als de collectiewebsite van het Wereldmuseum. Zoals hierboven beschreven is de collectie opgedeeld in drie thema's: natuur, cultuur en technologie, maar ook is er een grote collectie beeldmateriaal. Als je vragen hebt over de collectie kan je contact opnemen met [contact_collectie@museon-omniversum.nl](mailto:contact_collectie@museon-omniversum.nl).\n\nHet archief van het Museon wordt beheerd door het [Haags Gemeentearchief](https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729). Het archief is opgedeeld in de periode dat het een zelfstandig museum was en de periode nadat de Gemeente Den Haag het museum overnam. Er is een aparte toegang voor het archief van de Gemeentelijke Schoolbioscoop. Het [Collectieplan 2024-2028](https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf) van het Museon biedt een inzicht in de aanwezig collecties in het museum. Ook biedt het een lijst met wat het museum beschrijft als 'Collecties met een koloniale context' (p. 81). Echter zijn de aantallen in de meeste gevallen bij benadering omdat de datum van vervaardiging van de voorwerpen in een groot deel van de gevallen onbekend is.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Website",
+                "Name": "Website Museon-Omniversum",
+                "Link": {
+                    "URL": "https://www.museon-omniversum.nl/"
+                },
+                "Description and remarks": "Website van het museum. Hier vind je een korte geschiedenis van de instelling, maar ook het jaarverslag en het collectiebeleid."
+            },
+            {
+                "Type of source": "Archief",
+                "Name": "0538-01 Museum voor het Onderwijs (Museon)",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729"
+                    }
+                ],
+                "Description and remarks": "Archief van het Museon. Opgedeeld in de periode dat het nog het Museum ten bate van het Onderwijs heette en de tijd dat het een gemeentelijk museum werd. Onder de toegangen '2.3' en '4.2.5.4' zijn de inventarissen met betrekking tot de collectievorming terug te vinden."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": "Catalogus",
+                "Name": "Catalogus der verzamelingen van het Museum ten bate van het Onderwijs, 1914 (Vereeniging \u201cMuseum ten bate van het onderwijs\u201d: 1914).",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/11245/3.32171"
+                    }
+                ],
+                "Description and remarks": "Catalogus van de collectie van het Museum ten bate van het Onderwijs uit 1914. Opgesteld door de toenmalige directeur Herman van Cappelle."
+            },
+            {
+                "Type of source": "Boek",
+                "Name": "Cappelle, Herman van. Het Museum Ten Bate van Het Onderwijs Te \u2019S-Gravenhage En Zijne Toekomst (Vereeniging \u201cMuseum ten bate van het onderwijs\u201d: 1913).",
+                "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/64272291"
+                    },
+                    {
+                        "OCLC": "64272291"
+                    }
+                ],
+                "Description and remarks": "Boekje van toenmalig directeur Herman van Cappelle over zijn visie op de toekomst van het Museum ten bate van het Onderwijs."
+            },
+            {
+                "Type of source": "Boek",
+                "Name": "Cappelle, Herman van. Verslag van een studiereis naar Parijs, Bazel, Zu\u0308rich en Luzern ten behoeve van het Museum ten bate van het Onderwijs verricht in Sept. 1913 (Vereeniging \u201cMuseum ten bate van het onderwijs\u201d: 1914).",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/11245/3.32971"
+                    }
+                ],
+                "Description and remarks": "Verslag van een reis van Herman van Cappelle naar Frankrijk en Zwitserland waar hij inspiratie op wilde doen bij buitenlandse onderwijsmusea."
+            },
+            {
+                "Type of source": "Collectieplan",
+                "Name": "Museon-Omniversum. Collectie in een museum over actuele thema\u2019s: Collectieplan Museon-Omniversum 2024-2028 (Den Haag: 2024).",
+                "Link": [
+                    {
+                        "URL": "https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf"
+                    }
+                ],
+                "Description and remarks": "Collectieplan van het Museon. Geeft een goed overzicht van de aanwezige collecties en gaat ook in op het beleid van het museum met collecties die afkomstig zijn uit een koloniale context."
+            }
+        ]
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-04-29",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": null
+        }
+    ],
+    "File name": "Museon"
+}

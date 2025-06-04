@@ -155,5 +155,14 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-03-26",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        }
+    ],
     "File name": "ChristianMission"
 }

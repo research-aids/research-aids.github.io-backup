@@ -79,6 +79,20 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
             }
+        },
+        {
+            "Hoofdcursus Kampen": {
+                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/HoofdcursusKampen_English"
+            }
+        },
+        {
+            "Volkenkundig Museum Justinus van Nassau": {
+                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/JustinusNassau_English"
+            }
         }
     ],
     "Relevant data": {
@@ -179,5 +193,21 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-04-17",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": "2025-03-12",
+            "applies_to": "Main-text; Sources",
+            "author": "abacus",
+            "role": "translator",
+            "editing_notes": "abacus translations processed by wiebe reints"
+        }
+    ],
     "File name": "MilitaryAndNavy"
 }

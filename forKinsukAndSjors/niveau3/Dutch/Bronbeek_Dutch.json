@@ -16,6 +16,20 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
             }
+        },
+        {
+            "Hoofdcursus Kampen": {
+                "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch"
+            }
+        },
+        {
+            "Volkenkundig Museum Justinus van Nassau": {
+                "link": "published/niveau3/Dutch/JustinusNassau_20250225.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch"
+            }
         }
     ],
     "Relevant data": {
@@ -135,5 +149,14 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-10-02",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        }
+    ],
     "File name": "Bronbeek"
 }

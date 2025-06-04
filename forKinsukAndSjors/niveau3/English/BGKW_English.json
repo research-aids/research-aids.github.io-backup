@@ -67,7 +67,7 @@
             }
         },
         {
-            "Rijksmuseum Amsterdam\"": {
+            "Rijksmuseum Amsterdam": {
                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
@@ -183,5 +183,21 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-09-05",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": "2025-04-07",
+            "applies_to": "Main-text; Sources",
+            "author": "abacus",
+            "role": "translator",
+            "editing_notes": "abacus translations processed by wiebe reints"
+        }
+    ],
     "File name": "BGKW"
 }

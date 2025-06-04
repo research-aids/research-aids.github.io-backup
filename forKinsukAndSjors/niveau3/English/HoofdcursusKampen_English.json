@@ -1,0 +1,171 @@
+{
+    "Level": 3,
+    "Title": "Hoofdcursus Kampen",
+    "Abstract": "The Hoofdcursus was a military school in Kampen (Overijssel). Whereas the Royal Military Academy in Breda had a more scientific approach, the Hoofdcursus had a focus on practical education. As such, an ethnographic collection was assembled for training military personnel for the former Dutch East Indies. This collection was also open to the general public. After the closure of the school in 1923, the collection was incorporated into that of the Royal Military Academy in Breda.",
+    "RelatedAides": [
+        {
+            "Military and navy": {
+                "link": "published/niveau2/English/MilitaryAndNavy_20240417.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+            }
+        },
+        {
+            "Wageningen University & Research": {
+                "link": "published/niveau3/English/WageningenUniversity_20240508.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/WageningenUniversity_English"
+            }
+        },
+        {
+            "Museum Bronbeek": {
+                "link": "published/niveau3/English/Bronbeek_20241002.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/Bronbeek_English"
+            }
+        },
+        {
+            "Museum Nusantara": {
+                "link": "published/niveau3/English/MNusantara_20250225.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/MNusantara_English"
+            }
+        },
+        {
+            "Volkenkundig Museum Justinus van Nassau": {
+                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/JustinusNassau_English"
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q104871407"
+        ],
+        "Name variations": [],
+        "Tags": {
+            "Activity": [
+                "[Ethnographic museum](http://vocab.getty.edu/aat/300451067)",
+                "[Military academy](http://vocab.getty.edu/aat/300343417)"
+            ],
+            "Type of objects": [
+                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)",
+                "[Weapons](http://vocab.getty.edu/page/aat/300036926)"
+            ],
+            "Geographical": [
+                "[Indonesia](https://www.geonames.org/1643084)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1900",
+            "Year of end": "1923"
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"The collection of the Hoofdcursus in Kampen was transferred to the collection of the Royal Military Academy in Breda in 1923.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "https://app.colonialcollections.nl/nl/objects?query=hoofdcursus+kampen"
+        }
+    },
+    "Main-text": {
+        "content": "The Hoofdcursus was a military school in Kampen (Overijssel). Whereas the Royal Military Academy in Breda had a more scientific approach, the Hoofdcursus had a focus on practical education. As such, an ethnographic collection was assembled for training military personnel for the former Dutch East Indies. This collection was also open to the general public. After the closure of the school in 1923, the collection was incorporated into that of the Royal Military Academy in Breda.\n\n### Description\n\nThe Hoofdcursus, as the military academy in Kampen was called from 1880 onwards, provided education for military personnel in the Netherlands and the former Dutch East Indies. The curriculum at the Hoofdcursus had a more practical focus than that of the Royal Military Academy (Koninklijke Militaire Academie, KMA) in Breda. At the beginning of the twentieth century, certain courses were tailored to working in the Dutch colony in Southeast Asia. Hendrik Theodorus van IJsseldijk was appointed as a teacher of Malay language, geography and ethnography, among other subjects. To illustrate his lessons, Van IJsseldijk brought his own ethnographic collection to the Hoofdcursus and encouraged other military personnel to send their collections there too. George Nypels was among those who responded to Van IJsseldijk's request. Among other things, he donated a gravestone he had brought back from Aceh. This object was examined in 2022 as part of the Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE). See the full report under \u2018Sources\u2019. H.J. Voskuil, who later succeeded Van IJsseldijk as curator of the ethnographic collection, also donated various objects.\n\nIn 1900, Van IJsseldijk was able to set up a museum with the collection he had assembled through various donations. Due to the diversity of the objects, it was also open to the general public. When the Hoofdcursus was discontinued in 1923, it was decided to merge the ethnographic collection with that of the KMA in Breda. H.J. Voskuil, who had since become curator of the museum in Kampen, was therefore also given responsibility for the Breda collection. From 1923 onwards, the combined collections formed the Ethnographic Collection of the Royal Military Academy and the Main Course. See the relevant search help for more information about the ethnographic collection of the KMA and the later Volkenkundig Museum \u2018Justinus van Nassau\u2019.\n\n### Provenance research\n\nThe archive of the ethnographic collection of the Main Course was merged with the collection in 1923 into that of the Volkenkundig Museum \u2018Justinus van Nassau\u2019. That museum in turn became part of the then Rijksmuseum voor Volkenkunde, now the [Wereldmuseum Leiden](https://app.colonialcollections. nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Within the archive of the Wereldmuseum Leiden, the archive of the Volkenkundig Museum Justinus van Nassau can be found under the access \u2018A16\u2019. For more information about the collection or to consult archival documents, please contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). The general archive of the Hoofdcursus in Kampen is available through the National Archives in The Hague.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archive",
+                "Name": "Wereldmuseum Leiden, access A16: Archief Volkenkundig museum 'Justinus van Nassau'",
+                "Link": [
+                    {
+                        "URL": []
+                    }
+                ],
+                "Description and remarks": "The archive of the ethnographic collection from the Hoofdcursus is part of the archive of the Volkenkundig Museum 'Justinus van Nassau'. This archive is held by Wereldmuseum Leiden. To consult the archive you need to contact collectieinfo@wereldmuseum.nl."
+            },
+            {
+                "Type of source": "Archive",
+                "Name": "National Archives, The Hague, Koninklijke Militaire Academie (KMA), nummer toegang 2.13.22",
+                "Link": [
+                    {
+                        "URL": "https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22"
+                    }
+                ],
+                "Description and remarks": "Archives from the Koninklijke Militaire Academie (KMA), (1818) 1828-1940 (1941); Hoofcursussen in Kampen and 's-Hertogenbosch, 1878-1923; Cadettenschool, 1890-1924; Artillerie- en Genieschool in Delft, 1816-1823."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": "Book",
+                "Name": "Willemsen, Marie-Antoinette. Volkenkunde in Breda: Van Indische Verzameling Tot Rijksmuseum Justinus van Nassau En de Vereniging Voor Volkenkunde (Breda: Bureau Cultureel Erfgoed, Directie Ruimtelijke Ontwikkeling, Gemeente Breda, 2011).",
+                "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/729683375?oclcNum=729683375"
+                    },
+                    {
+                        "ISBN": "9789491045004"
+                    },
+                    {
+                        "OCLC": "729683375"
+                    }
+                ],
+                "Description and remarks": "Book from 2011 in which extensive information on the history of Volkenkundig Museum 'Justinus van Nassau' can be found. Chapter 2 contains a short description of the history and collection of the Hoofdcursus in Kampen."
+            },
+            {
+                "Type of source": "Book",
+                "Name": "IJsseldijk, H.T. van. De ethnographische verzameling van den Hoofdcursus: 1907-1911, 1913 (Kampen, z.d.).",
+                "Link": [
+                    {
+                        "URL": "https://search.worldcat.org/title/69319323?oclcNum=69319323"
+                    },
+                    {
+                        "OCLC": "69319323"
+                    }
+                ],
+                "Description and remarks": "Description of the ethnographic collections in Kampen by its first administrator H.T. van IJsseldijk."
+            },
+            {
+                "Type of source": "Provenance report",
+                "Name": "Shatanawi, Mirjam. Provenance report regarding Grafsteen [gravestone] - Batu Aceh. PPROCE provenance reports (Amsterdam, 2022).",
+                "Link": [
+                    {
+                        "URL": "https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh"
+                    }
+                ],
+                "Description and remarks": "Provenance report that was created in the context of the Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). The report describes the provenance of an object (Grave stone, RV-3600-594) that was brought from Aceh (Sumatra) by officer George Nypels. The report contains references to relevant source material regarding the museum in Kampen."
+            },
+            {
+                "Type of source": "Provenance report",
+                "Name": "Quist, T. Provenance report regarding Staatsiekris - keris (Ceremonial Kris). PPROCE provenance reports; No. 31 (Amsterdam, 2022).",
+                "Link": [
+                    {
+                        "URL": "https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118"
+                    }
+                ],
+                "Description and remarks": "Provenance report that was created in the context of the Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). The report describes the provenance of a kris (RV-3600-193) that was looted in April 1908 during the so-called 'puputan' in Klunkung (Bali). In 1909 the object became part of the collection of the Royal Military Academy in Breda. It can be read in the report that other looted objects at that time were gifted by the Dutch state to the Hoofdcursus in Kampen. The kris concerned was restituted to the Republic of Indonesia in 2023."
+            },
+            {
+                "Type of source": "Provenance report",
+                "Name": "Quist, T. Provenance report regarding Krissen [Krisses]. PPROCE provenance reports; No. 32 (Amsterdam, 2022).",
+                "Link": [
+                    {
+                        "URL": "https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516"
+                    }
+                ],
+                "Description and remarks": "Provenance report that was created in the context of the Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). The report describes the provenance of a set of krisses (RV-3600-1892 t/m RV-3600-1895). Through George Nypels the krisses were firstly part of the collection in Kampen and were later transferred to the ethnographic museum of the Royal Military Academy in Breda. The report contains references to relevant source material."
+            }
+        ]
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-05-13",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": null
+        }
+    ],
+    "File name": "HoofdcursusKampen"
+}

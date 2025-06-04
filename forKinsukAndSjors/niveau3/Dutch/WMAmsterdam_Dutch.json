@@ -79,6 +79,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
             }
+        },
+        {
+            "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
+                "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch"
+            }
         }
     ],
     "Relevant data": {
@@ -210,5 +217,14 @@
             }
         ]
     },
+    "editing_metadata": [
+        {
+            "date": "2024-07-11",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        }
+    ],
     "File name": "WMAmsterdam"
 }

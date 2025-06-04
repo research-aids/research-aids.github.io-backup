@@ -121,6 +121,13 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/RMO_Dutch"
                             }
+                        },
+                        {
+                            "International Colonial and Export Exhibition 1883": {
+                                "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Trade_English"
@@ -136,6 +143,20 @@
                                 "link": "niveau3/English/Bronbeek_20241002.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Bronbeek_English"
+                            }
+                        },
+                        {
+                            "Hoofdcursus Kampen": {
+                                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/HoofdcursusKampen_English"
+                            }
+                        },
+                        {
+                            "Volkenkundig Museum Justinus van Nassau": {
+                                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/JustinusNassau_English"
                             }
                         }
                     ],
@@ -195,6 +216,20 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English"
                             }
+                        },
+                        {
+                            "Volkenkundig museum 'Gerardus van der Leeuw'": {
+                                "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/GerardusLeeuw_English"
+                            }
+                        },
+                        {
+                            "Museon-Omniversum": {
+                                "link": "published/niveau3/English/Museon_20250513.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Museon_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Science_English"
@@ -232,5 +267,14 @@
         ],
         "3. Locations": []
     },
+    "editing_metadata": [
+        {
+            "date": "2024-06-06",
+            "applies_to": null,
+            "author": "wiebe reints",
+            "role": "original_author",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        }
+    ],
     "File name": "TopLevel"
 }
