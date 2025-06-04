@@ -96,7 +96,9 @@
                 "Type of source": "Website",
                 "Name": "Website Museon-Omniversum",
                 "Link": {
-                    "URL": "https://www.museon-omniversum.nl/"
+                    "URL": [
+                        "https://www.museon-omniversum.nl/"
+                    ]
                 },
                 "Description and remarks": "The museum website. Here you find a short history of the organisation, annual reports and the collection policy."
             },
