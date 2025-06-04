@@ -1,5 +1,55 @@
 from datetime import datetime
 
+class EditEvent:
+    @classmethod
+    def from_yaml(cls, yml):
+        appl = yml.get("applies_to", None) 
+        notes = yml.get("notes", None)
+        return cls(yml["Date"],
+                   yml["Author"],
+                   yml["Role"],
+                   appl, notes)
+        
+    def __init__(self, date, author, role, applies_to=None, notes=None):
+        self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
+        self.author = author
+        self.role = role
+        self.is_origin = ("original author" in self.role.lower())
+        
+        self.applies_to = applies_to
+        self.notes = notes
+
+    def __str__(self):
+        return str(self.__dict__)
+        
+    def to_markdown(self, markdown=""):
+        return markdown + f"""edited by {self.author} as {self.role} on {self.date.strftime("%Y-%m-%d")}
+        {f'(applies to section: {self.notes})' if self.notes else ''}
+        {f'(notes: {self.notes})' if self.notes else ''}""".strip()
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
+
+class EditHistory(tuple):
+    @classmethod
+    def from_yaml(cls, yml):
+        return cls(map(EditEvent.from_yaml, yml))
+    
+    def __new__(cls, events):
+        sorted_events = sorted(events, key=lambda e: e.date)
+        self = super().__new__(cls, sorted_events)
+        self.origin_event = self.origin_event()
+        # self.first_event = self.origin_event if self.origin_event else self[0]
+        self.last_event = self[-1] if len(self) > 1 else None
+        return self        
+        
+    def to_markdown(self, markdown=""):
+        return markdown + "\n  - ".join(e.to_markdown() for e in self)
+
+    def origin_event(self):
+        orig_events = tuple(e for e in self if e.is_origin)
+        return orig_events[0] if orig_events else None
+
 class ResearchAid:
     @staticmethod
     def get_level(level_id):
@@ -8,6 +58,9 @@ class ResearchAid:
     def __init__(self, yml, raise_parsing_error=False):
         self.level_id = int(yml["Level"])
         self.title = yml["Title"]
+
+        self.edit_history = EditHistory.from_yaml(yml["Editing-history"])
+
         self.author = "Wiebe Reints (@wreints)"
         self.time = datetime.today().strftime("%Y-%m-%d")
         try:
@@ -22,10 +75,13 @@ class ResearchAid:
     def __call__(self):
         if not self._parsed:
             return None
-        return f"""
-_This is a level {self.level_id} Research Aid_  
-_author: {self.author}_  
-_last edited: {self.time}_  
+
+        #_author: {self.author}_  
+        # _last edited: {self.time}_  
+        return f"""_This is a level {self.level_id} Research Aid_
+        _first {self.edit_history.origin_event.to_markdown()}_
+        {'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}
+
 
 # {self.title}
 
@@ -38,6 +94,15 @@ _last edited: {self.time}_
             raise ValueError(f"only Markdown can be interpreted as markdown! got {yml}")
         return yml["content"]
 
+    def parse_edit_history(self, yml):
+        
+    - Date: #mandatory
+      Applies_to: #optional
+      Author: #mandatory
+      Role: #mandatory
+      Editing_notes: #optional
+
+
     
     def parse_related_dict(self, yml):
         # key = next(yml.keys())
@@ -45,6 +110,7 @@ _last edited: {self.time}_
         item_title, item_value_dict = tuple(yml.items())[0]
         rel_type = item_value_dict["rel_type"]
         if rel_type.lower()  == "see also":
+            raise Exception("this Markdown doesn't get displayed right!")
             return f"_see also: [{item_title}]({item_value_dict["link"]})_  \n"
         elif rel_type == "broader":
             return f"_broader: [{item_title}]({item_value_dict["link"]})_  \n"

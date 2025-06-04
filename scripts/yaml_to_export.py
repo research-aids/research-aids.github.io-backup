@@ -98,6 +98,7 @@ if __name__ == "__main__":
             pdf.save(new_name)
         elif fmt.lower() == "docx":
             try:
+                raise Exception("bold and italics don't render!")
                 docx = Markdown2docx(name, markdown=[markdown_content])
                 docx.eat_soup()
                 docx.outfile = new_name
@@ -109,9 +110,11 @@ if __name__ == "__main__":
         else:
             pass
 
-    with open(f"{OUT_DIR}/didnt_parse.txt", "w") as handle:
-        handle.write("\n".join(didnt_parse))
+    if didnt_parse:
+        with open(f"{OUT_DIR}/didnt_parse.txt", "w") as handle:
+            handle.write("\n".join(didnt_parse))
 
 
-    with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
-        handle.write("\n".join(failed_to_save))
+    if failed_to_save:
+        with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
+            handle.write("\n".join(failed_to_save))
