@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-12-17_  
+_last edited by wiebe reints as original_author on 2024-12-17_
+
 
 # C.G.C. Reinwardt
 
@@ -36,55 +36,67 @@ _see also: [RMO](niveau3/Dutch/RMO_20241106.yml)_
 
 ## Primary sources
 
-**Archief**: Caspar George Carl Reinwardt archive and collection  
-[https://collectionguides.universiteitleiden.nl/resources/ubl208](https://collectionguides.universiteitleiden.nl/resources/ubl208)  
-_Collectiegids van de Universiteit Leiden over het Reinwardt-archief aldaar. Staan ook handige verwijzingen in naar ander relevant archiefmateriaal._  
+**Archief**:
+  > Caspar George Carl Reinwardt archive and collection  
+> [https://collectionguides.universiteitleiden.nl/resources/ubl208](https://collectionguides.universiteitleiden.nl/resources/ubl208)  
+> _Collectiegids van de Universiteit Leiden over het Reinwardt-archief aldaar. Staan ook handige verwijzingen in naar ander relevant archiefmateriaal._  
 
-**Archief**: Inventaris van het archief van prof. C.G.C. Reinwardt, 1808-1828 (NL-HaNA, Reinwardt, 2.21.204)  
-[https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf)  
-_Archief van Reinwardt bij het Nationaal Archief in Den Haag. Bevat allerhande soorten documenten._  
+**Archief**:
+  > Inventaris van het archief van prof. C.G.C. Reinwardt, 1808-1828 (NL-HaNA, Reinwardt, 2.21.204)  
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf)  
+> _Archief van Reinwardt bij het Nationaal Archief in Den Haag. Bevat allerhande soorten documenten._  
 
-**Correspondentie**: Reinwardt, C. G. C., and Teunis Willem van Heiningen. The Correspondence of Caspar Georg Carl Reinwardt (1773-1854). Voorburg: U2pi, 2011.  
-[https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf](https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf), [WorldCat 800943285](https://search.worldcat.org/title/800943285)  
-_Door T.W. van Heiningen gecombineerde correspondentie van Reinwardt, bevat briefwisselingen met allerhande relevante figuren._  
+**Correspondentie**:
+  > Reinwardt, C. G. C., and Teunis Willem van Heiningen. The Correspondence of Caspar Georg Carl Reinwardt (1773-1854). Voorburg: U2pi, 2011.  
+> [https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf](https://dwc.knaw.nl/wp-content/bestanden/reinwardt.pdf), [WorldCat 800943285](https://search.worldcat.org/title/800943285)  
+> _Door T.W. van Heiningen gecombineerde correspondentie van Reinwardt, bevat briefwisselingen met allerhande relevante figuren._  
 
-**Website**: Hoogleraren Universiteit Leiden - Caspar Georg Carl Reinwardt  
-[https://hoogleraren.universiteitleiden.nl/s/hoogleraren/item/1738](https://hoogleraren.universiteitleiden.nl/s/hoogleraren/item/1738)  
-_Database van de Universiteit Leiden met biografische gegevens van (voormalige) hoogleraren._  
+**Website**:
+  > Hoogleraren Universiteit Leiden - Caspar Georg Carl Reinwardt  
+> [https://hoogleraren.universiteitleiden.nl/s/hoogleraren/item/1738](https://hoogleraren.universiteitleiden.nl/s/hoogleraren/item/1738)  
+> _Database van de Universiteit Leiden met biografische gegevens van (voormalige) hoogleraren._  
 
-**Website**: Biografisch Portaal Nederland - Caspar Georg Carl Reinwardt  
-[http://www.biografischportaal.nl/persoon/40457008](http://www.biografischportaal.nl/persoon/40457008)  
-_Biografisch portaal met daarin biografische gegevens van allerhande 'belangrijke' Nederlandse personen. Bevat o.a. verwijzingen naar andere biografieën._  
+**Website**:
+  > Biografisch Portaal Nederland - Caspar Georg Carl Reinwardt  
+> [http://www.biografischportaal.nl/persoon/40457008](http://www.biografischportaal.nl/persoon/40457008)  
+> _Biografisch portaal met daarin biografische gegevens van allerhande 'belangrijke' Nederlandse personen. Bevat o.a. verwijzingen naar andere biografieën._  
 
-**Website**: DBNL - Caspar Georg Carl Reinwardt  
-[https://www.dbnl.org/auteurs/auteur.php?id=rein010](https://www.dbnl.org/auteurs/auteur.php?id=rein010)  
-_Overzicht van relevante literatuur over Reinwardt binnen het DBNL platform._  
+**Website**:
+  > DBNL - Caspar Georg Carl Reinwardt  
+> [https://www.dbnl.org/auteurs/auteur.php?id=rein010](https://www.dbnl.org/auteurs/auteur.php?id=rein010)  
+> _Overzicht van relevante literatuur over Reinwardt binnen het DBNL platform._  
 
 ## Secondary sources
 
-**Boek**: Reinwardt, Caspar Georg Carl. Waarnemingen aangaande de gesteldheid van de grond van het eiland Aruba, en het goud aldaar gevonden. Nederland: n.p., 1827.  
-[https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0](https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0), [WorldCat 71445372](https://search.worldcat.org/title/71445372)  
-_Boek van Reinwardt uit 1851 over de aanwezigheid van goud in de bodem van Aruba._  
+**Boek**:
+  > Reinwardt, Caspar Georg Carl. Waarnemingen aangaande de gesteldheid van de grond van het eiland Aruba, en het goud aldaar gevonden. Nederland: n.p., 1827.  
+> [https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0](https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0), [WorldCat 71445372](https://search.worldcat.org/title/71445372)  
+> _Boek van Reinwardt uit 1851 over de aanwezigheid van goud in de bodem van Aruba._  
 
-**Boek**: Reinwardt, C.G.C. Reis naar het oostelijk gedeelte van den Indischen Archipel, in het jaar 1821. Frederik Muller, 1858.  
-[https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf](https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf)  
-_Boek dat de opvolger van Reinwardt bij de Universiteit Leiden, W.H. de Vriese, opstelde aan de hand van aantekeningen van Reinwardt. Beschrijft de reis die Reinwardt tussen 1820 en 1822 maakte naar Timor, de Molukken en Celebes._  
+**Boek**:
+  > Reinwardt, C.G.C. Reis naar het oostelijk gedeelte van den Indischen Archipel, in het jaar 1821. Frederik Muller, 1858.  
+> [https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf](https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf)  
+> _Boek dat de opvolger van Reinwardt bij de Universiteit Leiden, W.H. de Vriese, opstelde aan de hand van aantekeningen van Reinwardt. Beschrijft de reis die Reinwardt tussen 1820 en 1822 maakte naar Timor, de Molukken en Celebes._  
 
-**Oratie**: Reinwardt, Caspar Georg Carl. Redevoering van C.G.C. Reinwardt: over hetgeen het onderzoek van Indië tot uitbreiding der natuurlijke historie heeft toegebragt. Gehouden den 3 mei 1823, bij het plegtig aanvaarden van het gewoon hoogleeraarsambt in de scheikunde, kruidkunde en natuurlijke historie aan de Hoogschool te Leyden. Nederland: J. van der Hey, 1823.  
-[https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC](https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC), [WorldCat 45125153](https://search.worldcat.org/title/45125153)  
-_Oratie van Reinwardt bij zijn inauguratie als hoogleraar scheikunde, botanie en natuurlijke historie en tevens directeur van de Hortus Botanicus aan de Universiteit Leiden._  
+**Oratie**:
+  > Reinwardt, Caspar Georg Carl. Redevoering van C.G.C. Reinwardt: over hetgeen het onderzoek van Indië tot uitbreiding der natuurlijke historie heeft toegebragt. Gehouden den 3 mei 1823, bij het plegtig aanvaarden van het gewoon hoogleeraarsambt in de scheikunde, kruidkunde en natuurlijke historie aan de Hoogschool te Leyden. Nederland: J. van der Hey, 1823.  
+> [https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC](https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC), [WorldCat 45125153](https://search.worldcat.org/title/45125153)  
+> _Oratie van Reinwardt bij zijn inauguratie als hoogleraar scheikunde, botanie en natuurlijke historie en tevens directeur van de Hortus Botanicus aan de Universiteit Leiden._  
 
-**Verhandelingen**: Haan, W. de, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck, and Natuurkundige Commissie in Oost-Indië (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
-[https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361](https://search.worldcat.org/title/12686361)  
-_Verhandelingen over de werkzaamheden van de Natuurkundige Commissie in Indonesië, werd oorspronkelijk in delen gepubliceerd tussen 1839 en 1847. Beslaat drie volumes: 1: Land- en Volkenkunde, 2: Zoölogie en 3: Zoölogie (vervolg) en Botanie._  
+**Verhandelingen**:
+  > Haan, W. de, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck, and Natuurkundige Commissie in Oost-Indië (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
+> [https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361](https://search.worldcat.org/title/12686361)  
+> _Verhandelingen over de werkzaamheden van de Natuurkundige Commissie in Indonesië, werd oorspronkelijk in delen gepubliceerd tussen 1839 en 1847. Beslaat drie volumes: 1: Land- en Volkenkunde, 2: Zoölogie en 3: Zoölogie (vervolg) en Botanie._  
 
-**Dissertatie**: Weber, A. Hybrid Ambitions: Science, Governance, and Empire in the Career of Caspar G.C. Reinwardt (1773-1854). Leiden University Press (LUP), 2012.  
-[https://hdl.handle.net/1887/18924](https://hdl.handle.net/1887/18924)  
-_Dissertatie van Andreas Weber uit 2012 in de vorm van een biografie van Reinwardt, geeft een uitgebreid overzicht van het leven en werkzaamheden van Reinwardt en plaatst het in de chronologische context. Bevat veel verwijzingen naar relevant (archief)materiaal._  
+**Dissertatie**:
+  > Weber, A. Hybrid Ambitions: Science, Governance, and Empire in the Career of Caspar G.C. Reinwardt (1773-1854). Leiden University Press (LUP), 2012.  
+> [https://hdl.handle.net/1887/18924](https://hdl.handle.net/1887/18924)  
+> _Dissertatie van Andreas Weber uit 2012 in de vorm van een biografie van Reinwardt, geeft een uitgebreid overzicht van het leven en werkzaamheden van Reinwardt en plaatst het in de chronologische context. Bevat veel verwijzingen naar relevant (archief)materiaal._  
 
-**Artikel**: Weber, Andreas. “Bitter Fruits of Accumulation: The Case of Caspar Georg Carl Reinwardt (1773-1854).” History of Science 52 (3): 297-318. 2014.  
-[https://doi.org/10.1177/0073275314546970](https://doi.org/10.1177/0073275314546970), [WorldCat 5723532657](https://search.worldcat.org/title/5723532657)  
-_Artikel van Andreas Weber, over het leven en werk van Reinwardt._  
+**Artikel**:
+  > Weber, Andreas. “Bitter Fruits of Accumulation: The Case of Caspar Georg Carl Reinwardt (1773-1854).” History of Science 52 (3): 297-318. 2014.  
+> [https://doi.org/10.1177/0073275314546970](https://doi.org/10.1177/0073275314546970), [WorldCat 5723532657](https://search.worldcat.org/title/5723532657)  
+> _Artikel van Andreas Weber, over het leven en werk van Reinwardt._  
 
 
 

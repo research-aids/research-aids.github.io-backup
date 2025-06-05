@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-10-02_  
+_last edited by wiebe reints as original_author on 2024-10-02_
+
 
 # Museum Bronbeek
 
@@ -31,34 +31,42 @@ In 2024 heeft Museum Bronbeek een [website](http://www.rmwo.nl/) gelanceerd met 
 
 _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
 _see also: [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
+_see also: [Hoofdcursus Kampen](published/niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/Dutch/JustinusNassau_20250225.yml)_  
 
 ## Primary sources
 
-**Website**: Ridders Militaire Willems-Orde  
-[https://www.rmwo.nl/](https://www.rmwo.nl/)  
-_Website met 6000 biografieën van Ridders in de Militaire Willems-Orde. Pagina's bevatten veel informatie over individuele militairen (rang, detachering, etc.)._  
+**Website**:
+  > Ridders Militaire Willems-Orde  
+> [https://www.rmwo.nl/](https://www.rmwo.nl/)  
+> _Website met 6000 biografieën van Ridders in de Militaire Willems-Orde. Pagina's bevatten veel informatie over individuele militairen (rang, detachering, etc.)._  
 
-**Website**: Collectiewebsite Museum Bronbeek  
-[http://museumbronbeek.nl/](http://museumbronbeek.nl/)  
-_Collectiewebsite van Museum Bronbeek, waarop de gehele collectie doorzoekbaar is._  
+**Website**:
+  > Collectiewebsite Museum Bronbeek  
+> [http://museumbronbeek.nl/](http://museumbronbeek.nl/)  
+> _Collectiewebsite van Museum Bronbeek, waarop de gehele collectie doorzoekbaar is._  
 
 ## Secondary sources
 
-**Boek**: Bevaart, Willem. Bronbeek. Tempo doeloe der liefdadigheid. Utrecht: Matrijs, 2009.  
-[https://search.worldcat.org/title/71717276?oclcNum=71717276](https://search.worldcat.org/title/71717276?oclcNum=71717276), [ISBN 9789053452875](https://isbnsearch.org/isbn/9789053452875), [WorldCat 71717276](https://search.worldcat.org/title/71717276)  
-_Boek uit 1998 over de geschiedenis van het tehuis met op pagina 76-81 kort aandacht voor de collectie van het museum._  
+**Boek**:
+  > Bevaart, Willem. Bronbeek. Tempo doeloe der liefdadigheid. Utrecht: Matrijs, 2009.  
+> [https://search.worldcat.org/title/71717276?oclcNum=71717276](https://search.worldcat.org/title/71717276?oclcNum=71717276), [ISBN 9789053452875](https://isbnsearch.org/isbn/9789053452875), [WorldCat 71717276](https://search.worldcat.org/title/71717276)  
+> _Boek uit 1998 over de geschiedenis van het tehuis met op pagina 76-81 kort aandacht voor de collectie van het museum._  
 
-**Boek**: Drossaard, Willem. Bronbeek een levend verleden. Franeker: Wever, 1984.  
-[https://search.worldcat.org/title/33354863?oclcNum=33354863](https://search.worldcat.org/title/33354863?oclcNum=33354863), [ISBN 9789061353768](https://isbnsearch.org/isbn/9789061353768), [WorldCat 33354863](https://search.worldcat.org/title/33354863)  
-_Boekje uit 1984 van de stichting Vrienden van Bronbeek. Het beschrijft de geschiedenis van het tehuis en biedt een uitgebreide gids tot het museum, aangevuld met historische overzichten van KNIL-acties en levensverhalen van bewoners._  
+**Boek**:
+  > Drossaard, Willem. Bronbeek een levend verleden. Franeker: Wever, 1984.  
+> [https://search.worldcat.org/title/33354863?oclcNum=33354863](https://search.worldcat.org/title/33354863?oclcNum=33354863), [ISBN 9789061353768](https://isbnsearch.org/isbn/9789061353768), [WorldCat 33354863](https://search.worldcat.org/title/33354863)  
+> _Boekje uit 1984 van de stichting Vrienden van Bronbeek. Het beschrijft de geschiedenis van het tehuis en biedt een uitgebreide gids tot het museum, aangevuld met historische overzichten van KNIL-acties en levensverhalen van bewoners._  
 
-**Boek**: Geerts, G.A. Gids voor het Museum van het Koninklijk Tehuis voor Oud-Militairen Bronbeek te Arnhem. Arnhem, 1991.  
-[https://search.worldcat.org/title/66285117?oclcNum=66285117](https://search.worldcat.org/title/66285117?oclcNum=66285117), [WorldCat 66285117](https://search.worldcat.org/title/66285117)  
-_Museumgids uit 1991 voor het bezoeken van Bronbeek, geschreven door de toenmalige commandant van het tehuis._  
+**Boek**:
+  > Geerts, G.A. Gids voor het Museum van het Koninklijk Tehuis voor Oud-Militairen Bronbeek te Arnhem. Arnhem, 1991.  
+> [https://search.worldcat.org/title/66285117?oclcNum=66285117](https://search.worldcat.org/title/66285117?oclcNum=66285117), [WorldCat 66285117](https://search.worldcat.org/title/66285117)  
+> _Museumgids uit 1991 voor het bezoeken van Bronbeek, geschreven door de toenmalige commandant van het tehuis._  
 
-**Boek**: Smits, J. C. J. Gedenkboek van Het Koloniaal-Militair Invalidenhuis Bronbeek. Arnhem: P. Gouda Quint, 1881.  
-[https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1](https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1), [WorldCat 882982014](https://search.worldcat.org/title/882982014)  
-_Boek uit 1881 geschreven door de eerste commandant van het tehuis, geeft een geschiedenis van de eerste periode en een uitvoerige beschrijving van de binnenkant van het tehuis. Het boek bevat vele illustraties waarop verschillende objecten duidelijk worden weergegeven._  
+**Boek**:
+  > Smits, J. C. J. Gedenkboek van Het Koloniaal-Militair Invalidenhuis Bronbeek. Arnhem: P. Gouda Quint, 1881.  
+> [https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1](https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1), [WorldCat 882982014](https://search.worldcat.org/title/882982014)  
+> _Boek uit 1881 geschreven door de eerste commandant van het tehuis, geeft een geschiedenis van de eerste periode en een uitvoerige beschrijving van de binnenkant van het tehuis. Het boek bevat vele illustraties waarop verschillende objecten duidelijk worden weergegeven._  
 
 
 

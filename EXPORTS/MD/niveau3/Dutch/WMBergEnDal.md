@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-10-01_  
+_last edited by wiebe reints as original_author on 2024-10-01_
+
 
 # Wereldmuseum Berg en Dal
 
@@ -43,15 +43,17 @@ _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_
 
 ## Primary sources
 
-**Archief**: AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
-[https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
-_Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten._  
+**Archief**:
+  > AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
+> [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
+> _Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten._  
 
 ## Secondary sources
 
-**Boek**: Grootaers, Jan-Lodewijk, Ineke Eisenburger, and Annemieke Van Damme. Vormen van Verwondering : De Geschiedenis En de Collecties van Het Afrika Museum, Berg En Dal. Berg en Dal: Afrika Museum, 2002.  
-[https://search.worldcat.org/title/66932031](https://search.worldcat.org/title/66932031), [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131, 9071611132](https://isbnsearch.org/isbn/9789071611131, 9071611132)  
-_Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde._  
+**Boek**:
+  > Grootaers, Jan-Lodewijk, Ineke Eisenburger, and Annemieke Van Damme. Vormen van Verwondering : De Geschiedenis En de Collecties van Het Afrika Museum, Berg En Dal. Berg en Dal: Afrika Museum, 2002.  
+> [https://search.worldcat.org/title/66932031](https://search.worldcat.org/title/66932031), [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131, 9071611132](https://isbnsearch.org/isbn/9789071611131, 9071611132)  
+> _Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde._  
 
 
 

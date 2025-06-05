@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2025-01-30_  
+_last edited by wiebe reints as original_author on 2025-01-30_
+
 
 # Museum Nusantara
 
@@ -32,30 +32,38 @@ Het archief van Museum Nusantara is na de sluiting van het museum overgebracht n
 _see also: [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
+_see also: [Hoofdcursus Kampen](published/niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/Dutch/JustinusNassau_20250225.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 
-**Website**: Collectie Nusantara  
-[http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)  
-_Website met informatie over voormalig Museum Nusantara en een doorzoekbaar overzicht over de collectie en hoe deze verdeeld is over verschillende binnen- en buitenlandse musea._  
+**Website**:
+  > Collectie Nusantara  
+> [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)  
+> _Website met informatie over voormalig Museum Nusantara en een doorzoekbaar overzicht over de collectie en hoe deze verdeeld is over verschillende binnen- en buitenlandse musea._  
 
-**Archief**: NL-DtAD 1009 - Museum Nusantara  
-[https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)  
-_Archief van voormalig Museum Nusantara. Archiefmateriaal met betrekking tot de collectie van het museum is te vinden onder kopje '2.5'. Onder 'Gedeponeerde archieven' is ook het archief van inventariskaarten van de Indische Instelling beschikbaar._  
+**Archief**:
+  > NL-DtAD 1009 - Museum Nusantara  
+> [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)  
+> _Archief van voormalig Museum Nusantara. Archiefmateriaal met betrekking tot de collectie van het museum is te vinden onder kopje '2.5'. Onder 'Gedeponeerde archieven' is ook het archief van inventariskaarten van de Indische Instelling beschikbaar._  
 
 ## Secondary sources
 
-**Publicatie**: Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018  
-[https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)  
-_Publicatie van Jos van Beurden over het proces van ontzameling van de collectie van Museum Nusantara. Bevat onder andere een uitgebreid overzicht van instellingen waar de collectie terecht is gekomen. Bevat ook informatie over eerdere ontzamelingen in het Nederlandse erfgoedlandschap._  
+**Publicatie**:
+  > Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018  
+> [https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)  
+> _Publicatie van Jos van Beurden over het proces van ontzameling van de collectie van Museum Nusantara. Bevat onder andere een uitgebreid overzicht van instellingen waar de collectie terecht is gekomen. Bevat ook informatie over eerdere ontzamelingen in het Nederlandse erfgoedlandschap._  
 
-**Boek**: Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014).  
-[https://search.worldcat.org/title/880822331?oclcNum=880822331](https://search.worldcat.org/title/880822331?oclcNum=880822331), [ISBN 9789054500131](https://isbnsearch.org/isbn/9789054500131), [WorldCat 880822331](https://search.worldcat.org/title/880822331)  
-_Boek met korte informatie over de geschiedenis van Museum Nusantara en een overzicht van de collectie._  
+**Boek**:
+  > Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014).  
+> [https://search.worldcat.org/title/880822331?oclcNum=880822331](https://search.worldcat.org/title/880822331?oclcNum=880822331), [ISBN 9789054500131](https://isbnsearch.org/isbn/9789054500131), [WorldCat 880822331](https://search.worldcat.org/title/880822331)  
+> _Boek met korte informatie over de geschiedenis van Museum Nusantara en een overzicht van de collectie._  
 
-**Boek**: Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989).  
-[https://search.worldcat.org/title/905471545?oclcNum=905471545](https://search.worldcat.org/title/905471545?oclcNum=905471545), [ISBN 9789071423048](https://isbnsearch.org/isbn/9789071423048), [WorldCat 905471545](https://search.worldcat.org/title/905471545)  
-_Boek over de (voor)geschiedenis van de Indische Instelling in Delft en het ontstaan van het latere Museum Nusantara._  
+**Boek**:
+  > Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989).  
+> [https://search.worldcat.org/title/905471545?oclcNum=905471545](https://search.worldcat.org/title/905471545?oclcNum=905471545), [ISBN 9789071423048](https://isbnsearch.org/isbn/9789071423048), [WorldCat 905471545](https://search.worldcat.org/title/905471545)  
+> _Boek over de (voor)geschiedenis van de Indische Instelling in Delft en het ontstaan van het latere Museum Nusantara._  
 
 
 

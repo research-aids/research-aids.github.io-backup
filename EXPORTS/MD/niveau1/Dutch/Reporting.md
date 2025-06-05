@@ -1,7 +1,7 @@
-
 _This is a level 1 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-05-01_  
+_last edited by wiebe reints as original_author on 2024-05-01_
+
 
 # Verslagleggen
 

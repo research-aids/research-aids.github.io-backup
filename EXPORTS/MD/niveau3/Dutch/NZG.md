@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-03-14_  
+_last edited by wiebe reints as original_author on 2024-03-14_
+
 
 # Nederlandsch Zendeling Genootschap
 
@@ -35,39 +35,47 @@ _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_
 
 ## Primary sources
 
-**Archief**: NL-UtHUA 1102-1 1  
-[https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)  
-_Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen._  
+**Archief**:
+  > NL-UtHUA 1102-1 1  
+> [https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)  
+> _Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen._  
 
-**Archief**: NL-RtSA 563  298  
-[https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)  
-_Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)._  
+**Archief**:
+  > NL-RtSA 563  298  
+> [https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)  
+> _Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)._  
 
 ## Secondary sources
 
-**Boek**: Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelingshuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874.  
-[WorldCat 993621798](https://search.worldcat.org/title/993621798), [https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false](https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false)  
-_Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG._  
+**Boek**:
+  > Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelingshuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874.  
+> [WorldCat 993621798](https://search.worldcat.org/title/993621798), [https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false](https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false)  
+> _Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG._  
 
-**Artikel**: “Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92.  
-[https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094](https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094)  
-_Lijst uit 1862 met objecten in het bezit van het NZG._  
+**Artikel**:
+  > “Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92.  
+> [https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094](https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094)  
+> _Lijst uit 1862 met objecten in het bezit van het NZG._  
 
-**Artikel**: Djajasoebrata, Alit M.L.R. 'To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.' In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002.  
-[https://search.worldcat.org/title/907014546?oclcNum=907014546](https://search.worldcat.org/title/907014546?oclcNum=907014546), [ISBN 9789057890789](https://isbnsearch.org/isbn/9789057890789), [WorldCat 907014546](https://search.worldcat.org/title/907014546)  
-_Boek over de geschiedenis van het etnografisch verzamelen in Indonesië. De collectie van het NZG wordt hierin ook behandeld._  
+**Artikel**:
+  > Djajasoebrata, Alit M.L.R. 'To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.' In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002.  
+> [https://search.worldcat.org/title/907014546?oclcNum=907014546](https://search.worldcat.org/title/907014546?oclcNum=907014546), [ISBN 9789057890789](https://isbnsearch.org/isbn/9789057890789), [WorldCat 907014546](https://search.worldcat.org/title/907014546)  
+> _Boek over de geschiedenis van het etnografisch verzamelen in Indonesië. De collectie van het NZG wordt hierin ook behandeld._  
 
-**Artikel**: Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97.  
-[https://search.worldcat.org/title/844374705?oclcNum=844374705](https://search.worldcat.org/title/844374705?oclcNum=844374705), [ISBN 2214-1111](https://portal.issn.org/resource/ISSN/2214-1111), [WorldCat 844374705](https://search.worldcat.org/title/844374705)  
-_Artikel over de vroege verzameling van het NZG._  
+**Artikel**:
+  > Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97.  
+> [https://search.worldcat.org/title/844374705?oclcNum=844374705](https://search.worldcat.org/title/844374705?oclcNum=844374705), [ISBN 2214-1111](https://portal.issn.org/resource/ISSN/2214-1111), [WorldCat 844374705](https://search.worldcat.org/title/844374705)  
+> _Artikel over de vroege verzameling van het NZG._  
 
-**Tijdschrift**: Mededeelingen van wege het Nederlandsche Zendelinggenootschap  
-[https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y](https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y)  
-_Het tijdschrift bevat voornamelijk bijdragen van de NZG-zendelingen over hun activiteiten, enkel incidenteel over de verzamelde objecten. De edities van 1857 tot en met 1919 zijn allemaal digitaal toegankelijk via [Delpher](https://www.delpher.nl/)._  
+**Tijdschrift**:
+  > Mededeelingen van wege het Nederlandsche Zendelinggenootschap  
+> [https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y](https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y)  
+> _Het tijdschrift bevat voornamelijk bijdragen van de NZG-zendelingen over hun activiteiten, enkel incidenteel over de verzamelde objecten. De edities van 1857 tot en met 1919 zijn allemaal digitaal toegankelijk via [Delpher](https://www.delpher.nl/)._  
 
-**Website**: Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap  
-[https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829](https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829)  
-_Online database van het Huygens Instituut met informatie over de geschiedenis van het NZG en waar relevant (archief)materiaal te vinden is._  
+**Website**:
+  > Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap  
+> [https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829](https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829)  
+> _Online database van het Huygens Instituut met informatie over de geschiedenis van het NZG en waar relevant (archief)materiaal te vinden is._  
 
 
 

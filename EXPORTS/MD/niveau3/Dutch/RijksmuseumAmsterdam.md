@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-10-06_  
+_last edited by wiebe reints as original_author on 2024-10-06_
+
 
 # Rijksmuseum Amsterdam
 
@@ -37,18 +37,21 @@ _see also: [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 
-**Archief**: Rijksmuseum en rechtsvoorgangers te Amsterdam  
-[https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25)  
-_Archieven van het Rijksmuseum Amsterdam en rechtsvoorgangers. Het archief gaat terug tot het begin van de negentiende eeuw en bevat documentatie tot en met 1995, het jaar dat het museum verzelfstandigde. Ook het archief van onder andere van het Koninklijk Kabinet van Zeldzaamheden bevindt zich binnen dit archief._  
+**Archief**:
+  > Rijksmuseum en rechtsvoorgangers te Amsterdam  
+> [https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25)  
+> _Archieven van het Rijksmuseum Amsterdam en rechtsvoorgangers. Het archief gaat terug tot het begin van de negentiende eeuw en bevat documentatie tot en met 1995, het jaar dat het museum verzelfstandigde. Ook het archief van onder andere van het Koninklijk Kabinet van Zeldzaamheden bevindt zich binnen dit archief._  
 
 ## Secondary sources
 
-**Publicatie**: Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
-[https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
-_Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een aantal objecten uit Rijksmuseum Amsterdam onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten._  
+**Publicatie**:
+  > Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
+> [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
+> _Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een aantal objecten uit Rijksmuseum Amsterdam onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten._  
 
 
 

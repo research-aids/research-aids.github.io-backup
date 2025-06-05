@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-03-27_  
+_last edited by wiebe reints as original_author on 2024-03-27_
+
 
 # Wageningen University & Research
 
@@ -29,30 +29,38 @@ _see also: [Ambtenaren](niveau2/Dutch/Ambtenaren_20240320.yml)_
 _see also: [Wetenschap](niveau2/Dutch/Science_20240814.yml)_  
 _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
 _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
+_see also: [Hoofdcursus Kampen](published/niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/Dutch/JustinusNassau_20250225.yml)_  
+_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
 
 ## Primary sources
 
-**Archiefstuk**: NL-AhGldA 0740  2324  
-[https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
-_Bevat stukken betreffende de collectie etnografica, gedateerd 1941 (over schenking Papua voorwerpen van C.C.F.M. Le Roux door RMV) en 1955 (over toekomst collectie)._  
+**Archiefstuk**:
+  > NL-AhGldA 0740  2324  
+> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
+> _Bevat stukken betreffende de collectie etnografica, gedateerd 1941 (over schenking Papua voorwerpen van C.C.F.M. Le Roux door RMV) en 1955 (over toekomst collectie)._  
 
-**Archiefstuk**: NL-AhGldA 0740  2833  
-[https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
-_Bevat een inventaris van de verzamelingen en leermiddelen van de afdeling Land- en volkenkunde, aangelegd in ca. 1904 en bijgehouden tot 1929._  
+**Archiefstuk**:
+  > NL-AhGldA 0740  2833  
+> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
+> _Bevat een inventaris van de verzamelingen en leermiddelen van de afdeling Land- en volkenkunde, aangelegd in ca. 1904 en bijgehouden tot 1929._  
 
-**Archiefstuk**: NL-AhGldA 0740 1522  
-[https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
-_Bevat stukken betreffende tentoonstellingen, 1947-1956._  
+**Archiefstuk**:
+  > NL-AhGldA 0740 1522  
+> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
+> _Bevat stukken betreffende tentoonstellingen, 1947-1956._  
 
-**Archiefstuk**: NL-HaNA  2.20.69 4402  
-[https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402)  
-_Bevat correspondentie over de verkoop van objecten door het Indisch Instituut (het huidige Wereldmuseum Amsterdam) in 1948._  
+**Archiefstuk**:
+  > NL-HaNA  2.20.69 4402  
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402)  
+> _Bevat correspondentie over de verkoop van objecten door het Indisch Instituut (het huidige Wereldmuseum Amsterdam) in 1948._  
 
 ## Secondary sources
 
-**Artikel**: “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
-[https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
-_Artikel uit 1953 dat beschrijft dat bijna honderd objecten uit de collectie van de Landbouwhogeschool vermist zijn._  
+**Artikel**:
+  > “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
+> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
+> _Artikel uit 1953 dat beschrijft dat bijna honderd objecten uit de collectie van de Landbouwhogeschool vermist zijn._  
 
 
 

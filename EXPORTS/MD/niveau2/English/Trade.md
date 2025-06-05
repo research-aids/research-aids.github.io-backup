@@ -1,7 +1,7 @@
-
 _This is a level 2 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-03-16_  
+_last edited by abacus as translator on 2025-03-12_
+
 
 # Trade
 
@@ -53,26 +53,31 @@ _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_
 _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 
-**Database**: Art Sales Catalogues Online  
-[https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
-_This database is based on the ‘Répertoire des Catalogues de Ventes Publiques’ by Frits Lugt. The digititalised auction catalogues of the RKD can also be accessed via this database._  
+**Database**:
+  > Art Sales Catalogues Online  
+> [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
+> _This database is based on the ‘Répertoire des Catalogues de Ventes Publiques’ by Frits Lugt. The digititalised auction catalogues of the RKD can also be accessed via this database._  
 
-**Database**: AGHORA  
-[https://agorha.inha.fr](https://agorha.inha.fr)  
-_Database of the French National Institute of Art History (INHA). Contains information on individuals and institutions involved in the trade in art and archaeological objects._  
+**Database**:
+  > AGHORA  
+> [https://agorha.inha.fr](https://agorha.inha.fr)  
+> _Database of the French National Institute of Art History (INHA). Contains information on individuals and institutions involved in the trade in art and archaeological objects._  
 
 ## Secondary sources
 
-**Book**: Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
-[https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
-_Book describing the trade in various ethnographic objects, with a focus on the Low Countries._  
+**Book**:
+  > Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
+> [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
+> _Book describing the trade in various ethnographic objects, with a focus on the Low Countries._  
 
-**Book**: Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.  
-[https://search.worldcat.org/title/71681153?oclcNum=71681153](https://search.worldcat.org/title/71681153?oclcNum=71681153), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
-_Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands._  
+**Book**:
+  > Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.  
+> [https://search.worldcat.org/title/71681153?oclcNum=71681153](https://search.worldcat.org/title/71681153?oclcNum=71681153), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
+> _Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands._  
 
 
 

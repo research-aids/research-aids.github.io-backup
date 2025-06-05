@@ -1,7 +1,7 @@
-
 _This is a level 2 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-08-14_  
+_last edited by wiebe reints as original_author on 2024-08-14_
+
 
 # Wetenschap
 
@@ -49,20 +49,26 @@ _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity
 _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+_see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
 
 ## Secondary sources
 
-**Boek**: Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001 (Leiden: KITLV Uitgeverij, 2001).  
-[https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
-_Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
+**Boek**:
+  > Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001 (Leiden: KITLV Uitgeverij, 2001).  
+> [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
+> _Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
 
-**Boek**: Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie (Nationaal Natuurhistorisch Museum: Leiden, 1995).  
-[WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
-_Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
+**Boek**:
+  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie (Nationaal Natuurhistorisch Museum: Leiden, 1995).  
+> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
+> _Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
 
-**Artikel**: Weber, Andreas. 'Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century'. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72-95.  
-[WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
-_Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
+**Artikel**:
+  > Weber, Andreas. 'Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century'. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72-95.  
+> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
+> _Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
 
 
 

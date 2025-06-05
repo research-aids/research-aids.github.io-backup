@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-05-08_  
+_last edited by abacus as translator on 2025-04-24_
+
 
 # Wageningen University & Research
 
@@ -29,30 +29,38 @@ _see also: [Civil servants](niveau2/English/CivilServants_20240316.yml)_
 _see also: [Science](niveau2/English/Science_20240821.yml)_  
 _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
 _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+_see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](published/niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Primary sources
 
-**Archival access**: NL-AhGldA 0740  2324  
-[https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
-_Contains documents relating to the ethnographic collection, dated 1941 (on donation of Papua objects from C.C.F.M. Le Roux by RMV) and 1955 (on the future of the collection)._  
+**Archival access**:
+  > NL-AhGldA 0740  2324  
+> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
+> _Contains documents relating to the ethnographic collection, dated 1941 (on donation of Papua objects from C.C.F.M. Le Roux by RMV) and 1955 (on the future of the collection)._  
 
-**Archival access**: NL-AhGldA 0740  2833  
-[https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
-_Contains an inventory of the collections and teaching resources of the Department of Geography and Ethnology, created around 1904 and maintained until 1929._  
+**Archival access**:
+  > NL-AhGldA 0740  2833  
+> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
+> _Contains an inventory of the collections and teaching resources of the Department of Geography and Ethnology, created around 1904 and maintained until 1929._  
 
-**Archival access**: NL-AhGldA 0740 1522  
-[https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
-_Contains documents relating to exhibitions, 1947-1956._  
+**Archival access**:
+  > NL-AhGldA 0740 1522  
+> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
+> _Contains documents relating to exhibitions, 1947-1956._  
 
-**Archival access**: NL-HaNA  2.20.69 4402  
-  
-_Contains correspondence regarding the sale of objects by the Indisch Instituut (now Wereldmuseum Amsterdam) in 1948._  
+**Archival access**:
+  > NL-HaNA  2.20.69 4402  
+>   
+> _Contains correspondence regarding the sale of objects by the Indisch Instituut (now Wereldmuseum Amsterdam) in 1948._  
 
 ## Secondary sources
 
-**Article**: “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
-[https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
-_Article from 1953 about the disappearance of nearly 100 objects from the College of Agriculture collection._  
+**Article**:
+  > “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
+> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
+> _Article from 1953 about the disappearance of nearly 100 objects from the College of Agriculture collection._  
 
 
 

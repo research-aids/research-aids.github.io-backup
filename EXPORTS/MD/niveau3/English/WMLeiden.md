@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-05-08_  
+_last edited by abacus as translator on 2025-04-24_
+
 
 # Wereldmuseum Leiden
 
@@ -52,32 +52,40 @@ _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905
 _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
 _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Secondary sources
 
-**Book**: Effert, F.R., and Caffey, Nola. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008.  
-[ISBN 9789057891595](https://isbnsearch.org/isbn/9789057891595), [WorldCat 244247206](https://search.worldcat.org/title/244247206)  
-_History of the Rijks Etnografisch Museum in Leiden (now Wereldmuseum Leiden) and how it was formed from the collections of the Royal Cabinet of Curiosities._  
+**Book**:
+  > Effert, F.R., and Caffey, Nola. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008.  
+> [ISBN 9789057891595](https://isbnsearch.org/isbn/9789057891595), [WorldCat 244247206](https://search.worldcat.org/title/244247206)  
+> _History of the Rijks Etnografisch Museum in Leiden (now Wereldmuseum Leiden) and how it was formed from the collections of the Royal Cabinet of Curiosities._  
 
-**Dissertation**: Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003.  
-[WorldCat 317117313](https://search.worldcat.org/title/317117313)  
-_Dissertation by Rudolf Effert, corresponds to the English version. About the history of the National Museum of Ethnology and how it was formed from the collections of the Royal Cabinet of Curiosities._  
+**Dissertation**:
+  > Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003.  
+> [WorldCat 317117313](https://search.worldcat.org/title/317117313)  
+> _Dissertation by Rudolf Effert, corresponds to the English version. About the history of the National Museum of Ethnology and how it was formed from the collections of the Royal Cabinet of Curiosities._  
 
-**Book**: Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913.  
-[WorldCat 562473153](https://search.worldcat.org/title/562473153)  
-_Book by Joseph Marquart, a German historian and curator of the Rijks Ethnografisch Museum in Leiden, about the museum’s Benin collection._  
+**Book**:
+  > Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913.  
+> [WorldCat 562473153](https://search.worldcat.org/title/562473153)  
+> _Book by Joseph Marquart, a German historian and curator of the Rijks Ethnografisch Museum in Leiden, about the museum’s Benin collection._  
 
-**Book**: Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937.  
-[https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005](https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005)  
-_Comprehensive history of the first one hundred years of the National Museum of Ethnology. Describes how the museum originated from the Von Siebold collection and the Royal Cabinet of Curiosities, and how it was subsequently formed into an ethnographic museum. Contains information on objects acquired during the first hundred years of the museum._  
+**Book**:
+  > Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937.  
+> [https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005](https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005)  
+> _Comprehensive history of the first one hundred years of the National Museum of Ethnology. Describes how the museum originated from the Von Siebold collection and the Royal Cabinet of Curiosities, and how it was subsequently formed into an ethnographic museum. Contains information on objects acquired during the first hundred years of the museum._  
 
-**Magazine**: Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.  
-[ISBN 9789088909986](https://isbnsearch.org/isbn/9789088909986), [WorldCat 1293851263](https://search.worldcat.org/title/1293851263)  
-_Publication of the Wereldmuseum regarding its Benin collection. Provides information on the link between objects from Benin within the Wereldmuseum collection (not just in Leiden) and the looting of Benin City by British soldiers in 1897._  
+**Magazine**:
+  > Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.  
+> [ISBN 9789088909986](https://isbnsearch.org/isbn/9789088909986), [WorldCat 1293851263](https://search.worldcat.org/title/1293851263)  
+> _Publication of the Wereldmuseum regarding its Benin collection. Provides information on the link between objects from Benin within the Wereldmuseum collection (not just in Leiden) and the looting of Benin City by British soldiers in 1897._  
 
-**Book**: Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.  
-[ISBN 9789071310812](https://isbnsearch.org/isbn/9789071310812), [WorldCat 901467113](https://search.worldcat.org/title/901467113)  
-_Book about the history of today's Wereldmuseum Leiden._  
+**Book**:
+  > Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.  
+> [ISBN 9789071310812](https://isbnsearch.org/isbn/9789071310812), [WorldCat 901467113](https://search.worldcat.org/title/901467113)  
+> _Book about the history of today's Wereldmuseum Leiden._  
 
 
 

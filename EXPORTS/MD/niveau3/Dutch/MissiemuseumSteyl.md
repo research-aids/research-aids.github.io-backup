@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-10-21_  
+_last edited by wiebe reints as original_author on 2024-10-21_
+
 
 # Missiemuseum Steyl
 
@@ -35,19 +35,22 @@ _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_
 
 ## Primary sources
 
-**Website**: Website Missiemuseum Steyl  
-[https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
-_De website van het Missiemuseum Steyl bevat relevante (contact)informatie._  
+**Website**:
+  > Website Missiemuseum Steyl  
+> [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
+> _De website van het Missiemuseum Steyl bevat relevante (contact)informatie._  
 
 ## Secondary sources
 
-**Rapport**: Collectieplan Missiemuseum Steyl 2023-2028  
-[https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
-_Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie._  
+**Rapport**:
+  > Collectieplan Missiemuseum Steyl 2023-2028  
+> [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
+> _Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie._  
 
-**Collectiedatabase**: Limburgs Efgoednet  
-[https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
-_Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet._  
+**Collectiedatabase**:
+  > Limburgs Efgoednet  
+> [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
+> _Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet._  
 
 
 

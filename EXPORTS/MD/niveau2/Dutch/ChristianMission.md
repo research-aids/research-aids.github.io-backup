@@ -1,7 +1,7 @@
-
 _This is a level 2 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-03-26_  
+_last edited by wiebe reints as original_author on 2024-03-26_
+
 
 # Zending en Missie
 
@@ -42,39 +42,47 @@ _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_
 
 ## Primary sources
 
-**Kaart**: Zendingstereinen Indonesië  
-[https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)  
-_De zendingskaart in het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië._  
+**Kaart**:
+  > Zendingstereinen Indonesië  
+> [https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)  
+> _De zendingskaart in het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië._  
 
-**Webportal**: Repertorium van Nederlandse zending- en missiearchieven 1800-1960  
-[https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)  
-_Het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen._  
+**Webportal**:
+  > Repertorium van Nederlandse zending- en missiearchieven 1800-1960  
+> [https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)  
+> _Het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen._  
 
 ## Secondary sources
 
-**Artikel**: Corbey, Raymond, en Karel Weener. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015).  
-[https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
-_Overzichtsartikel uit 2015 over het verzamelen van etnografische voorwerpen door missionarissen._  
+**Artikel**:
+  > Corbey, Raymond, en Karel Weener. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015).  
+> [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
+> _Overzichtsartikel uit 2015 over het verzamelen van etnografische voorwerpen door missionarissen._  
 
-**Artikel**: Hård, Mikael, en Mai Lin Tjoa-Bonatz. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860–1940.' Social Studies of Science 50, no. 6 (2020): 932-955.  
-[https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
-_Artikel uit 2020 dat kijkt naar Duitse missionarissen in Nederlands-Indië en hoe hun verblijfplaatsen functioneerden als 'trading zones', waar culturele uitwisseling plaatsvond._  
+**Artikel**:
+  > Hård, Mikael, en Mai Lin Tjoa-Bonatz. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860–1940.' Social Studies of Science 50, no. 6 (2020): 932-955.  
+> [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
+> _Artikel uit 2020 dat kijkt naar Duitse missionarissen in Nederlands-Indië en hoe hun verblijfplaatsen functioneerden als 'trading zones', waar culturele uitwisseling plaatsvond._  
 
-**Boek**: Leyten, Harrie. From idol to art: African 'objects with power': a challenge for missionaries, anthropologists and museum curators. Leiden: African Studies Centre, 2015.  
-[https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)  
-_Dissertatie uit 2015 van Harrie Leyten, die tussen 1961 en 1971 zelf missionaris was in Ghana en later conservator van de Afrikaanse collectie bij het Tropenmuseum in Amsterdam. De dissertatie is een reflectie op de lange carrière van Leyten._  
+**Boek**:
+  > Leyten, Harrie. From idol to art: African 'objects with power': a challenge for missionaries, anthropologists and museum curators. Leiden: African Studies Centre, 2015.  
+> [https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)  
+> _Dissertatie uit 2015 van Harrie Leyten, die tussen 1961 en 1971 zelf missionaris was in Ghana en later conservator van de Afrikaanse collectie bij het Tropenmuseum in Amsterdam. De dissertatie is een reflectie op de lange carrière van Leyten._  
 
-**Artikel**: Leyten, Harrie. “Shared cultural heritage: missionary collections in the Netherlands.” Material Religion 8, no. 1 (2012): 103-104.  
-[https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
-_Artikel van Harrie Leyten over de collecties in Nederland die verzameld zijn door missionarissen._  
+**Artikel**:
+  > Leyten, Harrie. “Shared cultural heritage: missionary collections in the Netherlands.” Material Religion 8, no. 1 (2012): 103-104.  
+> [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
+> _Artikel van Harrie Leyten over de collecties in Nederland die verzameld zijn door missionarissen._  
 
-**Boekhoofdstuk**: Tjoa-Bonatz, Mai Lin. “Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.” In Casting faiths : imperialism and the transformation of religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009.  
-[https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
-_Hoofdstuk in het boek In Casting Faiths van Mai Lin Tjoa-Bonatz over de invloed van missionarissen op de kerstening van het volk van Nias._  
+**Boekhoofdstuk**:
+  > Tjoa-Bonatz, Mai Lin. “Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.” In Casting faiths : imperialism and the transformation of religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009.  
+> [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
+> _Hoofdstuk in het boek In Casting Faiths van Mai Lin Tjoa-Bonatz over de invloed van missionarissen op de kerstening van het volk van Nias._  
 
-**Boekhoofdstuk**: Wingfield, Chris. “Missionary Museums.“ In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate, 231-238. London: Bloomsbury, 2017.  
-[https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
-_Hoofdstuk in het boek Religion in Museums van Chris Wingfield over missie musea._  
+**Boekhoofdstuk**:
+  > Wingfield, Chris. “Missionary Museums.“ In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate, 231-238. London: Bloomsbury, 2017.  
+> [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
+> _Hoofdstuk in het boek Religion in Museums van Chris Wingfield over missie musea._  
 
 
 

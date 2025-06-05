@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-07-04_  
+_last edited by wiebe reints as original_author on 2024-07-04_
+
 
 # Koninklijk Instituut voor Taal- Land- en Volkenkunde
 
@@ -43,43 +43,52 @@ _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_
 
 ## Primary sources
 
-**Collectiegids**: Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)  
-[https://collectionguides.universiteitleiden.nl/resources/ubl301](https://collectionguides.universiteitleiden.nl/resources/ubl301)  
-_Digitale toegang tot de collectie van het KITLV bij de universiteitsbibliotheek Leiden. Deze collectiegids geeft een uitgebreid overzicht van al het KITLV materiaal dat beschikbaar is via de UBL._  
+**Collectiegids**:
+  > Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)  
+> [https://collectionguides.universiteitleiden.nl/resources/ubl301](https://collectionguides.universiteitleiden.nl/resources/ubl301)  
+> _Digitale toegang tot de collectie van het KITLV bij de universiteitsbibliotheek Leiden. Deze collectiegids geeft een uitgebreid overzicht van al het KITLV materiaal dat beschikbaar is via de UBL._  
 
-**Archieftoegang**: Aziatische manuscripten (KITLV)  
-[https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
-_Toegang tot de collectie Aziatische manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D Or'._  
+**Archieftoegang**:
+  > Aziatische manuscripten (KITLV)  
+> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
+> _Toegang tot de collectie Aziatische manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D Or'._  
 
-**Archieftoegang**: Europese manuscripten (KITLV)  
-[https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
-_Toegang tot de collectie Europese manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D H'._  
+**Archieftoegang**:
+  > Europese manuscripten (KITLV)  
+> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
+> _Toegang tot de collectie Europese manuscripten van het KITLV in de catalogus van de universiteitsbibliotheek Leiden. Deze collectie is ook vindbaar met het kenmerk 'D H'._  
 
-**Digitale collectie**: Maps (KITLV)  
-[https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps)  
-_De kaartencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Via deze pagina heb je toegang tot 16.000 kaarten en 500 atlassen van Indonesië, Suriname, de Nederlandse Antillen en Zuidoost Azië, grotendeels uit de negentiende en twintigste eeuw._  
+**Digitale collectie**:
+  > Maps (KITLV)  
+> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps)  
+> _De kaartencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Via deze pagina heb je toegang tot 16.000 kaarten en 500 atlassen van Indonesië, Suriname, de Nederlandse Antillen en Zuidoost Azië, grotendeels uit de negentiende en twintigste eeuw._  
 
-**Digitale collectie**: Southeast Asian & Caribbean Images (KITLV)  
-[https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos)  
-_De foto- en afbeeldingencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Rond 1890 begon het KITLV met het verzamelen van foto's om een beeld van de oostelijke en westelijke Nederlandse koloniale gebieden vast te leggen. Via deze website van de UBL heb je toegang tot een grote collectie foto's, prints en tekeningen._  
+**Digitale collectie**:
+  > Southeast Asian & Caribbean Images (KITLV)  
+> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos)  
+> _De foto- en afbeeldingencollectie van het KITLV heeft een eigen website binnen de Digital Collections van de Universiteit Leiden. Rond 1890 begon het KITLV met het verzamelen van foto's om een beeld van de oostelijke en westelijke Nederlandse koloniale gebieden vast te leggen. Via deze website van de UBL heb je toegang tot een grote collectie foto's, prints en tekeningen._  
 
-**Digitale collectie**: Oral History Archive SMGI (KITLV)  
-[https://digitalcollections.universiteitleiden.nl/view/collection/smgi](https://digitalcollections.universiteitleiden.nl/view/collection/smgi)  
-_Via deze pagina heb je toegang tot de collectie interviews van de Stichting Mondelinge Geschiedenis Indonesië. De collectie bevat audiobestanden en samenvattingen van interviews met 724 personen over hun ervaringen in voormalig Nederlands-Indië._  
+**Digitale collectie**:
+  > Oral History Archive SMGI (KITLV)  
+> [https://digitalcollections.universiteitleiden.nl/view/collection/smgi](https://digitalcollections.universiteitleiden.nl/view/collection/smgi)  
+> _Via deze pagina heb je toegang tot de collectie interviews van de Stichting Mondelinge Geschiedenis Indonesië. De collectie bevat audiobestanden en samenvattingen van interviews met 724 personen over hun ervaringen in voormalig Nederlands-Indië._  
 
-**Digitale collectie**: South East Asian Pop Music (KITLV)  
-[https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic](https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic)  
-_Via deze pagina heb je toegang tot de collectie Zuidoost-Aziatische popmuziek van het KITLV, voornamelijk uit Indonesië._  
+**Digitale collectie**:
+  > South East Asian Pop Music (KITLV)  
+> [https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic](https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic)  
+> _Via deze pagina heb je toegang tot de collectie Zuidoost-Aziatische popmuziek van het KITLV, voornamelijk uit Indonesië._  
 
 ## Secondary sources
 
-**Boek**: Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
-[https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
-_Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
+**Boek**:
+  > Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
+> [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
+> _Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
 
-**Tijdschrift**: Bijdragen tot de taal-, land- en volkenkunde  
-[https://brill.com/view/journals/bki/bki-overview.xml](https://brill.com/view/journals/bki/bki-overview.xml), [ISBN 2213-4379](https://portal.issn.org/resource/ISSN/2213-4379)  
-_Het tijdschrift van het KITLV, dat eerst door het KITLV zelf werd uitgegeven, maar tegenwoordig door Brill. Alle volumes, vanaf de eerste editie uit 1853, zijn beschikbaar via Brill. Vroegere edities bevatten ook notulen van Bestuurs- en Algemene Vergaderingen, tegenwoordig ligt de focus op onderzoek uit en naar Zuid-Oost Azië in verschillende disciplines._  
+**Tijdschrift**:
+  > Bijdragen tot de taal-, land- en volkenkunde  
+> [https://brill.com/view/journals/bki/bki-overview.xml](https://brill.com/view/journals/bki/bki-overview.xml), [ISBN 2213-4379](https://portal.issn.org/resource/ISSN/2213-4379)  
+> _Het tijdschrift van het KITLV, dat eerst door het KITLV zelf werd uitgegeven, maar tegenwoordig door Brill. Alle volumes, vanaf de eerste editie uit 1853, zijn beschikbaar via Brill. Vroegere edities bevatten ook notulen van Bestuurs- en Algemene Vergaderingen, tegenwoordig ligt de focus op onderzoek uit en naar Zuid-Oost Azië in verschillende disciplines._  
 
 
 

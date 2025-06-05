@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-03-13_  
+_last edited by wiebe reints as original_author on 2024-03-13_
+
 
 # Groote Koninklijke Bazar
 
@@ -30,45 +30,55 @@ _see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)
 
 ## Primary sources
 
-**Archiefstuk**: NL-HaNA 2.09.46  
-[https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
-_Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie._  
+**Archiefstuk**:
+  > NL-HaNA 2.09.46  
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
+> _Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie._  
 
-**Archiefstuk**: NL-HaNA 3.17.13.03  
-[https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
-_Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers._  
+**Archiefstuk**:
+  > NL-HaNA 3.17.13.03  
+> [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
+> _Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers._  
 
-**Archiefstuk**: NL-HlmNHA 476 836-839  
-[https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77](https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77)  
-_Stukken uit het archief van het Koninklijk Kabinet van Zeldzaamheden over de aankoop van objecten bij onder andere De Groote Koninklijke Bazar._  
+**Archiefstuk**:
+  > NL-HlmNHA 476 836-839  
+> [https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77](https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77)  
+> _Stukken uit het archief van het Koninklijk Kabinet van Zeldzaamheden over de aankoop van objecten bij onder andere De Groote Koninklijke Bazar._  
 
-**Archiefstuk**: NL-HlmNHA 476 811  
-[https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
-_Declaraties wegens geleverde goederen en diensten, 1813, 1824-1831. Het Koninklijk Kabinet van Zeldzaamheden kocht voorwerpen bij Dirk Boer, waarvan melding wordt gemaakt in deze archieftoegang._  
+**Archiefstuk**:
+  > NL-HlmNHA 476 811  
+> [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
+> _Declaraties wegens geleverde goederen en diensten, 1813, 1824-1831. Het Koninklijk Kabinet van Zeldzaamheden kocht voorwerpen bij Dirk Boer, waarvan melding wordt gemaakt in deze archieftoegang._  
 
-**Archiefstuk**: Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062  
-[https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
-_Affiche van de Koninklijke bazar uit 1926._  
+**Archiefstuk**:
+  > Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062  
+> [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
+> _Affiche van de Koninklijke bazar uit 1926._  
 
 ## Secondary sources
 
-**Artikel**: Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.  
-[https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
-_Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst._  
+**Artikel**:
+  > Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.  
+> [https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
+> _Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst._  
 
-**Artikel**: Baird, Christina en Helen Backx-Palsgraaf. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.  
-[https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
-_In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830._  
+**Artikel**:
+  > Baird, Christina en Helen Backx-Palsgraaf. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.  
+> [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
+> _In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830._  
 
-**Boek**: Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
-[https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251), [WorldCat 902181455](https://search.worldcat.org/title/902181455)  
-_Boek over de eerdere winkel van Dirk Boer._  
+**Boek**:
+  > Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
+> [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251), [WorldCat 902181455](https://search.worldcat.org/title/902181455)  
+> _Boek over de eerdere winkel van Dirk Boer._  
 
-**Boek**: Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.  
-[https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
-**Catalogus**: Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.  
-[https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
-_Beschrijving van de Koninklijke bazar door Dirk Boer._  
+**Boek**:
+  > Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.  
+> [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
+**Catalogus**:
+  > Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.  
+> [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
+> _Beschrijving van de Koninklijke bazar door Dirk Boer._  
 
 
 

@@ -1,7 +1,7 @@
-
 _This is a level 2 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-08-21_  
+_last edited by abacus as translator on 2025-03-12_
+
 
 # Science
 
@@ -45,20 +45,26 @@ _see also: [Wageningen University & Research](niveau3/English/WageningenUniversi
 _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
+_see also: [Museon-Omniversum](published/niveau3/English/Museon_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](published/niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Secondary sources
 
-**Book**: Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.  
-[https://search.worldcat.org/title/858749398?oclcNum=858749398](https://search.worldcat.org/title/858749398?oclcNum=858749398), [ISBN 9789004257870](https://isbnsearch.org/isbn/9789004257870), [WorldCat 858749398](https://search.worldcat.org/title/858749398)  
-_Historiography of the KITLV that covers 150 years of KITLV history but is at the same time a history of scientific practice in the (former) Dutch colonies. This English version is not a one-on-one translation of the 2001 Dutch original Tussen oriëntalisme en wetenschap._  
+**Book**:
+  > Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.  
+> [https://search.worldcat.org/title/858749398?oclcNum=858749398](https://search.worldcat.org/title/858749398?oclcNum=858749398), [ISBN 9789004257870](https://isbnsearch.org/isbn/9789004257870), [WorldCat 858749398](https://search.worldcat.org/title/858749398)  
+> _Historiography of the KITLV that covers 150 years of KITLV history but is at the same time a history of scientific practice in the (former) Dutch colonies. This English version is not a one-on-one translation of the 2001 Dutch original Tussen oriëntalisme en wetenschap._  
 
-**Book**: Holthuis, Lipke. 1820 - 1958: Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995.  
-[WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
-_Book from 1995 describing the history of the former Nationaal Natuurhistorisch Museum from 1820 to 1958. Contains structured information about the building of the museum collection and the curators of the time._  
+**Book**:
+  > Holthuis, Lipke. 1820 - 1958: Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995.  
+> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
+> _Book from 1995 describing the history of the former Nationaal Natuurhistorisch Museum from 1820 to 1958. Contains structured information about the building of the museum collection and the curators of the time._  
 
-**Article**:  Weber, Andreas. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” BMGN: Low Countries Historical Review.  
-[WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
-_Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)._  
+**Article**:
+  >  Weber, Andreas. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” BMGN: Low Countries Historical Review.  
+> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
+> _Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)._  
 
 
 

@@ -1,7 +1,7 @@
-
 _This is a level 3 Research Aid_  
-_author: Wiebe Reints (@wreints)_  
-_last edited: 2025-06-02_  
+_first edited by wiebe reints as original_author on 2024-05-07_  
+_last edited by abacus as translator on 2025-04-24_
+
 
 # Kunsthandel Van Lier
 
@@ -35,19 +35,22 @@ _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_
 
 ## Primary sources
 
-**Archive**: RKD – Netherlands Institute for Art History / Carel van Lier NL-HaRKD.0108  
-[https://rkd.nl/nl/explore/collections/108](https://rkd.nl/nl/explore/collections/108)  
-_Letters and postcards, mainly from artists, and other documents covering the period 1927-1948_  
+**Archive**:
+  > RKD – Netherlands Institute for Art History / Carel van Lier NL-HaRKD.0108  
+> [https://rkd.nl/nl/explore/collections/108](https://rkd.nl/nl/explore/collections/108)  
+> _Letters and postcards, mainly from artists, and other documents covering the period 1927-1948_  
 
-**Archive**: RKD – Netherlands Institute for Art History / Leendert van Lier NL-HaRKD.0065  
-[https://rkd.nl/explore/collections/65](https://rkd.nl/explore/collections/65)  
-_Various Kunstzaal van Lier invitations, 1951-1953; various catalogues including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eugène Brands and others, 1954-1955._  
+**Archive**:
+  > RKD – Netherlands Institute for Art History / Leendert van Lier NL-HaRKD.0065  
+> [https://rkd.nl/explore/collections/65](https://rkd.nl/explore/collections/65)  
+> _Various Kunstzaal van Lier invitations, 1951-1953; various catalogues including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eugène Brands and others, 1954-1955._  
 
 ## Secondary source
 
-**Book**: Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.  
-[https://search.worldcat.org/title/902336725?oclcNum=902336725](https://search.worldcat.org/title/902336725?oclcNum=902336725), [ISBN 9789068683431](https://isbnsearch.org/isbn/9789068683431)  
-_Biography of Carel van Lier._  
+**Book**:
+  > Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.  
+> [https://search.worldcat.org/title/902336725?oclcNum=902336725](https://search.worldcat.org/title/902336725?oclcNum=902336725), [ISBN 9789068683431](https://isbnsearch.org/isbn/9789068683431)  
+> _Biography of Carel van Lier._  
 
 
 
