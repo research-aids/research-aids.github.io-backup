@@ -98,7 +98,7 @@ if __name__ == "__main__":
             pdf.save(new_name)
         elif fmt.lower() == "docx":
             try:
-                raise Exception("bold and italics don't render!")
+                # raise Exception("bold and italics don't render!")
                 docx = Markdown2docx(name, markdown=[markdown_content])
                 docx.eat_soup()
                 docx.outfile = new_name
