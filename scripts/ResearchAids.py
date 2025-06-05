@@ -144,12 +144,12 @@ class Level0(ResearchAid):
     def parse_topic(self, yml):
         # print( "---", yml, "---")
         if isinstance(yml, list): return ""
-        # item_title, item_fields = tuple(yml.items())[0]
-        # if item_fields["rel_type"] == "see also":
-        #     md = f"""_see also {item_title} ({item_fields["link"]})_
-        #     """
-        # else:
-        #     raise ValueError(f"{item_fields}")
+        item_title, item_fields = tuple(yml.items())[0]
+        if item_fields["rel_type"] == "see also":
+            md = f"""_see also {item_title} ({item_fields["link"]})_
+            """
+        else:
+            raise ValueError(f"{item_fields}")
         md = self.parse_related_dict(yml)
 
         subtopics = item_fields.get("Subtopics", None)
