@@ -82,7 +82,7 @@ Sources:
       Name: "Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelinghuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874."
       Link: 
         - OCLC: "993621798"
-        - Google Books ID: "zoOCOEgNA4AC"
+        - URL: "https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false"
       Description and remarks: "Catalogue from 1874 containing lists of objects owned by the NZG."
     - Type of source: "Article"
       Name: "“Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92."
@@ -92,16 +92,21 @@ Sources:
     - Type of source: "Book section"
       Name: "Djajasoebrata, Alit M.L.R. “To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.” In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002."
       Link:
-       - ISBN: "9789057890789"
+        - URL: "https://search.worldcat.org/title/907014546?oclcNum=907014546"
+        - ISBN: "9789057890789"
+        - OCLC: "907014546"
       Description and remarks: "Book on the history of ethnographic collecting in Indonesia. It also contains a section covering the collection of the NZG."
     - Type of source: "Article"
       Name: "Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97."
       Link: 
+        - URL: "https://search.worldcat.org/title/844374705?oclcNum=844374705"
         - ISSN: "2214-1111"
         - OCLC: "844374705"
       Description and remarks: "Article on the early collection of the NZG."
     - Type of source: "Magazine"
       Name: "Mededeelingen van wege het Nederlandsche Zendelinggenootschap"
+      Link:
+        - URL: "https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y"
       Description and remarks: "The journal contains mostly contributions from NZG missionaries about their activities, only incidentally about the items they collected. Editions from 1857 to 1919 are all digitally accessible via Delpher."
     - Type of source: "Website"
       Name: "Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap"
