@@ -5,16 +5,16 @@ class EditEvent:
     def from_yaml(cls, yml):
         appl = yml.get("applies_to", None) 
         notes = yml.get("notes", None)
-        return cls(yml["Date"],
-                   yml["Author"],
-                   yml["Role"],
-                   appl, notes)
+        return cls(yml["date"],
+                   yml["author"],
+                   yml["role"],
+                   appl, notes)        
         
     def __init__(self, date, author, role, applies_to=None, notes=None):
         self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
         self.author = author
         self.role = role
-        self.is_origin = ("original author" in self.role.lower())
+        self.is_origin = ("original_author" in self.role.lower().replace(" ", "_"))
         
         self.applies_to = applies_to
         self.notes = notes
@@ -38,13 +38,16 @@ class EditHistory(tuple):
     def __new__(cls, events):
         sorted_events = sorted(events, key=lambda e: e.date)
         self = super().__new__(cls, sorted_events)
+        if len(self) < 1:
+            raise ValueError(f"Empty EditHistory does not make sense!")
         self.origin_event = self.origin_event()
-        # self.first_event = self.origin_event if self.origin_event else self[0]
-        self.last_event = self[-1] if len(self) > 1 else None
+        self.first_event = self.origin_event if self.origin_event else self[0]
+        self.last_event = self[-1]
         return self        
         
     def to_markdown(self, markdown=""):
         return markdown + "\n  - ".join(e.to_markdown() for e in self)
+
 
     def origin_event(self):
         orig_events = tuple(e for e in self if e.is_origin)
@@ -59,10 +62,16 @@ class ResearchAid:
         self.level_id = int(yml["Level"])
         self.title = yml["Title"]
 
-        self.edit_history = EditHistory.from_yaml(yml["Editing-history"])
+        self.edit_history = EditHistory.from_yaml(yml.get("editing_metadata", tuple()))
 
-        self.author = "Wiebe Reints (@wreints)"
-        self.time = datetime.today().strftime("%Y-%m-%d")
+        if self.edit_history:
+            self.author = self.edit_history.origin_event.author
+            self.date = self.edit_history.origin_event.date
+        else:
+            self.author = "Wiebe Reints (@wreints)"
+            self.date = datetime.today().strftime("%Y-%m-%d")
+
+            
         try:
             self.level = self.get_level(self.level_id)(yml)
             self._parsed = True
@@ -78,9 +87,9 @@ class ResearchAid:
 
         #_author: {self.author}_  
         # _last edited: {self.time}_  
-        return f"""_This is a level {self.level_id} Research Aid_
-        _first {self.edit_history.origin_event.to_markdown()}_
-        {'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}
+        return f"""_This is a level {self.level_id} Research Aid_  
+_first {self.edit_history.origin_event.to_markdown()}_  
+{f'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}
 
 
 # {self.title}
@@ -93,16 +102,6 @@ class ResearchAid:
         if not (yml["content-type"] == 'text/markdown'):
             raise ValueError(f"only Markdown can be interpreted as markdown! got {yml}")
         return yml["content"]
-
-    def parse_edit_history(self, yml):
-        
-    - Date: #mandatory
-      Applies_to: #optional
-      Author: #mandatory
-      Role: #mandatory
-      Editing_notes: #optional
-
-
     
     def parse_related_dict(self, yml):
         # key = next(yml.keys())
@@ -110,7 +109,7 @@ class ResearchAid:
         item_title, item_value_dict = tuple(yml.items())[0]
         rel_type = item_value_dict["rel_type"]
         if rel_type.lower()  == "see also":
-            raise Exception("this Markdown doesn't get displayed right!")
+            # raise Exception("this Markdown doesn't get displayed right!")
             return f"_see also: [{item_title}]({item_value_dict["link"]})_  \n"
         elif rel_type == "broader":
             return f"_broader: [{item_title}]({item_value_dict["link"]})_  \n"
@@ -236,13 +235,13 @@ class Level2(Level1):
             md += f"## {source_lvl}\n\n"
             for source in source_ls:
                 'Type of source', 'Name', 'Link', 'Description and remarks'
-                source_md = f"**{source['Type of source']}**: {source['Name']}"
+                source_md = f"**{source['Type of source']}**:\n  > {source['Name']}"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
                 links_md = ", ".join(self.parse_source_links(source['Link']))
                 # links_md = "(" + links_md + ")"
-                md += f"{source_md}  \n{links_md}  \n"
+                md += f"{source_md}  \n> {links_md}  \n"
                 if"Description and remarks" in source:
-                    md+= f"_{source["Description and remarks"]}_  \n\n"
+                    md+= f"> _{source["Description and remarks"]}_  \n\n"
         return md
                 
     def __call__(self):
