@@ -34,7 +34,7 @@ Breakdown:
         rel_type: "see also"
   "2. Topics":
     - "Museums and collection holding institutions":
-        link: "published/niveau2/English/Museum_20250113"
+        link: "published/niveau2/English/Museum_20250113.yml"
         rel_type: "see also"
         Subtopics: 
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
