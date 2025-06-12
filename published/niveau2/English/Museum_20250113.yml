@@ -1,0 +1,69 @@
+Level: 2
+
+Title: "Museums and collection holding institutions"
+
+Abstract: "This page is under construction."
+
+RelatedAides:
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+      link: "published/niveau3/English/BGKW_20240905.yml"
+      rel_type: "see also"
+  - "Museum Bronbeek":
+      link: "published/niveau3/English/Bronbeek_20241002.yml"
+      rel_type: "see also"
+  - "Artis Ethnographic Museum":
+      link: "published/niveau3/English/EMArtis_20240712.yml"
+      rel_type: "see also"
+  - "Volkenkundig Museum 'Gerardus van der Leeuw'":
+      link: "published/niveau3/English/GerardusLeeuw_20250602.yml"
+      rel_type: "see also"
+  - "Hoofdcursus Kampen":
+      link: "published/niveau3/English/HoofdcursusKampen_20250513.yml"
+      rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+      link: "published/niveau3/English/JustinusNassau_20250513.yml"
+      rel_type: "see also"
+  - "Royal Cabinet of Curiosities":
+      link: "published/niveau3/English/KKZ_20240417.yml"
+      rel_type: "see also"
+  - "Museum Nusantara":
+      link: "published/niveau3/English/MNusantara_20250225.yml"
+      rel_type: "see also"
+  - "Missiemuseum Steyl":
+      link: "published/niveau3/English/MissiemuseumSteyl_20241021.yml"
+      rel_type: "see also"
+  - "Museon-Omniversum":
+      link: "published/niveau3/English/Museon_20250513.yml"
+      rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+      link: "published/niveau3/English/Naturalis_20270710.yml"
+      rel_type: "see also"
+  - "Rijksmuseum van Oudheden":
+      link: "published/niveau3/English/RMO_20241106.yml"
+      rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+      link: "published/niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+      rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+      link: "published/niveau3/English/WMAmsterdam_20240809.yml"
+      rel_type: "see also"
+  - "Wereldmuseum Berg en Dal":
+      link: "published/niveau3/English/WMBergEnDal_20241001.yml"
+      rel_type: "see also"
+  - "Wereldmuseum Leiden":
+      link: "published/niveau3/English/WMLeiden_20240508.yml"
+      rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+      link: "published/niveau3/English/WMRotterdam_2040822.yml"
+      rel_type: "see also"
+
+Relevant data: []
+
+Main-text:
+  content: |
+    **This page in under construction.**
+  content-type: text/markdown
+
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
