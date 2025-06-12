@@ -46,6 +46,22 @@
         ],
         "2. Onderwerpen": [
             {
+                "Personen": {
+                    "link": "published/niveau2/Dutch/Persons_20250113.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/Persons_Dutch"
+                }
+            },
+            {
                 "Musea en efgoedbeherende instellingen": {
                     "link": "published/niveau2/Dutch/Museum_20250113.yml",
                     "rel_type": "see also",

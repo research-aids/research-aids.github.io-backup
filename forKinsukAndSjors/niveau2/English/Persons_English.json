@@ -1,0 +1,40 @@
+{
+    "Level": 2,
+    "Title": "Persons",
+    "Abstract": "This page is under construction.",
+    "RelatedAides": [
+        {
+            "C.G.C. Reinwardt": {
+                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+            }
+        }
+    ],
+    "Relevant data": [],
+    "Main-text": {
+        "content": "**This page in under construction.**\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary Sources": [],
+        "Secondary sources": []
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-01-13",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Creation of this RA."
+        },
+        {
+            "date": "2025-06-12",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Adding this RA to LP."
+        }
+    ],
+    "File name": "Persons"
+}

@@ -46,6 +46,22 @@
         ],
         "2. Topics": [
             {
+                "Persons": {
+                    "link": "published/niveau2/English/Persons_20250113.yml",
+                    "rel_type": "see also",
+                    "Subtopics": [
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/English/Persons_English"
+                }
+            },
+            {
                 "Museums and collection holding institutions": {
                     "link": "published/niveau2/English/Museum_20250113.yml",
                     "rel_type": "see also",

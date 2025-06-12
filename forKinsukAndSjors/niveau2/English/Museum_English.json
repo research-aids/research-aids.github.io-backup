@@ -132,5 +132,21 @@
         "Primary Sources": [],
         "Secondary sources": []
     },
+    "editing_metadata": [
+        {
+            "date": "2025-01-13",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Creation of this RA."
+        },
+        {
+            "date": "2025-06-12",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Adding this RA to LP."
+        }
+    ],
     "File name": "Museum"
 }
