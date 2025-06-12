@@ -33,6 +33,25 @@ Breakdown:
         link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
         rel_type: "see also"
   "2. Onderwerpen":
+    - "Thema's":
+        link: "published/niveau2/Dutch/Themes_20250612.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "Zending en missie":
+              link: "published/niveau2/Dutch/ChristianMission_20240326.yml"
+              rel_type: "see also"
+          - "Ambtenaren":
+              link: "published/niveau2/Dutch/CivilServants_20240320.yml"
+              rel_type: "see also" 
+          - "Leger en marine":
+              link: "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+              rel_type: "see also"
+          - "Wetenschap":
+              link: "published/niveau2/Dutch/Science_20240814.yml"
+              rel_type: "see also"
+          - "Handel":
+              link: "published/niveau2/Dutch/Trade_20240326.yml"
+              rel_type: "see also"
     - "Ambtenaren":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"

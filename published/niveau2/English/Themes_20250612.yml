@@ -1,0 +1,34 @@
+Level: 2
+
+Title: "Themes"
+
+Abstract: "This page is under construction"
+
+RelatedAides:
+  - "Christian mission":
+        link: "published/niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+  - "Civil servants":
+        link: "published/niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also" 
+  - "Military and navy":
+        link: "published/niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Science":
+        link: "published/niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "Trade":
+        link: "published/niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+
+Relevant data: []
+
+Main-text:
+  content: |
+    **This page is under construction.**
+  content-type: text/markdown
+
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
+

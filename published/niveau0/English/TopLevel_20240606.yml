@@ -33,6 +33,25 @@ Breakdown:
         link: "niveau1/English/RestitutionPolicy_20250123.yml"
         rel_type: "see also"
   "2. Topics":
+    - "Themes":
+        link: "published/niveau2/English/Themes_20250612.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Christian mission":
+              link: "published/niveau2/English/ChristianMission_20240417.yml"
+              rel_type: "see also"
+          - "Civil servants":
+              link: "published/niveau2/English/CivilServants_20240316.yml"
+              rel_type: "see also" 
+          - "Military and navy":
+              link: "published/niveau2/English/MilitaryAndNavy_20240417.yml"
+              rel_type: "see also"
+          - "Science":
+              link: "published/niveau2/English/Science_20240821.yml"
+              rel_type: "see also"
+          - "Trade":
+              link: "published/niveau2/English/Trade_20240316.yml"
+              rel_type: "see also"
     - "Civil servants":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"

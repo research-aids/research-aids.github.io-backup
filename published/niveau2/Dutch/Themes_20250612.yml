@@ -1,0 +1,40 @@
+Level: 2
+
+Title: "Thema's"
+
+Abstract: "Deze pagina is nog in ontwikkeling."
+
+RelatedAides:
+  - "Zending en missie":
+        link: "published/niveau2/Dutch/ChristianMission_20240326.yml"
+        rel_type: "see also"
+  - "Ambtenaren":
+        link: "published/niveau2/Dutch/CivilServants_20240320.yml"
+        rel_type: "see also" 
+  - "Leger en marine":
+        link: "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "see also"
+  - "Wetenschap":
+        link: "published/niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Handel":
+        link: "published/niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "see also"
+
+Relevant data: []
+
+Main-text:
+  content: |
+    **Deze pagina is nog in ontwikkeling.**
+  content-type: text/markdown
+
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
+
+editing_metadata:
+  - date: 2025-06-12
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of this RA to make a new division on the landing page. 
