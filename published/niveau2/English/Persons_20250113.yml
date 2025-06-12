@@ -5,9 +5,6 @@ Title: "Persons"
 Abstract: "This page is under construction."
 
 RelatedAides:
-  - "Pieter H. Pott":
-        link: "niveau3/Dutch/PieterPott_20240312.yml"
-        rel_type: "see also"
   - "C.G.C. Reinwardt":
         link: "niveau3/Dutch/Reinwardt_20241217.yml"
         rel_type: "see also" 
@@ -23,3 +20,14 @@ Sources:
   Primary Sources: []
   Secondary sources: []
 
+editing_metadata:
+  - date: 2025-01-13
+    applies_to:
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of this RA.
+  - date: 2025-06-12
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Adding this RA to LP. 

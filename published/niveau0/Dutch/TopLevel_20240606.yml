@@ -33,6 +33,13 @@ Breakdown:
         link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
         rel_type: "see also"
   "2. Onderwerpen":
+    - "Personen":
+        link: "published/niveau2/Dutch/Persons_20250113.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "C.G.C. Reinwardt":
+              link: "niveau3/Dutch/Reinwardt_20241217.yml"
+              rel_type: "see also" 
     - "Musea en efgoedbeherende instellingen":
         link: "published/niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
