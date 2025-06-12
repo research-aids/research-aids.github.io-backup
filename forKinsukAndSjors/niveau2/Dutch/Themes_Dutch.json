@@ -1,0 +1,61 @@
+{
+    "Level": 2,
+    "Title": "Thema's",
+    "Abstract": "Deze pagina is nog in ontwikkeling.",
+    "RelatedAides": [
+        {
+            "Zending en missie": {
+                "link": "published/niveau2/Dutch/ChristianMission_20240326.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch"
+            }
+        },
+        {
+            "Ambtenaren": {
+                "link": "published/niveau2/Dutch/CivilServants_20240320.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+            }
+        },
+        {
+            "Leger en marine": {
+                "link": "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
+            }
+        },
+        {
+            "Wetenschap": {
+                "link": "published/niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch"
+            }
+        },
+        {
+            "Handel": {
+                "link": "published/niveau2/Dutch/Trade_20240326.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Trade_Dutch"
+            }
+        }
+    ],
+    "Relevant data": [],
+    "Main-text": {
+        "content": "**Deze pagina is nog in ontwikkeling.**\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary Sources": [],
+        "Secondary sources": []
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-06-12",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Creation of this RA to make a new division on the landing page."
+        }
+    ],
+    "File name": "Themes"
+}
