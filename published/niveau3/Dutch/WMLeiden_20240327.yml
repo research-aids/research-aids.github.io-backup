@@ -26,9 +26,6 @@ RelatedAides:
   - "Kunsthandel Van Lier":
         link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
         rel_type: "see also"
-  - "Pieter H. Pott":
-        link: "niveau3/Dutch/PieterPott_20240312.yml"
-        rel_type: "see also"
   - "Etnografisch Museum Artis":
         link: "niveau3/Dutch/EMArtis_20240711.yml"
         rel_type: "see also"
