@@ -195,7 +195,7 @@
                     "rel_type": "see also",
                     "Deelonderwerpen": [
                         {
-                            "Zending en missie": {
+                            "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                                 "link": "published/niveau2/Dutch/ChristianMission_20240326.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau2/Dutch/ChristianMission_Dutch"
@@ -424,7 +424,7 @@
                 }
             },
             {
-                "Zending en missie": {
+                "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                     "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
                     "rel_type": "see also",
                     "Deelonderwerpen": [
