@@ -4,7 +4,7 @@
     "Abstract": "The Royal Cabinet of Curiosities (Koninklijk Kabinet van Zeldzaamheden, KKZ) was founded in 1816 by King Willem I. The collection contained various objects from among others the Dutch colonies. In 1883, the KKZ was closed down, after which it's collection was divided amongst Dutch museums, such as the Rijksmuseum in Amsterdam and today's Wereldmuseum Leiden.",
     "RelatedAides": [
         {
-            "Civil servants": {
+            "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/CivilServants_English"

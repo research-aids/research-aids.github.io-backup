@@ -11,7 +11,7 @@
             }
         },
         {
-            "Ambtenaren": {
+            "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
