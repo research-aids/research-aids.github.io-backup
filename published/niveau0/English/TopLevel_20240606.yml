@@ -108,7 +108,7 @@ Breakdown:
           - "Army and navy personnel in colonised territories":
               link: "published/niveau2/English/MilitaryAndNavy_20240417.yml"
               rel_type: "see also"
-          - "Science":
+          - "Scientific research in colonised territories":
               link: "published/niveau2/English/Science_20240821.yml"
               rel_type: "see also"
           - "The trade in objects from a colonial context":
@@ -165,7 +165,7 @@ Breakdown:
           - "Volkenkundig Museum Justinus van Nassau":
               link: "published/niveau3/English/JustinusNassau_20250513.yml"
               rel_type: "see also"
-    - "Science":
+    - "Scientific research in colonised territories":
         link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
         Subtopics:
