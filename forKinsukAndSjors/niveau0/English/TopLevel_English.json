@@ -209,7 +209,7 @@
                             }
                         },
                         {
-                            "Army and navy personnel": {
+                            "Army and navy personnel in colonised territories": {
                                 "link": "published/niveau2/English/MilitaryAndNavy_20240417.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau2/English/MilitaryAndNavy_English"
@@ -322,7 +322,7 @@
                 }
             },
             {
-                "Army and navy personnel": {
+                "Army and navy personnel in colonised territories": {
                     "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                     "rel_type": "see also",
                     "Subtopics": [
