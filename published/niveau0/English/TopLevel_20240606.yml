@@ -99,7 +99,7 @@ Breakdown:
         link: "published/niveau2/English/Themes_20250612.yml"
         rel_type: "see also"
         Subtopics:
-          - "Christian mission":
+          - "Christian missionaries in colonised territories":
               link: "published/niveau2/English/ChristianMission_20240417.yml"
               rel_type: "see also"
           - "Civil servants in colonised territories":
@@ -196,7 +196,7 @@ Breakdown:
           - "Museon-Omniversum":
               link: "published/niveau3/English/Museon_20250513.yml"
               rel_type: "see also"
-    - "Christian mission":
+    - "Christian missionaries in colonised territories":
         link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "see also"
         Subtopics:
