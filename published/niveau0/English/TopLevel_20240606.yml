@@ -111,7 +111,7 @@ Breakdown:
           - "Science":
               link: "published/niveau2/English/Science_20240821.yml"
               rel_type: "see also"
-          - "Trade":
+          - "The trade in objects from a colonial context":
               link: "published/niveau2/English/Trade_20240316.yml"
               rel_type: "see also"
     - "Civil servants":
@@ -127,7 +127,7 @@ Breakdown:
           - "Museum Nusantara":
               link: "niveau3/English/MNusantara_20250225.yml"
               rel_type: "see also"
-    - "Trade":
+    - "The trade in objects from a colonial context":
         link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
         Subtopics:

@@ -111,7 +111,7 @@ Breakdown:
           - "Wetenschap":
               link: "published/niveau2/Dutch/Science_20240814.yml"
               rel_type: "see also"
-          - "Handel":
+          - "De handel in objecten uit een koloniale context":
               link: "published/niveau2/Dutch/Trade_20240326.yml"
               rel_type: "see also"
     - "Ambtenaren":
@@ -127,7 +127,7 @@ Breakdown:
           - "Museum Nusantara":
               link: "niveau3/Dutch/MNusantara_20250130.yml"
               rel_type: "see also"
-    - "Handel":
+    - "De handel in objecten uit een koloniale context":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
