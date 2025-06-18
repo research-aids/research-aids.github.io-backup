@@ -105,7 +105,7 @@ Breakdown:
           - "Ambtenaren in gekoloniseerde gebieden":
               link: "published/niveau2/Dutch/CivilServants_20240320.yml"
               rel_type: "see also" 
-          - "Leger en marine":
+          - "Leger- en marinepersoneel":
               link: "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml"
               rel_type: "see also"
           - "Wetenschap":
@@ -152,7 +152,7 @@ Breakdown:
           - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
               link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
               rel_type: "see also"
-    - "Leger en marine":
+    - "Leger- en marinepersoneel":
         link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
         rel_type: "see also"
         Deelonderwerpen:
