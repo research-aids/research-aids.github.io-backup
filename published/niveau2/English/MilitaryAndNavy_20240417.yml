@@ -11,7 +11,7 @@ RelatedAides:
   - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
         rel_type: "broader"
-  - "Civil servants": 
+  - "Civil servants in colonised territories": 
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
   - "Science":

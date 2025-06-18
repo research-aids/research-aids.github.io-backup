@@ -11,7 +11,7 @@ RelatedAides:
   - "Sources":
         link: "niveau1/English/Sources_20240501.yml"
         rel_type: "narrower"
-  - "Civil servants": 
+  - "Civil servants in colonised territories": 
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
   - "Military and navy":
