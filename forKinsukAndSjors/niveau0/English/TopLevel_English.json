@@ -453,7 +453,22 @@
                 }
             }
         ],
-        "3. Locations": []
+        "3. Locations": [
+            {
+                "Aruba, Bonaire and Cura\u00e7ao": {
+                    "link": "niveau2/English/ArubaBonaireCuracao_20250619.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/English/ArubaBonaireCuracao_English"
+                }
+            },
+            {
+                "Saba, Sint Eustatius and Sint Maarten": {
+                    "link": "niveau2/English/SabaStEustatiusStMaarten_202501619.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English"
+                }
+            }
+        ]
     },
     "editing_metadata": [
         {
@@ -461,7 +476,7 @@
             "applies_to": null,
             "author": "wiebe reints",
             "role": "original_author",
-            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+            "editing_notes": "metadata added on 2025-06-02. from now, major changes to the file need to be logged here."
         }
     ],
     "File name": "TopLevel"

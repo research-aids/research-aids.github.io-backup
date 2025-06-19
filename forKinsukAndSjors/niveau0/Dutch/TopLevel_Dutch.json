@@ -454,7 +454,22 @@
                 }
             }
         ],
-        "3. Locaties": []
+        "3. Locaties": [
+            {
+                "Aruba, Bonaire en Cura\u00e7ao": {
+                    "link": "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/Dutch/ArubaBonaireCuracao_Dutch"
+                }
+            },
+            {
+                "Saba, Sint Eustatius en Sint Maarten": {
+                    "link": "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch"
+                }
+            }
+        ]
     },
     "editing_metadata": [
         {
@@ -462,7 +477,7 @@
             "applies_to": null,
             "author": "wiebe reints",
             "role": "original_author",
-            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+            "editing_notes": "metadata added on 2025-06-02. from now, major changes to the file need to be logged here."
         }
     ],
     "File name": "TopLevel"
