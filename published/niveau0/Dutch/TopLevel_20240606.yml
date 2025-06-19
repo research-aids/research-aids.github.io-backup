@@ -209,7 +209,7 @@ Breakdown:
           - "Missiemuseum Steyl":
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
-  "3. Locaties": []    
+  "3. Locaties":   
     - "Aruba, Bonaire en Curaçao":
         link: "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml"
         rel_type: "see also"
