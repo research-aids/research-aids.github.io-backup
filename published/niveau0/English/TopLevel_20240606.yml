@@ -210,10 +210,10 @@ Breakdown:
               rel_type: "see also"
   "3. Locations": 
     - "Aruba, Bonaire and Curaçao":
-        link: "published/niveau2/English/ArubaBonaireCuracao_20250619.yml"
+        link: "niveau2/English/ArubaBonaireCuracao_20250619.yml"
         rel_type: "see also"
     - "Saba, Sint Eustatius and Sint Maarten":
-        link: "published/niveau2/English/SabaStEustatiusStMaarten_202501619.yml"
+        link: "niveau2/English/SabaStEustatiusStMaarten_202501619.yml"
         rel_type: "see also"  
 
 editing_metadata:
@@ -221,4 +221,4 @@ editing_metadata:
     applies_to: 
     author: wiebe reints
     role: original_author
-    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.     
+    editing_notes: metadata added on 2025-06-02. from now, major changes to the file need to be logged here.     
