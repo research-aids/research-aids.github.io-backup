@@ -20,6 +20,12 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "See also"
+  - "Aruba, Bonaire and Curaçao":
+        link: "niveau2/English/ArubaBonaireCuracao_20250619.yml"
+        rel_type: "See also" 
+  - "Saba, Sint Eustatius and Sint Maarten":
+        link: "niveau2/English/SabaStEustatiusStMaarten_202501619.yml"
+        rel_type: "See also"        
 
 
 Relevant data:
