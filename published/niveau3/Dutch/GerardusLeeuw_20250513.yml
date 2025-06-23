@@ -11,6 +11,9 @@ RelatedAides:
   - "Wageningen University & Research":
         link: "published/niveau3/Dutch/WageningenUniversity_20240327.yml"
         rel_type: "see also"
+  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      rel_type: "see also"
 
 Relevant data:
   Identifiers:

@@ -95,6 +95,9 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "published/niveau3/English/WMRotterdam_2040822.yml"
               rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "published/niveau3/English/MOudenbosch_20250603.yml"
+              rel_type: "see also"
     - "Civil servants in colonised territories":
         link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
@@ -188,6 +191,9 @@ Breakdown:
               link: "niveau3/English/WMBergEnDal_20241001.yml"
           - "Missiemuseum Steyl":
               link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+              rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "published/niveau3/English/MOudenbosch_20250603.yml"
               rel_type: "see also"
   "3. Locations": 
     - "Aruba, Bonaire and Curaçao":

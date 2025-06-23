@@ -26,6 +26,9 @@ RelatedAides:
   - "Missiemuseum Steyl":
         link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
         rel_type: "see also"
+  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      rel_type: "see also"
 
 Relevant data:
   Identifiers:

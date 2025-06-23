@@ -56,6 +56,9 @@ RelatedAides:
   - "Wereldmuseum Rotterdam":
       link: "published/niveau3/Dutch/WMRotterdam_20240822.yml"
       rel_type: "see also"
+  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      rel_type: "see also"
 
 Relevant data: []
 

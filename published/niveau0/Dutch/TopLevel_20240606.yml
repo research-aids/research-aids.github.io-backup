@@ -95,6 +95,9 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "published/niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+              rel_type: "see also"
     - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
@@ -189,6 +192,9 @@ Breakdown:
               rel_type: "see also"
           - "Missiemuseum Steyl":
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+              rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
               rel_type: "see also"
   "3. Locaties":   
     - "Aruba, Bonaire en Curaçao":

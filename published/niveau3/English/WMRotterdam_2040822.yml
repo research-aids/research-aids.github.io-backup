@@ -29,6 +29,9 @@ RelatedAides:
   - "International Colonial and Export Exhibition 1883":
         link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
         rel_type: "see also"
+  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+        link: "published/niveau3/English/MOudenbosch_20250603.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
