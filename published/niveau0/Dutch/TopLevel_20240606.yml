@@ -95,25 +95,6 @@ Breakdown:
           - "Wereldmuseum Rotterdam":
               link: "published/niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
-    - "Thema's":
-        link: "published/niveau2/Dutch/Themes_20250612.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-              link: "published/niveau2/Dutch/ChristianMission_20240326.yml"
-              rel_type: "see also"
-          - "Ambtenaren in gekoloniseerde gebieden":
-              link: "published/niveau2/Dutch/CivilServants_20240320.yml"
-              rel_type: "see also" 
-          - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-              link: "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml"
-              rel_type: "see also"
-          - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-              link: "published/niveau2/Dutch/Science_20240814.yml"
-              rel_type: "see also"
-          - "De handel in objecten uit een koloniale context":
-              link: "published/niveau2/Dutch/Trade_20240326.yml"
-              rel_type: "see also"
     - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
