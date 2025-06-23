@@ -107,10 +107,18 @@ Main-text:
   content-type: text/markdown
 
 editing_metadata:
-  - date: 2025-06-19
+  - date: 2024-11-25
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
+    editing_notes: metadata added on 2025-06-19. from now, mayor changes to the file need to be logged here. 
+  - date: 2025-03-04
+    applies_to: Content
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Processed remarks by Dyonna Bennet (expert on Caribbean heritage) 
+  - date: 2025-06-19
+    applies_to: Content
     author: Maarten van der Bent 
     role: editor
-    editing_notes: metadata added on 2025-06-19. from now, mayor changes to the file need to be logged here. 
+    editing_notes: Original research aid has been separated into two, ABC islands and SSS islands.
