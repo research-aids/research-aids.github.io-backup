@@ -184,6 +184,13 @@
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English"
                             }
+                        },
+                        {
+                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MOudenbosch_English"
+                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Museum_English"
@@ -402,6 +409,13 @@
                                 "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
+                            }
+                        },
+                        {
+                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MOudenbosch_English"
                             }
                         }
                     ],

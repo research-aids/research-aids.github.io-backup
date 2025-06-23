@@ -142,6 +142,13 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch"
             }
+        },
+        {
+            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                "link": "published/niveau3/Dutch/MOudenbosch_20250603.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch"
+            }
         }
     ],
     "Relevant data": {
