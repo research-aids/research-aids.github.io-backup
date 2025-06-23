@@ -190,50 +190,6 @@
                 }
             },
             {
-                "Thema's": {
-                    "link": "published/niveau2/Dutch/Themes_20250612.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [
-                        {
-                            "Zendelingen en missionarissen in gekoloniseerde gebieden": {
-                                "link": "published/niveau2/Dutch/ChristianMission_20240326.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch"
-                            }
-                        },
-                        {
-                            "Ambtenaren in gekoloniseerde gebieden": {
-                                "link": "published/niveau2/Dutch/CivilServants_20240320.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
-                            }
-                        },
-                        {
-                            "Leger- en marinepersoneel in gekoloniseerde gebieden": {
-                                "link": "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
-                            }
-                        },
-                        {
-                            "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
-                                "link": "published/niveau2/Dutch/Science_20240814.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau2/Dutch/Science_Dutch"
-                            }
-                        },
-                        {
-                            "De handel in objecten uit een koloniale context": {
-                                "link": "published/niveau2/Dutch/Trade_20240326.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau2/Dutch/Trade_Dutch"
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/Dutch/Themes_Dutch"
-                }
-            },
-            {
                 "Ambtenaren in gekoloniseerde gebieden": {
                     "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                     "rel_type": "see also",
