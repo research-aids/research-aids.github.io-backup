@@ -33,7 +33,10 @@ class EditEvent:
 class EditHistory(tuple):
     @classmethod
     def from_yaml(cls, yml):
-        return cls(map(EditEvent.from_yaml, yml))
+        try:
+            return cls(map(EditEvent.from_yaml, yml))
+        except ValueError:
+            return ()
     
     def __new__(cls, events):
         sorted_events = sorted(events, key=lambda e: e.date)
