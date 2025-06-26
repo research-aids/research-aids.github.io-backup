@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-03-20_
 _last edited by wiebe reints as original_author on 2024-03-20_
 
 
-# Ambtenaren
+# Ambtenaren in gekoloniseerde gebieden
 
 
 ## Abstract
@@ -41,9 +41,9 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
 
 _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
 _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Leger en Marine](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschap](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Handel](niveau2/Dutch/Trade_20240326.yml)_  
+_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)_  
 _see also: [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
 _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
@@ -58,59 +58,59 @@ _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published
 
 ## Primary sources
 
-**Almanak**:
+Almanak:
   > Surinaamsche Almanak (1819-1846, 1887-1954)  
 > [https://www.dbnl.org/tekst/_sur001suri01_01/](https://www.dbnl.org/tekst/_sur001suri01_01/)  
 > _Zoek op titel 'Surniaamsche Almanak'. Alle edities van de Surinaamsche Almanak tussen 1819-1846 en 1887-1954 zijn online toegankelijk via de website van de digitale bibliotheek voor de Nederlandse letteren._  
 
-**Almanak**:
+Almanak:
   > Regeeringsalmanak voor Nederlandsch-Indië  
 > [https://www.delpher.nl/](https://www.delpher.nl/), [https://digital.staatsbibliothek-berlin.de/](https://digital.staatsbibliothek-berlin.de/)  
 > _Via Delpher zijn de edities van 1865 tot en met 1942 vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'Regeringsalmanak Nederlandsch-Indië'. Bij de Staatsbiblitohek zu Berlin zijn de edities van 1865 tot en met 1912 vindbaar door te zoeken op 'PPN718684745'._  
 
-**Almanak**:
+Almanak:
   > Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea (1856-1861)  
 > [https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00](https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00)  
 > _Zoek op titel 'Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea'. De edities van 1856, 1858-1860 zijn online toegankelijk via de website van de digitale bibliotheek voor de Nederlandse letteren._  
 
-**Kamerstukken**:
+Kamerstukken:
   > Koloniaal Verslag  
 > [https://www.officielebekendmakingen.nl/](https://www.officielebekendmakingen.nl/)  
 > _Zoek binnen de selectie 'Kamerstukken' op 'Koloniaal Verslag'._  
 
-**Archief**:
+Archief:
   > NL-HaNA 2.10.02  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf)  
 > _Volledige inventaris van het archief van het Ministerie van Koloniën, 1850-1900._  
 
 ## Secondary sources
 
-**Zoekhulp**:
+Zoekhulp:
   > Ambtenaren in Nederlands-Indië  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie)  
 > _Zoekhulp van het Nationaal Archief met betrekking tot archiefstukken over ambtenaren in Nederlands-Indië. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: “zie verder” met betreffende paginanummer._  
 
-**Zoekhulp**:
+Zoekhulp:
   > Ambtenaren in West-Indië, Suriname en de Antillen (1815-1936)  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936)  
 > _Zoekhulp van het Nationaal Archief met betrekking tot archiefstukken over ambtenaren in West-Indië, Suriname en de Antillen. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: “zie verder” met betreffende paginanummer._  
 
-**Zoekhulp**:
+Zoekhulp:
   > Overzicht van overheidsarchieven in het Nationaal Archief met betrekking tot Nederlands-Indië.  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie)  
 > _Zoekhulp van het Nationaal Archief met een overzicht van alle archieftoegangen die betrekking hebben tot Nederlands-Indië en verdere informatie over het raadplegen van deze archieven._  
 
-**Boek**:
+Boek:
   > Fasseur, Cees. De indologen: ambtenaren voor de Oost 1825-1950. Amsterdam: Bert Bakker, 1994.  
 > [https://search.worldcat.org/title/66730672](https://search.worldcat.org/title/66730672), [ISBN 9789057137723](https://isbnsearch.org/isbn/9789057137723), [WorldCat 66730672](https://search.worldcat.org/title/66730672)  
 > _Boek over het Indisch ambtenarenonderwijs. De schrijver gaat in op de achtergrond en herkomst van studenten en docenten._  
 
-**Boek**:
+Boek:
   > Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.  
 > [https://search.worldcat.org/title/921923079?oclcNum=921923079](https://search.worldcat.org/title/921923079?oclcNum=921923079), [WorldCat 921923079](https://search.worldcat.org/title/921923079)  
 > _Gids voor het doen van onderzoek in het archief van het Ministerie van Koloniën._  
 
-**Boek**:
+Boek:
   > Doel, H. W. van den. De Stille Macht : Het Europese Binnenlands Bestuur Op Java En Madoera, 1808-1942 (Amsterdam: Bert Bakker, 1994).  
 > [https://search.worldcat.org/title/471738724](https://search.worldcat.org/title/471738724), [ISBN 9789035114050](https://isbnsearch.org/isbn/9789035114050), [WorldCat 471738724](https://search.worldcat.org/title/471738724)  
 > _Boek over de ontwikkeling van het Nederlandse koloniale bestuur in Indonesië tussen 1808 en 1942._  

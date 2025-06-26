@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-03-26_
 _last edited by wiebe reints as original_author on 2024-03-26_
 
 
-# Handel
+# De handel in objecten uit een koloniale context
 
 
 ## Abstract
@@ -41,8 +41,8 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 
 _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
 _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Ambtenaren](niveau2/Dutch/Ambtenaren_20240320.yml)_  
-_see also: [Leger en Marine](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
+_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
 _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
 _see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
 _see also: [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK_20240312.yml)_  
@@ -57,24 +57,24 @@ _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published
 
 ## Primary sources
 
-**Database**:
+Database:
   > Art Sales Catalogues Online  
 > [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
 > _Database gebaseerd op het Répertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk._  
 
-**Database**:
+Database:
   > AGHORA  
 > [https://agorha.inha.fr](https://agorha.inha.fr)  
 > _Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen._  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
 > [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
 > _Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen._  
 
-**Boek**:
+Boek:
   > Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.  
 > [https://search.worldcat.org/title/71681153?oclcNum=71681153](https://search.worldcat.org/title/71681153?oclcNum=71681153), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
 > _Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland._  

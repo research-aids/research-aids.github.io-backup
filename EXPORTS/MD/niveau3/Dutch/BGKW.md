@@ -31,8 +31,8 @@ Zoals beschreven is in de notulen van het Bataviaasch Genootschap veel informati
 
 ## Related Aids
 
-_see also: [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschap](niveau2/Dutch/Science_20240814.yml)_  
+_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
 _see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
 _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
 _see also: [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
@@ -45,29 +45,29 @@ _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_
 
 ## Primary sources
 
-**Publicatie**:
+Publicatie:
   > Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen  
 > [https://www.biodiversitylibrary.org/bibliography/7371](https://www.biodiversitylibrary.org/bibliography/7371)  
 > _Het tijdschrift dat vanaf 1779 door het Bataviaasch Genootschap werd gepubliceerd. Op de website van de Biodiversity Heritage Library zijn veel edities terug te vinden._  
 
-**Notulen**:
+Notulen:
   > Notulen van de Algemeene en Directie-vergaderingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen  
 > [http://hdl.handle.net/1887.1/item:1112865](http://hdl.handle.net/1887.1/item:1112865)  
 > _Die van 1864 tot en met die van 1922 zijn beschikbaar via de universiteitsbibliotheek van de Universiteit Leiden._  
 
-**Archief**:
+Archief:
   > K 75. Inventaris Arsip Tekstual Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (KBG) (1778-1962)  
 > [https://anri.go.id/](https://anri.go.id/)  
 > _Het archief van het Bataviaasch Genootschap is gelegen bij het ANRI in Jakarta. De inventaris van het archief is te downloaden via de website van het ANRI (in het Indonesisch)._  
 
-**Tijdschrift**:
+Tijdschrift:
   > Tijdschrift voor Indische taal- land- en volkenkunde  
 > [https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html](https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html)  
 > _Tijdschrift dat door het Bataviaasch Genootschap werd gepubliceerd. Verschillende edities zijn beschikbaar via het KITLV. Op de bovenstaande pagina zijn ook andere bronnen met betrekking tot het Bataviaasch Genootschap te vinden._  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Groot, Hans. Van Batavia naar Weltevreden: Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Amsterdam: Brill, 2009  
 > [http://library.oapen.org/handle/20.500.12657/34657](http://library.oapen.org/handle/20.500.12657/34657)  
 > _Boek van Hans Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap._  

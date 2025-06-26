@@ -42,8 +42,8 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 ## Related Aids
 
 _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
-_see also: [Trade](niveau2/English/Trade_20240316.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
 _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
@@ -52,44 +52,44 @@ _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_
 
 ## Primary sources
 
-**Website**:
+Website:
   > Archives of the Rijksmuseum van Oudheden  
 > [https://archieven.rmo.nl/](https://archieven.rmo.nl/)  
 > _Website providing access to the archives of the RMO. The archive can be accessed via the ‘tiles’, the ‘Museum Archive’ field, or by using the search field._  
 
-**Archive**:
+Archive:
   > NL-LdnRMV_A03_018 - Inventaris van het RMO  
 >   
 > _Archive access in the Wereldmuseum Leiden archives containing the inventory of the RMO. In 1904, the collections of Asian and American objects were transferred to the ‘s Rijks Ethnographisch Museum, the present Wereldmuseum Leiden._  
 
-**Archive**:
+Archive:
   > NL-LdnRMV_Seriedossier RV-1403  
 >   
 > _Series file linked to the RV-1403 collection, which consists of the objects transferred from the RMO to what was then the ‘s Rijks Ethnographisch Museum in 1904._  
 
 ## Secondary sources
 
-**Restitution recommendation and provenance report**:
+Restitution recommendation and provenance report:
   > I-2023-3 Advies Singasari  
 > [https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia](https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia)  
 > _Restitution recommendation regarding four statues from the Singasari temple complex: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) and Ganesha (RV-1403-1681). The provenance report is similar to that of the 2024 Singasari recommendation (ID-2023-6 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-**Restitution recommendation and provenance report**:
+Restitution recommendation and provenance report:
   > ID-2023-6 Advies Singasari  
 > [ https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia]( https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia)  
 > _Restitution recommendation regarding two statues from the Singasari temple complex: Bhairava (RV-1403-1680) and Nandi (RV-1403-1682). The provenance report is similar to that of the 2023 Singasari recommendation (I-2023-3 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-**Restitution recommendation and provenance report**:
+Restitution recommendation and provenance report:
   > ID-2023-8 Advies Brahma  
 > [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")  
 > _Restitution recommendation regarding statue of Brahma from the Singasari temple complex (RV-1403-1582). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-**Restitution recommendation and provenance report**:
+Restitution recommendation and provenance report:
   > ID-2023-9 Advies Ganesha  
 > [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")  
 > _Restitution recommendation regarding a statue of Ganesha (RV-1403-1759). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-**Dissertation**:
+Dissertation:
   > Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.  
 > [WorldCat 779255199](https://search.worldcat.org/title/779255199), [ISBN 9782503541525](https://isbnsearch.org/isbn/9782503541525)  
 > _Dissertation by Mirjam Hoijtink from 2012 that examines the work and life of Caspar Reuvens, the first director of the Rijksmuseum van Oudheden in Leiden. The book also looks at why Reuvens initially included antiquities from the Dutch East Indies and other non-‘classical’ antiquities in the museum's collection and places these ideas in the context of the developments of scholarship and the museum sector in the nineteenth century._  

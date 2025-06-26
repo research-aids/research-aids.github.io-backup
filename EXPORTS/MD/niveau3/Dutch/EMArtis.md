@@ -28,57 +28,58 @@ Archieven met betrekking tot het Etnografisch Museum Artis zijn verspreid over v
 ## Related Aids
 
 _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Leger en Marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
-_see also: [Handel](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Wetenschap](niveau2/Dutch/Science_20240814.yml)_  
+_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
+_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
 _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
 _see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
 _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Archief**:
+Archief:
   > NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
 > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
 > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien._  
 
-**Archief**:
+Archief:
   > NL-HaNA 2.20.69 - 7851 tot en met 7858  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
 > _Relevante archiefstukken met betrekking tot het Etnografisch Museum Artis binnen de inventaris van het Koninklijk Instituut voor de Tropen bij het Nationaal Archief in Den Haag._  
 
-**Archief**:
+Archief:
   > NL-HaNA 2.20.69 - 4395  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
 > _Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag._  
 
-**Document**:
+Document:
   > Jaarboekje van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
 > [https://catalog.hathitrust.org/Record/00732895](https://catalog.hathitrust.org/Record/00732895)  
 > _In het jaarboekje werden schenkingen van objecten aan het Etnografisch Museum Artis, met de naam van de donateurs vermeld._  
 
 ## Secondary sources
 
-**Artikel**:
+Artikel:
   > Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011.  
 > [https://search.worldcat.org/title/730403132?oclcNum=730403132](https://search.worldcat.org/title/730403132?oclcNum=730403132), [WorldCat 730403132](https://search.worldcat.org/title/730403132), [ISBN 9068327526](https://isbnsearch.org/isbn/9068327526)  
 > _Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum._  
 
-**Boek**:
+Boek:
   > Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885.  
 > [https://search.worldcat.org/title/836812327?oclcNum=836812327](https://search.worldcat.org/title/836812327?oclcNum=836812327), [WorldCat 836812327](https://search.worldcat.org/title/836812327)  
 > _Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte._  
 
-**Boek**:
+Boek:
   > Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888.  
 > [https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ](https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ), [WorldCat 1287660577](https://search.worldcat.org/title/1287660577)  
 > _Gids uit 1888 van de toenmalige conservator van het Etnografisch Museum Artis over de collectie van het museum. Via Google Books zijn drie volumes beschikbaar: 'Insulinde I Java', Insulinde II Buiten bezettingen en 'Australië en Oceanië'. De gidsen beschrijven zeer nauwkeurig welke objecten zich waar bevonden in het museum._  
 
-**Artikel**:
+Artikel:
   > Wijs, Sonja, 'Een plaats voor de mens; de etnografische musea van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, in: Heden En Verleden, VVE Jaarboek 8. 2020.  
 > [https://search.worldcat.org/title/1178618962?oclcNum=1178618962](https://search.worldcat.org/title/1178618962?oclcNum=1178618962), [WorldCat 1178618962](https://search.worldcat.org/title/1178618962)  
 > _Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis._  

@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-04-17_
 _last edited by abacus as translator on 2025-03-12_
 
 
-# Christian mission
+# Christian missionaries in colonised territories
 
 
 ## Abstract
@@ -35,51 +35,52 @@ Archives of missionary organisations are scattered. Substantial archival collect
 
 _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
 _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Map**:
+Map:
   > Mission areas in Indonesia  
 > [https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)  
 > _The Mission Map in the Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 provides an overview of which Protestant organisations were active in the former Dutch East Indies._  
 
-**Web portal**:
+Web portal:
   > Repertorium van Nederlandse zendings- en missiearchieven 1800-1960  
 > [https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)  
 > _The Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is a portal with descriptions of missionary organisations, literature references and information on archival sources._  
 
 ## Secondary sources
 
-**Article**:
+Article:
   > Corbey, Raymond and Weener, Karel. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015).  
 > [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
 > _Article from 2015 providing an overview of ethnographic collecting by missionaries._  
 
-**Article**:
+Article:
   > Hård, Mikael and Tjoa-Bonatz, Mai Lin. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860–1940.' Social Studies of Science 50, no. 6 (2020): 932-955.  
 > [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
 > _Article from 2020 that examines German missionaries in the Dutch East Indies and how their places of residence functioned as trading zones, where cultural exchange took place._  
 
-**Book**:
+Book:
   > Leyten, Harrie. From idol to art: African 'objects with power': a challenge for missionaries, anthropologists and museum curators. Leiden: African Studies Centre, 2015.  
 > [https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)  
 > _Dissertation from 2015 by Harrie Leyten, who was himself a missionary in Ghana between 1961 and 1971 and later curator of the African collection at the Tropenmuseum in Amsterdam. The dissertation is a reflection on Leyten's long career._  
 
-**Article**:
+Article:
   > Leyten, Harrie. 'Shared cultural heritage: missionary collections in the Netherlands.'' Material Religion 8, no. 1 (2012): 103-104.  
 > [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
 > _Article by Harrie Leyten on collections in the Netherlands collected by missionaries._  
 
-**Book chapter**:
+Book chapter:
   > Tjoa-Bonatz, Mai Lin. “Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.” In Casting Faiths : Imperialism and the Transformation of Religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009.  
 > [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
 > _Chapter in the book In Casting Faiths by Mai Lin Tjoa-Bonatz on the influence of missionaries on the Christianisation of the people of Nias._  
 
-**Book chapter**:
+Book chapter:
   > Wingfield, Chris. “Missionary Museums. In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate , 231-238. London: Bloomsbury, 2017.  
 > [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
 > _Chapter in the book Religion in Museums by Chris Wingfield on mission museums._  

@@ -32,34 +32,35 @@ De fotocollectie van het Wereldmuseum Rotterdam is in 2008 overgedragen aan het 
 ## Related Aids
 
 _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Handel](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger en Marine](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschap](niveau2/Dutch/Science_20240814.yml)_  
+_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
 _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Archief**:
+Archief:
   > NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam  
 > [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)  
 > _Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt tot 1960 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 282 tot en met 302 zijn archiefstukken te vinden met betrekking tot de collectievorming._  
 
-**Archief**:
+Archief:
   > NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam  
 > [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)  
 > _Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt vanaf 1961 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 147 tot en met 177 zijn archiefstukken te vinden met betrekking tot de collectievorming._  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Faber, Paul, Liane van der Linden en René Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.  
 > [https://search.worldcat.org/title/905426025](https://search.worldcat.org/title/905426025), [ISBN 9789029080941](https://isbnsearch.org/isbn/9789029080941), [WorldCat 905426025](https://search.worldcat.org/title/905426025)  
 > _Boek, en tevens catalogus, ter ere van de tentoonstelling Schatten van het Museum voor Volkenkunde Rotterdam. Bevat een korte geschiedenis van het museum en een uitgebreide beschrijving van collecties uit verschillende werelddelen._  
 
-**Website**:
+Website:
   > Geschiedenis Wereldmuseum. Van Yachtclub naar volkenkundig museum  
 > [https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum](https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum)  
 > _Website van het Wereldmuseum met een korte geschiedenis van het museum in Rotterdam._  

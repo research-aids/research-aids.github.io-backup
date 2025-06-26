@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-08-21_
 _last edited by abacus as translator on 2025-03-12_
 
 
-# Science
+# Scientific research in colonised territories
 
 
 ## Abstract
@@ -31,9 +31,9 @@ Be aware that scientists may have been active at several institutions and so it 
 
 _broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
 _narrower: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Civil servants](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Military and navy](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Christian mission](niveau2/English/ChristianMission_20240417.yml)_  
+_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
 _see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
 _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
@@ -51,17 +51,17 @@ _see also: [Volkenkundig museum 'Gerardus van der Leeuw'](published/niveau3/Engl
 
 ## Secondary sources
 
-**Book**:
+Book:
   > Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.  
 > [https://search.worldcat.org/title/858749398?oclcNum=858749398](https://search.worldcat.org/title/858749398?oclcNum=858749398), [ISBN 9789004257870](https://isbnsearch.org/isbn/9789004257870), [WorldCat 858749398](https://search.worldcat.org/title/858749398)  
 > _Historiography of the KITLV that covers 150 years of KITLV history but is at the same time a history of scientific practice in the (former) Dutch colonies. This English version is not a one-on-one translation of the 2001 Dutch original Tussen oriëntalisme en wetenschap._  
 
-**Book**:
+Book:
   > Holthuis, Lipke. 1820 - 1958: Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995.  
 > [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
 > _Book from 1995 describing the history of the former Nationaal Natuurhistorisch Museum from 1820 to 1958. Contains structured information about the building of the museum collection and the curators of the time._  
 
-**Article**:
+Article:
   >  Weber, Andreas. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” BMGN: Low Countries Historical Review.  
 > [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 > _Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)._  

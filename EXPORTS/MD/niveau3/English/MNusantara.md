@@ -29,7 +29,7 @@ After the closing of Museum Nusantara, its archive was transferred to the [Stads
 
 ## Related Aids
 
-_see also: [Civil Servants](niveau2/English/CivilServants_20240316.yml)_  
+_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
 _see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
@@ -38,29 +38,29 @@ _see also: [International Colonial and Export Exhibition 1883](published/niveau3
 
 ## Primary sources
 
-**Website**:
+Website:
   > Collectie Nusantara  
 > [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)  
 > _Website with information about the former Nusantara Museum and an digital overview of the collection and how it was divided among various museums in the Netherlands and abroad._  
 
-**Archive**:
+Archive:
   > NL-DtAD 1009 - Museum Nusantara  
 > [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)  
 > _Archive of the former Nusantara Museum. Archive material relating to the museum's collection can be found under heading ‘2.5’. The archive of inventory cards of the Indische Instelling is also available under ‘Gedeponeerde archieven’._  
 
 ## Secondary sources
 
-**Publication**:
+Publication:
   > Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018  
 > [https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)  
 > _Publication by Jos van Beurden about the deaccessioning of the Nusantara Museum collection. Includes an extensive overview of the institutions to which the collection has been donated. Also contains information about previous deaccessioning projects in the Dutch heritage sector (in Dutch)._  
 
-**Book**:
+Book:
   > Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014).  
 > [https://search.worldcat.org/title/880822331?oclcNum=880822331](https://search.worldcat.org/title/880822331?oclcNum=880822331), [ISBN 9789054500131](https://isbnsearch.org/isbn/9789054500131), [WorldCat 880822331](https://search.worldcat.org/title/880822331)  
 > _Book with brief information about the history of Museum Nusantara and an overview of the collection._  
 
-**Boek**:
+Boek:
   > Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989).  
 > [https://search.worldcat.org/title/905471545?oclcNum=905471545](https://search.worldcat.org/title/905471545?oclcNum=905471545), [ISBN 9789071423048](https://isbnsearch.org/isbn/9789071423048), [WorldCat 905471545](https://search.worldcat.org/title/905471545)  
 > _A book about the (pre)history of the Indische Instelling in Delft and the origins of what would later become Museum Nusantara._  

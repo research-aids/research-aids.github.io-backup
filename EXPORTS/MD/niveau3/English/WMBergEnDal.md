@@ -34,23 +34,24 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 ## Related Aids
 
 _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Christian mission](niveau2/English/ChristianMission_20240417.yml)_  
+_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
 _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Archive**:
+Archive:
   > AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
 > [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
 > _Archive of the Stichting Afrika Museum within the archives of the Congregation of the Holy Spirit. Contains a wide range of documentation related to the Afrika Museum, from catalogues to rental agreements._  
 
 ## Secondary sources
 
-**Book**:
+Book:
   > Grootaers, Jan-Lodewijk, Eisenburger, Ineke, and Damme Annemieke van. Vormen van Verwondering : De geschiedenis en de collecties van het Afrika Museum, Berg en Dal. Berg en Dal: Afrika Museum, 2002.  
 > [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131](https://isbnsearch.org/isbn/9789071611131)  
 > _This book from 2002, consisting of two volumes, describes the history of the establishment of the Afrika Museum and provides an overview of the collections held by the museum at the time._  

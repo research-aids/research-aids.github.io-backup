@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-03-16_
 _last edited by abacus as translator on 2025-03-12_
 
 
-# Civil servants
+# Civil servants in colonised territories
 
 
 ## Abstract
@@ -40,10 +40,10 @@ Some personal archives of Dutch nationals in government service have been preser
 
 _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
 _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Military and navy](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
-_see also: [Trade](niveau2/English/Trade_20240316.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
 _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
 _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
@@ -57,59 +57,59 @@ _see also: [International Colonial and Export Exhibition 1883](published/niveau3
 
 ## Primary sources
 
-**Almanac**:
+Almanac:
   > Surinaamsche Almanak (1819-1846, 1887-1954)  
 > [https://www.dbnl.org/tekst/_sur001suri01_01/](https://www.dbnl.org/tekst/_sur001suri01_01/)  
 > _Search for title 'Surinaamsche Almanak'. All editions of the Surinaamsche Almanak between 1819-1846 and 1887-1954 can be accessed online through the website of the Digital Library of Dutch Literature._  
 
-**Almanac**:
+Almanac:
   > Regeeringsalmanak voor Nederlandsch-Indië  
 > [https://www.delpher.nl/](https://www.delpher.nl/), [https://digital.staatsbibliothek-berlin.de/)](https://digital.staatsbibliothek-berlin.de/))  
 > _Via Delpher, the editions from 1865 until 1942 can be found by selecting the title 'Regeringsalmanak Nederlandsch-Indië' within the periodicals section. At the Staatsbiblitohek zu Berlin, the editions from 1865 until 1912 can be found by searching for PPN718684745._  
 
-**Almanac**:
+Almanac:
   > Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea (1856-1861)  
 > [https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00](https://www.dbnl.org/titels/tijdschriften/tijdschrift.php?id=_alm009alma00)  
 > _Search for the title Almanak voor de Nederlandsche West-Indische bezittingen, en de kust van Guinea. The 1856, 1858-1860 editions can be accessed online via the website of the Digital Library of Dutch Literature._  
 
-**Parliamentary papers**:
+Parliamentary papers:
   > Koloniaal Verslag  
 > [https://www.officielebekendmakingen.nl/](https://www.officielebekendmakingen.nl/)  
 > _Go to the selection titled 'Kamerstukken' (Parliamentary Papers) and search for ‘Koloniaal Verslag’ (Colonial Report)._  
 
-**Archive**:
+Archive:
   > NL-HaNA 2.10.02  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf)  
 > _Complete inventory of the archives of the Ministry of Colonies, 1850-1900._  
 
 ## Secondary sources
 
-**Research aid**:
+Research aid:
   > Civil servants in the Dutch East Indies, 1814-1952  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-nederlands-indie)  
 > _Research aid from the National Archives for archival records on civil servants in the Dutch East Indies. Tip: the data in the service registers are sometimes continued on another page. In that case, a note is placed at the bottom of the page: ‘zie verder’ (see further) with the relevant page number._  
 
-**Research aid**:
+Research aid:
   > Officials in the West Indies: Suriname and the Antilles 1815-1936  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/ambtenaren-in-west-indie-suriname-en-de-antillen-1815-1936)  
 > _Research aid from the National Archives for archival records on civil servants in the West Indies, Suriname and the Antilles. Tip: the information in the service registers is sometimes continued on another page. In that case, a note is placed at the bottom of the page: ‘zie verder’ (see further) with the relevant page number._  
 
-**Research aid**:
+Research aid:
   > Overzicht van overheidsarchieven in het Nationaal Archief met betrekking tot Nederlands-Indië.  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/overzicht-van-archieven-over-nederlands-indie)  
 > _Research aid from the National Archives with an overview of all archive accessions related to the Dutch East Indies and further information on accessing these archives._  
 
-**Book**:
+Book:
   > Fasseur, Cees. De indologen: ambtenaren voor de Oost 1825-1950. Amsterdam: Bert Bakker, 1994.  
 > [https://search.worldcat.org/title/66730672](https://search.worldcat.org/title/66730672), [ISBN 9789057137723](https://isbnsearch.org/isbn/9789057137723), [WorldCat 66730672](https://search.worldcat.org/title/66730672)  
 > _Book about the training of civil servants for the Dutch East Indies. The author discusses the background and origins of the students and teachers._  
 
-**Book**:
+Book:
   > Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.  
 > [https://search.worldcat.org/title/921923079?oclcNum=921923079](https://search.worldcat.org/title/921923079?oclcNum=921923079), [WorldCat 921923079](https://search.worldcat.org/title/921923079)  
 > _Guide to conducting research in the archives of the Dutch Ministry of Colonies._  
 
-**Book**:
+Book:
   > Doel, H. W. van den. De stille macht: het Europese binnenlands bestuur op Java en Madoera, 1808-1942 (Amsterdam: Bert Bakker, 1994).  
 > [https://search.worldcat.org/title/471738724](https://search.worldcat.org/title/471738724), [ISBN 9789035114050](https://isbnsearch.org/isbn/9789035114050), [WorldCat 471738724](https://search.worldcat.org/title/471738724)  
 > _Book about the development of the Dutch colonial administration in Indonesia from 1808 to 1942._  

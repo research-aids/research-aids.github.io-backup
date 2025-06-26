@@ -28,10 +28,10 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 ## Related Aids
 
 _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Civil servants](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Military and navy](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
-_see also: [Trade](niveau2/English/Trade_20240316.yml)_  
+_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
 _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
 _see also: [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20240508.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")_  
@@ -41,14 +41,14 @@ _see also: [International Colonial and Export Exhibition 1883](published/niveau3
 
 ## Primary sources
 
-**Archive**:
+Archive:
   > Rijksmuseum en rechtsvoorgangers te Amsterdam  
 > [https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25)  
 > _Archives of the Rijksmuseum Amsterdam and its legal predecessors. The archive goes back to the beginning of the nineteenth century and contains documentation up to and including 1995, the year that the museum became an independent organisation. The archive of the Royal Cabinet of Curiosities is also located within this archive._  
 
 ## Secondary sources
 
-**Publication**:
+Publication:
   > Mooren, Jona, Stutje, Klaas and Vree, Frank van. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
 > [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
 > _The Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) included research into a number of objects from the Amsterdam Rijksmuseum. The extensive provenance reports are online and contain many useful insights._  

@@ -3,7 +3,7 @@ _first edited by wiebe reints as original_author on 2024-04-17_
 _last edited by abacus as translator on 2025-03-12_
 
 
-# Military and navy
+# Army and navy personnel in colonised territories
 
 
 ## Abstract
@@ -34,9 +34,9 @@ The personnel files of soldiers deployed to Indonesia in 1945-1949 will be at th
 
 _broader: [Sources](niveau1/English/Sources_20240501.yml)_  
 _broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Civil servants](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Science](niveau2/English/Science_20240821.yml)_  
-_see also: [Trade](niveau2/English/Trade_20240316.yml)_  
+_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
 _see also: [Royal Cabinet of Curiosities](niveau3/English/RCC_20240417.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
@@ -48,39 +48,39 @@ _see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/J
 
 ## Primary sources
 
-**Almanac**:
+Almanac:
   > Regeeringsalmanak voor Nederlandsch-Indië  
 > [https://www.delpher.nl/](https://www.delpher.nl/)  
 > _Editions from 1865 to 1942 can be found on Delpher by selecting the title 'Regeringsalmanak Nederlandsch-Indië' in the periodicals section. Editions from 1865 to 1912 are available through the Staatsbibliothek zu Berlin by searching PPN718684745._  
 
-**Image collection**:
+Image collection:
   > Nederlands Instituut voor Militaire Historie  
 > [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)  
 > _The image library of the Netherlands Institute for Military History contains historical image material._  
 
-**Museum**:
+Museum:
   > Museum Bronbeek  
 > [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)  
 > _Museum Bronbeek is a knowledge centre of the Netherlands’ colonial and military past. The emphasis is on the Dutch East Indies but material from other colonies is also available. You can contact loket.bronbeek@mindef.nl to request information about a particular soldier, event or object._  
 
-**Web portal**:
+Web portal:
   > Nederlands Militair Erfgoed  
 > [https://nlme.nl/](https://nlme.nl/)  
 > _Nederlands Militair Erfgoed is a portal containing military sources from various collections in the Netherlands, including visual materials, periodicals and books. Of particular interest for provenance research are the officer's books and historical periodicals._  
 
 ## Secondary sources
 
-**Article**:
+Article:
   > Witkam, Jan Just. 'Teuku Panglima Polem’s Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104.  
 > [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
 > _Article about Teuku Panglima Polem, an Aceh leader during the colonial war fought by the Netherlands in Aceh._  
 
-**Book**:
+Book:
   > Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007.  
 > [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634)  
 > _Book published following a conference at the Nieuwe Kerk, Amsterdam, in 2006. The book focuses on collecting objects in the former Dutch East Indies, with attention also being given to military personnel._  
 
-**Research aid**:
+Research aid:
   > Militairen en Marinepersoneel  
 > [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel)  
 > _Research aid from the National Archives on Dutch army and naval personnel. Tip: the information in the service registers is sometimes continued on another page. In that case, a note is placed at the bottom of the page: “zie verder” [see further] with the relevant page number._  

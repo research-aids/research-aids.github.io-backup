@@ -34,23 +34,24 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 ## Related Aids
 
 _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Zending en missie](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
+_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Archief**:
+Archief:
   > AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
 > [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
 > _Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten._  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Grootaers, Jan-Lodewijk, Ineke Eisenburger, and Annemieke Van Damme. Vormen van Verwondering : De Geschiedenis En de Collecties van Het Afrika Museum, Berg En Dal. Berg en Dal: Afrika Museum, 2002.  
 > [https://search.worldcat.org/title/66932031](https://search.worldcat.org/title/66932031), [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131, 9071611132](https://isbnsearch.org/isbn/9789071611131, 9071611132)  
 > _Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde._  

@@ -23,56 +23,56 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 
 ## Related Aids
 
-_see also: [Trade](niveau2/English/Trade_20240316.yml)_  
+_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
 _see also: [Royal Cabinet of Curiosities](niveau3/Dutch/KKZ_20240313.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)_  
 
 ## Primary sources
 
-**Archive**:
+Archive:
   > NL-HaNA 2.09.46  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
 > _When public and later private limited companies were formed, their articles of association required approval by the Ministry of Justice. The content of the files could range from a single opinion to a pack of documents comprising articles of association, appeals, opinions, royal decrees and correspondence._  
 
-**Archive**:
+Archive:
   > NL-HaNA 3.17.13.03  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
 > _Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a set of commercial files._  
 
-**Archive**:
+Archive:
   > NL-HlmNHA 476 811  
 > [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
 > _Declarations of goods and services supplied, 1813, 1824-1831. The Royal Cabinet of Curiosities purchased items from Dirk Boer, which are mentioned in this archive._  
 
-**Archive**:
+Archive:
   > Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062  
 > [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
 > _Poster of the Koninklijke Bazar from 1926._  
 
 ## Secondary sources
 
-**Article**:
+Article:
   > Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.  
 > [https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
 > _Article about Dirk Boer's store from the Journal of Japanese Art._  
 
-**Article**:
+Article:
   > Baird, Christina and Backx-Palsgraaf, Helen. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.  
 > [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
 > _This article discusses Dirk Boer's activities that predate the Groote Koninklijke Bazar and highlights a Chinese/Japanese panorama as an illustration of the interest in China and Japan that existed in the Netherlands in the 1830s._  
 
-**Book**:
+Book:
   > Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
 > [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251)  
 > _Book about a previous store owned by Dirk Boer._  
 
-**Book**:
+Book:
   > Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.  
 > [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
 > __  
 
-**Catalogue**:
+Catalogue:
   > Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.  
 > [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
 > _Description of the Royal Bazar by Dirk Boer._  

@@ -29,25 +29,26 @@ De collectie van het Missiemuseum is tot op heden niet volledig geregistreerd, d
 
 ## Related Aids
 
-_see also: [Zending en missie](niveau2/Dutch/ChristianMission_20240326.yml)_  
+_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
 _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
-**Website**:
+Website:
   > Website Missiemuseum Steyl  
 > [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
 > _De website van het Missiemuseum Steyl bevat relevante (contact)informatie._  
 
 ## Secondary sources
 
-**Rapport**:
+Rapport:
   > Collectieplan Missiemuseum Steyl 2023-2028  
 > [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
 > _Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie._  
 
-**Collectiedatabase**:
+Collectiedatabase:
   > Limburgs Efgoednet  
 > [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
 > _Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet._  

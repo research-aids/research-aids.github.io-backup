@@ -34,13 +34,12 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
 ## Related Aids
 
 _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Handel](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger en Marine](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Ambtenaren](niveau2/Dutch/Ambtenaren_20240320.yml)_  
+_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
 _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
 _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
 _see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
-_see also: [Pieter H. Pott](niveau3/Dutch/PieterPott_20240312.yml)_  
 _see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
 _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
@@ -54,30 +53,31 @@ _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_
 _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
 _see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/Dutch/JustinusNassau_20250225.yml)_  
 _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Effert, Rudolf. “Volkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.” Dissertatie, Universiteit Leiden, Leiden 2003.  
 > [https://search.worldcat.org/title/317117313?oclcNum=317117313](https://search.worldcat.org/title/317117313?oclcNum=317117313), [WorldCat 317117313](https://search.worldcat.org/title/317117313)  
 > _Dissertatie van Rudolf Effert, gelijk aan Engelstalige variant. Over de geschiedenis van het Rijks Etnografisch Museum en hoe dat is gevormd uit de collecties van het KKZ._  
 
-**Boek**:
+Boek:
   > Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Beschrieben und mit ausführlichen Prolegomena zur Geschichte der Handelswege und Völkerbewegungen in Nordafrika, Leiden: Brill, 1913.  
 > [https://search.worldcat.org/title/562473153?oclcNum=562473153](https://search.worldcat.org/title/562473153?oclcNum=562473153), [WorldCat 562473153](https://search.worldcat.org/title/562473153)  
 > _Boek van Joseph Marquart, een Duits historicus en conservator van het Rijks Etnografisch Museum in Leiden, over de Benin collectie aldaar._  
 
-**Boek**:
+Boek:
   > Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937.  
 > [https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005](https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005)  
 > _Uitvoerige geschiedenis van de eerste honderd jaar van het Rijks Etnografisch Museum. Beschrijft hoe het museum is ontstaan uit de collectie van Von Siebold en het KKZ en hoe dit naderhand tot etnografisch museum is gevormd. Bevat informatie over verzamelde collecties gedurende de eerste honderd jaar._  
 
-**Tijdschrift**:
+Tijdschrift:
   > Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.  
 > [https://search.worldcat.org/title/1293851263](https://search.worldcat.org/title/1293851263), [ISBN 9789088909986](https://isbnsearch.org/isbn/9789088909986), [WorldCat 1293851263](https://search.worldcat.org/title/1293851263)  
 > _Publicatie van het Wereldmuseum met betrekking tot de Benin collectie. Verschaft informatie over de link tussen objecten uit Benin binnen de collectie van het Wereldmuseum (niet alleen in Leiden) en de plundering van Britse soldaten in 1897._  
 
-**Boek**:
+Boek:
   > Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.  
 > [https://search.worldcat.org/title/901467113](https://search.worldcat.org/title/901467113), [ISBN 9789071310812](https://isbnsearch.org/isbn/9789071310812), [WorldCat 901467113](https://search.worldcat.org/title/901467113)  
 > _Boek over de geschiedenis van het huidige Wereldmuseum in Leiden._  

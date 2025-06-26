@@ -29,25 +29,25 @@ Tijdens de Tweede Wereldoorlog zijn tienduizenden cultuurgoederen vanuit Nederla
 
 ## Related Aids
 
-_see also: [Handel](niveau2/Dutch/Handel_20240326.yml)_  
+_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
 _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 
 ## Primary sources
 
-**Archief**:
+Archief:
   > RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108  
 > [https://rkd.nl/nl/explore/collections/108](https://rkd.nl/nl/explore/collections/108)  
 > _Brieven en briefkaarten, voornamelijk van kunstenaars, en andere stukken over de periode 1927-1948_  
 
-**Archief**:
+Archief:
   > RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065  
 > [https://rkd.nl/explore/collections/65](https://rkd.nl/explore/collections/65)  
 > _Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955_  
 
 ## Secondary sources
 
-**Boek**:
+Boek:
   > Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.  
 > [https://search.worldcat.org/title/902336725?oclcNum=902336725](https://search.worldcat.org/title/902336725?oclcNum=902336725), [ISBN 9789068683431](https://isbnsearch.org/isbn/9789068683431), [WorldCat 902336725](https://search.worldcat.org/title/902336725)  
 > _Biografie over Carel van Lier._  
