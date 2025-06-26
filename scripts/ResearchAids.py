@@ -56,7 +56,7 @@ class EditHistory(tuple):
 
 
     def origin_event(self):
-        orig_events = sorted(e for e in self if e.is_origin, key=lambda e: e.date)
+        orig_events = sorted((e for e in self if e.is_origin), key=lambda e: e.date)
         return orig_events[0] if orig_events else self[0]
 
 
