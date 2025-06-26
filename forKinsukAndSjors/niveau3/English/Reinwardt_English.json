@@ -7,42 +7,48 @@
             "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 1
             }
         },
         {
             "Scientific research in colonised territories": {
                 "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 2
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
                 "link": "niveau3/English/BGKW_20240905.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/BGKW_English"
+                "linkFilename": "niveau3/English/BGKW_English",
+                "sort_order": 3
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Naturalis_English"
+                "linkFilename": "niveau3/English/Naturalis_English",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 5
             }
         },
         {
             "RMO": {
                 "link": "niveau3/English/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RMO_English"
+                "linkFilename": "niveau3/English/RMO_English",
+                "sort_order": 6
             }
         }
     ],

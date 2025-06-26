@@ -7,77 +7,88 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Sources_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
+                "sort_order": 4
             }
         },
         {
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Trade_Dutch"
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Koninklijk Kabinet van Zeldzaamheden": {
                 "link": "niveau3/Dutch/KKZ_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Koninklijke Vereniging Vrienden der Aziatische Kunst": {
                 "link": "niveau3/Dutch/KVVAK_20240312.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KVVAK_Dutch"
+                "linkFilename": "niveau3/Dutch/KVVAK_Dutch",
+                "sort_order": 7
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 8
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 9
             }
         },
         {
             "Rijksmuseum van Oudheden": {
                 "link": "niveau3/Dutch/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                "linkFilename": "niveau3/Dutch/RMO_Dutch",
+                "sort_order": 10
             }
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
                 "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch"
+                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
+                "sort_order": 11
             }
         }
     ],

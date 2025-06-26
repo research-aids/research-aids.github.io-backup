@@ -7,28 +7,32 @@
             "The trade in objects from a colonial context": {
                 "link": "niveau2/English/Trade_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English"
+                "linkFilename": "niveau2/English/Trade_English",
+                "sort_order": 1
             }
         },
         {
             "Royal Cabinet of Curiosities": {
                 "link": "niveau3/Dutch/KKZ_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 3
             }
         },
         {
             "Kunsthandel Van Lier": {
                 "link": "niveau3/English/KunsthandelVanLier_20240507.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/KunsthandelVanLier_English"
+                "linkFilename": "niveau3/English/KunsthandelVanLier_English",
+                "sort_order": 4
             }
         }
     ],

@@ -7,91 +7,104 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Bronnen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Selecteren en afbakenen": {
                 "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
+                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 4
             }
         },
         {
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Handel_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Handel_Dutch"
+                "linkFilename": "niveau2/Dutch/Handel_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Koninklijk Kabinet van Zeldzaamheden": {
                 "link": "niveau3/Dutch/KKZ_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 7
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 8
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 9
             }
         },
         {
             "Museum Bronbeek": {
                 "link": "niveau3/Dutch/Bronbeek_20241002.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Bronbeek_Dutch"
+                "linkFilename": "niveau3/Dutch/Bronbeek_Dutch",
+                "sort_order": 10
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
+                "sort_order": 11
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch"
+                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
+                "sort_order": 12
             }
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "published/niveau3/Dutch/JustinusNassau_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch"
+                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
+                "sort_order": 13
             }
         }
     ],

@@ -7,42 +7,48 @@
             "Army and navy personnel in colonised territories": {
                 "link": "published/niveau2/English/MilitaryAndNavy_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
+                "sort_order": 1
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "published/niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 2
             }
         },
         {
             "Wageningen University & Research": {
                 "link": "published/niveau3/English/WageningenUniversity_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WageningenUniversity_English"
+                "linkFilename": "niveau3/English/WageningenUniversity_English",
+                "sort_order": 3
             }
         },
         {
             "Museum Bronbeek": {
                 "link": "published/niveau3/English/Bronbeek_20241002.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Bronbeek_English"
+                "linkFilename": "niveau3/English/Bronbeek_English",
+                "sort_order": 4
             }
         },
         {
             "Museum Nusantara": {
                 "link": "published/niveau3/English/MNusantara_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MNusantara_English"
+                "linkFilename": "niveau3/English/MNusantara_English",
+                "sort_order": 5
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/HoofdcursusKampen_English"
+                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
+                "sort_order": 6
             }
         }
     ],

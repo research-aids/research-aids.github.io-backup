@@ -7,49 +7,56 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Sources_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
                 "link": "niveau3/Dutch/BGKW_20240827.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Aruba, Bonaire en Cura\u00e7ao": {
                 "link": "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau2/Dutch/ArubaBonaireCuracao_Dutch"
+                "linkFilename": "niveau2/Dutch/ArubaBonaireCuracao_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Saba, Sint Eustatius en Sint Maarten": {
                 "link": "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch"
+                "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
+                "sort_order": 7
             }
         }
     ],

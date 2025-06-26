@@ -7,21 +7,24 @@
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "published/niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 1
             }
         },
         {
             "Wageningen University & Research": {
                 "link": "published/niveau3/English/WageningenUniversity_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WageningenUniversity_English"
+                "linkFilename": "niveau3/English/WageningenUniversity_English",
+                "sort_order": 2
             }
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
                 "link": "published/niveau3/English/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MOudenbosch_English"
+                "linkFilename": "niveau3/English/MOudenbosch_English",
+                "sort_order": 3
             }
         }
     ],

@@ -7,21 +7,24 @@
             "Doing research": {
                 "link": "niveau1/English/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/DoingResearch_English"
+                "linkFilename": "niveau1/English/DoingResearch_English",
+                "sort_order": 1
             }
         },
         {
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/Sources_English"
+                "linkFilename": "niveau1/English/Sources_English",
+                "sort_order": 2
             }
         },
         {
             "Select and delineate": {
                 "link": "niveau1/English/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/SelectAndDelineate_English"
+                "linkFilename": "niveau1/English/SelectAndDelineate_English",
+                "sort_order": 3
             }
         }
     ],

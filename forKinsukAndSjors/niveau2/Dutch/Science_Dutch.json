@@ -7,133 +7,152 @@
             "Selecteren en afbakenen": {
                 "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch"
+                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Bronnen": {
                 "link": "niveau1/Dutch/Bronnen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch"
+                "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
+                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
                 "link": "niveau3/Dutch/BGKW_20240827.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Etnografisch Museum Artis": {
                 "link": "niveau3/Dutch/EMArtis_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
+                "sort_order": 7
             }
         },
         {
             "Koninklijk Instituut voor Taal- Land- en Volkenkunde": {
                 "link": "niveau3/Dutch/KITLV_20240704.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KITLV_Dutch"
+                "linkFilename": "niveau3/Dutch/KITLV_Dutch",
+                "sort_order": 8
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/Dutch/Naturalis_20240710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
+                "sort_order": 9
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 10
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 11
             }
         },
         {
             "Wereldmuseum Rotterdam": {
                 "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
+                "sort_order": 12
             }
         },
         {
             "Wageningen University & Research": {
                 "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
+                "sort_order": 13
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
+                "sort_order": 14
             }
         },
         {
             "Rijksmuseum van Oudheden": {
                 "link": "niveau3/Dutch/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                "linkFilename": "niveau3/Dutch/RMO_Dutch",
+                "sort_order": 15
             }
         },
         {
             "C.G.C. Reinwardt": {
                 "link": "niveau3/Dutch/Reinwardt_20241217.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
+                "sort_order": 16
             }
         },
         {
             "Museon-Omniversum": {
                 "link": "published/niveau3/Dutch/Museon_20250429.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Museon_Dutch"
+                "linkFilename": "niveau3/Dutch/Museon_Dutch",
+                "sort_order": 17
             }
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
                 "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch"
+                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
+                "sort_order": 18
             }
         },
         {
             "Volkenkundig Museum 'Gerardus van der Leeuw'": {
                 "link": "published/niveau3/Dutch/GerardusLeeuw_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch"
+                "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
+                "sort_order": 19
             }
         }
     ],

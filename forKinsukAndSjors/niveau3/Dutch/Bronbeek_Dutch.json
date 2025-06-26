@@ -7,28 +7,32 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Sources_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch"
+                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "published/niveau3/Dutch/JustinusNassau_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch"
+                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
+                "sort_order": 4
             }
         }
     ],

@@ -7,70 +7,80 @@
             "Christian mission": {
                 "link": "published/niveau2/English/ChristianMission_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/ChristianMission_English"
+                "linkFilename": "niveau2/English/ChristianMission_English",
+                "sort_order": 1
             }
         },
         {
             "Museums and collection holding institutions": {
                 "link": "published/niveau2/English/Museum_20250113.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Museum_English"
+                "linkFilename": "niveau2/English/Museum_English",
+                "sort_order": 2
             }
         },
         {
             "Artis Ethnographic Museum": {
                 "link": "published/niveau3/English/EMArtis_20240712.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/EMArtis_English"
+                "linkFilename": "niveau3/English/EMArtis_English",
+                "sort_order": 3
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "published/niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Naturalis_English"
+                "linkFilename": "niveau3/English/Naturalis_English",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "published/niveau3/English/WMAmsterdam_20240809.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMAmsterdam_English"
+                "linkFilename": "niveau3/English/WMAmsterdam_English",
+                "sort_order": 5
             }
         },
         {
             "Wereldmuseum Berg en Dal": {
                 "link": "published/niveau3/English/WMBergEnDal_20241001.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMBergEnDal_English"
+                "linkFilename": "niveau3/English/WMBergEnDal_English",
+                "sort_order": 6
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "published/niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 7
             }
         },
         {
             "Wereldmuseum Rotterdam": {
                 "link": "published/niveau3/English/WMRotterdam_2040822.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMRotterdam_English"
+                "linkFilename": "niveau3/English/WMRotterdam_English",
+                "sort_order": 8
             }
         },
         {
             "Missiemuseum Steyl": {
                 "link": "published/niveau3/English/MissiemuseumSteyl_20241021.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
+                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
+                "sort_order": 9
             }
         },
         {
             "Volkenkundig Museum 'Gerardus van der Leeuw'": {
                 "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/GerardusLeeuw_English"
+                "linkFilename": "niveau3/English/GerardusLeeuw_English",
+                "sort_order": 10
             }
         }
     ],

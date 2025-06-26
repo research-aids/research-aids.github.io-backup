@@ -7,56 +7,64 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Bronnen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
+                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Nederlandsch Zendeling Genootschap": {
                 "link": "niveau3/Dutch/NZG_20240314.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/NZG_Dutch"
+                "linkFilename": "niveau3/Dutch/NZG_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Rotterdam": {
                 "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Missiemuseum Steyl": {
                 "link": "niveau3/Dutch/MissiemuseumSteyl_20241021.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch"
+                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch",
+                "sort_order": 7
             }
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
                 "link": "published/niveau3/Dutch/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch"
+                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
+                "sort_order": 8
             }
         }
     ],

@@ -7,105 +7,120 @@
             "Doing research": {
                 "link": "niveau1/English/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/DoingResearch_English"
+                "linkFilename": "niveau1/English/DoingResearch_English",
+                "sort_order": 1
             }
         },
         {
             "The Dutch restitution policy": {
                 "link": "niveau1/English/RestitutionPolicy_20250123.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/RestitutionPolicy_English"
+                "linkFilename": "niveau1/English/RestitutionPolicy_English",
+                "sort_order": 2
             }
         },
         {
             "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 3
             }
         },
         {
             "The trade in objects from a colonial context": {
                 "link": "niveau2/English/Trade_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English"
+                "linkFilename": "niveau2/English/Trade_English",
+                "sort_order": 4
             }
         },
         {
             "Army and navy personnel in colonised territories": {
                 "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
+                "sort_order": 5
             }
         },
         {
             "Christian missionaries in colonised territories": {
                 "link": "niveau2/English/ChristianMission_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/ChristianMission_English"
+                "linkFilename": "niveau2/English/ChristianMission_English",
+                "sort_order": 6
             }
         },
         {
             "Scientific research in colonised territories": {
                 "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 7
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 8
             }
         },
         {
             "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
                 "link": "niveau3/English/KITLV_20240704.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/KITLV_English"
+                "linkFilename": "niveau3/English/KITLV_English",
+                "sort_order": 9
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Naturalis_English"
+                "linkFilename": "niveau3/English/Naturalis_English",
+                "sort_order": 10
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/English/WMAmsterdam_20240809.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMAmsterdam_English"
+                "linkFilename": "niveau3/English/WMAmsterdam_English",
+                "sort_order": 11
             }
         },
         {
             "Wereldmuseum Rotterdam": {
                 "link": "niveau3/English/WMRotterdam_2040822.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMRotterdam_English"
+                "linkFilename": "niveau3/English/WMRotterdam_English",
+                "sort_order": 12
             }
         },
         {
             "Museum Bronbeek": {
                 "link": "niveau3/English/Bronbeek_20241002.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Bronbeek_English"
+                "linkFilename": "niveau3/English/Bronbeek_English",
+                "sort_order": 13
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
+                "sort_order": 14
             }
         },
         {
             "Rijksmuseum van Oudheden": {
                 "link": "niveau3/English/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RMO_English"
+                "linkFilename": "niveau3/English/RMO_English",
+                "sort_order": 15
             }
         }
     ],

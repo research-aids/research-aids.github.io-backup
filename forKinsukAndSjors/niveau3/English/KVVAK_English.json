@@ -7,14 +7,16 @@
             "The trade in objects from a colonial context": {
                 "link": "niveau2/English/Trade_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English"
+                "linkFilename": "niveau2/English/Trade_English",
+                "sort_order": 1
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
+                "sort_order": 2
             }
         }
     ],

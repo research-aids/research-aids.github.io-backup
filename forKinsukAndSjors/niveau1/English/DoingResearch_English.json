@@ -7,28 +7,32 @@
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/Sources_English"
+                "linkFilename": "niveau1/English/Sources_English",
+                "sort_order": 1
             }
         },
         {
             "Select and delineate": {
                 "link": "niveau1/English/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/SelectAndDelineate_English"
+                "linkFilename": "niveau1/English/SelectAndDelineate_English",
+                "sort_order": 2
             }
         },
         {
             "Reporting": {
                 "link": "niveau1/English/Reporting_20240501.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/Reporting_English"
+                "linkFilename": "niveau1/English/Reporting_English",
+                "sort_order": 3
             }
         },
         {
             "The Dutch restitution policy": {
                 "link": "niveau1/English/RestitutionPolicy_20250123.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/RestitutionPolicy_English"
+                "linkFilename": "niveau1/English/RestitutionPolicy_English",
+                "sort_order": 4
             }
         }
     ],

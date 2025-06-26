@@ -7,84 +7,96 @@
             "Sources": {
                 "link": "niveau1/English/Sources_20240501.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau1/English/Sources_English"
+                "linkFilename": "niveau1/English/Sources_English",
+                "sort_order": 1
             }
         },
         {
             "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 2
             }
         },
         {
             "Army and navy personnel in colonised territories": {
                 "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
+                "sort_order": 3
             }
         },
         {
             "The trade in objects from a colonial context": {
                 "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau2/Dutch/Trade_Dutch"
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Scientific research in colonised territories": {
                 "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 5
             }
         },
         {
             "Royal Cabinet of Curiosities": {
                 "link": "niveau3/English/KKZ_20240417.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/English/KKZ_English"
+                "linkFilename": "niveau3/English/KKZ_English",
+                "sort_order": 6
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 7
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/English/WMAmsterdam_20240809.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/English/WMAmsterdam_English"
+                "linkFilename": "niveau3/English/WMAmsterdam_English",
+                "sort_order": 8
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
                 "link": "niveau3/English/BGKW_20240905.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/BGKW_English"
+                "linkFilename": "niveau3/English/BGKW_English",
+                "sort_order": 9
             }
         },
         {
             "Museon-Omniversum": {
                 "link": "published/niveau3/English/Museon_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Museon_English"
+                "linkFilename": "niveau3/English/Museon_English",
+                "sort_order": 10
             }
         },
         {
             "International Colonial and Export Exhibition 1883": {
                 "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English"
+                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
+                "sort_order": 11
             }
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
                 "link": "published/niveau3/English/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MOudenbosch_English"
+                "linkFilename": "niveau3/English/MOudenbosch_English",
+                "sort_order": 12
             }
         }
     ],

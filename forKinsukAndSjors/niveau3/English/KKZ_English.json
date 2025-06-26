@@ -7,63 +7,72 @@
             "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 1
             }
         },
         {
             "Army and navy personnel in colonised territories": {
                 "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English"
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
+                "sort_order": 2
             }
         },
         {
             "The trade in objects from a colonial context": {
                 "link": "niveau2/English/Trade_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English"
+                "linkFilename": "niveau2/English/Trade_English",
+                "sort_order": 3
             }
         },
         {
             "Groote Koninklijke Bazar": {
                 "link": "niveau3/English/KoninklijkeBazaar_2040503.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/KoninklijkeBazaar_English"
+                "linkFilename": "niveau3/English/KoninklijkeBazaar_English",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English"
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 5
             }
         },
         {
             "Artis Ethnographic Museum": {
                 "link": "niveau3/English/EMArtis_20240712.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/EMArtis_English"
+                "linkFilename": "niveau3/English/EMArtis_English",
+                "sort_order": 6
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/English/WMAmsterdam_20240809.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/English/WMAmsterdam_English"
+                "linkFilename": "niveau3/English/WMAmsterdam_English",
+                "sort_order": 7
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English"
+                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
+                "sort_order": 8
             }
         },
         {
             "Rijksmuseum van Oudheden": {
                 "link": "niveau3/English/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/RMO_English"
+                "linkFilename": "niveau3/English/RMO_English",
+                "sort_order": 9
             }
         }
     ],

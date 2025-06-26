@@ -7,42 +7,48 @@
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Wageningen University & Research": {
                 "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch"
+                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch"
+                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "published/niveau3/Dutch/JustinusNassau_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch"
+                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
                 "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch"
+                "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
+                "sort_order": 6
             }
         }
     ],

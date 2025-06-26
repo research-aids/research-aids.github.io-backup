@@ -7,49 +7,56 @@
             "Civil servants in colonised territories": {
                 "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 1
             }
         },
         {
             "Scientific research in colonised territories": {
                 "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 2
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Naturalis_English"
+                "linkFilename": "niveau3/English/Naturalis_English",
+                "sort_order": 3
             }
         },
         {
             "Museum Nusantara": {
                 "link": "niveau3/English/MNusantara_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MNusantara_English"
+                "linkFilename": "niveau3/English/MNusantara_English",
+                "sort_order": 4
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/HoofdcursusKampen_English"
+                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
+                "sort_order": 5
             }
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "published/niveau3/English/JustinusNassau_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/JustinusNassau_English"
+                "linkFilename": "niveau3/English/JustinusNassau_English",
+                "sort_order": 6
             }
         },
         {
             "Volkenkundig museum 'Gerardus van der Leeuw'": {
                 "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/GerardusLeeuw_English"
+                "linkFilename": "niveau3/English/GerardusLeeuw_English",
+                "sort_order": 7
             }
         }
     ],

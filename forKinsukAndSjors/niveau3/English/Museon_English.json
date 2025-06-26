@@ -7,28 +7,32 @@
             "Civil servants in colonised territories": {
                 "link": "published/niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English"
+                "linkFilename": "niveau2/English/CivilServants_English",
+                "sort_order": 1
             }
         },
         {
             "Scientific research in colonised territories": {
                 "link": "published/niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Science_English"
+                "linkFilename": "niveau2/English/Science_English",
+                "sort_order": 2
             }
         },
         {
             "Artis Ethnographic Museum": {
                 "link": "published/niveau3/English/EMArtis_20240712.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/EMArtis_English"
+                "linkFilename": "niveau3/English/EMArtis_English",
+                "sort_order": 3
             }
         },
         {
             "Naturalis": {
                 "link": "published/niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/Naturalis_English"
+                "linkFilename": "niveau3/English/Naturalis_English",
+                "sort_order": 4
             }
         }
     ],

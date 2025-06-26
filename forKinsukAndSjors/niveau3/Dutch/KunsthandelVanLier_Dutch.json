@@ -7,21 +7,24 @@
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Handel_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Handel_Dutch"
+                "linkFilename": "niveau2/Dutch/Handel_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Groote Koninklijke Bazar": {
                 "link": "niveau3/Dutch/KoninklijkeBazar_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch"
+                "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 3
             }
         }
     ],

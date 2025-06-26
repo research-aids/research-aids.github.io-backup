@@ -7,21 +7,24 @@
             "Christian missionaries in colonised territories": {
                 "link": "niveau2/English/ChristianMission_20240417.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/ChristianMission_English"
+                "linkFilename": "niveau2/English/ChristianMission_English",
+                "sort_order": 1
             }
         },
         {
             "Wereldmuseum Berg en Dal": {
                 "link": "niveau3/English/WMBergEnDal_20241001.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMBergEnDal_English"
+                "linkFilename": "niveau3/English/WMBergEnDal_English",
+                "sort_order": 2
             }
         },
         {
             "Missiemuseum Steyl": {
                 "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/MissiemuseumSteyl_English"
+                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
+                "sort_order": 3
             }
         }
     ],

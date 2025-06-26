@@ -7,21 +7,24 @@
             "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/ZendingEnMissie_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch"
+                "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wereldmuseum Berg en Dal": {
                 "link": "niveau3/Dutch/WMBergEnDal_20241001.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch"
+                "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Missiemuseum Steyl": {
                 "link": "niveau3/Dutch/MissiemuseumSteyl_20241021.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch"
+                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch",
+                "sort_order": 3
             }
         }
     ],

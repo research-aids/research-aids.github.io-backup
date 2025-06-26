@@ -7,56 +7,64 @@
             "Bronnen": {
                 "link": "niveau1/Dutch/Bronnen_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch"
+                "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 2
             }
         },
         {
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Trade_Dutch"
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
                 "link": "niveau3/Dutch/BGKW_20240827.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Koninklijk Kabinet van Zeldzaamheden": {
                 "link": "niveau3/Dutch/KKZ_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KKZ_Dutch"
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
+                "sort_order": 7
             }
         },
         {
             "C.G.C. Reinwardt": {
                 "link": "niveau3/Dutch/Reinwardt_20241217.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch"
+                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
+                "sort_order": 8
             }
         }
     ],

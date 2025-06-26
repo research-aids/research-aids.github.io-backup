@@ -7,63 +7,72 @@
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch"
+                "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch",
+                "sort_order": 2
             }
         },
         {
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Handel_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Handel_Dutch"
+                "linkFilename": "niveau2/Dutch/Handel_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Groote Koninklijke Bazar": {
                 "link": "niveau3/Dutch/KoninklijkeBazar_20240313.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch"
+                "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Ethnografisch Museum Artis": {
                 "link": "niveau3/Dutch/EMArtis_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Wereldmuseum Amsterdam": {
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "See also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 7
             }
         },
         {
             "Rijksmuseum Amsterdam": {
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch"
+                "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
+                "sort_order": 8
             }
         },
         {
             "Rijksmuseum van Oudheden": {
                 "link": "niveau3/Dutch/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                "linkFilename": "niveau3/Dutch/RMO_Dutch",
+                "sort_order": 9
             }
         }
     ],

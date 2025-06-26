@@ -7,49 +7,56 @@
             "Onderzoeken": {
                 "link": "niveau1/Dutch/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch"
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Introductie tot het doen van herkomstonderzoek": {
                 "link": "niveau1/Dutch/Introduction_20250120.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Introduction_Dutch"
+                "linkFilename": "niveau1/Dutch/Introduction_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch"
+                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 4
             }
         },
         {
             "De handel in objecten uit een koloniale context": {
                 "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Trade_Dutch"
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Zendelingen en missionarissen in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/ChristianMission_20240326.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch"
+                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 7
             }
         }
     ],

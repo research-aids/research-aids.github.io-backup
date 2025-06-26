@@ -7,49 +7,56 @@
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch"
+                "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/Dutch/Naturalis_20240710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Museum Nusantara": {
                 "link": "niveau3/Dutch/MNusantara_20250130.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/MNusantara_Dutch"
+                "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Hoofdcursus Kampen": {
                 "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch"
+                "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
+                "sort_order": 5
             }
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "published/niveau3/Dutch/JustinusNassau_20250225.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch"
+                "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
+                "sort_order": 6
             }
         },
         {
             "Volkenkundig Museum 'Gerardus van der Leeuw'": {
                 "link": "published/niveau3/Dutch/GerardusLeeuw_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch"
+                "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
+                "sort_order": 7
             }
         }
     ],

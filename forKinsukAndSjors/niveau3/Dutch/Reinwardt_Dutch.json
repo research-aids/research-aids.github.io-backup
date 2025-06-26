@@ -7,42 +7,48 @@
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
                 "link": "niveau3/Dutch/BGKW_20240827.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/BGKW_Dutch"
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Naturalis Biodiversity Center": {
                 "link": "niveau3/Dutch/Naturalis_20240710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
+                "sort_order": 4
             }
         },
         {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch"
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 5
             }
         },
         {
             "RMO": {
                 "link": "niveau3/Dutch/RMO_20241106.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/RMO_Dutch"
+                "linkFilename": "niveau3/Dutch/RMO_Dutch",
+                "sort_order": 6
             }
         }
     ],

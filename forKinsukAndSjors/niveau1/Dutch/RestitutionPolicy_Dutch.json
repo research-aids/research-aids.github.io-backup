@@ -7,14 +7,16 @@
             "Onderzoeken": {
                 "link": "niveau1/Dutch/DoingResearch_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch"
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Sources_Dutch"
+                "linkFilename": "niveau1/Dutch/Sources_Dutch",
+                "sort_order": 2
             }
         }
     ],

@@ -7,28 +7,32 @@
             "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "published/niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/CivilServants_Dutch"
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
+                "sort_order": 1
             }
         },
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
                 "link": "published/niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/Science_Dutch"
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 2
             }
         },
         {
             "Etnografisch Museum Artis": {
                 "link": "published/niveau3/Dutch/EMArtis_20240711.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/EMArtis_Dutch"
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
+                "sort_order": 3
             }
         },
         {
             "Naturalis": {
                 "link": "published/niveau3/Dutch/Naturalis_20240710.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/Naturalis_Dutch"
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
+                "sort_order": 4
             }
         }
     ],
