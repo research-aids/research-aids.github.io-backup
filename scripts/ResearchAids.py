@@ -36,7 +36,7 @@ class EditHistory(tuple):
         try:
             return cls(map(EditEvent.from_yaml, yml))
         except ValueError:
-            today = datetime.today().strftime("%Y-%m-%d")
+            today = datetime.today()
             evs = (EditEvent(date=today, author="UNKNOWN", role="UNKNOWN",
                              notes="This event was automatically created because the YAML file's edit history was empty."),)
             return cls(evs)
