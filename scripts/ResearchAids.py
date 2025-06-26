@@ -53,6 +53,7 @@ class EditHistory(tuple):
         orig_events = tuple(e for e in self if e.is_origin)
         return orig_events[0] if orig_events else None
 
+
 class ResearchAid:
     @staticmethod
     def get_level(level_id):
@@ -170,11 +171,11 @@ class Level0(ResearchAid):
     def __call__(self):
         breakdown = "\n".join(self.parse_breakdown(self.breakdown))
         return f"""
-        ## {self.sub}
+## {self.sub}
 
-        {self.main_text}
+{self.main_text}
 
-        {breakdown}
+{breakdown}
         """
     
 class Level1(ResearchAid):
@@ -234,8 +235,8 @@ class Level2(Level1):
         for source_lvl, source_ls in yml.items():
             md += f"## {source_lvl}\n\n"
             for source in source_ls:
-                'Type of source', 'Name', 'Link', 'Description and remarks'
-                source_md = f"**{source['Type of source']}**:\n  > {source['Name']}"
+                # 'Type of source', 'Name', 'Link', 'Description and remarks'
+                source_md = f"{source['Type of source']}:\n  > {source['Name']}"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
                 links_md = ", ".join(self.parse_source_links(source['Link']))
                 # links_md = "(" + links_md + ")"

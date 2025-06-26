@@ -6,6 +6,7 @@ import json
 import re
 
 # copied from: https://stackoverflow.com/questions/34667108/ignore-dates-and-times-while-parsing-yaml
+# used to stop the YAML parser to parse datetime strings -- which aren't a valid datatype in JSON
 class NoDatesSafeLoader(yaml.SafeLoader):
     @classmethod
     def remove_implicit_resolver(cls, tag_to_remove):
@@ -92,6 +93,14 @@ def addEntityInfotoText(d, lang):
     return main
 
 
+def addOrderingProp(d):
+    # add to breakdown
+    if "Breakdown" in d:
+        d["Breadown"] = {title: [d | {"sort_order": i}  for i, d in enumerate(ls)] 
+                         for title, d in d["Breakdown"].items()}
+
+    if 
+
 
 # MAIN
 
@@ -112,6 +121,22 @@ for f in tqdm(yaml_files):
         if "Breakdown" in yaml_content:
             yaml_content["Breakdown"] = {subtitle: list(addlinkFilename(sublist, lang=lang))
                                          for subtitle, sublist in yaml_content["Breakdown"].items()}
+
+
+
+        def add_to_item_list(ls):
+            for i, item in enumerate(ls, 1):
+                item_title, item_fields = tuple(item.items())[0]
+                item_fields.update({"sort_order": i})
+                subtopics = item_fields.get("Deelonderwerpen", None) or item_fields.get("Subtopics", None)
+                if subtopics:
+                    add_to_item_list(subtopics)
+        
+        if "RelatedAides" in yaml_content:
+            add_to_item_list(yaml_content["RelatedAides"])
+        if "Breakdown" in yaml_content:
+            for title, ls in yaml_content["Breakdown"].items():
+                add_to_item_list(ls)
     
         
         new_name = f"{OUT_DIR}/{level}/{lang}/{name}_{lang}.json"
