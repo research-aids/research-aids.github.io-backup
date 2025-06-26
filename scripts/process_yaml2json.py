@@ -93,14 +93,14 @@ def addEntityInfotoText(d, lang):
     return main
 
 
-def addOrderingProp(d):
-    # add to breakdown
-    if "Breakdown" in d:
-        d["Breadown"] = {title: [d | {"sort_order": i}  for i, d in enumerate(ls)] 
-                         for title, d in d["Breakdown"].items()}
-
-    if 
-
+def add_sort_oorder_to_item_list(ls):
+    for i, item in enumerate(ls, 1):
+        item_title, item_fields = tuple(item.items())[0]
+        item_fields.update({"sort_order": i})
+        subtopics = item_fields.get("Deelonderwerpen", None) or item_fields.get("Subtopics", None)
+        if subtopics:
+            add_sort_oorder_to_item_list(subtopics)
+        
 
 # MAIN
 
@@ -124,19 +124,11 @@ for f in tqdm(yaml_files):
 
 
 
-        def add_to_item_list(ls):
-            for i, item in enumerate(ls, 1):
-                item_title, item_fields = tuple(item.items())[0]
-                item_fields.update({"sort_order": i})
-                subtopics = item_fields.get("Deelonderwerpen", None) or item_fields.get("Subtopics", None)
-                if subtopics:
-                    add_to_item_list(subtopics)
-        
         if "RelatedAides" in yaml_content:
-            add_to_item_list(yaml_content["RelatedAides"])
+            add_sort_oorder_to_item_list(yaml_content["RelatedAides"])
         if "Breakdown" in yaml_content:
             for title, ls in yaml_content["Breakdown"].items():
-                add_to_item_list(ls)
+                add_sort_oorder_to_item_list(ls)
     
         
         new_name = f"{OUT_DIR}/{level}/{lang}/{name}_{lang}.json"
