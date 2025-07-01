@@ -18,7 +18,7 @@ def download_button(level, language, name, extension):
     link_text = link_text[extension.lower()]
 
     # language = "English" if language.lower().startswith("en") else "Dutch"
-    link_path = f"EXPORTS/{extension.upper()}/{level}/{language}/{ra_name}.{extension.lower()}"
+    link_path = f"EXPORTS/{extension.upper()}/{level}/{language}/{name}.{extension.lower()}"
     link = github_raw_base_URL + link_path
 
     return f"[{link_text}]({link}){{: .btn .btn-green }}"
