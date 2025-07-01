@@ -15,6 +15,7 @@ from yaml_to_markdown.md_converter import MDConverter
 MD_CONV = MDConverter()
 
 from ResearchAids import ResearchAid
+from md_to_website import download_button, front_matter
 
 
 IN_DIR = "./published"
@@ -39,7 +40,7 @@ def parse_filepath(fp):
     return level, lang, parse_filename(fname)
 
 
-def export_markdown(f, out_dir, return_content=True):
+def export_markdown(f, out_dir, level, lang, name, return_content=True):
     md_name = f"{out_dir}/MD/{level}/{lang}/{name}.md"
     os.makedirs(os.path.dirname(md_name), exist_ok=True)
     
@@ -50,6 +51,18 @@ def export_markdown(f, out_dir, return_content=True):
             md_content = ra()
             with open(md_name, "w") as md_handle:
                 md_handle.write(md_content)
+
+            
+            website_name = md_name.replace("/MD/", "/WEBSITE/")
+            os.makedirs(os.path.dirname(website_name), exist_ok=True)
+            website_content = front_matter(ra.title) + "\n\n" +\
+                                download_button(level, language, name, "PDF") +\
+                                download_button(level, language, name, "DOCX") +\
+                                + "\n\n" + md_content
+
+            with open(website_name, "w") as web_handle:
+                web_handle.write(website_content)
+
             return md_content
         
         
@@ -83,7 +96,7 @@ if __name__ == "__main__":
         new_name = f"{OUT_DIR}/{fmt.upper()}/{level}/{lang}/{name}.{fmt}"
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
 
-        markdown_content = export_markdown(f, OUT_DIR)
+        markdown_content = export_markdown(f, OUT_DIR, level, lang, name)
         if not markdown_content:
             didnt_parse.append(f)
             continue
