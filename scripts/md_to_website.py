@@ -14,14 +14,14 @@ github_raw_base_URL = "https://raw.githubusercontent.com/colonial-heritage/resea
 
 
 def download_button(level, language, name, extension):
-    link_text = dict(pdf="Download PDF", docx="Download DOCS")
+    link_text = dict(pdf="Download PDF", docx="Download DOCX")
     link_text = link_text[extension.lower()]
 
     # language = "English" if language.lower().startswith("en") else "Dutch"
     link_path = f"EXPORTS/{extension.upper()}/{level}/{language}/{name}.{extension.lower()}"
     link = github_raw_base_URL + link_path
 
-    return f"[{link_text}]({link}){{: .btn .btn-green }}"
+    return f"[{link_text}]({link}){{: .btn .btn-mint }}"
   
 
 def front_matter(ra_name):

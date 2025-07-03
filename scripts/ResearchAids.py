@@ -94,8 +94,7 @@ class ResearchAid:
 
         #_author: {self.author}_  
         # _last edited: {self.time}_  
-        return f"""
-        This is a level {self.level_id} Research Aid_  
+        return f"""_This is a level {self.level_id} Research Aid_  
 _first {self.edit_history.origin_event.to_markdown()}_  
 {f'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}
 
@@ -191,6 +190,8 @@ class Level1(ResearchAid):
         self.main_text = self.get_markdown_content(yml["Main-text"])
         self.related_aids = self.parse_related_aids(yml["RelatedAides"])
 
+        self.main_text = self.main_text.replace(self.abstract, "").strip()
+    
     def parse_related_aids(self, yml):
         md = ""
         for d in yml:
