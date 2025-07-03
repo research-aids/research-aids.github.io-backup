@@ -1,5 +1,4 @@
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by wiebe reints as original_author on 2024-04-25_
 
@@ -8,8 +7,6 @@ _last edited by wiebe reints as original_author on 2024-04-25_
 
 
 ## Abstract
-
-In deze zoekhulp vind je informatie over hoe je voorwerpen selecteert voor je onderzoek en hoe je je (herkomst)onderzoek kan afbakenen.
 
 In deze zoekhulp vind je informatie over hoe je voorwerpen selecteert voor je onderzoek en hoe je je (herkomst)onderzoek kan afbakenen.
 
@@ -44,7 +41,6 @@ Wanneer het doel is om transparante informatie te verstrekken aan het publiek va
 Soms wordt prioriteit in musea gestuurd door externe partijen, bijvoorbeeld in het geval van een restitutieverzoek of een maatschappelijke discussie rond bepaalde voorwerpen. Ook wanneer je zelf een teruggaveverzoek wilt indienen kan het nuttig zijn eerst de herkomst van een object te onderzoeken, bijvoorbeeld om vast te stellen of het voorwerp in een koloniale context is weggenomen. 
 
 Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de beheerder verwacht dat er een verzoek tot teruggave komt. In dat geval kan prioriteit gegeven worden aan voorwerpen waarvan bekend is dat ze grote historische, culturele of spirituele waarde vertegenwoordigen voor gemeenschappen van herkomst. Idealiter vindt de prioritering van herkomstonderzoek plaats op voorspraak van, of in samenspraak met, gemeenschappen van herkomst en lokale deskundigen.
-
 
 ## Related Aids
 

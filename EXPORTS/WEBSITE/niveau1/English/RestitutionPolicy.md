@@ -4,10 +4,9 @@ title: The Dutch restitution policy
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/RestitutionPolicy.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/RestitutionPolicy.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/RestitutionPolicy.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/RestitutionPolicy.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2025-01-23_  
 _last edited by wiebe reints as original_author on 2025-01-23_
 
@@ -16,8 +15,6 @@ _last edited by wiebe reints as original_author on 2025-01-23_
 
 
 ## Abstract
-
-In this research aid you find information about the establishment of the Dutch state policy on the restitution of objects acquired in a colonial context.
 
 In this research aid you find information about the establishment of the Dutch state policy on the restitution of objects acquired in a colonial context.
 
@@ -88,7 +85,6 @@ On the basis of the provenance research and any additional information or invest
 In the case of a balance of interests, the applicant is asked to declare his interests in the retrieved objects. Other interested parties are also inventoried. The Colonial Collections Committee then draws up a deliberation taking into account cultural-historical, scientific and all other relevant interests. The circumstances following any return, such as management, conservation and accessibility (for local communities), also play a role.
 
 After deliberation, the final advice of the Colonial Collections Committee is presented to the Minister of OCW (if it concerns an object from the state collection) or any other object owner. The latter then makes a decision, which in practice is always in line with the recommendations of the Colonial Collections Committee. After this, the committee's advice and the related provenance research report are made publicly available through the website of the Colonial Collections Committee. [Previous advisory reports](https://committee.kolonialecollecties.nl/publications?size=n_10_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all) are therefore publicly available to everyone.
-
 
 ## Related Aids
 

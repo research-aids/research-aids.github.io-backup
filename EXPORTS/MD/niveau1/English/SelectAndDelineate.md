@@ -1,5 +1,4 @@
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by abacus as translator on 2025-03-12_
 
@@ -8,8 +7,6 @@ _last edited by abacus as translator on 2025-03-12_
 
 
 ## Abstract
-
-In this research aid you find information on how to select objects and how to subsequently delineate your (provenance) research.
 
 In this research aid you find information on how to select objects and how to subsequently delineate your (provenance) research.
 
@@ -44,7 +41,6 @@ If the goal is to provide transparent information to your institution’s audien
 Sometimes priority at museums is driven by external parties, for example in the case of an application for restitution or a public debate surrounding certain objects. If you yourself wish to submit an application for restitution it may also be useful to first research the provenance of the relevant object, for example to determine whether it was acquired in a colonial context. 
 
 Provenance research can also be undertaken proactively, for example if the custodian expects an application for restitution to be made. In that case, priority may be given to objects known to be of great historical, cultural or spiritual value to communities of origin. Ideally, prioritisation of provenance research should take place on the recommendation of, or in consultation with, communities of origin and local experts.
-
 
 ## Related Aids
 

@@ -4,10 +4,9 @@ title: Verslagleggen
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Reporting.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Reporting.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Reporting.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Reporting.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by wiebe reints as original_author on 2024-05-01_
 
@@ -16,8 +15,6 @@ _last edited by wiebe reints as original_author on 2024-05-01_
 
 
 ## Abstract
-
-In deze zoekhulp vind je informatie over hoe je een verslag opstelt naar aanleiding van je (herkomst)onderzoek.
 
 In deze zoekhulp vind je informatie over hoe je een verslag opstelt naar aanleiding van je (herkomst)onderzoek.
 
@@ -60,7 +57,6 @@ Historische foto's, plattegronden en andere illustraties kunnen het verslag verd
 Koloniale bronnen zijn geschreven vanuit een perspectief dat koloniale overheersing rechtvaardigt. Vaak worden er termen gebruikt die niet meer gebruikelijk zijn of tegenwoordig als ongepast en kwetsend worden beschouwd. De zoekhulp [Bronnen](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) geeft aanwijzingen over de omgang met verouderd taalgebruik in koloniale bronnen. In de verslaglegging is het van belang om de historische woorden en begrippen – eventueel tussen aanhalingstekens en voorzien van toelichting – te noemen indien ze noodzakelijk zijn om de objectgeschiedenis te begrijpen en verder onderzoek mogelijk te maken.
 
 De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/files/2018-09/WordsMatter_DEF_Totale_PDF_NL_0.pdf) van het Wereldmuseum geeft tips voor de omgang met koloniale terminologie.
-
 
 ## Related Aids
 

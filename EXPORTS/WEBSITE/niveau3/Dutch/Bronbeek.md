@@ -4,10 +4,9 @@ title: Museum Bronbeek
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Bronbeek.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Bronbeek.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Bronbeek.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Bronbeek.docx){: .btn .btn-mint }
 
-
-        This is a level 3 Research Aid_  
+_This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-10-02_  
 _last edited by wiebe reints as original_author on 2024-10-02_
 

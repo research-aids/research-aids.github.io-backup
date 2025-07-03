@@ -4,10 +4,9 @@ title: Onderzoeken
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/DoingResearch.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/DoingResearch.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by wiebe reints as original_author on 2024-04-25_
 
@@ -16,8 +15,6 @@ _last edited by wiebe reints as original_author on 2024-04-25_
 
 
 ## Abstract
-
-In deze zoekhulp vind je informatie over welke stappen je moet volgen voor het doen van (herkomst)onderzoek en hoe je relevante informatie verzamelt.
 
 In deze zoekhulp vind je informatie over welke stappen je moet volgen voor het doen van (herkomst)onderzoek en hoe je relevante informatie verzamelt.
 
@@ -87,7 +84,6 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
 - Pennock, Hanna and Simone Vermaat (eds.), _[Onderzoek naar sporen van slavernij en het koloniale verleden in de collectieregistratie](https://www.cultureelerfgoed.nl/publicaties/publicaties/2021/01/01/handreikingonderzoek-naar-sporen-van-slavernij-en-het-koloniale-verleden-in-de-collectieregistratie). Een handreiking_ (Rijksdienst voor het Cultureel Erfgoed, 2021).
 - Tips over onderzoek in Nederlandse archieven zijn te vinden op de website van [Kennisnetwerk Informatie en Archief](http://kia.pleio.nl/archieftips).
 - Specifiek voor het doen van onderzoek binnen het Nationaal Archief is er de zoekhulp [Hoe doe ik onderzoek in archieven?](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven).
-
 
 ## Related Aids
 

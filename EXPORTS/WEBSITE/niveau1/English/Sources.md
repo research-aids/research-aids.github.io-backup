@@ -4,10 +4,9 @@ title: Sources
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Sources.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Sources.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Sources.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Sources.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12_
 
@@ -16,8 +15,6 @@ _last edited by abacus as translator on 2025-03-12_
 
 
 ## Abstract
-
-In this research aid you find information on where you can find relevant source material for your (provenance) research and how to critically approach the information that you found.
 
 In this research aid you find information on where you can find relevant source material for your (provenance) research and how to critically approach the information that you found.
 
@@ -89,7 +86,6 @@ A guiding principle in the archival world is that archives are kept where they w
 An example is the archive of the Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society of Arts and Sciences), which is held at the Arsip Nasional in Jakarta, the city where the institution was based. And yet many archive documents concerning the Bataviaasch Genootschap can also be found in the Netherlands, for example in personal archives of individuals who were involved with the Society. 
 
 Some collectors and organisations were active in several European countries, which means that relevant information may also be located in other European countries. In Germany such information can be found through the portals [Proveana](https://www.proveana.de/en/start) and [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) and the database [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). The French portal [AGORHA](https://agorha.inha.fr) contains information on collectors, dealers and collections in the fields of archaeology and art history, including Asian art.
-
 
 ## Related Aids
 

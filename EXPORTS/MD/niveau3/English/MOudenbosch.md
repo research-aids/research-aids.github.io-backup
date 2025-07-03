@@ -1,5 +1,4 @@
-
-        This is a level 3 Research Aid_  
+_This is a level 3 Research Aid_  
 _first edited by UNKNOWN as UNKNOWN on 2025-07-03
         (applies to section: This event was automatically created because the YAML file's edit history was empty.)
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  

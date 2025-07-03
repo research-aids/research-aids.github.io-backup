@@ -4,10 +4,9 @@ title: Writing a provenance report
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Reporting.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Reporting.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Reporting.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Reporting.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12_
 
@@ -16,8 +15,6 @@ _last edited by abacus as translator on 2025-03-12_
 
 
 ## Abstract
-
-In this research aid you find information on how to draft a report of your findings.
 
 In this research aid you find information on how to draft a report of your findings.
 
@@ -61,7 +58,6 @@ Historical photographs, maps and other illustrations can be used to illustrate t
 Colonial sources are written from a perspective that justifies colonial rule and often use terms that are no longer in use or are now considered inappropriate and offensive. The research aid [Sources]( https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) provides guidance on dealing with outdated language found in colonial sources. When writing a report it is important to cite historical words and terms – perhaps in quotation marks and accompanied by an explanatory note – if these are necessary to understand the object history and enable future research.
 
 The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/sites/default/files/2021-04/words_matter.pdf.pdf) provides tips for dealing with colonial terminology.
-
 
 ## Related Aids
 

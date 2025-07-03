@@ -1,5 +1,4 @@
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by abacus as translator on 2025-03-12_
 
@@ -8,8 +7,6 @@ _last edited by abacus as translator on 2025-03-12_
 
 
 ## Abstract
-
-In this research aid you find information on the steps you can follow during your (provenance) research and how you collect relevant information for your research.
 
 In this research aid you find information on the steps you can follow during your (provenance) research and how you collect relevant information for your research.
 
@@ -80,7 +77,6 @@ A number of the Dutch-language sources for provenance research into colonial col
 - Pennock, Hanna and Vermaat, Simone (eds.), [Onderzoek naar sporen van slavernij en het koloniale verleden in de collectieregistratie. Een handreiking](https://www.cultureelerfgoed.nl/publicaties/publicaties/2021/01/01/handreiking-onderzoek-naar-sporen-van-slavernij-en-het-koloniale-verleden-in-de-collectieregistratie)_ (Rijksdienst voor het Cultureel Erfgoed, 2021).
 - Tips on researching Dutch archives can be found on the YouTube channel of the Kennisnetwerk Informatie en Archief [Knowledge Network Information and Archives](https://www.youtube.com/@platformkia).
 - Specifically for conducting research in the National Archives of the Netherlands there is the research aid [How do I conduct research in archives?](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven) (Dutch only).
-
 
 ## Related Aids
 

@@ -4,10 +4,9 @@ title: Bronnen
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-mint }
 
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by wiebe reints as original_author on 2024-04-25_
 
@@ -16,8 +15,6 @@ _last edited by wiebe reints as original_author on 2024-04-25_
 
 
 ## Abstract
-
-In deze zoekhulp vind je informatie over waar je relevante bronnen voor je (herkomst)onderzoek kan vinden en hoe je deze kritisch moet benaderen.
 
 In deze zoekhulp vind je informatie over waar je relevante bronnen voor je (herkomst)onderzoek kan vinden en hoe je deze kritisch moet benaderen.
 
@@ -89,7 +86,6 @@ Een leidend principe in de archiefwereld is dat archieven worden bewaard waar ze
 Een voorbeeld is het archief van het [Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml) dat zich bij het Arsip Nasional in Jakarta bevindt, de stad waar deze instelling gevestigd was. Toch zijn er ook vele archiefstukken over het Bataviaasch Genootschap in Nederland te vinden, bijvoorbeeld in archieven van personen die met het genootschap te maken hebben gehad. 
 
 Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest zijn en relevante informatie kan zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana](https://www.proveana.de/en/start), [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) en de database [Sammlungsgut aus Kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over verzamelaars, handelaren en collecties op het gebied van de archeologie en kunstgeschiedenis, waaronder ook Aziatische kunst.
-
 
 ## Related Aids
 

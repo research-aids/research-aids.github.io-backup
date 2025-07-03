@@ -1,5 +1,4 @@
-
-        This is a level 1 Research Aid_  
+_This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2025-01-23_  
 _last edited by wiebe reints as original_author on 2025-01-23_
 
@@ -8,8 +7,6 @@ _last edited by wiebe reints as original_author on 2025-01-23_
 
 
 ## Abstract
-
-In deze zoekhulp vind je informatie over de totstandkoming van het Nederlandse regeringsbeleid met betrekking tot de restitutie van objecten die zijn verworven in een koloniale context.
 
 In deze zoekhulp vind je informatie over de totstandkoming van het Nederlandse regeringsbeleid met betrekking tot de restitutie van objecten die zijn verworven in een koloniale context.
 
@@ -80,7 +77,6 @@ Aan de hand van het herkomstonderzoek en eventueel aanvullende informatie bepaal
 In het geval van een belangenafweging wordt de verzoeker gevraagd zijn belangen bij de teruggevraagde objecten kenbaar te maken, ook andere belanghebbende worden geïnventariseerd. De Commissie Koloniale Collecties maakt vervolgens een afweging waarbij cultuurhistorische, wetenschappelijke en alle andere relevante belangen worden meegewogen. Ook de omstandigheden na een eventuele teruggave, zoals het beheer, behoud en de toegankelijkheid (voor lokale gemeenschappen), spelen hierbij een rol.
 
 Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadslaging aangeboden aan de Minister van OCW (als het een object uit de rijkscollectie betreft) of een eventuele andere objecteigenaar. Deze neemt vervolgens een besluit aan de hand van het advies, waarbij dit in de praktijk altijd in lijn is met de aanbevelingen van de Commissie Koloniale Collecties. Hierna wordt het advies van de commissie en het aanhangende herkomstonderzoeksrapport openbaar gemaakt op de website van de Commissie Koloniale Collecties. [Eerdere adviezen](https://commissie.kolonialecollecties.nl/documenten?size=n_20_n&filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all) zijn zodoende voor iedereen openbaar toegankelijk.
-
 
 ## Related Aids
 

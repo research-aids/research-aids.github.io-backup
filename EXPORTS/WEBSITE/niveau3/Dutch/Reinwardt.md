@@ -4,10 +4,9 @@ title: C.G.C. Reinwardt
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Reinwardt.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Reinwardt.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Reinwardt.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Reinwardt.docx){: .btn .btn-mint }
 
-
-        This is a level 3 Research Aid_  
+_This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-12-17_  
 _last edited by wiebe reints as original_author on 2024-12-17_
 
