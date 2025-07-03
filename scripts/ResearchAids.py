@@ -95,9 +95,6 @@ class ResearchAid:
         #_author: {self.author}_  
         # _last edited: {self.time}_  
         return f"""
-        ---
-        
-        ---
         This is a level {self.level_id} Research Aid_  
 _first {self.edit_history.origin_event.to_markdown()}_  
 {f'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}

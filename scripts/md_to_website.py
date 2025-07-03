@@ -25,8 +25,7 @@ def download_button(level, language, name, extension):
   
 
 def front_matter(ra_name):
-    return f"""
----
+    return f"""---
 layout: default
 title: {ra_name}
 nav_enabled: true
