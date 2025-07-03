@@ -1,21 +1,17 @@
-
 ---
 layout: default
 title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/MOudenbosch.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/MOudenbosch.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/MOudenbosch.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/MOudenbosch.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-01
+_first edited by UNKNOWN as UNKNOWN on 2025-07-03
         (applies to section: This event was automatically created because the YAML file's edit history was empty.)
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-01
+_last edited by UNKNOWN as UNKNOWN on 2025-07-03
         (applies to section: This event was automatically created because the YAML file's edit history was empty.)
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
 

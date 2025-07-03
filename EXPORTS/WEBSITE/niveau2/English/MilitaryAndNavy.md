@@ -1,16 +1,12 @@
-
 ---
 layout: default
 title: Army and navy personnel in colonised territories
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/MilitaryAndNavy.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/MilitaryAndNavy.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/MilitaryAndNavy.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/MilitaryAndNavy.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 2 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-17_  
 _last edited by abacus as translator on 2025-03-12_

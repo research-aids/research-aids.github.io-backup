@@ -1,7 +1,4 @@
 
-        ---
-        
-        ---
         This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by wiebe reints as original_author on 2024-04-25_

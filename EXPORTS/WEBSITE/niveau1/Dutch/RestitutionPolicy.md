@@ -1,16 +1,12 @@
-
 ---
 layout: default
 title: Het Nederlandse restitutiebeleid
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/RestitutionPolicy.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/RestitutionPolicy.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/RestitutionPolicy.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/RestitutionPolicy.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2025-01-23_  
 _last edited by wiebe reints as original_author on 2025-01-23_

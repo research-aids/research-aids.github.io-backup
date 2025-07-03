@@ -1,7 +1,4 @@
 
-        ---
-        
-        ---
         This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2025-01-30_  
 _last edited by wiebe reints as original_author on 2025-01-30_

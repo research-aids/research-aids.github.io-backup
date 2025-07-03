@@ -1,16 +1,12 @@
-
 ---
 layout: default
 title: Zoekhulpen Koloniale Collecties
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/Dutch/TopLevel.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/Dutch/TopLevel.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/Dutch/TopLevel.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/Dutch/TopLevel.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 0 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-06-06_  
 _last edited by wiebe reints as original_author on 2024-06-06_

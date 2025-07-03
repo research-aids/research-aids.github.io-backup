@@ -1,16 +1,12 @@
-
 ---
 layout: default
 title: Bronnen
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by wiebe reints as original_author on 2024-04-25_

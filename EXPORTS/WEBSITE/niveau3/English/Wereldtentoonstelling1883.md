@@ -1,16 +1,12 @@
-
 ---
 layout: default
 title: International Colonial and Export Exhibition 1883
 nav_enabled: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Wereldtentoonstelling1883.pdf){: .btn .btn-green }[Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Wereldtentoonstelling1883.docx){: .btn .btn-green }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Wereldtentoonstelling1883.pdf){: .btn .btn-green }   [Download DOCS](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Wereldtentoonstelling1883.docx){: .btn .btn-green }
 
 
-        ---
-        
-        ---
         This is a level 3 Research Aid_  
 _first edited by Wiebe Reints as original_author on 2025-06-02_  
 _last edited by Wiebe Reints as original_author on 2025-06-24_
