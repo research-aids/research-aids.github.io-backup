@@ -24,7 +24,7 @@ class EditEvent:
         
     def to_markdown(self, markdown=""):
         return markdown + f"""edited by {self.author} as {self.role} on {self.date.strftime("%Y-%m-%d")}
-        {f'(applies to section: {self.notes})' if self.notes else ''}
+        {f'(applies to section: {self.applies_to})' if self.applies_to else ''}
         {f'(notes: {self.notes})' if self.notes else ''}""".strip()
 
     def __eq__(self, other):

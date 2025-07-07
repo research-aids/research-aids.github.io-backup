@@ -24,11 +24,13 @@ def download_button(level, language, name, extension):
     return f"[{link_text}]({link}){{: .btn .btn-mint }}"
   
 
-def front_matter(ra_name):
+def front_matter(ra_name, level, lang):
     return f"""---
 layout: default
 title: {ra_name}
+parent: {level}/{lang}
 nav_enabled: true
+has_toc: true
 --- """
 
     
