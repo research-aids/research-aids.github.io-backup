@@ -1,7 +1,9 @@
 ---
 layout: default
 title: The Dutch restitution policy
+parent: niveau1/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/RestitutionPolicy.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/RestitutionPolicy.docx){: .btn .btn-mint }

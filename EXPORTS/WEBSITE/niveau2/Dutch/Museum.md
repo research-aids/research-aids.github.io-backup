@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Musea en efgoedbeherende instellingen
+parent: niveau2/Dutch
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/Museum.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/Museum.docx){: .btn .btn-mint }
 
 _This is a level 2 Research Aid_  
 _first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-23_
+_last edited by Wiebe Reints as original_author on 2025-06-23
+        (applies to section: Content)_
 
 
 # Musea en efgoedbeherende instellingen

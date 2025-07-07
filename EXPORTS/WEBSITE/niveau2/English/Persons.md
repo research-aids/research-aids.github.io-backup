@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Persons
+parent: niveau2/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Persons.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Persons.docx){: .btn .btn-mint }

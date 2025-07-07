@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Volkenkundig Museum 'Gerardus van der Leeuw'
+parent: niveau3/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/GerardusLeeuw.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/GerardusLeeuw.docx){: .btn .btn-mint }

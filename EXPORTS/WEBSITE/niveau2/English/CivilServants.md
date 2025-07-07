@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Civil servants in colonised territories
+parent: niveau2/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/CivilServants.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/CivilServants.docx){: .btn .btn-mint }
 
 _This is a level 2 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-03-16_  
-_last edited by abacus as translator on 2025-03-12_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text; Sources)_
 
 
 # Civil servants in colonised territories

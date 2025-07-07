@@ -1,6 +1,7 @@
 _This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2025-05-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-16_
+_last edited by Wiebe Reints as original_author on 2025-06-16
+        (applies to section: Main text)_
 
 
 # Volkenkundig Museum 'Gerardus van der Leeuw'

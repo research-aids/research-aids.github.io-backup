@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Writing a provenance report
+parent: niveau1/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Reporting.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Reporting.docx){: .btn .btn-mint }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by abacus as translator on 2025-03-12_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
 
 
 # Writing a provenance report

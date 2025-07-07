@@ -1,14 +1,17 @@
 ---
 layout: default
 title: C.G.C. Reinwardt
+parent: niveau3/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Reinwardt.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Reinwardt.docx){: .btn .btn-mint }
 
 _This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-12-17_  
-_last edited by abacus as translator on 2025-04-24_
+_last edited by abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
 
 
 # C.G.C. Reinwardt

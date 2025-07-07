@@ -1,6 +1,7 @@
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by abacus as translator on 2025-03-12_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Maint-text)_
 
 
 # Sources

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Koninklijke Vereniging Vrienden der Aziatische Kunst
+parent: niveau3/Dutch
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KVVAK.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KVVAK.docx){: .btn .btn-mint }

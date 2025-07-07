@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Doing research
+parent: niveau1/English
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/DoingResearch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/DoingResearch.docx){: .btn .btn-mint }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by abacus as translator on 2025-03-12_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
 
 
 # Doing research

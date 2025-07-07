@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Volkenkundig Museum Justinus van Nassau
+parent: niveau3/Dutch
 nav_enabled: true
+has_toc: true
 --- 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/JustinusNassau.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/JustinusNassau.docx){: .btn .btn-mint }
 
 _This is a level 3 Research Aid_  
 _first edited by Wiebe Reints as original_author on 2025-02-25_  
-_last edited by Wiebe Reints as original_author on 2025-06-16_
+_last edited by Wiebe Reints as original_author on 2025-06-16
+        (applies to section: Main text)_
 
 
 # Volkenkundig Museum Justinus van Nassau

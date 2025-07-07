@@ -1,6 +1,7 @@
 _This is a level 3 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-12-17_  
-_last edited by abacus as translator on 2025-04-24_
+_last edited by abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
 
 
 # C.G.C. Reinwardt
