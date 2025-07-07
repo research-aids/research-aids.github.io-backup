@@ -28,11 +28,12 @@ def front_matter(ra_name, level, lang):
     return f"""---
 layout: default
 title: {ra_name}
-parent: {level}/{lang}
+parent: {level}
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43"""
+"""
+
 
     
 
