@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Royal Asian Art Society in the Netherlands
-parent: niveau3/English
+parent: niveau3
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KVVAK.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KVVAK.docx){: .btn .btn-mint }
 

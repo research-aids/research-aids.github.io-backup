@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Ambtenaren in gekoloniseerde gebieden
-parent: niveau2/Dutch
+parent: niveau2
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/CivilServants.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/CivilServants.docx){: .btn .btn-mint }
 

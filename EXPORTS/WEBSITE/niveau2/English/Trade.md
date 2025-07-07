@@ -1,11 +1,11 @@
 ---
 layout: default
 title: The trade in objects from a colonial context
-parent: niveau2/English
+parent: niveau2
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Trade.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Trade.docx){: .btn .btn-mint }
 

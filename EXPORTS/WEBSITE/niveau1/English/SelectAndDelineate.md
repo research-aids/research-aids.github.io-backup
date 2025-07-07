@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Select and delineate
-parent: niveau1/English
+parent: niveau1
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/SelectAndDelineate.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/SelectAndDelineate.docx){: .btn .btn-mint }
 

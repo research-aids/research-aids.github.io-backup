@@ -1,11 +1,11 @@
 ---
 layout: default
 title: C.G.C. Reinwardt
-parent: niveau3/English
+parent: niveau3
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Reinwardt.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Reinwardt.docx){: .btn .btn-mint }
 

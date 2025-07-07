@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Zoekhulpen Koloniale Collecties
-parent: niveau0/Dutch
+parent: niveau0
 nav_enabled: true
 has_toc: true
 --- 
-TEST 19:43
+
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/Dutch/TopLevel.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/Dutch/TopLevel.docx){: .btn .btn-mint }
 
