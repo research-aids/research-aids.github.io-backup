@@ -5,6 +5,7 @@ parent: niveau1/English
 nav_enabled: true
 has_toc: true
 --- 
+TEST 19:43
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/DoingResearch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/DoingResearch.docx){: .btn .btn-mint }
 
