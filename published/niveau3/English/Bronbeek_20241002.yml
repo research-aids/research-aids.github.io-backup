@@ -104,7 +104,7 @@ editing_metadata:
     role: translator
     editing_notes: abacus translations processed by Wiebe Reints
   - date: 2025-07-07
-    applies_to: Main-text & Sources
+    applies_to: Main-text; Sources
     author: Wiebe Reints
     Role: original_author
     editing_notes: Processed remarks by Pauljac Verhoeven and John Klein Nagelvoordt. 
