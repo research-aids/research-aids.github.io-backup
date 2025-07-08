@@ -36,7 +36,7 @@ RelatedAides:
         link: "niveau3/English/RMO_20241106.yml"
         rel_type: "see also"
   - "International Colonial and Export Exhibition 1883":
-        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        link: "niveau3/English/Wereldtentoonstelling1883_20250602.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -52,8 +52,8 @@ Relevant data:
       - "[Paintings](http://vocab.getty.edu/page/aat/300033618)"
       - "[Decorative arts](http://vocab.getty.edu/page/aat/300054168)"
     Geographical:
-      - "[Indonesia](https://sws.geonames.org/1643084)"
-      - "[Sri Lanka](https://sws.geonames.org/1227603)"
+      - "[Indonesia](https://sws.geonames.org/1643084/)"
+      - "[Sri Lanka](https://sws.geonames.org/1227603/)"
   Period of activity:
     Year of start: "1885"
     Year of end: []

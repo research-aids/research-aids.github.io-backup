@@ -36,7 +36,7 @@ RelatedAides:
         link: "niveau3/Dutch/RMO_20241106.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -52,8 +52,8 @@ Relevant data:
       - "[Schilderijen](http://vocab.getty.edu/page/aat/300033618)"
       - "[Kunstnijverheid](http://vocab.getty.edu/page/aat/300054168)"
     Geographical:
-      - "[Indonesië](https://sws.geonames.org/1643084)"
-      - "[Sri Lanka](https://sws.geonames.org/1227603)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
+      - "[Sri Lanka](https://sws.geonames.org/1227603/)"
   Period of activity:
     Year of start: "1885"
     Year of end: []

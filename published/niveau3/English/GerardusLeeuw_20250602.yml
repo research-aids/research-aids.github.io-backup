@@ -6,13 +6,13 @@ Abstract: "Until 2003, the Gerardus van der Leeuw Ethnographic Museum was an eth
 
 RelatedAides: 
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
-        link: "published/niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
-        link: "published/niveau3/English/WageningenUniversity_20240508.yml"
+        link: "niveau3/English/WageningenUniversity_20240508.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "published/niveau3/English/MOudenbosch_20250603.yml"
+        link: "niveau3/English/MOudenbosch_20250603.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -26,16 +26,16 @@ Relevant data:
     Type of objects: 
       - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Asia](https://sws.geonames.org/6255147)"
-      - "[North Africa](https://sws.geonames.org/7729887)"
-      - "[Southern Africa](https://sws.geonames.org/9406051)"
-      - "[Central Africa](https://sws.geonames.org/7729886)"
-      - "[East Africa](https://sws.geonames.org)"
-      - "[West Africa](https://sws.geonames.org/7729885)"
-      - "[North America](https://sws.geonames.org/6255149)"
-      - "[Central America](https://sws.geonames.org/7729892)"
-      - "[South Amerika](https://sws.geonames.org/6255150)"
-      - "[Oceania](https://sws.geonames.org/6255151)"
+      - "[Asia](https://sws.geonames.org/6255147/)"
+      - "[North Africa](https://sws.geonames.org/7729887/)"
+      - "[Southern Africa](https://sws.geonames.org/9406051/)"
+      - "[Central Africa](https://sws.geonames.org/7729886/)"
+      - "[East Africa](https://sws.geonames.org/7729889/)"
+      - "[West Africa](https://sws.geonames.org/7729885/)"
+      - "[North America](https://sws.geonames.org/6255149/)"
+      - "[Central America](https://sws.geonames.org/7729892/)"
+      - "[South Amerika](https://sws.geonames.org/6255150/)"
+      - "[Oceania](https://sws.geonames.org/6255151/)"
   Period of activity: 
     Year of start: "1978"
     Year of end: "2003"

@@ -6,34 +6,34 @@ Abstract: "Natuurhistorisch en Volkenkundig Museum Oudenbosch ontstond in 1956 u
 
 RelatedAides:
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "published/niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission_20240326.yml"
         rel_type: "see also"
   - "Musea en efgoedbeherende instellingen":
-        link: "published/niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "published/niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/Dutch/EMArtis_20240711.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "published/niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "published/niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "published/niveau3/Dutch/WMBergEnDal_20241001.yml"
+        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "published/niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "published/niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -48,8 +48,8 @@ Relevant data:
       - "[Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591)"
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesië](https://sws.geonames.org/1643084)"
-      - "[Congo](https://sws.geonames.org/2260494)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
+      - "[Congo](https://sws.geonames.org/2260494/)"
   Period of activity: 
     Year of start: "1956"
     Year of end: []

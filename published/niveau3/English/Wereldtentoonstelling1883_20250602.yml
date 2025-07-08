@@ -6,37 +6,37 @@ Abstract: "In 1883, the International Colonial and Export Exhibition, also known
 
 RelatedAides:
   - "Civil servants in colonised territories":
-        link: "published/niveau2/English/CivilServants_20240316.yml"
+        link: "niveau2/English/CivilServants_20240316.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories": 
-        link: "published/niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science_20240821.yml"
         rel_type: "see also"
   - "The trade in objects from a colonial context":
-        link: "published/niveau2/English/Trade_20240316.yml"
+        link: "niveau2/English/Trade_20240316.yml"
         rel_type: "see also"
   - "Artis Ethnographic Museum":
-        link: "published/niveau3/English/EMArtis_20240712.yml"
+        link: "niveau3/English/EMArtis_20240712.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "published/niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "published/niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "published/niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "published/niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
         rel_type: "see also"
   - "Museum Nusantara":
-        link: "published/niveau3/English/MNusantara_20250225.yml"
+        link: "niveau3/English/MNusantara_20250225.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "published/niveau3/English/Naturalis_20270710.yml"
+        link: "niveau3/English/Naturalis_20270710.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "published/niveau3/English/Bronbeek_20241002.yml"
+        link: "niveau3/English/Bronbeek_20241002.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -50,9 +50,9 @@ Relevant data:
     Type of objects: 
       - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesia](https://www.geonames.org/1643084)"
-      - "[Suriname] (https://sws.geonames.org/3382998)"
-      - "[ABCSSS islands](https://sws.geonames.org/8505032)"
+      - "[Indonesia](https://www.geonames.org/1643084/)"
+      - "[Suriname] (https://sws.geonames.org/3382998/)"
+      - "[ABCSSS islands](https://sws.geonames.org/8505032/)"
   Period of activity:
     Year of start: "1883"
     Year of end: "1883"

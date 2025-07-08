@@ -6,19 +6,19 @@ Abstract: "The Hoofdcursus was a military school in Kampen (Overijssel). Whereas
 
 RelatedAides:
   - "Army and navy personnel in colonised territories":
-        link: "published/niveau2/English/MilitaryAndNavy_20240417.yml"
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
-        link: "published/niveau3/English/WageningenUniversity_20240508.yml"
+        link: "niveau3/English/WageningenUniversity_20240508.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "published/niveau3/English/Bronbeek_20241002.yml"
+        link: "niveau3/English/Bronbeek_20241002.yml"
         rel_type: "see also"
   - "Museum Nusantara":
-        link: "published/niveau3/English/MNusantara_20250225.yml"
+        link: "niveau3/English/MNusantara_20250225.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "published/niveau3/English/JustinusNassau_20250513.yml"
+        link: "niveau3/English/JustinusNassau_20250513.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -33,7 +33,7 @@ Relevant data:
       - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
       - "[Weapons](http://vocab.getty.edu/page/aat/300036926)"
     Geographical:
-      - "[Indonesia](https://www.geonames.org/1643084)"
+      - "[Indonesia](https://www.geonames.org/1643084/)"
   Period of activity:  
     Year of start: "1900"
     Year of end: "1923"

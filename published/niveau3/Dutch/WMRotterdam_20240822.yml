@@ -27,10 +27,10 @@ RelatedAides:
         link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data:
@@ -48,11 +48,11 @@ Relevant data:
     Type of objects: 
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);"
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
-      - "[Oceanië](https://sws.geonames.org/6255151)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
+      - "[Afrika](https://sws.geonames.org/6255146/)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Oceanië](https://sws.geonames.org/6255151/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
   Period of activity:
     Year of start: "1851"
     Year of end: []

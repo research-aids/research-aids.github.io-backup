@@ -18,13 +18,13 @@ RelatedAides:
         link: "niveau3/Dutch/MNusantara_20250130.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        link: "niveau3/Dutch/JustinusNassau_20250225.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -42,7 +42,7 @@ Relevant data:
     Type of objects:
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesië](https://sws.geonames.org/1643084)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
   Period of activity:
     Year of start: "1876"
     Year of end: []

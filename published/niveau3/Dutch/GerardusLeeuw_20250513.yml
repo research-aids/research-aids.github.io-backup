@@ -6,13 +6,13 @@ Abstract: "Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etn
 
 RelatedAides: 
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
-        link: "published/niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
-        link: "published/niveau3/Dutch/WageningenUniversity_20240327.yml"
+        link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data:
@@ -26,16 +26,16 @@ Relevant data:
     Type of objects: 
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Noord-Afrika](https://sws.geonames.org/7729887)"
-      - "[Zuidelijk Afrika](https://sws.geonames.org/9406051)"
-      - "[Centraal Afrika](https://sws.geonames.org/7729886)"
-      - "[Oost-Afrika](https://sws.geonames.org)"
-      - "[West-Afrika](https://sws.geonames.org/7729885)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149/north-america.html)"
-      - "[Midden-Amerika](https://sws.geonames.org/7729892/central-america.html)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150/south-america.html)"
-      - "[Oceanië](https://www.geonames.org/6255151/oceania.html)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Noord-Afrika](https://sws.geonames.org/7729887/)"
+      - "[Zuidelijk Afrika](https://sws.geonames.org/9406051/)"
+      - "[Centraal Afrika](https://sws.geonames.org/7729886/)"
+      - "[Oost-Afrika](https://sws.geonames.org/7729889/)"
+      - "[West-Afrika](https://sws.geonames.org/7729885/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Midden-Amerika](https://sws.geonames.org/7729892/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
+      - "[Oceanië](https://www.geonames.org/6255151/)"
   Period of activity: 
     Year of start: "1978"
     Year of end: "2003"

@@ -48,10 +48,10 @@ RelatedAides:
         link: "niveau3/English/MNusantara_20250225.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
-        link: "published/niveau3/English/Museon_20250513.yml"
+        link: "niveau3/English/Museon_20250513.yml"
         rel_type: "see also"
   - "International Colonial and Export Exhibition 1883":
-        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        link: "niveau3/English/Wereldtentoonstelling1883_20250602.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -67,9 +67,9 @@ Relevant data:
       - "[Resident](https://www.wikidata.org/entity/Q19973930)"
     Type of objects: []
     Geographical:
-      - "[ABCSSS islands](https://sws.geonames.org/8505032)"
-      - "[Indonesia](https://sws.geonames.org/1643084)"
-      - "[Suriname](https://sws.geonames.org/3382998)"
+      - "[ABCSSS islands](https://sws.geonames.org/8505032/)"
+      - "[Indonesia](https://sws.geonames.org/1643084/)"
+      - "[Suriname](https://sws.geonames.org/3382998/)"
 
 Main-text:
   content: |

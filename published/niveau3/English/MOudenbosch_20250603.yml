@@ -6,34 +6,34 @@ Abstract: "The Natuurhistorisch en Volkenkundig Museum Oudenbosch (Natural Histo
 
 RelatedAides:
   - "Christian mission":
-        link: "published/niveau2/English/ChristianMission_20240417.yml"
+        link: "niveau2/English/ChristianMission_20240417.yml"
         rel_type: "see also"
   - "Museums and collection holding institutions":
-        link: "published/niveau2/English/Museum_20250113.yml"
+        link: "niveau2/English/Museum_20250113.yml"
         rel_type: "see also"
   - "Artis Ethnographic Museum":
-        link: "published/niveau3/English/EMArtis_20240712.yml"
+        link: "niveau3/English/EMArtis_20240712.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "published/niveau3/English/Naturalis_20270710.yml"
+        link: "niveau3/English/Naturalis_20270710.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "published/niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam_20240809.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "published/niveau3/English/WMBergEnDal_20241001.yml"
+        link: "niveau3/English/WMBergEnDal_20241001.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "published/niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "published/niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam_2040822.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "published/niveau3/English/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "published/niveau3/English/GerardusLeeuw_20250602.yml"
+        link: "niveau3/English/GerardusLeeuw_20250602.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -48,8 +48,8 @@ Relevant data:
       - "[Natural history specimens](http://vocab.getty.edu/aat/300379591)"
       - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesia](https://sws.geonames.org/1643084)"
-      - "[Congo](https://sws.geonames.org/2260494)"
+      - "[Indonesia](https://sws.geonames.org/1643084/)"
+      - "[Congo](https://sws.geonames.org/2260494/)"
   Period of activity: 
     Year of start: "1956"
     Year of end: []

@@ -39,10 +39,10 @@ RelatedAides:
         link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+        link: "niveau3/Dutch/JustinusNassau_20250225.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -56,9 +56,14 @@ Relevant data:
       - "[Soldaat](http://vocab.getty.edu/aat/300185678)"
     Type of objects: []
     Geographical:
-      - "[ABCSSS-eilanden](https://sws.geonames.org/8505032)"
-      - "[Indonesië](https://sws.geonames.org/1643084)"
-      - "[Suriname](https://sws.geonames.org/3382998)"
+      - "[Aruba](https://sws.geonames.org/3577279/)"
+      - "[Bonaire](https://sws.geonames.org/7609816/)"
+      - "[Curaçao](https://sws.geonames.org/7626836/)"
+      - "[Saba](https://sws.geonames.org/3513314/)"
+      - "[Sint Eustatius](https://sws.geonames.org/3513232/)"
+      - "[Sint Maarten](https://sws.geonames.org/7609695/)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
+      - "[Suriname](https://sws.geonames.org/3382998/)"
 
 Main-text:
   content: |

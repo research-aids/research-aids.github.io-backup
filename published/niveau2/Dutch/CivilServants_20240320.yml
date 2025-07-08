@@ -48,10 +48,10 @@ RelatedAides:
         link: "niveau3/Dutch/MNusantara_20250130.yml"
         rel_type: "see also" 
   - "Museon-Omniversum":
-        link: "published/niveau3/Dutch/Museon_20250429.yml"
+        link: "niveau3/Dutch/Museon_20250429.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -67,9 +67,9 @@ Relevant data:
       - "[Resident](http://www.wikidata.org/entity/Q19973930)"
     Type of objects: []
     Geographical:
-      - "[ABCSSS-eilanden](https://sws.geonames.org/8505032)"
-      - "[Indonesië] (https://sws.geonames.org/1643084)"
-      - "[Suriname] (https://sws.geonames.org/3382998)"
+      - "[ABCSSS-eilanden](https://sws.geonames.org/8505032/)"
+      - "[Indonesië] (https://sws.geonames.org/1643084/)"
+      - "[Suriname] (https://sws.geonames.org/3382998/)"
 
 Main-text:
   content: |

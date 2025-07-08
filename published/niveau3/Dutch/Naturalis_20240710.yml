@@ -30,13 +30,13 @@ RelatedAides:
         link: "niveau3/Dutch/Reinwardt_20241217.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
-        link: "published/niveau3/Dutch/Museon_20250429.yml"
+        link: "niveau3/Dutch/Museon_20250429.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data:
@@ -59,12 +59,12 @@ Relevant data:
       - "[Mineralen](http://vocab.getty.edu/aat/300011068)"
       - "[Fossielen](http://vocab.getty.edu/aat/300011068)"
     Geographical:
-      - "[Europa](https://sws.geonames.org/6255148)"
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Afrika](https://sws.geonames.org/6255146)"
-      - "[Oceanië](https://geonames.org/6255151)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
+      - "[Europa](https://sws.geonames.org/6255148/)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Afrika](https://sws.geonames.org/6255146/)"
+      - "[Oceanië](https://geonames.org/6255151/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
   Period of activity:
     Year of start: "1820"
     Year of end: []

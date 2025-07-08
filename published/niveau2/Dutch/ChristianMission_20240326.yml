@@ -24,7 +24,7 @@ RelatedAides:
         link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+        link: "niveau3/Dutch/MOudenbosch_20250603.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -38,10 +38,10 @@ Relevant data:
       - "[Zuster](https://www.wikidata.org/entity/Q191808)"
     Type of objects: []
     Geographical:
-      - "[China](https://sws.geonames.org/1814991)"
-      - "[Congo](https://sws.geonames.org/203312)"
-      - "[Indonesië](https://sws.geonames.org/1643084)"
-      - "[Suriname](https://sws.geonames.org/3382998)"
+      - "[China](https://sws.geonames.org/1814991/)"
+      - "[Congo](https://sws.geonames.org/203312/)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
+      - "[Suriname](https://sws.geonames.org/3382998/)"
 
 Main-text:
   content: |

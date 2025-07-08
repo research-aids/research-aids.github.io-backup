@@ -39,13 +39,13 @@ RelatedAides:
         link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
         rel_type: "see also" 
   - "Museon-Omniversum":
-        link: "published/niveau3/English/Museon_20250513.yml"
+        link: "niveau3/English/Museon_20250513.yml"
         rel_type: "see also"
   - "International Colonial and Export Exhibition 1883":
-        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        link: "niveau3/English/Wereldtentoonstelling1883_20250602.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "published/niveau3/English/MOudenbosch_20250603.yml"
+        link: "niveau3/English/MOudenbosch_20250603.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -64,10 +64,10 @@ Relevant data:
       - "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
     Geographical:
       - "[Africa](https://www.geonames.org/6255146/)"
-      - "[Asia](https://www.geonames.org/6255147)"
-      - "[North America](https://www.geonames.org/6255149)"
-      - "[Oceania](https://www.geonames.org/6255151)"
-      - "[South America](https://www.geonames.org/6255150)"
+      - "[Asia](https://www.geonames.org/6255147/)"
+      - "[North America](https://www.geonames.org/6255149/)"
+      - "[Oceania](https://www.geonames.org/6255151/)"
+      - "[South America](https://www.geonames.org/6255150/)"
   Period of activity: 
     Year of start: "1926"
     Year of end: []
