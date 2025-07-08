@@ -85,7 +85,7 @@ Sources:
       Description and remarks: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
   Secondary sources:
     - Type of source: "Boek"
-      Name: "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
+      Name: "Lier, Bas C. van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
       Link: 
         - URL: "https://search.worldcat.org/title/902336725?oclcNum=902336725"
         - ISBN: "9789068683431"
@@ -95,6 +95,6 @@ Sources:
 editing_metadata:
   - date: 2024-03-13
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -112,13 +112,13 @@ Sources:
         - ISBN: "9068327526"
       Description and remarks: "Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum."
     - Type of source: "Boek"
-      Name: "Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885."
+      Name: "Pleyte, C.M.  Verzameling van ethnographische voorwerpen, aan de westkust van Afrika: voornamelijk in het Congo-gebied, verzameld, en voor het meerendeel aan het Genootschap ten geschenke gegeven. Amsterdam: Van Holkema, 1885."
       Link: 
         - URL: "https://search.worldcat.org/title/836812327?oclcNum=836812327"
         - OCLC: "836812327"
       Description and remarks: "Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte."
     - Type of source: "Boek"
-      Name: "Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888."
+      Name: "Pleyte, Cornelis Marinus. Gids voor den bezoeker van het Ethnographisch museum. Amsterdam: Van Holkema, 1888."
       Link: 
         - URL: "https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ"
         - OCLC: "1287660577"
@@ -133,6 +133,6 @@ Sources:
 editing_metadata:
   - date: 2024-07-11
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

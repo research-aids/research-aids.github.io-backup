@@ -78,19 +78,19 @@ Sources:
       Description and remarks: "Archief van voormalig Museum Nusantara. Archiefmateriaal met betrekking tot de collectie van het museum is te vinden onder kopje '2.5'. Onder 'Gedeponeerde archieven' is ook het archief van inventariskaarten van de Indische Instelling beschikbaar."
   Secondary sources:
     - Type of source: "Publicatie"
-      Name: "Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018"
+      Name: "Beurden, Jos van. Herplaatsing collectie voormalig Museum Nusantara Delft: lering en vragen 2013-2018. Delft: Museum Prinsenhof Delft, Nationaal Museum van Wereldculturen, 2019."
       Link: 
         - URL: "https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf"
       Description and remarks: "Publicatie van Jos van Beurden over het proces van ontzameling van de collectie van Museum Nusantara. Bevat onder andere een uitgebreid overzicht van instellingen waar de collectie terecht is gekomen. Bevat ook informatie over eerdere ontzamelingen in het Nederlandse erfgoedlandschap."
     - Type of source: "Boek"
-      Name: "Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014)."
+      Name: "Wentholt, Arnold. Nusantara: Highlights from Museum Nusantara Delft. Leiden: C. Zwartenkot Art Books, 2014."
       Link:
         - URL: "https://search.worldcat.org/title/880822331?oclcNum=880822331"
         - ISBN: "9789054500131"
         - OCLC: "880822331"
       Description and remarks: "Boek met korte informatie over de geschiedenis van Museum Nusantara en een overzicht van de collectie."
     - Type of source: "Boek"
-      Name: "Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989)."
+      Name: "Leur, JLW van. De Indische Instelling te Delft: méér dan een opleiding tot bestuursambtenaar : 125 jaar verzamelen. Delft: Volkenkundig Museum Nusantara, 1989."
       Link: 
         - URL: "https://search.worldcat.org/title/905471545?oclcNum=905471545"
         - ISBN: "9789071423048"
@@ -100,6 +100,6 @@ Sources:
 editing_metadata:
   - date: 2025-01-30
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

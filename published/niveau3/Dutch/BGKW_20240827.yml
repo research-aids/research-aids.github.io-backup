@@ -111,7 +111,7 @@ Sources:
       Description and remarks: "Tijdschrift dat door het Bataviaasch Genootschap werd gepubliceerd. Verschillende edities zijn beschikbaar via het KITLV. Op de bovenstaande pagina zijn ook andere bronnen met betrekking tot het Bataviaasch Genootschap te vinden."
   Secondary sources:
     - Type of source: "Boek"
-      Name: "Groot, Hans. Van Batavia naar Weltevreden: Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Amsterdam: Brill, 2009"
+      Name: "Groot, Hans. Van Batavia naar Weltevreden; Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Brill, 2009."
       Link: 
         - URL: "http://library.oapen.org/handle/20.500.12657/34657"
       Description and remarks: "Boek van Hans Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap."
@@ -119,6 +119,6 @@ Sources:
 editing_metadata:
   - date: 2024-08-27
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

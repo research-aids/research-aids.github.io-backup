@@ -90,29 +90,30 @@ Sources:
       Description and remarks: "Affiche van de Koninklijke bazar uit 1926."
   Secondary sources:
     - Type of source: "Artikel"
-      Name: "Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19."
+      Name: "Dam, Peter van. 'The Royal Bazar of Dirk Boer: Early Japonism in the Hague around 1840'. Andon: Society for Japanese arts & crafts 25, nr. Spring (1987): 16-19."
       Link: 
         - URL: "https://rkd.nl/library/89731"
+        - OCLC: "921121360"
       Description and remarks: "Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst."
     - Type of source: "Artikel"
-      Name: "Baird, Christina en Helen Backx-Palsgraaf. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128."
+      Name: "Baird, Christina, en Helen Backx-Palsgraaf. ‘Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838’. Journal of the History of Collections 32, nr. 1 (28 april 2020): 119-28."
       Link: 
         - URL: "https://doi.org/10.1093/jhc/fhy052"
       Description and remarks: "In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830."
     - Type of source: "Boek"
-      Name: "Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000."
+      Name: "Keblusek, Marika. Japansch magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000."
       Link: 
         - URL: "https://search.worldcat.org/title/902181455?oclcNum=902181455"
         - ISBN: "9789074822251"
         - OCLC: "902181455"
       Description and remarks: "Boek over de eerdere winkel van Dirk Boer."
     - Type of source: "Boek"
-      Name: "Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854."
+      Name: "Wap, J.J.F., en H.W. Last. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat, te ’s Gravenhage. ’s Gravenhage: Belinfante, 1854."
       Link: 
         - URL: "https://search.worldcat.org/title/67736999"
         - OCLC: "67736999"
     - Type of source: "Catalogus"
-      Name: "Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841."
+      Name: "Boer, D. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld... te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet, 1841."
       Link: 
         - URL: "https://search.worldcat.org/title/67826958"
         - OCLC: "67826958"
@@ -121,6 +122,6 @@ Sources:
 editing_metadata:
   - date: 2024-03-13
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
