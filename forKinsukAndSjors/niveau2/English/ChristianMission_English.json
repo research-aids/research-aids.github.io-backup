@@ -109,7 +109,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Article",
-                "Name": "Corbey, Raymond and Weener, Karel. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015).",
+                "Name": "Corbey, Raymond, and Karel Weener. \u2018Collecting While Converting: Missionaries and Ethnographics\u2019. Journal of Art Historiography 12, no. June (2015).",
                 "Link": [
                     {
                         "URL": "https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf"
@@ -119,7 +119,7 @@
             },
             {
                 "Type of source": "Article",
-                "Name": "H\u00e5rd, Mikael and Tjoa-Bonatz, Mai Lin. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860\u20131940.' Social Studies of Science 50, no. 6 (2020): 932-955.",
+                "Name": "H\u00e5rd, Mikael, and Mai Lin Tjoa-Bonatz. \u2018Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 \u2013 1940\u2019. Social Studies of Science 50, no. 6 (December 2020): 932\u201355.",
                 "Link": [
                     {
                         "URL": "https://dx.doi.org/10.1177/0306312720925913"
@@ -139,7 +139,7 @@
             },
             {
                 "Type of source": "Article",
-                "Name": "Leyten, Harrie. 'Shared cultural heritage: missionary collections in the Netherlands.'' Material Religion 8, no. 1 (2012): 103-104.",
+                "Name": "Leyten, Harrie. \u2018Shared Cultural Heritage Missionary Collections in the Netherlands\u2019. Material Religion 8, no. 1 (March 2012): 103\u20134.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.2752/175183412X13286288798051"
@@ -149,7 +149,7 @@
             },
             {
                 "Type of source": "Book chapter",
-                "Name": "Tjoa-Bonatz, Mai Lin. \u201cIdols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.\u201d In Casting Faiths : Imperialism and the Transformation of Religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009.",
+                "Name": "Tjoa-Bonatz, Mai Lin. \u2018Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904\u20131920\u2019. In Casting Faiths, 105\u201328. London: Palgrave Macmillan UK, 2009.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.1057/9780230235458_5"
@@ -159,7 +159,7 @@
             },
             {
                 "Type of source": "Book chapter",
-                "Name": "Wingfield, Chris. \u201cMissionary Museums. In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate , 231-238. London: Bloomsbury, 2017.",
+                "Name": "Wingfield, Chris. \u2018Missionary Museums\u2019. In Religion in Museums, 1st ed., 231\u201338. Bloomsbury Publishing Plc, 2017.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.5040/9781474255554.ch-026"
@@ -173,14 +173,14 @@
         {
             "date": "2024-04-17",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         },
         {
             "date": "2025-03-12",
             "applies_to": "Main-text; Sources",
-            "author": "abacus",
+            "author": "Abacus",
             "role": "translator",
             "editing_notes": "abacus translations processed by wiebe reints"
         }

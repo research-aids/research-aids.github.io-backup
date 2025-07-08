@@ -186,7 +186,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Kuitenbrouwer, Maarten. Tussen orie\u0308ntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001 (Leiden: KITLV Uitgeverij, 2001).",
+                "Name": "Kuitenbrouwer, M. Tussen ori\u00ebntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/47826802?oclcNum=47826802"
@@ -202,7 +202,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie (Nationaal Natuurhistorisch Museum: Leiden, 1995).",
+                "Name": "Holthuis, Lipke. 1820 - 1958\u202f: Rijksmuseum van Natuurlijke Historie, 1995.",
                 "Link": [
                     {
                         "OCLC": "69079231"
@@ -215,7 +215,7 @@
             },
             {
                 "Type of source": "Artikel",
-                "Name": "Weber, Andreas. 'Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century'. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72-95.",
+                "Name": "Weber, Andreas. \u2018Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century\u2019. BMGN - Low Countries Historical Review 134, nr. 3 (26 september 2019): 72-95.",
                 "Link": [
                     {
                         "OCLC": "9627499338"
@@ -232,7 +232,7 @@
         {
             "date": "2024-08-14",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         }

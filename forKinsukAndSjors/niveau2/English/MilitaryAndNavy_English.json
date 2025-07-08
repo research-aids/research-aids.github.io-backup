@@ -181,7 +181,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Article",
-                "Name": "Witkam, Jan Just. 'Teuku Panglima Polem\u2019s Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84\u2013104.",
+                "Name": "Witkam, Jan Just. \u2018Teuku Panglima Polem\u2019s Purse\u2019. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.1163/1878464X-01001006"
@@ -215,14 +215,14 @@
         {
             "date": "2024-04-17",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         },
         {
             "date": "2025-03-12",
             "applies_to": "Main-text; Sources",
-            "author": "abacus",
+            "author": "Abacus",
             "role": "translator",
             "editing_notes": "abacus translations processed by wiebe reints"
         }
