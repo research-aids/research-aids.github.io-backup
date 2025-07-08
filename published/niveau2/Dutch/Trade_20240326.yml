@@ -109,7 +109,7 @@ Sources:
       Description and remarks: "Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen."
   Secondary sources:
     - Type of source: "Boek"
-      Name: "Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
+      Name: "Corbey, Raymond. Tribal art traffic: a chronicle of taste, trade and desire in colonial an post-colonial times. Amsterdam: Royal Tropical Institute, 2000."
       Link: 
         - URL: "https://search.worldcat.org/title/906982001"
         - ISBN: "9789068321975"
@@ -118,13 +118,13 @@ Sources:
     - Type of source: "Boek"
       Name: "Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006."
       Link:
-        - URL: "https://search.worldcat.org/title/71681153?oclcNum=71681153"
+        - URL: "https://scholarlypublications.universiteitleiden.nl/handle/1887/4344"
         - OCLC: "71681153"
       Description and remarks: "Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland."
 
 editing_metadata:
   - date: 2024-03-26
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

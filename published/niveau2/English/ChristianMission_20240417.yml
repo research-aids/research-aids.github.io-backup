@@ -80,12 +80,12 @@ Sources:
       Description and remarks: "The Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is a portal with descriptions of missionary organisations, literature references and information on archival sources."
   Secondary sources:
     - Type of source: "Article"
-      Name: "Corbey, Raymond and Weener, Karel. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015)."
+      Name: "Corbey, Raymond, and Karel Weener. ‘Collecting While Converting: Missionaries and Ethnographics’. Journal of Art Historiography 12, no. June (2015)."
       Link:
         - URL: "https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf"
       Description and remarks: "Article from 2015 providing an overview of ethnographic collecting by missionaries."
     - Type of source: "Article"
-      Name: "Hård, Mikael and Tjoa-Bonatz, Mai Lin. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860–1940.' Social Studies of Science 50, no. 6 (2020): 932-955."
+      Name: "Hård, Mikael, and Mai Lin Tjoa-Bonatz. ‘Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 – 1940’. Social Studies of Science 50, no. 6 (December 2020): 932–55."
       Link:
         - URL: "https://dx.doi.org/10.1177/0306312720925913"
       Description and remarks: "Article from 2020 that examines German missionaries in the Dutch East Indies and how their places of residence functioned as trading zones, where cultural exchange took place."
@@ -95,17 +95,17 @@ Sources:
         - URL: "https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf"
       Description and remarks: "Dissertation from 2015 by Harrie Leyten, who was himself a missionary in Ghana between 1961 and 1971 and later curator of the African collection at the Tropenmuseum in Amsterdam. The dissertation is a reflection on Leyten's long career."
     - Type of source: "Article"
-      Name: "Leyten, Harrie. 'Shared cultural heritage: missionary collections in the Netherlands.'' Material Religion 8, no. 1 (2012): 103-104."
+      Name: "Leyten, Harrie. ‘Shared Cultural Heritage Missionary Collections in the Netherlands’. Material Religion 8, no. 1 (March 2012): 103–4."
       Link:
         - URL: "https://doi.org/10.2752/175183412X13286288798051"
       Description and remarks: "Article by Harrie Leyten on collections in the Netherlands collected by missionaries."
     - Type of source: "Book chapter"
-      Name: "Tjoa-Bonatz, Mai Lin. “Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.” In Casting Faiths : Imperialism and the Transformation of Religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009."
+      Name: "Tjoa-Bonatz, Mai Lin. ‘Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904–1920’. In Casting Faiths, 105–28. London: Palgrave Macmillan UK, 2009."
       Link:
         - URL: "https://doi.org/10.1057/9780230235458_5"
       Description and remarks: "Chapter in the book In Casting Faiths by Mai Lin Tjoa-Bonatz on the influence of missionaries on the Christianisation of the people of Nias."
     - Type of source: "Book chapter"
-      Name: "Wingfield, Chris. “Missionary Museums. In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate , 231-238. London: Bloomsbury, 2017."
+      Name: "Wingfield, Chris. ‘Missionary Museums’. In Religion in Museums, 1st ed., 231–38. Bloomsbury Publishing Plc, 2017."
       Link:
         - URL: "https://doi.org/10.5040/9781474255554.ch-026"
       Description and remarks: "Chapter in the book Religion in Museums by Chris Wingfield on mission museums."
@@ -113,12 +113,12 @@ Sources:
 editing_metadata:
   - date: 2024-04-17
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.
   - date: 2025-03-12
     applies_to: Main-text; Sources
-    author: abacus
+    author: Abacus
     role: translator
     editing_notes: abacus translations processed by wiebe reints  
  

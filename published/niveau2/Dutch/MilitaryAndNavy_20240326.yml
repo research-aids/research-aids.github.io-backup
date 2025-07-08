@@ -114,12 +114,12 @@ Sources:
       Description and remarks: "Nederlands Militair Erfgoed is een portal met militaire bronnen uit verschillende collecties in Nederland, waaronder beeldmateriaal, tijdschriften en boeken. Voor herkomstonderzoek zijn met name de officiersboekjes en de historische tijdschriften van belang."
   Secondary sources:
     - Type of source: "Artikel"
-      Name: "Witkam, Jan Just. 'Teuku Panglima Polems Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104."
+      Name: "Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104."
       Link: 
         - URL: "https://doi.org/10.1163/1878464X-01001006"
       Description and remarks: "Artikel over Teuku Panglima Polem, een Atjehse leider tijdens de koloniale oorlog die Nederland voerde in Atjeh."
     - Type of source: "Boek"
-      Name: "Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007."
+      Name: "Keurs, Pieter ter, red. Colonial collections revisited. Mededelingen van het Rijksmuseum voor Volkenkunde, Leiden, no. 36. Leiden: CNWS Publications, 2007."
       Link:
         - URL: "https://search.worldcat.org/title/907175634"
         - ISBN: "9789057891526"
@@ -134,6 +134,6 @@ Sources:
 editing_metadata:
   - date: 2024-03-26
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
