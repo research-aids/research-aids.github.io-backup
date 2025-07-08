@@ -141,13 +141,13 @@
         "Primary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Haan, W. de, P. W. Korthals, Salomon M\u00fcller, H. Schlegel, C. J. Temminck, en Natuurkundige Commissie in Oost-Indi\u00eb. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839",
+                "Name": "Haan, W. De, P. W. Korthals, Salomon M\u00fcller, H. Schlegel, C.J. Temminck. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.5962/bhl.title.114730"
                     },
                     {
-                        "OCLC": "12686361 of 816811748"
+                        "OCLC": "12686361"
                     }
                 ],
                 "Description and remarks": "Alle verhandelingen van de Natuurkundige Commissie in Oost-Indi\u00eb in een gebonden boek, verdeeld in drie volumes: Land-en Volkenkunde, Zo\u00f6logie en Botanie. Beschikbaar via de website van Biodiversity Heritage Library."
@@ -185,7 +185,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995.",
+                "Name": "Holthuis, Lipke. 1820 - 1958\u202f: Rijksmuseum van Natuurlijke Historie, 1995.",
                 "Link": [
                     {
                         "URL": "https://repository.naturalis.nl/pub/268714"
@@ -198,7 +198,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Gijzen, Agatha. 's Rijks Museum Van Natuurlijke Historie, 1820-1915. W.L. & J. Brusse, Rotterdam, 1938.",
+                "Name": "Gijzen, Agatha. \u2018\u2019s Rijks Museum van Natuurlijke Historie, 1820-1915\u2019, 1938.",
                 "Link": [
                     {
                         "URL": "https://repository.naturalis.nl/pub/631350"
@@ -211,7 +211,7 @@
             },
             {
                 "Type of source": "Artikel",
-                "Name": "de Groot, G.E. \u201cRijksmuseum Van Geologie En Mineralogie 1878-1978 : A Retrospect\u201d. Scripta Geologica 48 (January 1978): 3\u201325.",
+                "Name": "Groot, G. E. de. \u2018Rijksmuseum van Geologie En Mineralogie 1878-1978\u202f: A Retrospect\u2019. Scripta Geologica 48 (1 januari 1978): 3-25.",
                 "Link": [
                     {
                         "OCLC": "899054688"
@@ -223,8 +223,8 @@
                 "Description and remarks": "Artikel uit 1978 dat de geschiedenis van het Rijksmuseum van Geolgie en Mineralogie van 1878 tot en met 1978 beschrijft."
             },
             {
-                "Type of source": "Article",
-                "Name": "Husson, A.M., and Lipke Holthuis. \u201cThe Dates of Publication of \u201cverhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen\u201d Edited by C. J. Temminck\u201d. Zoologische Mededelingen 34, no. 2 (January 1955): 17\u201324.",
+                "Type of source": "Artikel",
+                "Name": "Husson, A. M., en Lipke Holthuis. \u2018The Dates of Publication of \u201cVerhandelingen over de Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen\u201d Edited by C. J. Temminck\u2019. Zoologische Mededelingen 34, nr. 2 (1 januari 1955): 17-24.",
                 "Link": [
                     {
                         "OCLC": "67808542"
@@ -237,7 +237,7 @@
             },
             {
                 "Type of source": "Artikel",
-                "Name": "Andreas, Weber. 2019. \u201cCollecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.\u201d Bmgn: Low Countries Historical Review.",
+                "Name": "Haan, W. De, P. W. Korthals, Salomon M\u00fcller, H. Schlegel, C.J. Temminck, en Natuurkundige Commissie in Oost-Indi\u00eb (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.",
                 "Link": [
                     {
                         "OCLC": "9627499338"

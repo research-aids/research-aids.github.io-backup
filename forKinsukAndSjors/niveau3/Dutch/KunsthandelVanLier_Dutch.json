@@ -103,7 +103,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.",
+                "Name": "Lier, Bas C. van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/902336725?oclcNum=902336725"
@@ -123,7 +123,7 @@
         {
             "date": "2024-03-13",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         }

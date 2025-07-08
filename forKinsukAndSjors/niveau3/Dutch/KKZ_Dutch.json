@@ -197,7 +197,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Boek",
-                "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.",
+                "Name": "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum\u202f: 1816-1883. Proefschrift Universiteit Leiden, 2003.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/163275947?oclcNum=163275947"
@@ -252,7 +252,7 @@
             },
             {
                 "Type of source": "Publicatie",
-                "Name": "Mooren, Jona, Klaas Stutje, and Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).",
+                "Name": "Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties. Amsterdam: NIOD, 2022.",
                 "Link": [
                     {
                         "URL": "https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf"
@@ -262,7 +262,7 @@
             },
             {
                 "Type of source": "Catalogus",
-                "Name": "Rinnooy Kan, Justine, and Sheila Reda, eds. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis (Zwolle, Den Haag: Waanders uitgevers; Mauritshuis, 2024).",
+                "Name": "Rinnooy Kan, Justine, en Sheila Reda, red. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle, Den Haag: Waanders uitgevers\u202f; Mauritshuis, 2024.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/1463743743?oclcNum=1463743743"
@@ -282,7 +282,7 @@
         {
             "date": "2024-03-13",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         }

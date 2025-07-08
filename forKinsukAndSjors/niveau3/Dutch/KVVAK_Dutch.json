@@ -161,7 +161,7 @@
         "Secondary sources": [
             {
                 "Type of source": "Artikel",
-                "Name": "Southworth, W. \u201cTwelve Stone Sculptures from Java\u201d. The Rijksmuseum Bulletin 65 (3):244-75 Amsterdam: Rijksmuseum, 2017.",
+                "Name": "Southworth, W. \u2018Twelve Stone Sculptures from Java\u2019. The Rijksmuseum Bulletin 65, nr. 3 (15 september 2017): 244-75.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.52476/trb.9791"
@@ -171,7 +171,7 @@
             },
             {
                 "Type of source": "Artikel",
-                "Name": "Southworth, William. \u201cThe Provenance of Four Sandstone Sculptures from Cambodia\u201d. The Rijksmuseum Bulletin 61 (2):140-71, Amsterdam: Rijksmuseum, 2013.",
+                "Name": "Southworth, William. \u2018Provenance of Four Sandstone Sculptures from Cambodia\u2019. The Rijksmuseum Bulletin 61, nr. 2 (15 juni 2013): 140-71.",
                 "Link": [
                     {
                         "URL": "https://doi.org/10.52476/trb.10069"
@@ -181,7 +181,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Campen, J. van, et al. Asian Art, Amsterdam: Rijksmuseum, 2014.",
+                "Name": "Campen, Jan van, et al. Asian Art. Vertaald door Lynne Richards en Philip Clarke. Amsterdam: Rijksmuseum, 2014.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/907556128"
@@ -197,7 +197,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Lim, K.W., et al. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.",
+                "Name": "Lim, K.W., et al. Aziatische kunst uit het bezit van leden: Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979\u202f: Vereniging van vrienden der Aziatische kunst 1918-1978. Amsterdam: Vereniging van vrienden der Aziatische kunst, 1978.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/63330271?oclcNum=63330271"
@@ -210,7 +210,7 @@
             },
             {
                 "Type of source": "Catalogus",
-                "Name": "Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
+                "Name": "Fontein, J., et al. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/1156720537"
@@ -240,7 +240,7 @@
         {
             "date": "2024-03-12",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         }

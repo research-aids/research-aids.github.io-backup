@@ -196,7 +196,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885.",
+                "Name": "Pleyte, C.M.  Verzameling van ethnographische voorwerpen, aan de westkust van Afrika: voornamelijk in het Congo-gebied, verzameld, en voor het meerendeel aan het Genootschap ten geschenke gegeven. Amsterdam: Van Holkema, 1885.",
                 "Link": [
                     {
                         "URL": "https://search.worldcat.org/title/836812327?oclcNum=836812327"
@@ -209,7 +209,7 @@
             },
             {
                 "Type of source": "Boek",
-                "Name": "Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888.",
+                "Name": "Pleyte, Cornelis Marinus. Gids voor den bezoeker van het Ethnographisch museum. Amsterdam: Van Holkema, 1888.",
                 "Link": [
                     {
                         "URL": "https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ"
@@ -239,7 +239,7 @@
         {
             "date": "2024-07-11",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         }
