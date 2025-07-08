@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Civil servants in colonised territories": {
-                "link": "published/niveau2/English/CivilServants_20240316.yml",
+                "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/CivilServants_English",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Scientific research in colonised territories": {
-                "link": "published/niveau2/English/Science_20240821.yml",
+                "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Science_English",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Artis Ethnographic Museum": {
-                "link": "published/niveau3/English/EMArtis_20240712.yml",
+                "link": "niveau3/English/EMArtis_20240712.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/EMArtis_English",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Naturalis": {
-                "link": "published/niveau3/English/Naturalis_20270710.yml",
+                "link": "niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Naturalis_English",
                 "sort_order": 4
@@ -59,23 +59,23 @@
                 "[Archaeological objects](http://vocab.getty.edu/aat/300234110)"
             ],
             "Geographical": [
-                "[Indonesia](https://sws.geonames.org/1643084)",
-                "[Tibet](https://sws.geonames.org/8449601)",
-                "[Nepal](https://sws.geonames.org/1282988)",
-                "[Thailand](https://sws.geonames.org/1605651)",
-                "[India](https://sws.geonames.org/1269750)",
-                "[Asia](https://sws.geonames.org/6255147)",
-                "[Northern Africa](https://sws.geonames.org/7729887)",
-                "[Southern Africa](https://sws.geonames.org/9406051)",
-                "[Central Africa](https://sws.geonames.org/7729886)",
-                "[Eastern Africa](https://sws.geonames.org)",
-                "[West Africa](https://sws.geonames.org/7729885)",
-                "[North America](https://sws.geonames.org/6255149)",
-                "[Suriname](https://sws.geonames.org/3382998)",
-                "[Central America](https://sws.geonames.org/7729892)",
-                "[South America](https://sws.geonames.org/6255150)",
-                "[Papua New Guinea](https://sws.geonames.org/2088628)",
-                "[Oceania](https://www.geonames.org/6255151/oceania.html)"
+                "[Indonesia](https://sws.geonames.org/1643084/)",
+                "[Tibet](https://sws.geonames.org/8449601/)",
+                "[Nepal](https://sws.geonames.org/1282988/)",
+                "[Thailand](https://sws.geonames.org/1605651/)",
+                "[India](https://sws.geonames.org/1269750/)",
+                "[Asia](https://sws.geonames.org/6255147/)",
+                "[Northern Africa](https://sws.geonames.org/7729887/)",
+                "[Southern Africa](https://sws.geonames.org/9406051/)",
+                "[Central Africa](https://sws.geonames.org/7729886/)",
+                "[Eastern Africa](https://sws.geonames.org/7729889/)",
+                "[West Africa](https://sws.geonames.org/7729885/)",
+                "[North America](https://sws.geonames.org/6255149/)",
+                "[Suriname](https://sws.geonames.org/3382998/)",
+                "[Central America](https://sws.geonames.org/7729892/)",
+                "[South America](https://sws.geonames.org/6255150/)",
+                "[Papua New Guinea](https://sws.geonames.org/2088628/)",
+                "[Oceania](https://sws.geonames.org/6255151/)"
             ]
         },
         "Period of activity": {

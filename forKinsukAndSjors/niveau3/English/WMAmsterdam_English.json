@@ -93,7 +93,7 @@
         },
         {
             "Museon-Omniversum": {
-                "link": "published/niveau3/English/Museon_20250513.yml",
+                "link": "niveau3/English/Museon_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Museon_English",
                 "sort_order": 12
@@ -101,7 +101,7 @@
         },
         {
             "International Colonial and Export Exhibition 1883": {
-                "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                "link": "niveau3/English/Wereldtentoonstelling1883_20250602.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
                 "sort_order": 13
@@ -109,7 +109,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
+                "link": "niveau3/English/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MOudenbosch_English",
                 "sort_order": 14
@@ -136,10 +136,10 @@
             ],
             "Geographical": [
                 "[Africa](https://www.geonames.org/6255146/)",
-                "[Asia](https://www.geonames.org/6255147)",
-                "[North America](https://www.geonames.org/6255149)",
-                "[Oceania](https://www.geonames.org/6255151)",
-                "[South America](https://www.geonames.org/6255150)"
+                "[Asia](https://www.geonames.org/6255147/)",
+                "[North America](https://www.geonames.org/6255149/)",
+                "[Oceania](https://www.geonames.org/6255151/)",
+                "[South America](https://www.geonames.org/6255150/)"
             ]
         },
         "Period of activity": {

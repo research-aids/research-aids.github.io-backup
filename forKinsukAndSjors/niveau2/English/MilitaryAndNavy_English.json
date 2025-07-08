@@ -93,7 +93,7 @@
         },
         {
             "Hoofdcursus Kampen": {
-                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                 "sort_order": 12
@@ -101,7 +101,7 @@
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
-                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                "link": "niveau3/English/JustinusNassau_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/JustinusNassau_English",
                 "sort_order": 13
@@ -120,9 +120,14 @@
             ],
             "Type of objects": [],
             "Geographical": [
-                "[ABCSSS islands](https://sws.geonames.org/8505032)",
-                "[Indonesia](https://sws.geonames.org/1643084)",
-                "[Suriname](https://sws.geonames.org/3382998)"
+                "[Aruba](https://sws.geonames.org/3577279/)",
+                "[Bonaire](https://sws.geonames.org/7609816/)",
+                "[Cura\u00e7ao](https://sws.geonames.org/7626836/)",
+                "[Saba](https://sws.geonames.org/3513314/)",
+                "[Sint Eustatius](https://sws.geonames.org/3513232/)",
+                "[Sint Maarten](https://sws.geonames.org/7609695/)",
+                "[Indonesia](https://sws.geonames.org/1643084/)",
+                "[Suriname](https://sws.geonames.org/3382998/)"
             ]
         }
     },

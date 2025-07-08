@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Civil servants in colonised territories": {
-                "link": "published/niveau2/English/CivilServants_20240316.yml",
+                "link": "niveau2/English/CivilServants_20240316.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/CivilServants_English",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Scientific research in colonised territories": {
-                "link": "published/niveau2/English/Science_20240821.yml",
+                "link": "niveau2/English/Science_20240821.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Science_English",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "The trade in objects from a colonial context": {
-                "link": "published/niveau2/English/Trade_20240316.yml",
+                "link": "niveau2/English/Trade_20240316.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Trade_English",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Artis Ethnographic Museum": {
-                "link": "published/niveau3/English/EMArtis_20240712.yml",
+                "link": "niveau3/English/EMArtis_20240712.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/EMArtis_English",
                 "sort_order": 4
@@ -37,7 +37,7 @@
         },
         {
             "Wereldmuseum Amsterdam": {
-                "link": "published/niveau3/English/WMAmsterdam_20240809.yml",
+                "link": "niveau3/English/WMAmsterdam_20240809.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
                 "sort_order": 5
@@ -45,7 +45,7 @@
         },
         {
             "Wereldmuseum Leiden": {
-                "link": "published/niveau3/English/WMLeiden_20240508.yml",
+                "link": "niveau3/English/WMLeiden_20240508.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
                 "sort_order": 6
@@ -53,7 +53,7 @@
         },
         {
             "Wereldmuseum Rotterdam": {
-                "link": "published/niveau3/English/WMRotterdam_2040822.yml",
+                "link": "niveau3/English/WMRotterdam_2040822.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English",
                 "sort_order": 7
@@ -61,7 +61,7 @@
         },
         {
             "Rijksmuseum Amsterdam": {
-                "link": "published/niveau3/English/RijksmuseumAmsterdam_20240905.yml",
+                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
                 "sort_order": 8
@@ -69,7 +69,7 @@
         },
         {
             "Museum Nusantara": {
-                "link": "published/niveau3/English/MNusantara_20250225.yml",
+                "link": "niveau3/English/MNusantara_20250225.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MNusantara_English",
                 "sort_order": 9
@@ -77,7 +77,7 @@
         },
         {
             "Naturalis Biodiversity Center": {
-                "link": "published/niveau3/English/Naturalis_20270710.yml",
+                "link": "niveau3/English/Naturalis_20270710.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Naturalis_English",
                 "sort_order": 10
@@ -85,7 +85,7 @@
         },
         {
             "Museum Bronbeek": {
-                "link": "published/niveau3/English/Bronbeek_20241002.yml",
+                "link": "niveau3/English/Bronbeek_20241002.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Bronbeek_English",
                 "sort_order": 11
@@ -107,9 +107,9 @@
                 "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Indonesia](https://www.geonames.org/1643084)",
-                "[Suriname] (https://sws.geonames.org/3382998)",
-                "[ABCSSS islands](https://sws.geonames.org/8505032)"
+                "[Indonesia](https://www.geonames.org/1643084/)",
+                "[Suriname] (https://sws.geonames.org/3382998/)",
+                "[ABCSSS islands](https://sws.geonames.org/8505032/)"
             ]
         },
         "Period of activity": {

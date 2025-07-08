@@ -85,7 +85,7 @@
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
-                "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
+                "link": "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
                 "sort_order": 11
@@ -108,8 +108,8 @@
                 "[Kunstnijverheid](http://vocab.getty.edu/page/aat/300054168)"
             ],
             "Geographical": [
-                "[Indonesi\u00eb](https://sws.geonames.org/1643084)",
-                "[Sri Lanka](https://sws.geonames.org/1227603)"
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084/)",
+                "[Sri Lanka](https://sws.geonames.org/1227603/)"
             ]
         },
         "Period of activity": {

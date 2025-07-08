@@ -117,7 +117,7 @@
         },
         {
             "Museon-Omniversum": {
-                "link": "published/niveau3/Dutch/Museon_20250429.yml",
+                "link": "niveau3/Dutch/Museon_20250429.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Museon_Dutch",
                 "sort_order": 15
@@ -125,7 +125,7 @@
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
-                "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
+                "link": "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
                 "sort_order": 16
@@ -146,9 +146,9 @@
             ],
             "Type of objects": [],
             "Geographical": [
-                "[ABCSSS-eilanden](https://sws.geonames.org/8505032)",
-                "[Indonesi\u00eb] (https://sws.geonames.org/1643084)",
-                "[Suriname] (https://sws.geonames.org/3382998)"
+                "[ABCSSS-eilanden](https://sws.geonames.org/8505032/)",
+                "[Indonesi\u00eb] (https://sws.geonames.org/1643084/)",
+                "[Suriname] (https://sws.geonames.org/3382998/)"
             ]
         }
     },

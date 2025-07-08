@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Army and navy personnel in colonised territories": {
-                "link": "published/niveau2/English/MilitaryAndNavy_20240417.yml",
+                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/MilitaryAndNavy_English",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Wageningen University & Research": {
-                "link": "published/niveau3/English/WageningenUniversity_20240508.yml",
+                "link": "niveau3/English/WageningenUniversity_20240508.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WageningenUniversity_English",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Museum Bronbeek": {
-                "link": "published/niveau3/English/Bronbeek_20241002.yml",
+                "link": "niveau3/English/Bronbeek_20241002.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Bronbeek_English",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Museum Nusantara": {
-                "link": "published/niveau3/English/MNusantara_20250225.yml",
+                "link": "niveau3/English/MNusantara_20250225.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MNusantara_English",
                 "sort_order": 4
@@ -37,7 +37,7 @@
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
-                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                "link": "niveau3/English/JustinusNassau_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/JustinusNassau_English",
                 "sort_order": 5
@@ -59,7 +59,7 @@
                 "[Weapons](http://vocab.getty.edu/page/aat/300036926)"
             ],
             "Geographical": [
-                "[Indonesia](https://www.geonames.org/1643084)"
+                "[Indonesia](https://www.geonames.org/1643084/)"
             ]
         },
         "Period of activity": {

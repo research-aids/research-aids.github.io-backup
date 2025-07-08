@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
-                "link": "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml",
+                "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Wereldmuseum Leiden": {
-                "link": "published/niveau3/Dutch/WMLeiden_20240327.yml",
+                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Wageningen University & Research": {
-                "link": "published/niveau3/Dutch/WageningenUniversity_20240327.yml",
+                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Museum Bronbeek": {
-                "link": "published/niveau3/Dutch/Bronbeek_20241002.yml",
+                "link": "niveau3/Dutch/Bronbeek_20241002.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Bronbeek_Dutch",
                 "sort_order": 4
@@ -37,7 +37,7 @@
         },
         {
             "Museum Nusantara": {
-                "link": "published/niveau3/Dutch/MNusantara_20250130.yml",
+                "link": "niveau3/Dutch/MNusantara_20250130.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
                 "sort_order": 5
@@ -45,7 +45,7 @@
         },
         {
             "Hoofdcursus Kampen": {
-                "link": "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml",
+                "link": "niveau3/Dutch/HoofdcursusKampen_20250428.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
                 "sort_order": 6
@@ -69,7 +69,7 @@
                 "[Wapens](http://vocab.getty.edu/page/aat/300036926)"
             ],
             "Geographical": [
-                "[Indonesi\u00eb](https://sws.geonames.org/1643084)"
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084/)"
             ]
         },
         "Period of activity": {

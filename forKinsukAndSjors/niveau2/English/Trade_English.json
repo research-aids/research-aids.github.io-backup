@@ -117,7 +117,7 @@
         },
         {
             "International Colonial and Export Exhibition 1883": {
-                "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                "link": "niveau3/English/Wereldtentoonstelling1883_20250602.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
                 "sort_order": 15
@@ -134,10 +134,10 @@
             ],
             "Type of objects": [],
             "Geographical": [
-                "[China](http://vocab.getty.edu/aat/300417515)",
-                "[Congo](https://sws.geonames.org/203312)",
-                "[Indonesia](https://sws.geonames.org/1643084)",
-                "[Japan](https://sws.geonames.org/1861060)"
+                "[China](http://vocab.getty.edu/aat/300417515/)",
+                "[Congo](https://sws.geonames.org/203312/)",
+                "[Indonesia](https://sws.geonames.org/1643084/)",
+                "[Japan](https://sws.geonames.org/1861060/)"
             ]
         }
     },

@@ -37,7 +37,7 @@
         },
         {
             "Hoofdcursus Kampen": {
-                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                 "sort_order": 5
@@ -45,7 +45,7 @@
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
-                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                "link": "niveau3/English/JustinusNassau_20250513.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/JustinusNassau_English",
                 "sort_order": 6
@@ -53,7 +53,7 @@
         },
         {
             "Volkenkundig museum 'Gerardus van der Leeuw'": {
-                "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
+                "link": "niveau3/English/GerardusLeeuw_20250602.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
                 "sort_order": 7
@@ -79,7 +79,7 @@
                 "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geografisch": [
-                "[Indonesia](https://sws.geonames.org/1643084)"
+                "[Indonesia](https://sws.geonames.org/1643084/)"
             ]
         },
         "Period of activity": {

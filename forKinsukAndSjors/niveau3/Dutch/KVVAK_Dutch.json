@@ -45,13 +45,13 @@
                 "[Etnografica](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
-                "[Oost-Azi\u00eb](https://sws.geonames.org/7729894)",
-                "[Zuidoost-Azi\u00eb](https://sws.geonames.org/7729896)"
+                "[Oost-Azi\u00eb](https://sws.geonames.org/7729894/)",
+                "[Zuidoost-Azi\u00eb](https://sws.geonames.org/7729896/)"
             ]
         },
         "Period of activity": {
             "Year of start": "1918",
-            "Year of end": "Heden"
+            "Year of end": []
         },
         "Collections": {
             "General remarks": {

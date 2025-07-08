@@ -53,7 +53,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
+                "link": "niveau3/English/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MOudenbosch_English",
                 "sort_order": 7
@@ -72,10 +72,10 @@
             ],
             "Type of objects": [],
             "Geographical": [
-                "[China](https://sws.geonames.org/1814991)",
-                "[Congo](https://sws.geonames.org/203312)",
-                "[Indonesia](https://sws.geonames.org/1643084)",
-                "[Suriname](https://sws.geonames.org/3382998)"
+                "[China](https://sws.geonames.org/1814991/)",
+                "[Congo](https://sws.geonames.org/203312/)",
+                "[Indonesia](https://sws.geonames.org/1643084/)",
+                "[Suriname](https://sws.geonames.org/3382998/)"
             ]
         }
     },

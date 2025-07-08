@@ -69,7 +69,7 @@
         },
         {
             "Museon-Omniversum": {
-                "link": "published/niveau3/Dutch/Museon_20250429.yml",
+                "link": "niveau3/Dutch/Museon_20250429.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Museon_Dutch",
                 "sort_order": 9
@@ -77,7 +77,7 @@
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
-                "link": "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
+                "link": "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
                 "sort_order": 10
@@ -85,7 +85,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "published/niveau3/Dutch/MOudenbosch_20250603.yml",
+                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
                 "sort_order": 11
@@ -116,12 +116,12 @@
                 "[Fossielen](http://vocab.getty.edu/aat/300011068)"
             ],
             "Geographical": [
-                "[Europa](https://sws.geonames.org/6255148)",
-                "[Azi\u00eb](https://sws.geonames.org/6255147)",
-                "[Afrika](https://sws.geonames.org/6255146)",
-                "[Oceani\u00eb](https://geonames.org/6255151)",
-                "[Noord-Amerika](https://sws.geonames.org/6255149)",
-                "[Zuid-Amerika](https://sws.geonames.org/6255150)"
+                "[Europa](https://sws.geonames.org/6255148/)",
+                "[Azi\u00eb](https://sws.geonames.org/6255147/)",
+                "[Afrika](https://sws.geonames.org/6255146/)",
+                "[Oceani\u00eb](https://geonames.org/6255151/)",
+                "[Noord-Amerika](https://sws.geonames.org/6255149/)",
+                "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
             ]
         },
         "Period of activity": {
