@@ -137,11 +137,11 @@ Sources:
 editing_metadata:
   - date: 2024-08-09
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
   - date: 2025-04-24
     applies_to: Main-text; Sources
-    author: abacus
+    author: Abacus
     role: translator
-    editing_notes: abacus translations processed by wiebe reints
+    editing_notes: abacus translations processed by Wiebe Reints
