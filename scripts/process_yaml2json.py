@@ -128,9 +128,9 @@ def apply_func(yml, func, applies_to):
     if isinstance(yml, applies_to):
         return func(yml)
     if isinstance(yml, list):
-        return list(map(apply_func, yml))
+        return [apply_func(x, func, applies_to) for x in yml]
     if isinstance(yml, dict):
-        return {apply_func(k): apply_func(v) for k, v in yml.items()}
+        return {apply_func(k, func, applies_to): apply_func(v, func, applies_to) for k, v in yml.items()}
     return yml
 
 # MAIN
