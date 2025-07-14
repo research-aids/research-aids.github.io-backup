@@ -69,7 +69,7 @@ layout: default
 title: {level}
 nav_enabled: true
 has_toc: true
-parent: Home
+parent: Published
 ---
 This is level {level[-1]} of the RAs.
 """
