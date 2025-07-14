@@ -93,14 +93,45 @@ def addEntityInfotoText(d, lang):
     return main
 
 
-def add_sort_oorder_to_item_list(ls):
+def add_sort_order_to_item_list(ls):
     for i, item in enumerate(ls, 1):
         item_title, item_fields = tuple(item.items())[0]
         item_fields.update({"sort_order": i})
         subtopics = item_fields.get("Deelonderwerpen", None) or item_fields.get("Subtopics", None)
         if subtopics:
-            add_sort_oorder_to_item_list(subtopics)
-        
+            add_sort_order_to_item_list(subtopics)
+
+
+def correct_IRI(url):
+    # correct IRIs:
+    #  - https://sws.geonames.org/6255149/
+    #  - http://vocab.getty.edu/aat/300266789
+    # -- http://www.wikidata.org/entity/Q219477
+    md_link_re = re.compile(r"\[(.*)\]\(https?:\/\/(?:sws|www).geonames.org\/([0-9]+)\/?.*\)")
+    # uri_re = re.compile(r"^https?:\/\/(?:sws|www).geonames.org\/([0-9]+)\/?.*")
+
+    if md_link_re.match(url):
+        link_text, geonames_id = md_link_re.match(url).group(1), md_link_re.match(url).group(2)
+        return f"[{link_text}](https://sws.geonames.org/{geonames_id}/)"
+    elif ("http" in url[:20]) or ("www" in url[:20]):
+        # print(f" {url}  didn't parse! is it correct?")
+        pass
+    else:
+        pass
+    
+    return url
+
+
+
+complex_types = (list, dict)
+def apply_func(yml, func, applies_to):
+    if isinstance(yml, applies_to):
+        return func(yml)
+    if isinstance(yml, list):
+        return list(map(apply_func, yml))
+    if isinstance(yml, dict):
+        return {apply_func(k): apply_func(v) for k, v in yml.items()}
+    return yml
 
 # MAIN
 
@@ -125,11 +156,14 @@ for f in tqdm(yaml_files):
 
 
         if "RelatedAides" in yaml_content:
-            add_sort_oorder_to_item_list(yaml_content["RelatedAides"])
+            add_sort_order_to_item_list(yaml_content["RelatedAides"])
         if "Breakdown" in yaml_content:
             for title, ls in yaml_content["Breakdown"].items():
-                add_sort_oorder_to_item_list(ls)
-    
+                add_sort_order_to_item_list(ls)
+
+
+        yaml_content = apply_func(yaml_content, correct_IRI, str)
+        
         
         new_name = f"{OUT_DIR}/{level}/{lang}/{name}_{lang}.json"
 
