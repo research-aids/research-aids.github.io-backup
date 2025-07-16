@@ -4,7 +4,7 @@
 
 - [Research Aids as Data](#research-aids-as-data)
 - [Content Overview](#content-overview)
-- [Documentation for adding and updating research aids :book:](#documentation-for-adding-and-updating-research-aids-:book:)
+- [Documentation for adding and updating research aids](#documentation-for-adding-and-updating-research-aids)
 
 ## Research Aids as Data
 
@@ -45,7 +45,7 @@ Finally, on the third level, there is additional information about specific enti
  - test2 19:40
  - tesst3 20:23
 
-## Documentation for adding and updating research aids :book:
+## Documentation for adding and updating research aids
 
 **Korte uitleg over de frontend van de website** :desktop_computer:
   - Wat kan ik vinden op de website
