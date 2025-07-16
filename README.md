@@ -37,14 +37,14 @@ Finally, on the third level, there is additional information about specific enti
  - test2 19:40
  - tesst3 20:23
 
-## Documentation for adding and updating research aids
+## Documentation for adding and updating research aids :book:
 
-**Korte uitleg over de frontend van de website**
+**Korte uitleg over de frontend van de website** :desktop_computer:
   - Wat kan ik vinden op de website
 	 - Hoe is de content geordend/wat zijn de huidige categorieën
 	 - Hoe verhoudt deze zich tot de Github? >> Wanneer vindt er een update van de landing page plaats?
 
-**Uitleg over de backend (Github)**
+**Uitleg over de backend (Github)** :floppy_disk:
   - Hoe is deze gestructureerd
   - Hoe voeg ik een zoekhulp toe
     - Wat moet er in een yaml bestand staan
