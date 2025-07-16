@@ -1,4 +1,12 @@
-# Research Guides as Data
+# Research Aids
+
+## Table of Contents
+
+- [Research Aids as Data](#research-aids-as-data)
+- [Content Overview](#content-overview)
+- [Documentation for adding and updating research aids](#Documentation-for-adding-and-updating-research-aids)
+
+## Research Aids as Data
 
 _This repository and the intellectual work (aka data) it contains are published under a CC-BY-SA license ([more information in the deed](./LICENSE)).  
 In brief, this means that you are allowed to freely use and adapt its contents in your own work as long as you attribute the original authors appropriately and share it as part of the Creative Commons as well._  
