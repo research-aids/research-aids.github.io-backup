@@ -30,12 +30,29 @@ The second tier of the hierarchy is made up of descriptions of broad topics, maj
 
 Finally, on the third level, there is additional information about specific entities, actors and concepts related to and active in the colonial context. These guides are data already from their origin, as there can be arbitrarily many, and they should be treated as such, i.e. live next to/in the data in the Datahub. An example of the Kunsthandel van Lier guide translated into YAML is [Kunsthandel_van_Lier.yam;l](./niveau3Kunsthandel_van_Lier.yaml).
 
-## Content Overview
-
-
 #### Misc Contents of this Repo
 
  - [scripts](./scripts/) contains development code & the scripts that process YAML written by NIOD into JSON that can be processed as LinkedData
  - test
  - test2 19:40
  - tesst3 20:23
+
+## Documentation for adding and updating research aids
+
+**Korte uitleg over de frontend van de website**
+  - Wat kan ik vinden op de website
+	 - Hoe is de content geordend/wat zijn de huidige categorieën
+	 - Hoe verhoudt deze zich tot de Github? >> Wanneer vindt er een update van de landing page plaats?
+
+**Uitleg over de backend (Github)**
+  - Hoe is deze gestructureerd
+  - Hoe voeg ik een zoekhulp toe
+    - Wat moet er in een yaml bestand staan
+    - Waar vind ik een template
+    - Hoe voeg ik informatie toe
+    - Hoe link ik naar websites
+    - Hoe link ik naar andere zoekhulpen
+    - Hoe noteer ik bronnen
+    - (Hoe voeg ik een zoekhulp toe via het formulier)
+  - Hoe onderhoud ik bestaande zoekhulpen
+  - Wat te doen bij een foutmelding
