@@ -10,7 +10,7 @@ This is a development repository for collaboratively designing and integrating t
 **[CLICK HERE FOR A DIRECTORY TREE OF THE RESEARCH GUIDES](./directory_tree.md)**
 (not updated automatically - to generate the directory tree run)
 ```
-(echo "\`\`\`"; echo "$(tree --charset=ascii niveau*)"; echo "\`\`\`") > directory_tree.md
+(echo "\`\`\`"; echo "$(tree --charset=ascii published/niveau*)"; echo "\`\`\`") > directory_tree.md
 ```
 
 #### [Level 0](./published/niveau0)
