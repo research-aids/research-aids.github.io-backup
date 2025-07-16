@@ -4,7 +4,7 @@
 
 - [Research Aids as Data](#research-aids-as-data)
 - [Content Overview](#content-overview)
-- [Documentation for adding and updating research aids](#documentation-for-adding-and-updating-research-aids)
+- [Documentation for adding and updating research aids :book:](#documentation-for-adding-and-updating-research-aids-:book:)
 
 ## Research Aids as Data
 
