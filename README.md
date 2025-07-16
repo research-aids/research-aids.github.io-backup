@@ -8,7 +8,7 @@ This is a development repository for collaboratively designing and integrating t
 ## Content Overview
 
 **[CLICK HERE FOR A DIRECTORY TREE OF THE RESEARCH GUIDES](./directory_tree.md)**
-(not updated automatically -- to generate the directory tree run)
+(not updated automatically - to generate the directory tree run)
 ```
 (echo "\`\`\`"; echo "$(tree --charset=ascii niveau*)"; echo "\`\`\`") > directory_tree.md
 ```
@@ -30,11 +30,12 @@ The second tier of the hierarchy is made up of descriptions of broad topics, maj
 
 Finally, on the third level, there is additional information about specific entities, actors and concepts related to and active in the colonial context. These guides are data already from their origin, as there can be arbitrarily many, and they should be treated as such, i.e. live next to/in the data in the Datahub. An example of the Kunsthandel van Lier guide translated into YAML is [Kunsthandel_van_Lier.yam;l](./niveau3Kunsthandel_van_Lier.yaml).
 
+## Content Overview
+
+
 #### Misc Contents of this Repo
 
  - [scripts](./scripts/) contains development code & the scripts that process YAML written by NIOD into JSON that can be processed as LinkedData
  - test
  - test2 19:40
  - tesst3 20:23
-
-## Content Overview
