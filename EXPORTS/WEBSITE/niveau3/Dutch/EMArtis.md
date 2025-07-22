@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/EMArtis.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/EMArtis.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/EMArtis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/EMArtis.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-11_  
-_last edited by wiebe reints as original_author on 2024-07-11_
+_first edited by Wiebe Reints as original_author on 2024-07-11_  
+_last edited by Wiebe Reints as original_author on 2024-07-11_
 
 
 # Etnografisch Museum Artis
@@ -20,8 +20,6 @@ _last edited by wiebe reints as original_author on 2024-07-11_
 ## Abstract
 
 Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige Wereldmuseum Amsterdam.
-
-Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat in 1851 werd opgericht en deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208).
 
 ### Beschrijving
 
@@ -47,9 +45,9 @@ _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
+_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -81,12 +79,12 @@ Artikel:
 > _Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum._  
 
 Boek:
-  > Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885.  
+  > Pleyte, C.M.  Verzameling van ethnographische voorwerpen, aan de westkust van Afrika: voornamelijk in het Congo-gebied, verzameld, en voor het meerendeel aan het Genootschap ten geschenke gegeven. Amsterdam: Van Holkema, 1885.  
 > [https://search.worldcat.org/title/836812327?oclcNum=836812327](https://search.worldcat.org/title/836812327?oclcNum=836812327), [WorldCat 836812327](https://search.worldcat.org/title/836812327)  
 > _Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte._  
 
 Boek:
-  > Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888.  
+  > Pleyte, Cornelis Marinus. Gids voor den bezoeker van het Ethnographisch museum. Amsterdam: Van Holkema, 1888.  
 > [https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ](https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ), [WorldCat 1287660577](https://search.worldcat.org/title/1287660577)  
 > _Gids uit 1888 van de toenmalige conservator van het Etnografisch Museum Artis over de collectie van het museum. Via Google Books zijn drie volumes beschikbaar: 'Insulinde I Java', Insulinde II Buiten bezettingen en 'Australië en Oceanië'. De gidsen beschrijven zeer nauwkeurig welke objecten zich waar bevonden in het museum._  
 
@@ -118,7 +116,7 @@ Museum voor Land- en Volkenkunde
 ,
   Geographical:
   
-[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147), [Noord-Amerika](https://sws.geonames.org/6255149), [Oceanië](https://sws.geonames.org/6255151), [Zuid-Amerika](https://sws.geonames.org/6255150)
+[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Oceanië](https://sws.geonames.org/6255151/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

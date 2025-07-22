@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Museon.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Museon.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Museon.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Museon.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-05-13_  
-_last edited by wiebe reints as original_author on 2025-05-13_
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
+_last edited by Wiebe Reints as original_author on 2025-05-13_
 
 
 # Museon-Omniversum
@@ -21,13 +21,11 @@ _last edited by wiebe reints as original_author on 2025-05-13_
 
 The Museon-Omniversum is a museum in The Hague that was founded in 1904 as an educational museum. From 1909 onwards, it held various exhibitions featuring its acquired collection, which is divided into three themes: nature, culture and technology. The museum's natural history and ethnographic collections include various objects acquired in a colonial context.
 
-The Museon-Omniversum is a museum in The Hague that was founded in 1904 as an educational museum. From 1909 onwards, it held various exhibitions featuring its acquired collection, which is divided into three themes: nature, culture and technology. The museum's natural history and ethnographic collections include various objects acquired in a colonial context.
-
 ### Description 
 
 In October 1904, the ‘Vereeniging Het museum ten bate van het Onderwijs’ (Association for the Museum for the Benefit of Education) was founded by a group of educational reformers who were advocates of so-called ‘visual education’. This refers to education supported by the demonstration of objects, photographs or films. A few years later, in 1909, the Museum ten bate van het Onderwijs (Museum for the Benefit of Education) was actually established. The ‘Schoolmuseum’ (School Museum), as it became known to the public, was located on the Nieuwmarkt in The Hague and covered the subjects of geology, ethnology, biology and industry. The collection of the museum's first director, geologist [Herman van Cappelle](http://www.wikidata.org/entity/Q2659534), formed the basis of the museum. Van Cappelle is best known for his research in Suriname. Thanks to various other donations, including from Queen Juliana, the Museon's collection of objects from Suriname is one of the largest in the Netherlands.
 
-The Museon's collection of objects is divided into three sub-collections: nature, culture and technology. Objects acquired in a colonial context can be found across the whole collection, but predominantly in the natural and cultural collections. The Museon's collection plan for 2024-2028 includes a list of objects originating from a (former) colonial context, but the natural history collection has not been included in this inventory, even though it also contains objects collected in, for example, the former Dutch East Indies or Suriname. Some important colonial collections are the aforementioned collection from Suriname, mainly assembled by the first director, Herman van Cappelle; the collection of Congolese objects, which was largely compiled in 1935 from purchases and donations from the collections of the Rotterdam Zoo and the Colonial Museum in Antwerp. The objects date mainly from the late nineteenth century and originate primarily from the Vili, Cabinda, Congo, Yombe and Woyo ethnic groups. The Inuit collection was compiled by Niko Timbergen and later expanded with objects donated by a fellow expedition member. In addition, several North American objects from the former Tropenmuseum (now the Wereldmuseum Amsterdam) have been transferred to the Museon, including objects from the ethnographic collection of [Artis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593). It is also important to note that large parts of the Museon's cultural collection were acquired in the 1970s and 1980s and are therefore not included in the collection of objects originating from a colonial context.
+The Museon's collection of objects is divided into three sub-collections: nature, culture and technology. Objects acquired in a colonial context can be found across the whole collection, but predominantly in the natural and cultural collections. The Museon's collection plan for 2024-2028 includes a list of objects originating from a (former) colonial context, but the natural history collection has not been included in this inventory, even though it also contains objects collected in, for example, the former Dutch East Indies or Suriname. Some important colonial collections are the aforementioned collection from Suriname, mainly assembled by the first director, Herman van Cappelle; the collection of Congolese objects, which was largely compiled in 1935 from purchases and donations from the collections of the Rotterdam Zoo and the Colonial Museum in Antwerp. The objects date mainly from the late nineteenth century and originate primarily from the Vili, Cabinda, Congo, Yombe and Woyo ethnic groups. The Inuit collection was compiled by Niko Timbergen and later expanded with objects donated by a fellow expedition member. In addition, several North American objects from the former Tropenmuseum (now the Wereldmuseum Amsterdam) have been transferred to the Museon, including objects from the ethnographic collection of [Artis](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593). It is also important to note that large parts of the Museon's cultural collection were acquired in the 1970s and 1980s and are therefore not included in the collection of objects originating from a colonial context.
 
 The museum has been a municipal museum since 1921, which means that the municipality of The Hague is the owner of the collection. In 1985, the museum was renamed ‘Museon’ and in 2022, it merged with the Omniversum, a wide-screen cinema also located in The Hague. For this reason, the official name today is ‘Museon-Omniversum’. For several years now, the Museon has been researching the colonial history of its collection. The Museon collection will also be made available via the Colonial Collections Datahub at a later date. Among other things, the wood specimens from the museum's natural history collection have been examined and a korwar from Papua (coll. no. 54098) has also been studied. The korwar also contains human remains, as do other objects in the museum's ethnographic collection. In addition to the object collection, the Museon also holds a large collection of visual material, including a noteworthy collection of photographs from the ‘South Celebes expedition’ of 1905-1906.
 
@@ -40,10 +38,10 @@ The Museon archive is managed by the [The Hague Municipal Archives](https://hdl.
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](published/niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Scientific research in colonised territories](published/niveau2/English/Science_20240821.yml)_  
-_see also: [Artis Ethnographic Museum](published/niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Naturalis](published/niveau3/English/Naturalis_20270710.yml)_  
+_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+_see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+_see also: [Naturalis](niveau3/English/Naturalis_20270710.yml)_  
 
 ## Primary sources
 
@@ -102,7 +100,7 @@ Museum ten bate van het Onderwijs, Gemeentelijk museum voor het Onderwijs, Museo
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084), [Tibet](https://sws.geonames.org/8449601), [Nepal](https://sws.geonames.org/1282988), [Thailand](https://sws.geonames.org/1605651), [India](https://sws.geonames.org/1269750), [Asia](https://sws.geonames.org/6255147), [Northern Africa](https://sws.geonames.org/7729887), [Southern Africa](https://sws.geonames.org/9406051), [Central Africa](https://sws.geonames.org/7729886), [Eastern Africa](https://sws.geonames.org), [West Africa](https://sws.geonames.org/7729885), [North America](https://sws.geonames.org/6255149), [Suriname](https://sws.geonames.org/3382998), [Central America](https://sws.geonames.org/7729892), [South America](https://sws.geonames.org/6255150), [Papua New Guinea](https://sws.geonames.org/2088628), [Oceania](https://www.geonames.org/6255151/oceania.html)
+[Indonesia](https://sws.geonames.org/1643084/), [Tibet](https://sws.geonames.org/8449601/), [Nepal](https://sws.geonames.org/1282988/), [Thailand](https://sws.geonames.org/1605651/), [India](https://sws.geonames.org/1269750/), [Asia](https://sws.geonames.org/6255147/), [Northern Africa](https://sws.geonames.org/7729887/), [Southern Africa](https://sws.geonames.org/9406051/), [Central Africa](https://sws.geonames.org/7729886/), [Eastern Africa](https://sws.geonames.org/7729889/), [West Africa](https://sws.geonames.org/7729885/), [North America](https://sws.geonames.org/6255149/), [Suriname](https://sws.geonames.org/3382998/), [Central America](https://sws.geonames.org/7729892/), [South America](https://sws.geonames.org/6255150/), [Papua New Guinea](https://sws.geonames.org/2088628/), [Oceania](https://sws.geonames.org/6255151/)
 ,
   Period of activity:
   Year of start:

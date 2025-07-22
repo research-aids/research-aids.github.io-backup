@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-13_  
-_last edited by wiebe reints as original_author on 2024-03-13_
+_first edited by Wiebe Reints as original_author on 2024-03-13_  
+_last edited by Wiebe Reints as original_author on 2024-03-13_
 
 
 # Koninklijk Kabinet van Zeldzaamheden
@@ -10,15 +10,13 @@ _last edited by wiebe reints as original_author on 2024-03-13_
 
 Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Willem I. De collectie bestond uit allerlei voorwerpen, onder andere uit door Nederland gekoloniseerde gebieden. In 1883 sloot het KKZ haar deuren, waarna de collectie werd verspreid over onder andere het Rijksmuseum in Amsterdam en het tegenwoordige Wereldmuseum Leiden.
 
-Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Willem I. De collectie bestond uit allerlei voorwerpen, onder andere uit door Nederland gekoloniseerde gebieden. In 1883 sloot het KKZ haar deuren, waarna de collectie werd verspreid over onder andere het [Rijksmuseum in Amsterdam](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) en het tegenwoordige [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b).
-
 ### Beschrijving
 
 Het Koninklijk Kabinet van Zeldzaamheden was een museum in Den Haag, dat in 1816 werd opgericht door [Koning Willem I](https://www.wikidata.org/entity/Q2079957). Het museum had de vorm van een rariteitenkabinet en de collectie bestond uit allerlei voorwerpen, waaronder ook vele uit de koloniën. Uiteindelijk was er van alles in te vinden: voorwerpen met betrekking tot de Nederlandse geschiedenis, Aziatische [kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837), [etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984) en [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
 
 Aan de basis stonden de collecties Chinese en Japanse voorwerpen die bijeengebracht waren door [Jean Theodore Royer](https://www.wikidata.org/entity/Q34232414), predikant en jurist met een fascinatie voor de Chinese taal en literatuur, hij vergaarde een omvangrijke collectie prenten en schilderijen en documenten, [Jan Cock Blomhoff](https://www.wikidata.org/entity/Q1973328), onder andere  pakhuismeester van de Nederlandse factorij op het Japanse schiereiland [Dejima](http://www.wikidata.org/entity/Q640267), en [Johan van Overmeer Fisscher](https://www.wikidata.org/entity/Q21549843), die ook werkzaam was op Deijma. Hieraan werden door [Koning Willem I](https://www.wikidata.org/entity/Q2079957) de stadhouderlijke verzamelingen toegevoegd. Ook ontving het museum tijdens zijn bestaan diverse schenkingen en deed het aankopen. Op den duur bevatte de collecties aanzienlijke collecties Japanse en Chinese voorwerpen, vele objecten - veelal diplomatieke geschenken uit de stadhouderlijke verzamelingen - uit Zuidoost Azië, de West-Afrikaanse Goudkust, maar ook Noord-Amerika en Oceanië.
 
-In 1883 werd het museum opgeheven en de collectie verdeeld over verschillende rijksmusea. Het leeuwendeel ging naar het [Rijks Ethnographisch Museum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het huidige Wereldmuseum Leiden), waar de objecten afkomstig uit het KKZ zijn te herkennen aan het kenmerk _RV-360-*_ en het [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075) (opgegaan in het Rijksmuseum). Kleine aantallen voorwerpen werden overgedragen aan het [Rijksmuseum voor Oudheden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3), het [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), het [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), het [Rijksmuseum voor Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) en het [Rijks Herbarium](https://www.wikidata.org/entity/Q2152927).
+In 1883 werd het museum opgeheven en de collectie verdeeld over verschillende rijksmusea. Het leeuwendeel ging naar het [Rijks Ethnographisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het huidige Wereldmuseum Leiden), waar de objecten afkomstig uit het KKZ zijn te herkennen aan het kenmerk _RV-360-*_ en het [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075) (opgegaan in het Rijksmuseum). Kleine aantallen voorwerpen werden overgedragen aan het [Rijksmuseum voor Oudheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3), het [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), het [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), het [Rijksmuseum voor Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) en het [Rijks Herbarium](https://www.wikidata.org/entity/Q2152927).
 
 ### Herkomstonderzoek
 
@@ -81,7 +79,7 @@ Archiefstuk:
 ## Secondary sources
 
 Boek:
-  > Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnographisch Museum, 1816-1883. Proefschrift Universiteit Leiden, 2003.  
+  > Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003.  
 > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)  
 > _Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum._  
 
@@ -101,12 +99,12 @@ Hoofdstuk in boek:
 > _Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandelt._  
 
 Publicatie:
-  > Mooren, Jona, Klaas Stutje, and Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
+  > Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties. Amsterdam: NIOD, 2022.  
 > [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
 > _Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een tiental KKZ objecten uit Wereldmuseum Leiden onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten._  
 
 Catalogus:
-  > Rinnooy Kan, Justine, and Sheila Reda, eds. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis (Zwolle, Den Haag: Waanders uitgevers; Mauritshuis, 2024).  
+  > Rinnooy Kan, Justine, en Sheila Reda, red. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle, Den Haag: Waanders uitgevers ; Mauritshuis, 2024.  
 > [https://search.worldcat.org/title/1463743743?oclcNum=1463743743](https://search.worldcat.org/title/1463743743?oclcNum=1463743743), [WorldCat 1463743743](https://search.worldcat.org/title/1463743743), [ISBN 9789462625709](https://isbnsearch.org/isbn/9789462625709)  
 > _Catalogus van de tentoonstelling over het Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis in 2024._  
 
@@ -133,7 +131,7 @@ https://www.wikidata.org/entity/Q34076860, https://hdl.handle.net/10648/6c37c05b
 ,
   Geographical:
   
-[China](https://sws.geonames.org/1814991), [Indonesië](https://sws.geonames.org/1643084), [Japan](https://sws.geonames.org/1861060), [Noord-Amerika](https://sws.geonames.org/6255149), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628), [Suriname](https://sws.geonames.org/3382998), [Turkije](https://sws.geonames.org/298795), [Zuid-Afrika](https://sws.geonames.org/953987)
+[China](https://sws.geonames.org/1814991/), [Indonesië](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Suriname](https://sws.geonames.org/3382998/), [Turkije](https://sws.geonames.org/298795/), [Zuid-Afrika](https://sws.geonames.org/953987/)
 ,
   Period of activity:
   Year of start:

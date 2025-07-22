@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KoninklijkeBazar.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KoninklijkeBazar.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KoninklijkeBazar.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KoninklijkeBazar.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-13_  
-_last edited by wiebe reints as original_author on 2024-03-13_
+_first edited by Wiebe Reints as original_author on 2024-03-13_  
+_last edited by Wiebe Reints as original_author on 2024-03-13_
 
 
 # Groote Koninklijke Bazar
@@ -21,15 +21,13 @@ _last edited by wiebe reints as original_author on 2024-03-13_
 
 De Groote Koninklijke Bazar was een warenhuis in Den Haag. De handel werd gerund door Dirk Boer, die in 1825 begon met de verkoop voor Aziatische (kunst)artikelen. In 1843 opende hij zijn winkel aan de Zeestraat.
 
-De Groote Koninklijke Bazar was een warenhuis in Den Haag. De handel werd gerund door Dirk Boer, die in 1825 begon met de verkoop voor Aziatische (kunst)artikelen. In 1843 opende hij zijn winkel aan de Zeestraat.
-
 ### Beschrijving
 
-De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://sws.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) en het toenmalige [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Na de dood van Boer in 1877 ging de zaak onder nieuwe eigenaren verder.
+De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://sws.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) en het toenmalige [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Na de dood van Boer in 1877 ging de zaak onder nieuwe eigenaren verder.
   
 ### Herkomstonderzoek
 
-Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://haagsgemeentearchief.nl/beeld-en-geluid/beeldcollectie?mivast=59&mizig=493&miadt=59&miview=gal1&milang=nl&mid=1&mizk_alle=Grand+Bazar+Royal) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) is correspondentie over aankopen aanwezig.
+Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://haagsgemeentearchief.nl/beeld-en-geluid/beeldcollectie?mivast=59&mizig=493&miadt=59&miview=gal1&milang=nl&mid=1&mizk_alle=Grand+Bazar+Royal) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) is correspondentie over aankopen aanwezig.
 
 
 ## Related Aids
@@ -69,25 +67,25 @@ Archiefstuk:
 ## Secondary sources
 
 Artikel:
-  > Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.  
-> [https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
+  > Dam, Peter van. 'The Royal Bazar of Dirk Boer: Early Japonism in the Hague around 1840'. Andon: Society for Japanese arts & crafts 25, nr. Spring (1987): 16-19.  
+> [https://rkd.nl/library/89731](https://rkd.nl/library/89731), [WorldCat 921121360](https://search.worldcat.org/title/921121360)  
 > _Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst._  
 
 Artikel:
-  > Baird, Christina en Helen Backx-Palsgraaf. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.  
+  > Baird, Christina, en Helen Backx-Palsgraaf. ‘Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838’. Journal of the History of Collections 32, nr. 1 (28 april 2020): 119-28.  
 > [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
 > _In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830._  
 
 Boek:
-  > Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
+  > Keblusek, Marika. Japansch magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
 > [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251), [WorldCat 902181455](https://search.worldcat.org/title/902181455)  
 > _Boek over de eerdere winkel van Dirk Boer._  
 
 Boek:
-  > Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.  
+  > Wap, J.J.F., en H.W. Last. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat, te ’s Gravenhage. ’s Gravenhage: Belinfante, 1854.  
 > [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
 Catalogus:
-  > Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.  
+  > Boer, D. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld... te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet, 1841.  
 > [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
 > _Beschrijving van de Koninklijke bazar door Dirk Boer._  
 
@@ -114,7 +112,7 @@ Grand Bazar Royal, Dirk Aartsz. Boer, D. Boer & Zonen
 ,
   Geographical:
   
-[China](https://sws.geonames.org/1814991), [Indonesië](https://sws.geonames.org/1643084), [Iran](https://sws.geonames.org/130758), [Japan](https://sws.geonames.org/1861060), [Oceanië](https://sws.geonames.org/6255151), [Suriname](https://sws.geonames.org/3382998), [Turkije](https://sws.geonames.org/298795)
+[China](https://sws.geonames.org/1814991/), [Indonesië](https://sws.geonames.org/1643084/), [Iran](https://sws.geonames.org/130758/), [Japan](https://sws.geonames.org/1861060/), [Oceanië](https://sws.geonames.org/6255151/), [Suriname](https://sws.geonames.org/3382998/), [Turkije](https://sws.geonames.org/298795/)
 ,
   Period of activity:
   Year of start:

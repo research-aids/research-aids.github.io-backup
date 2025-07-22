@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-10-06_  
-_last edited by wiebe reints as original_author on 2024-10-06_
+_first edited by Wiebe Reints as original_author on 2024-10-06_  
+_last edited by Wiebe Reints as original_author on 2024-10-06_
 
 
 # Rijksmuseum Amsterdam
@@ -10,11 +10,9 @@ _last edited by wiebe reints as original_author on 2024-10-06_
 
 Het huidige Rijksmuseum Amsterdam stamt uit 1885 en is een samenvoeging van verschillende Nederlandse collecties uit de negentiende eeuw. Er bevinden zich onder andere verschillende voorwerpen uit het voormalige Koninklijk Kabinet van Zeldzaamheden zich in de collectie van het Rijksmuseum. Ook wordt de collectie van de Koninklijke Vereniging Vrienden der Aziatische Kunst tentoongesteld in het Rijksmuseum.
 
-Het huidige Rijksmuseum Amsterdam stamt uit 1885 en is een samenvoeging van verschillende Nederlandse collecties uit de negentiende eeuw. Er bevinden zich onder andere verschillende voorwerpen uit het voormalige [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) in de collectie van het Rijksmuseum. Ook wordt de collectie van de [Koninklijke Vereniging Vrienden der Aziatische Kunst](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F406a43378409167aedcac1ac77cdedb5) tentoongesteld in het Rijksmuseum.
-
 ### Beschrijving
 
-Het Rijksmuseum in Amsterdam in zijn huidige vorm stamt uit 1885, toen de collecties van verschillende Nederlandse musea werden samengevoegd. Directe voorgangers van het Rijksmuseum zijn zodoende de [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) te Haarlem, het Nederlandsch Museum van Geschiedenis en Kunst en het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1), beiden in Den Haag. Sinds 1952 wordt de collectie van de [Koninklijke Vereniging van Vrienden der Aziatische Kunst](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F406a43378409167aedcac1ac77cdedb5) (KVVAK) ook tentoongesteld in het Rijksmuseum. In het kader van onderzoek naar collecties uit een koloniale context, zijn met name de collecties van de KVVAK en het Koninklijk Kabinet van Zeldzaamheden binnen de Rijksmuseumcollectie interessant.
+Het Rijksmuseum in Amsterdam in zijn huidige vorm stamt uit 1885, toen de collecties van verschillende Nederlandse musea werden samengevoegd. Directe voorgangers van het Rijksmuseum zijn zodoende de [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) te Haarlem, het Nederlandsch Museum van Geschiedenis en Kunst en het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1), beiden in Den Haag. Sinds 1952 wordt de collectie van de [Koninklijke Vereniging van Vrienden der Aziatische Kunst](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F406a43378409167aedcac1ac77cdedb5) (KVVAK) ook tentoongesteld in het Rijksmuseum. In het kader van onderzoek naar collecties uit een koloniale context, zijn met name de collecties van de KVVAK en het Koninklijk Kabinet van Zeldzaamheden binnen de Rijksmuseumcollectie interessant.
 
 ### Herkomstonderzoek
 
@@ -37,7 +35,7 @@ _see also: [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/
 _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 
@@ -49,7 +47,7 @@ Archief:
 ## Secondary sources
 
 Publicatie:
-  > Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
+  > Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties. Amsterdam: NIOD, 2022.  
 > [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
 > _Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een aantal objecten uit Rijksmuseum Amsterdam onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten._  
 
@@ -76,7 +74,7 @@ http://www.wikidata.org/entity/Q190804
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084), [Sri Lanka](https://sws.geonames.org/1227603)
+[Indonesië](https://sws.geonames.org/1643084/), [Sri Lanka](https://sws.geonames.org/1227603/)
 ,
   Period of activity:
   Year of start:

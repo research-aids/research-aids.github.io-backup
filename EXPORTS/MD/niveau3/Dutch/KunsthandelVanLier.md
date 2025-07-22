@@ -1,14 +1,12 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-13_  
-_last edited by wiebe reints as original_author on 2024-03-13_
+_first edited by Wiebe Reints as original_author on 2024-03-13_  
+_last edited by Wiebe Reints as original_author on 2024-03-13_
 
 
 # Kunsthandel Van Lier
 
 
 ## Abstract
-
-Kunsthandel Van Lier werd in 1924 opgericht door Carel van Lier en handelde in kunstvoorwerpen en etnografica uit onder andere Afrika, Azië en Noord-Amerika. Na de Tweede Wereldoorlog is de handel nog kortstondig door zijn vrouw voortgezet, waarna de zaak uiteindelijk door Leendert van Lier (geen familie) werd overgenomen.
 
 Kunsthandel Van Lier werd in 1924 opgericht door Carel van Lier en handelde in kunstvoorwerpen en etnografica uit onder andere Afrika, Azië en Noord-Amerika. Na de Tweede Wereldoorlog is de handel nog kortstondig door zijn vrouw voortgezet, waarna de zaak uiteindelijk door Leendert van Lier (geen familie) werd overgenomen.
 
@@ -48,7 +46,7 @@ Archief:
 ## Secondary sources
 
 Boek:
-  > Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.  
+  > Lier, Bas C. van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003.  
 > [https://search.worldcat.org/title/902336725?oclcNum=902336725](https://search.worldcat.org/title/902336725?oclcNum=902336725), [ISBN 9789068683431](https://isbnsearch.org/isbn/9789068683431), [WorldCat 902336725](https://search.worldcat.org/title/902336725)  
 > _Biografie over Carel van Lier._  
 
@@ -75,7 +73,7 @@ Kunstzaal Van Lier, Carel van Lier, Leendert van Lier
 ,
   Geographical:
   
-[Afrika](https://sws.geonames.org/6255146), [Azië](https://sws.geonames.org/6255147), [Indonesië](https://sws.geonames.org/1643084), [China](https://sws.geonames.org/1814991), [Congo](https://sws.geonames.org/203312), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628), [Noord-Amerika](https://sws.geonames.org/6255149), [Zuid-Amerika](https://sws.geonames.org/6255150), [Oceanië](https://sws.geonames.org/6255151)
+[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Indonesië](https://sws.geonames.org/1643084/), [China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Zuid-Amerika](https://sws.geonames.org/6255150/), [Oceanië](https://sws.geonames.org/6255151/)
 ,
   Period of activity:
   Year of start:

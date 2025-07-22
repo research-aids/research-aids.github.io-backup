@@ -1,6 +1,6 @@
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-26_  
-_last edited by wiebe reints as original_author on 2024-03-26_
+_first edited by Wiebe Reints as original_author on 2024-03-26_  
+_last edited by Wiebe Reints as original_author on 2024-03-26_
 
 
 # Leger- en marinepersoneel in gekoloniseerde gebieden
@@ -9,8 +9,6 @@ _last edited by wiebe reints as original_author on 2024-03-26_
 ## Abstract
 
 Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, verzamelde op verschillende manieren objecten tijdens het koloniale tijdperk. Objecten kunnen zijn buitgemaakt, geschonken of gekocht van de lokale bevolking. Later werden deze objecten vaak gedoneerd aan colllectiebeherende instellingen in Nederland.
-
-Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, verzamelde op verschillende manieren objecten tijdens het koloniale tijdperk. Objecten kunnen zijn buitgemaakt, geschonken of gekocht van de lokale bevolking. Later werden deze objecten vaak gedoneerd aan colllectiebeherende instellingen in Nederland. 
 
 ### Beschrijving
 
@@ -46,8 +44,8 @@ _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_
 _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 _see also: [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Hoofdcursus Kampen](published/niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/Dutch/JustinusNassau_20250225.yml)_  
+_see also: [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
 
 ## Primary sources
 
@@ -74,12 +72,12 @@ Webportal:
 ## Secondary sources
 
 Artikel:
-  > Witkam, Jan Just. 'Teuku Panglima Polems Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104.  
+  > Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.  
 > [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
 > _Artikel over Teuku Panglima Polem, een Atjehse leider tijdens de koloniale oorlog die Nederland voerde in Atjeh._  
 
 Boek:
-  > Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007.  
+  > Keurs, Pieter ter, red. Colonial collections revisited. Mededelingen van het Rijksmuseum voor Volkenkunde, Leiden, no. 36. Leiden: CNWS Publications, 2007.  
 > [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634), [ISBN 9789057891526](https://isbnsearch.org/isbn/9789057891526), [WorldCat 907175634](https://search.worldcat.org/title/907175634)  
 > _Boek naar aanleiding van een conferentie in de Nieuwe Kerk, Amsterdam, in 2006. Het boek focust op het verzamelen van objecten in voormalig Nederlands-Indië, met daarbij ook aandacht voor militairen._  
 
@@ -103,6 +101,6 @@ Tags:
 ,
   Geographical:
   
-[ABCSSS-eilanden](https://sws.geonames.org/8505032), [Indonesië](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998)
+[Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
 
         

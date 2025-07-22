@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WageningenUniversity.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WageningenUniversity.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WageningenUniversity.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WageningenUniversity.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-08_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-05-08_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -19,8 +19,6 @@ _last edited by abacus as translator on 2025-04-24
 
 
 ## Abstract
-
-Today's Wageningen University & Research held a collection of Indonesian objects at the beginning of the 20th century. These objects were used teaching geology and anthropology. At a later stage, the collection of Indonesian objects was divided among several museums in the Netherlands.
 
 Today's Wageningen University & Research held a collection of Indonesian objects at the beginning of the 20th century. These objects were used teaching geology and anthropology. At a later stage, the collection of Indonesian objects was divided among several museums in the Netherlands.
 
@@ -41,9 +39,9 @@ _see also: [Civil servants in colonised territories](niveau2/English/CivilServan
 _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
 _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
-_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](published/niveau3/English/GerardusLeeuw_20250602.yml)_  
+_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Primary sources
 
@@ -97,7 +95,7 @@ Landbouwhogeschool, Rijkslandbouwschool, Landbouwuniversiteit Wageningen
 ,
   Geografisch:
   
-[Indonesia](https://sws.geonames.org/1643084)
+[Indonesia](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

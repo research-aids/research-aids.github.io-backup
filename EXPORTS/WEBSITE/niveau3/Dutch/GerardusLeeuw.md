@@ -7,10 +7,10 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/GerardusLeeuw.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/GerardusLeeuw.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/GerardusLeeuw.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/GerardusLeeuw.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-05-13_  
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
 _last edited by Wiebe Reints as original_author on 2025-06-16
         (applies to section: Main text)_
 
@@ -19,8 +19,6 @@ _last edited by Wiebe Reints as original_author on 2025-06-16
 
 
 ## Abstract
-
-Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etnografisch museum in Groningen, dat een onderdeel vormde van de universiteit aldaar. De museumcollectie bestond uit verschillende deelcollecties, waaronder uit objecten van de voormalige Tropische Landbouwschool in Deventer en Museum Princessehof in Leeuwarden. Na de sluiting van het museum in 2003 werd de collectie onderdeel van het universiteitsmuseum van de Rijksuniversiteit Groningen (RUG).
 
 Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etnografisch museum in Groningen, dat een onderdeel vormde van de universiteit aldaar. De museumcollectie bestond uit verschillende deelcollecties, waaronder uit objecten van de voormalige Tropische Landbouwschool in Deventer en Museum Princessehof in Leeuwarden. Na de sluiting van het museum in 2003 werd de collectie onderdeel van het universiteitsmuseum van de Rijksuniversiteit Groningen (RUG).
 
@@ -39,9 +37,9 @@ Het archief van het Volkenkundig Museum 'Gerardus van der Leeuw' (tot 1995) is o
 
 ## Related Aids
 
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](published/niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wageningen University & Research](published/niveau3/Dutch/WageningenUniversity_20240327.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+_see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -53,27 +51,27 @@ Archief:
 ## Secondary sources
 
 Boek:
-  > Schotanus, M., V. Arnoldus-Schröder, Nico de Jonge. Hoe Het Ging En Verging : 25 Jaar “Gerardus van Der Leeuw” (Groningen: Volkenkundig Museum “Gerardus van der Leeuw”, 2003).  
+  > Schotanus, M., V. Arnoldus-Schröder, en Nico de Jonge. Hoe het ging en verging: 25 jaar ‘Gerardus van der Leeuw’. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.  
 > [https://search.worldcat.org/title/66693349](https://search.worldcat.org/title/66693349), [ISBN 9789080798915](https://isbnsearch.org/isbn/9789080798915), [WorldCat 66693349](https://search.worldcat.org/title/66693349)  
 > _Boek en catalogus uit 2003 die bondige informatie geeft over het Volkenkundig Museum 'Gerardus van der Leeuw' en een overzicht biedt van de MG-collectie._  
 
 Boek:
-  > Arnoldus, G. De Collectie Deventer (Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003).  
+  > Arnoldus, G. De collectie Deventer. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.  
 > [https://search.worldcat.org/title/66725336](https://search.worldcat.org/title/66725336), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)  
 > _Boek en catalogus uit 2003 die uitgebreide achtergrond informatie geeft over het voormalige museum van de Tropische Landbouwschool in Deventer. Tevens biedt het een overzicht van de collectie van dit museum die in 1972 aan het Volkenkundig Museum 'Gerardus van der Leeuw' werd geschonken._  
 
 Boek:
-  > Leertouwer, L. L., H. Witte, and R. Wassing. The Collection van Baaren. Edited by V. Arnoldus-Schröder (Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998).  
+  > Leertouwer, L. L., H. Witte, en R. Wassing. The Collection Van Baaren: This Collection Includes Objects of Multi-Continental Origins from Africa, the Americas, South- and South-East Asia and Oceania. Onder redactie van V. Arnoldus-Schröder. Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998.  
 > [https://search.worldcat.org/title/901427514](https://search.worldcat.org/title/901427514), [ISBN 9789080083271](https://isbnsearch.org/isbn/9789080083271), [WorldCat 901427514](https://search.worldcat.org/title/901427514)  
 > _Boek uit 1998 dat een beschrijving geeft van de Van Baaren-collectie die als basis gold van het Volkenkundig Museum 'Gerardus van der Leeuw'._  
 
 Boek:
-  > Baaren, Th. P. van. Portret van Een Kollektie : Volkenkundig Museum Gerardus van Der Leeuw, Rijksuniversiteit Groningen (Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974).  
+  > Baaren, ThP. van. Portret van een kollektie: Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen. Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974.  
 > [https://search.worldcat.org/title/63510432](https://search.worldcat.org/title/63510432), [WorldCat 63510432](https://search.worldcat.org/title/63510432)  
 > _Boek van Theo van Baaren, oprichter van het Volkenkundig Museum 'Gerardus van der Leeuw' uit 1974, dus nog voordat het museum officieel werd geopend, over zijn collectie._  
 
 Artikel:
-  > Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974).  
+  > Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974): 91-94.  
 > [https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen](https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen)  
 > _Artikel uit 1974 dat de geschiedenis van Volkenkundig Museum 'Gerardus van der Leeuw' beschrijft._  
 
@@ -100,7 +98,7 @@ http://www.wikidata.org/entity/Q14942678
 ,
   Geographical:
   
-[Azië](https://sws.geonames.org/6255147), [Noord-Afrika](https://sws.geonames.org/7729887), [Zuidelijk Afrika](https://sws.geonames.org/9406051), [Centraal Afrika](https://sws.geonames.org/7729886), [Oost-Afrika](https://sws.geonames.org), [West-Afrika](https://sws.geonames.org/7729885), [Noord-Amerika](https://sws.geonames.org/6255149/north-america.html), [Midden-Amerika](https://sws.geonames.org/7729892/central-america.html), [Zuid-Amerika](https://sws.geonames.org/6255150/south-america.html), [Oceanië](https://www.geonames.org/6255151/oceania.html)
+[Azië](https://sws.geonames.org/6255147/), [Noord-Afrika](https://sws.geonames.org/7729887/), [Zuidelijk Afrika](https://sws.geonames.org/9406051/), [Centraal Afrika](https://sws.geonames.org/7729886/), [Oost-Afrika](https://sws.geonames.org/7729889/), [West-Afrika](https://sws.geonames.org/7729885/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Midden-Amerika](https://sws.geonames.org/7729892/), [Zuid-Amerika](https://sws.geonames.org/6255150/), [Oceanië](https://www.geonames.org/6255151/)
 ,
   Period of activity:
   Year of start:

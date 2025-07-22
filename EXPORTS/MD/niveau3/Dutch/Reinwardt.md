@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-12-17_  
-_last edited by wiebe reints as original_author on 2024-12-17_
+_first edited by Wiebe Reints as original_author on 2024-12-17_  
+_last edited by Wiebe Reints as original_author on 2024-12-17_
 
 
 # C.G.C. Reinwardt
@@ -10,13 +10,11 @@ _last edited by wiebe reints as original_author on 2024-12-17_
 
 Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst die in de negentiende eeuw een grote rol heeft gespeeld in de ontwikkeling van verschillende musea in Nederland en bij het Bataviaasch Genootschap van Kunsten en Wetenschappen) in voormalig Nederlands-Indië.
 
-Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst die in de negentiende eeuw een grote rol heeft gespeeld in de ontwikkeling van verschillende musea in Nederland en bij het [Bataviaasch Genootschap van Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) in voormalig Nederlands-Indië.
-
 ### Beschrijving
 
 Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst. In 1787 kwam hij als veertienjarige naar Amsterdam, waar hij onderwijs in botanie en chemie genoot aan het [Athenaeum Illustre](http://www.wikidata.org/entity/Q505639). In 1800 werd Reinwardt aangesteld als hoogleraar chemie, natuurlijke historie en botanie aan de [Universiteit van Harderwijk](http://www.wikidata.org/entity/Q1816221). Ondertussen werd in 1806 [Lodewijk Napoleon](http://www.wikidata.org/entity/Q7729) koning van het Nederlandse grondgebied van Europees Nederland. Deze stelde Reinwardt in 1808 aan als directeur van zijn botanische en zoölogische tuinen en museum, eerst in Soest, vervolgens in Haarlem en daarna in Amsterdam. Nadat Nederland in 1810 onderdeel werd van het Franse keizerrijk werd Reinwardt aan het Athenaeum Illustre aangesteld als hoogleraar in verschillende disciplines. Reinwardt had zich zodoende in een relatief korte periode weten op te werken tot een belangrijke persoon in de Nederlandse academische en bestuurlijke wereld. Het is dus ook niet verrassend dat Koning Willem I, nadat het Nederlandse koninkrijk in 1813 weer hersteld was, Reinwardt aanstelde als Directeur van Landbouwkundige aangelegenheden, Wetenschappen en Kunsten in de commissie die de Indische archipel, na het interregnum van de Britten, bestuurlijk opnieuw moest inrichten.
 
-In die rol opende Reinwardt op 18 mei 1817 's Lands Plantentuin in Buitenzorg (Bogor), waarvan hij ook de eerste directeur werd. Tijdens zijn verblijf in Indonesië ondernam Reinwardt meerdere expedities om de collectie van 'zijn' botanische tuin aan te vullen, maar zoals gebruikelijk indertijd hield hij het niet bij het verzamelen van enkel flora specimen. Ook natuurhistorisch en etnografisch materiaal werd door Reinwardt naar Bogor meegenomen en tentoongesteld in een klein natuurhistorisch museum in de botanische tuin. Ook stuurde hij vele natuurhistorische objecten richting Europees Nederland, waar deze ter beschikking kwamen aan de collectie van de koning, 's Lands Kabinet van Natuurlijke Historie, dat later de basis zou vormen voor het Rijksmuseum van Natuurlijke Historie (tegenwoordig [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). Op zijn reizen werd Reinwardt bijgestaan door persoonlijke 'verzamelaars', waarvan Jacob D'Arnaud van Boeckholtz en August Fransz Treffz de belangrijkste zijn.
+In die rol opende Reinwardt op 18 mei 1817 's Lands Plantentuin in Buitenzorg (Bogor), waarvan hij ook de eerste directeur werd. Tijdens zijn verblijf in Indonesië ondernam Reinwardt meerdere expedities om de collectie van 'zijn' botanische tuin aan te vullen, maar zoals gebruikelijk indertijd hield hij het niet bij het verzamelen van enkel flora specimen. Ook natuurhistorisch en etnografisch materiaal werd door Reinwardt naar Bogor meegenomen en tentoongesteld in een klein natuurhistorisch museum in de botanische tuin. Ook stuurde hij vele natuurhistorische objecten richting Europees Nederland, waar deze ter beschikking kwamen aan de collectie van de koning, 's Lands Kabinet van Natuurlijke Historie, dat later de basis zou vormen voor het Rijksmuseum van Natuurlijke Historie (tegenwoordig [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). Op zijn reizen werd Reinwardt bijgestaan door persoonlijke 'verzamelaars', waarvan Jacob D'Arnaud van Boeckholtz en August Fransz Treffz de belangrijkste zijn.
 
 In 1820 werd Reinwardt door Koning Willem I aangesteld als hoogleraar botanie, natuurlijke historie en scheikunde aan de [Universiteit Leiden](http://www.wikidata.org/entity/Q156598) en directeur van de Hortus Botanicus in Leiden. Hij kreeg echter toestemming om tot 1822 in Indonesië te verblijven en maakte in die tijd een reis naar Timor, de Molukken en Celebes. Postuum, aan de hand van door Reinwardt achtergelaten aantekeningen, verscheen over deze reis het boek _Reis naar het oostelijk gedeelte van den Indischen archipel in het jaar 1821_. In zijn positie als directeur van de Hortus Botanicus schreef Reinwardt een nieuwe catalogus, die hard nodig was na de vele toevoegingen aan de collectie van de tuin. Ondertussen hadden andere natuurhistorische wetenschappers in Nederland niet stil gezeten, waardoor bijvoorbeeld de door Reinwardt geambieerde positie van directeur van het Rijksmuseum van Natuurlijke Historie al vergeven was aan [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). In 1854 overleed Caspar Georg Carl Reinwardt. Hoewel hij niet aan al zijn wetenschappelijke ambities heeft kunnen voldoen, zoals zijn vele aantekeningen omzetten in verschillende wetenschappelijke publicaties, heeft hij wel nadrukkelijk zijn stempel gedrukt op de (natuurhistorische) museum collecties in Nederland.
 
@@ -69,17 +67,17 @@ Website:
 ## Secondary sources
 
 Boek:
-  > Reinwardt, Caspar Georg Carl. Waarnemingen aangaande de gesteldheid van de grond van het eiland Aruba, en het goud aldaar gevonden. Nederland: n.p., 1827.  
+  > Reinwardt, Caspar Georg Carl. Waarnemingen aangaande de gesteldheid van de grond van het eiland Aruba, en het goud aldaar gevonden, 1827.  
 > [https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0](https://www.google.nl/books/edition/Waarnemingen_aangaande_de_gesteldheid_va/rsdG6_mZAeEC?hl=nl&gbpv=0), [WorldCat 71445372](https://search.worldcat.org/title/71445372)  
 > _Boek van Reinwardt uit 1851 over de aanwezigheid van goud in de bodem van Aruba._  
 
 Boek:
-  > Reinwardt, C.G.C. Reis naar het oostelijk gedeelte van den Indischen Archipel, in het jaar 1821. Frederik Muller, 1858.  
+  > Reinwardt, Caspar Georg Carl. Reis naar het oostelijk gedeelte van den Indischen Archipel, in het jaar 1821. Frederik Muller, 1858.  
 > [https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf](https://resolver.kb.nl/resolve?urn=MMKIT03:000187285:pdf)  
 > _Boek dat de opvolger van Reinwardt bij de Universiteit Leiden, W.H. de Vriese, opstelde aan de hand van aantekeningen van Reinwardt. Beschrijft de reis die Reinwardt tussen 1820 en 1822 maakte naar Timor, de Molukken en Celebes._  
 
 Oratie:
-  > Reinwardt, Caspar Georg Carl. Redevoering van C.G.C. Reinwardt: over hetgeen het onderzoek van Indië tot uitbreiding der natuurlijke historie heeft toegebragt. Gehouden den 3 mei 1823, bij het plegtig aanvaarden van het gewoon hoogleeraarsambt in de scheikunde, kruidkunde en natuurlijke historie aan de Hoogschool te Leyden. Nederland: J. van der Hey, 1823.  
+  > Reinwardt, Caspar Georg Carl. Redevoering van C.G.C. Reinwardt: over hetgeen het onderzoek van Indië tot uitbreiding der natuurlijke historie heeft toegebragt. Gehouden den 3 mei 1823, bij het plegtig aanvaarden van het gewoon hoogleeraarsambt in de scheikunde, kruidkunde en natuurlijke historie aan de Hoogschool te Leyden. J. van der Hey, 1823.  
 > [https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC](https://www.google.nl/books/edition/Redevoering_van_C_G_C_Reinwardt/d-hBAAAAYAAJ?hl=nl&sa=X&ved=2ahUKEwivxcKS1rOKAxWr8bsIHSaIL9cQiqUDegQIDRAC), [WorldCat 45125153](https://search.worldcat.org/title/45125153)  
 > _Oratie van Reinwardt bij zijn inauguratie als hoogleraar scheikunde, botanie en natuurlijke historie en tevens directeur van de Hortus Botanicus aan de Universiteit Leiden._  
 
@@ -89,12 +87,12 @@ Verhandelingen:
 > _Verhandelingen over de werkzaamheden van de Natuurkundige Commissie in Indonesië, werd oorspronkelijk in delen gepubliceerd tussen 1839 en 1847. Beslaat drie volumes: 1: Land- en Volkenkunde, 2: Zoölogie en 3: Zoölogie (vervolg) en Botanie._  
 
 Dissertatie:
-  > Weber, A. Hybrid Ambitions: Science, Governance, and Empire in the Career of Caspar G.C. Reinwardt (1773-1854). Leiden University Press (LUP), 2012.  
+  > Weber, A. ‘Hybrid Ambitions : Science, Governance, and Empire in the Career of Caspar G.C. Reinwardt (1773-1854)’. Leiden University Press (LUP), 2012.  
 > [https://hdl.handle.net/1887/18924](https://hdl.handle.net/1887/18924)  
 > _Dissertatie van Andreas Weber uit 2012 in de vorm van een biografie van Reinwardt, geeft een uitgebreid overzicht van het leven en werkzaamheden van Reinwardt en plaatst het in de chronologische context. Bevat veel verwijzingen naar relevant (archief)materiaal._  
 
 Artikel:
-  > Weber, Andreas. “Bitter Fruits of Accumulation: The Case of Caspar Georg Carl Reinwardt (1773-1854).” History of Science 52 (3): 297-318. 2014.  
+  > Weber, Andreas. ‘Bitter Fruits of Accumulation: The Case of Caspar Georg Carl Reinwardt (1773–1854)’. History of Science 52, nr. 3 (september 2014): 297-318.  
 > [https://doi.org/10.1177/0073275314546970](https://doi.org/10.1177/0073275314546970), [WorldCat 5723532657](https://search.worldcat.org/title/5723532657)  
 > _Artikel van Andreas Weber, over het leven en werk van Reinwardt._  
 

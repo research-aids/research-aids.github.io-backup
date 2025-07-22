@@ -6,7 +6,8 @@ nav_enabled: true
 has_toc: true
 --- 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/DoingResearch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/DoingResearch.docx){: .btn .btn-mint }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/DoingResearch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/DoingResearch.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
@@ -35,7 +36,7 @@ For researchers:
 - Which collections are of particular interest and where did the objects you researched typically tend to end up? 
 - Which individuals or institutions played a role in this?
 
-For more information about this step, please consult the research aid _[Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_.
+For more information about this step, please consult the research aid _[Select and delineate](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2fbf96b4890fa2e37c7c711f524753c6)_.
 
 **Step 2: Basic research**
 
@@ -75,7 +76,7 @@ Possible sources include:
 - Communities in the areas of origin;
 - Experts with knowledge of the object or the colonial past.
 
-The research aid [Sources](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) provides information on where to find these sources. Backgrounds on individuals, colonial institutions and events can be found using the digital research guides within the DataHub or sources such as Wikipedia. Please note that various Wikipedia pages contain information taken unfiltered from sources with a colonial perspective. It is therefore advisable to always consult the version in the language of the area of origin as well.
+The research aid [Sources](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) provides information on where to find these sources. Backgrounds on individuals, colonial institutions and events can be found using the digital research guides within the DataHub or sources such as Wikipedia. Please note that various Wikipedia pages contain information taken unfiltered from sources with a colonial perspective. It is therefore advisable to always consult the version in the language of the area of origin as well.
 
 A number of the Dutch-language sources for provenance research into colonial collections have been digitalised, greatly facilitating the research. As digital databases are constantly being supplemented it may be worth repeating a previously unsuccessful query at a later date.
 

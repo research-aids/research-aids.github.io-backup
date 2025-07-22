@@ -1,6 +1,6 @@
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-17_  
-_last edited by abacus as translator on 2025-03-12
+_first edited by Wiebe Reints as original_author on 2024-04-17_  
+_last edited by Abacus as translator on 2025-03-12
         (applies to section: Main-text; Sources)_
 
 
@@ -8,8 +8,6 @@ _last edited by abacus as translator on 2025-03-12
 
 
 ## Abstract
-
-Protestant and Catholic missionaries contributed to the collection of cultural objects during the colonial era. Various societies maintained their own collections for the purpose of training new missionaries. These collections were later often donated to Dutch museums.
 
 Protestant and Catholic missionaries contributed to the collection of cultural objects during the colonial era. Various societies maintained their own collections for the purpose of training new missionaries. These collections were later often donated to Dutch museums.
 
@@ -21,7 +19,7 @@ The missionaries brought back objects from the areas where they were working, so
 
 The collecting practices of missionary organisations were long known as having  been focused on erasing what were – in their eyes – pagan practices. Cultural heritage was destroyed or objects were taken to Europe to prevent their continued use in non-Christian religious rituals. Recent research, however, has nuanced this picture.
 
-The objects the missionaries brought back from the colonies were regularly displayed in buildings of the organisations where they worked. Some organisations set up their own museums, for example, the [Mission Museum in Steyl](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2c658fef273decf748b392ab053f046) (established in 1931). The collection of African objects of the [Congregation of the Holy Spirit](https://www.wikidata.org/entity/Q687562) was on display at the [Wereldmuseum Berg en Dal](https://www.wikidata.org/entity/Q2470853) (formerly the Afrika Museum, established in 1954) until the end of November 2024. The [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670), a missionary society that operated in Java and Sulawesi, was also very active in collecting. Most of the objects it collected can be found in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), although some are held in other museums.
+The objects the missionaries brought back from the colonies were regularly displayed in buildings of the organisations where they worked. Some organisations set up their own museums, for example, the [Mission Museum in Steyl](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2c658fef273decf748b392ab053f046) (established in 1931). The collection of African objects of the [Congregation of the Holy Spirit](https://www.wikidata.org/entity/Q687562) was on display at the [Wereldmuseum Berg en Dal](https://www.wikidata.org/entity/Q2470853) (formerly the Afrika Museum, established in 1954) until the end of November 2024. The [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670), a missionary society that operated in Java and Sulawesi, was also very active in collecting. Most of the objects it collected can be found in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), although some are held in other museums.
 
 ### Provenance research
 
@@ -40,7 +38,7 @@ _see also: [Scientific research in colonised territories](niveau2/English/Scienc
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
 _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -57,12 +55,12 @@ Web portal:
 ## Secondary sources
 
 Article:
-  > Corbey, Raymond and Weener, Karel. 'Collecting While Converting: Missionaries and Ethnographics.' Journal of Art Historiography 12 (2015).  
+  > Corbey, Raymond, and Karel Weener. ‘Collecting While Converting: Missionaries and Ethnographics’. Journal of Art Historiography 12, no. June (2015).  
 > [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
 > _Article from 2015 providing an overview of ethnographic collecting by missionaries._  
 
 Article:
-  > Hård, Mikael and Tjoa-Bonatz, Mai Lin. 'Trading zones in a colony: Transcultural techniques at missionary stations in the Dutch East Indies, 1860–1940.' Social Studies of Science 50, no. 6 (2020): 932-955.  
+  > Hård, Mikael, and Mai Lin Tjoa-Bonatz. ‘Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 – 1940’. Social Studies of Science 50, no. 6 (December 2020): 932–55.  
 > [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
 > _Article from 2020 that examines German missionaries in the Dutch East Indies and how their places of residence functioned as trading zones, where cultural exchange took place._  
 
@@ -72,17 +70,17 @@ Book:
 > _Dissertation from 2015 by Harrie Leyten, who was himself a missionary in Ghana between 1961 and 1971 and later curator of the African collection at the Tropenmuseum in Amsterdam. The dissertation is a reflection on Leyten's long career._  
 
 Article:
-  > Leyten, Harrie. 'Shared cultural heritage: missionary collections in the Netherlands.'' Material Religion 8, no. 1 (2012): 103-104.  
+  > Leyten, Harrie. ‘Shared Cultural Heritage Missionary Collections in the Netherlands’. Material Religion 8, no. 1 (March 2012): 103–4.  
 > [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
 > _Article by Harrie Leyten on collections in the Netherlands collected by missionaries._  
 
 Book chapter:
-  > Tjoa-Bonatz, Mai Lin. “Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904-1920.” In Casting Faiths : Imperialism and the Transformation of Religion in East and Southeast Asia, edited by Thomas David Dubois, 105-128. New York: Palgrave, 2009.  
+  > Tjoa-Bonatz, Mai Lin. ‘Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904–1920’. In Casting Faiths, 105–28. London: Palgrave Macmillan UK, 2009.  
 > [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
 > _Chapter in the book In Casting Faiths by Mai Lin Tjoa-Bonatz on the influence of missionaries on the Christianisation of the people of Nias._  
 
 Book chapter:
-  > Wingfield, Chris. “Missionary Museums. In Religion in Museums: Global and Multidisciplinary Perspectives, edited by Gretchen Buggeln, Crispin Paine, S. Brent Plate , 231-238. London: Bloomsbury, 2017.  
+  > Wingfield, Chris. ‘Missionary Museums’. In Religion in Museums, 1st ed., 231–38. Bloomsbury Publishing Plc, 2017.  
 > [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
 > _Chapter in the book Religion in Museums by Chris Wingfield on mission museums._  
 
@@ -101,6 +99,6 @@ Tags:
 ,
   Geographical:
   
-[China](https://sws.geonames.org/1814991), [Congo](https://sws.geonames.org/203312), [Indonesia](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998)
+[China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
 
         

@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MissiemuseumSteyl.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MissiemuseumSteyl.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MissiemuseumSteyl.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MissiemuseumSteyl.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-10-21_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-10-21_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -21,8 +21,6 @@ _last edited by abacus as translator on 2025-04-24
 ## Abstract
 
 The Missiemuseum in Steyl was established in 1931 with the collection of objects that missionaries brought from their activities in Asia and Africa. The exhibition of the museum has virtually been unchanged since 1934.
-
-The Missiemuseum in Steyl was established in 1931 with the collection of objects that missionaries brought from their activities in Asia and Africa. The exhibition of the museum has virtually been unchanged since 1934. 
 
 ### Description
 
@@ -44,7 +42,7 @@ The Missiemuseum's collection is not fully registered although this is being wor
 _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
 _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
 _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -88,7 +86,7 @@ http://www.wikidata.org/entity/Q2534749
 ,
   Geographical:
   
-[China](https://sws.geonames.org/1814991), [Japan](https://sws.geonames.org/1861060), [Indonesia](https://sws.geonames.org/1643084), [The Philippines](https://sws.geonames.org/1694008), [Papua New Guinea](https://sws.geonames.org/2088628), [Ghana](https://sws.geonames.org/2300660), [Togo](https://sws.geonames.org/2363686), [Congo](https://sws.geonames.org/2260494), [Paraguay](https://sws.geonames.org/3437598)
+[China](https://sws.geonames.org/1814991/), [Japan](https://sws.geonames.org/1861060/), [Indonesia](https://sws.geonames.org/1643084/), [The Philippines](https://sws.geonames.org/1694008/), [Papua New Guinea](https://sws.geonames.org/2088628/), [Ghana](https://sws.geonames.org/2300660/), [Togo](https://sws.geonames.org/2363686/), [Congo](https://sws.geonames.org/2260494/), [Paraguay](https://sws.geonames.org/3437598/)
 ,
   Period of activity:
   Year of start:

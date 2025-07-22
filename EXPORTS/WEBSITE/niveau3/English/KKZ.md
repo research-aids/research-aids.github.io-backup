@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KKZ.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KKZ.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KKZ.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KKZ.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-17_  
-_last edited by abacus as translator on 2025-03-12
+_first edited by Wiebe Reints as original_author on 2024-04-17_  
+_last edited by Abacus as translator on 2025-03-12
         (applies to section: Main-text; Sources)_
 
 
@@ -22,15 +22,13 @@ _last edited by abacus as translator on 2025-03-12
 
 The Royal Cabinet of Curiosities (Koninklijk Kabinet van Zeldzaamheden, KKZ) was founded in 1816 by King Willem I. The collection contained various objects from among others the Dutch colonies. In 1883, the KKZ was closed down, after which it's collection was divided amongst Dutch museums, such as the Rijksmuseum in Amsterdam and today's Wereldmuseum Leiden.
 
-The Royal Cabinet of Curiosities (Koninklijk Kabinet van Zeldzaamheden, KKZ) was founded in 1816 by King Willem I. The collection contained various objects from among others the Dutch colonies. In 1883, the KKZ was closed down, after which it's collection was divided amongst Dutch museums, such as the [Rijksmuseum in Amsterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) and today's [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b).
-
 ### Description
 
 The Royal Cabinet of Curiosities was a museum in The Hague, founded in 1816 by [King Willem I](https://www.wikidata.org/entity/Q2079957). The museum took the form of a cabinet of curiosities and its collection comprised a wide array of objects, including many from Dutch and other powers’ colonies. Ultimately, it housed all sorts: objects related to Dutch history, Asian [applied arts](https://hdl.handle.net/20.500.11840/termmaster10049837), [ethnographic objects](https://hdl.handle.net/20.500.11840/termmaster10068984), and [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
 
 
 The basis of the collection was formed by Chinese and Japanese objects collected by [Jean Theodore Royer](https://www.wikidata.org/entity/Q34232414), a preacher and lawyer with a fascination for Chinese language and literature who amassed a large collection of prints, paintings and documents, [Jan Cock Blomhoff](https://www.wikidata.org/entity/Q1973328), among other things a warehouse manager at the Dutch trading post on the Japanese peninsula [Dejima](http://www.wikidata.org/entity/Q640267), and [Johan van Overmeer Fisscher](https://www.wikidata.org/entity/Q21549843), who also worked on Dejima. [King Willem I](https://www.wikidata.org/entity/Q2079957) subsequently contributed the stadtholders’ collections. In the course of its existence the museum also received various donations and made acquisitions. Eventually the collection comprised significant collections of Japanese and Chinese objects and numerous items  – many of which were diplomatic gifts from the stadholders’ collections – from Southeast Asia and the West African Gold Coast as well as from North America and Oceania. 
-The museum was dissolved in 1883 and its collection distributed among several museums. The majority went to the Rijks Etnografisch Museum (now [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437) and the [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075) (subsumed into the Rijksmuseum). Small numbers of objects were transferred to the [National Museum of Antiquities](https://www.wikidata.org/entity/Q1860378), the [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), the [Rijksmuseum van Natuurlijke Historie](https://www.wikidata.org/entity/Q3432011), the [Rijksmuseum van Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) and the [Rijksherbarium](https://www.wikidata.org/entity/Q2152927).
+The museum was dissolved in 1883 and its collection distributed among several museums. The majority went to the Rijks Etnografisch Museum (now [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) and the [Nederlandsch Museum voor Geschiedenis en Kunst](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) (subsumed into the Rijksmuseum). Small numbers of objects were transferred to the [National Museum of Antiquities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3), the [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), the [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), the [Rijksmuseum van Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) and the [Rijksherbarium](https://www.wikidata.org/entity/Q2152927).
 
 ### Provenance research
 
@@ -145,7 +143,7 @@ https://www.wikidata.org/entity/Q34076860, https://hdl.handle.net/10648/6c37c05b
 ,
   Geographical:
   
-[China](https://sws.geonames.org/1814991), [Indonesia](https://sws.geonames.org/1643084), [Japan](https://sws.geonames.org/1861060), [North America](https://sws.geonames.org/6255149), [Papua New Guinea](https://sws.geonames.org/2088628), [Suriname](https://sws.geonames.org/3382998), [Turkey](https://sws.geonames.org/298795), [South Africa](https://sws.geonames.org/953987)
+[China](https://sws.geonames.org/1814991/), [Indonesia](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/), [North America](https://sws.geonames.org/6255149/), [Papua New Guinea](https://sws.geonames.org/2088628/), [Suriname](https://sws.geonames.org/3382998/), [Turkey](https://sws.geonames.org/298795/), [South Africa](https://sws.geonames.org/953987/)
 ,
   Period of activity:
   Year of start:

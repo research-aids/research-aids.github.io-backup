@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-12_  
-_last edited by wiebe reints as original_author on 2024-03-12_
+_first edited by Wiebe Reints as original_author on 2024-03-12_  
+_last edited by Wiebe Reints as original_author on 2024-03-12_
 
 
 # Koninklijke Vereniging Vrienden der Aziatische Kunst
@@ -10,13 +10,11 @@ _last edited by wiebe reints as original_author on 2024-03-12_
 
 De KVVAK is een verzamelaarsvereniging die een grote collectie Aziatische kunst heeft opgebouwd, die sinds 1952 wordt tentoongesteld in het Rijksmuseum Amsterdam.
 
-De KVVAK is een verzamelaarsvereniging die een grote collectie Aziatische kunst heeft opgebouwd, die sinds 1952 wordt tentoongesteld in het [Rijksmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47).
-
 ### Beschrijving
 
 De [Koninklijke Vereniging van Vrienden der Aziatische Kunst (KVVAK)](https://www.wikidata.org/entity/Q96749093) is een in 1918 opgerichte vereniging die sinds 2018 het predicaat Koninklijk draagt. De KVVAK is op 29 juni 1918 opgericht door de ingenieur [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) en de verzamelaar en handelaar [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681) met het doel grotere bekendheid te geven aan [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), de belangstelling ervoor te stimuleren en de wetenschapsbeoefening op dit gebied te bevorderen. De eerste voorzitter van de vereniging was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) (1868-1941), die later zijn eigen collectie aan de KVVAK zou legateren. De collectie van de vereniging telt op dit moment ongeveer 1850 objecten, bestaande uit verschillende kunstvormen zoals beeldhouwkunst, Japanse [prenten](http://vocab.getty.edu/aat/300106750) en [keramiek](http://vocab.getty.edu/aat/300310706). 
 
-Na enkele tijdelijke tentoonstellingen werd er in 1928 rond het tienjarig bestaan van de KVVAK besloten tot de oprichting van een fonds waarmee een eigen collectie kon worden aangekocht en een museum worden gesticht. In 1932 werd in de Tuinzaal van het [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335) het zogenaamde Museum voor Aziatische Kunst geopend. In 1952 verhuisde de collectie naar het [Rijksmuseum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) in Amsterdam, waar deze nog altijd wordt tentoongesteld. In eerste instantie werd de collectie van de KVVAK tentoongesteld in de [Druckeruitbouw](https://www.wikidata.org/entity/Q25712476), die later is opgegaan in de huidige Philipsvleugel. Na de grote verbouwing van het Rijksmuseum in 2013 is de collectie van de KVVAK ondergebracht in het [Aziatisch paviljoen](http://www.wikidata.org/entity/Q37769044). Naast het onderhouden van de eigen collectie organiseert de KVVAK onder andere lezingen en reizen. Daarnaast wordt bij uitgeverij De Gruyter Brill het tijdschrift [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) uitgegeven.
+Na enkele tijdelijke tentoonstellingen werd er in 1928 rond het tienjarig bestaan van de KVVAK besloten tot de oprichting van een fonds waarmee een eigen collectie kon worden aangekocht en een museum worden gesticht. In 1932 werd in de Tuinzaal van het [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335) het zogenaamde Museum voor Aziatische Kunst geopend. In 1952 verhuisde de collectie naar het [Rijksmuseum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) in Amsterdam, waar deze nog altijd wordt tentoongesteld. In eerste instantie werd de collectie van de KVVAK tentoongesteld in de [Druckeruitbouw](https://www.wikidata.org/entity/Q25712476), die later is opgegaan in de huidige Philipsvleugel. Na de grote verbouwing van het Rijksmuseum in 2013 is de collectie van de KVVAK ondergebracht in het [Aziatisch paviljoen](http://www.wikidata.org/entity/Q37769044). Naast het onderhouden van de eigen collectie organiseert de KVVAK onder andere lezingen en reizen. Daarnaast wordt bij uitgeverij De Gruyter Brill het tijdschrift [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) uitgegeven.
 
 ### Herkomstonderzoek
 
@@ -80,27 +78,27 @@ Archiefstuk:
 ## Secondary sources
 
 Artikel:
-  > Southworth, W. “Twelve Stone Sculptures from Java”. The Rijksmuseum Bulletin 65 (3):244-75 Amsterdam: Rijksmuseum, 2017.  
+  > Southworth, W. ‘Twelve Stone Sculptures from Java’. The Rijksmuseum Bulletin 65, nr. 3 (15 september 2017): 244-75.  
 > [https://doi.org/10.52476/trb.9791](https://doi.org/10.52476/trb.9791)  
 > _Dit artikel onderzoekt de geschiedenis en herkomst van een groep van twaalf stenen beelden uit Java. Alle twaalf zijn hindoe-boeddhistische afbeeldingen uit de Midden-Javaanse periode van de achtste tot de tiende eeuw na Christus. De beelden zijn in 1932 aangekocht door de Vereniging van Vrienden der Aziatische Kunst._  
 
 Artikel:
-  > Southworth, William. “The Provenance of Four Sandstone Sculptures from Cambodia”. The Rijksmuseum Bulletin 61 (2):140-71, Amsterdam: Rijksmuseum, 2013.  
+  > Southworth, William. ‘Provenance of Four Sandstone Sculptures from Cambodia’. The Rijksmuseum Bulletin 61, nr. 2 (15 juni 2013): 140-71.  
 > [https://doi.org/10.52476/trb.10069](https://doi.org/10.52476/trb.10069)  
 > _In dit artikel wordt ingegaan op de verwerving en herkomst van vier sculpturen uit Cambodja in de collectie van het Rijksmuseum. De beelden zijn begin jaren 1930 aangekocht door de KVVAK_  
 
 Boek:
-  > Campen, J. van, et al. Asian Art, Amsterdam: Rijksmuseum, 2014.  
+  > Campen, Jan van, et al. Asian Art. Vertaald door Lynne Richards en Philip Clarke. Amsterdam: Rijksmuseum, 2014.  
 > [https://search.worldcat.org/title/907556128](https://search.worldcat.org/title/907556128), [ISBN 9789071450945](https://isbnsearch.org/isbn/9789071450945), [WorldCat 907556128](https://search.worldcat.org/title/907556128)  
 > _Dit collectieboek presenteert 119 hoogtepunten uit de Aziatische kunstcollectie van het Rijksmuseum. De objecten uit India, Zuidoost-Azië, Korea, Japan en China worden ingeleid in essays van conservatoren._  
 
 Boek:
-  > Lim, K.W., et al. Aziatische kunst uit het bezit van leden : Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.  
+  > Lim, K.W., et al. Aziatische kunst uit het bezit van leden: Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978. Amsterdam: Vereniging van vrienden der Aziatische kunst, 1978.  
 > [https://search.worldcat.org/title/63330271?oclcNum=63330271](https://search.worldcat.org/title/63330271?oclcNum=63330271), [WorldCat 63330271](https://search.worldcat.org/title/63330271)  
 > _Een tentoonstellingscatalogus van de objecten van de KVVAK uit de eerste 60 jaar van de vereniging._  
 
 Catalogus:
-  > Fontein, J., et all. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954  
+  > Fontein, J., et al. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954  
 > [https://search.worldcat.org/title/1156720537](https://search.worldcat.org/title/1156720537), [WorldCat 1156720537](https://search.worldcat.org/title/1156720537)  
 > _Tentoonstellingscatalogus van de KVVAK uit 1954._  
 
@@ -132,13 +130,15 @@ Vereniging Vrienden der Aziatische Kunst, Vereeniging Vrienden der Aziatische Ku
 ,
   Geographical:
   
-[Oost-Azië](https://sws.geonames.org/7729894), [Zuidoost-Azië](https://sws.geonames.org/7729896)
+[Oost-Azië](https://sws.geonames.org/7729894/), [Zuidoost-Azië](https://sws.geonames.org/7729896/)
 ,
   Period of activity:
   Year of start:
   1918,
   Year of end:
-  Heden,
+  
+
+,
   Collections:
   General remarks:
   content:

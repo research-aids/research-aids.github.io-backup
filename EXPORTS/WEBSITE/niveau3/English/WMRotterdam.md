@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMRotterdam.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMRotterdam.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMRotterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMRotterdam.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-22_  
-_last edited by abacus as translator on 2025-04-28
+_first edited by Wiebe Reints as original_author on 2024-08-22_  
+_last edited by Abacus as translator on 2025-04-28
         (applies to section: Main-text; Sources)_
 
 
@@ -19,8 +19,6 @@ _last edited by abacus as translator on 2025-04-28
 
 
 ## Abstract
-
-The Wereldmuseum Rotterdam was founded in 1885 by the municipality of Rotterdam. The museums holds a large collection of objects from Asia, the Pacific, Afrika and the Americas. The basis of the museum's collection finds it's origin in the collection that was established by the members of the former Yacht Society of Rotterdam.
 
 The Wereldmuseum Rotterdam was founded in 1885 by the municipality of Rotterdam. The museums holds a large collection of objects from Asia, the Pacific, Afrika and the Americas. The basis of the museum's collection finds it's origin in the collection that was established by the members of the former Yacht Society of Rotterdam.
 
@@ -51,8 +49,8 @@ _see also: [Scientific research in colonised territories](niveau2/English/Scienc
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
 _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -101,7 +99,7 @@ Museum voor Land- en Volkenkunde, Museum voor Volkenkunde, Wereldmuseum, Nationa
 ,
   Geographical:
   
-[Africa](https://hdl.handle.net/20.500.11840/termmaster5838);, [Asia](https://www.geonames.org/6255147), [North America](https://www.geonames.org/6255149), [Oceania](https://www.geonames.org/6255151), [South America](https://www.geonames.org/6255150)
+[Africa](https://sws.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147/), [North America](https://www.geonames.org/6255149/), [Oceania](https://www.geonames.org/6255151/), [South America](https://www.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

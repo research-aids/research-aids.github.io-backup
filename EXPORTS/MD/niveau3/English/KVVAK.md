@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-08_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-05-08_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -10,8 +10,6 @@ _last edited by abacus as translator on 2025-04-24
 ## Abstract
 
 The Royal Asian Art Society in the Netherlands (KVVAK) is a collectors society that has established a large collection of Asian art over time. Since 1952, KVVAK's collection is displayed at the Rijksmuseum Amsterdam.
-
-The Royal Asian Art Society in the Netherlands (KVVAK) is a collectors society that has established a large collection of Asian art over time. Since 1952, KVVAK's collection is displayed at the [Rijksmuseum Amsterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47).
 
 ### Description
 
@@ -133,7 +131,7 @@ Vereniging Vrienden der Aziatische Kunst, Vereeniging Vrienden der Aziatische Ku
 ,
   Geographical:
   
-[Eastern Asia](https://sws.geonames.org/7729894), [Southeast Asia](https://sws.geonames.org/7729896)
+[Eastern Asia](https://sws.geonames.org/7729894/), [Southeast Asia](https://sws.geonames.org/7729896/)
 ,
   Period of activity:
   Year of start:

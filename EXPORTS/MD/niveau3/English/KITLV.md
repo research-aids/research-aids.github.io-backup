@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-04_  
-_last edited by abacus as translator on 2025-04-07
+_first edited by Wiebe Reints as original_author on 2024-07-04_  
+_last edited by Abacus as translator on 2025-04-07
         (applies to section: Main-text; Sources)_
 
 
@@ -10,8 +10,6 @@ _last edited by abacus as translator on 2025-04-07
 ## Abstract
 
 The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 with the task of establishing a scientific collection and promote the sciences in the Dutch colonies. Nowadays, the institute focuses on the study of Southeast Asia and the Caribbean region. In 2014, the entire collection of the KITLV was transferred to the Leiden University Libraries.
-
-The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 with the task of establishing a scientific collection and promote the sciences in the Dutch colonies. Nowadays, the institute focuses on the study of Southeast Asia and the Caribbean region. In 2014, the entire collection of the KITLV was transferred to the Leiden University Libraries. 
 
 ### Description
 
@@ -117,7 +115,7 @@ KITLV, Koninklijk Instituut voor Taal-, Land- en Volkenkunde
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084), [ABCSSS islands](https://sws.geonames.org/8505032/), [Suriname](https://sws.geonames.org/3382998)
+[Indonesia](https://sws.geonames.org/1643084/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Suriname](https://sws.geonames.org/3382998/)
 ,
   Period of activity:
   Year of start:

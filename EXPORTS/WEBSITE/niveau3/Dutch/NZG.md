@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/NZG.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/NZG.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/NZG.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/NZG.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-14_  
-_last edited by wiebe reints as original_author on 2024-03-14_
+_first edited by Wiebe Reints as original_author on 2024-03-14_  
+_last edited by Wiebe Reints as original_author on 2024-03-14_
 
 
 # Nederlandsch Zendeling Genootschap
@@ -20,8 +20,6 @@ _last edited by wiebe reints as original_author on 2024-03-14_
 ## Abstract
 
 Het Nederlandsch Zendeling Genootschap was een zendingsorganisatie die zeer actief was in het verzamelen van objecten in Indonesië. De collectie van het NZG werd in Nederland gebruikt om nieuwe missionarissen mee op te leiden. Een deel van de collectie van het NZG is uiteindelijk bij het Wereldmuseum Rotterdam terecht gekomen.
-
-Het Nederlandsch Zendeling Genootschap was een zendingsorganisatie die zeer actief was in het verzamelen van objecten in Indonesië. De collectie van het NZG werd in Nederland gebruikt om nieuwe missionarissen mee op te leiden. Een deel van de collectie van het NZG is uiteindelijk bij het [Wereldmuseum Rotterdam](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191) terecht gekomen.
 
 ### Beschrijving
 
@@ -59,17 +57,17 @@ Archief:
 ## Secondary sources
 
 Boek:
-  > Neurdenburg, Johan Christiaan. Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk Java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz. verzameld in het zendelingshuis van het Nederlandsche Zendelinggenootschap. Rotterdam: M. Wyt & Zonen, 1874.  
+  > Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk-java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz., verzameld in het Zendelinghuis van het Nederlandsche Zendelinggenootschap, 1874.  
 > [WorldCat 993621798](https://search.worldcat.org/title/993621798), [https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false](https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false)  
 > _Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG._  
 
 Artikel:
-  > “Lijst van voorwerpen en modellen in de kast van het Zendelingenhuis.” Mededeelingen van wege het Nederlandsche Zendelinggenootschap 6 (1862): 87–92.  
+  > ‘Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië], jrg 6, 1862, 01-01-1862’, 1 januari 1862.  
 > [https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094](https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094)  
 > _Lijst uit 1862 met objecten in het bezit van het NZG._  
 
 Artikel:
-  > Djajasoebrata, Alit M.L.R. 'To Administer and Accumulate Knowledge: Dr Elie Van Rijckevorsel, the Dutch Protestant Missionary Society, and the Museum of Ethnology in Rotterdam.' In Treasure Hunting? Collectors and Collections of Indonesian Artefacts, edited by Han F. Vermeulen and Reimar Schefold, 147–67. Leiden: CNWS Publications, 2002.  
+  > Schefold, Reimar, en Han F. Vermeulen. Treasure Hunting?: Collectors and Collections of Indonesian Artefacts. Mededelingen van Het Rijksmuseum Voor Volkenkunde. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS), Universiteit Leiden, 2002.  
 > [https://search.worldcat.org/title/907014546?oclcNum=907014546](https://search.worldcat.org/title/907014546?oclcNum=907014546), [ISBN 9789057890789](https://isbnsearch.org/isbn/9789057890789), [WorldCat 907014546](https://search.worldcat.org/title/907014546)  
 > _Boek over de geschiedenis van het etnografisch verzamelen in Indonesië. De collectie van het NZG wordt hierin ook behandeld._  
 
@@ -79,7 +77,7 @@ Artikel:
 > _Artikel over de vroege verzameling van het NZG._  
 
 Tijdschrift:
-  > Mededeelingen van wege het Nederlandsche Zendelinggenootschap  
+  > Zendelinggenootschap, Nederlandsche. Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië]. Wijt, 1859.  
 > [https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y](https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y)  
 > _Het tijdschrift bevat voornamelijk bijdragen van de NZG-zendelingen over hun activiteiten, enkel incidenteel over de verzamelde objecten. De edities van 1857 tot en met 1919 zijn allemaal digitaal toegankelijk via [Delpher](https://www.delpher.nl/)._  
 
@@ -111,7 +109,7 @@ Nederlands Zendelinggenootschap, NZG
 ,
   Geographical:
   
-[Bali](https://sws.geonames.org/1650534), [Indonesië](https://sws.geonames.org/1643084), [Java](https://sws.geonames.org/1642673), [Molukken](https://sws.geonames.org/1636629), [Sulawesi](https://sws.geonames.org/9062340), [Sumatra](https://sws.geonames.org/1626198), [Timor](https://sws.geonames.org/1623843)
+[Bali](https://sws.geonames.org/1650534/), [Indonesië](https://sws.geonames.org/1643084/), [Java](https://sws.geonames.org/1642673/), [Molukken](https://sws.geonames.org/1636629/), [Sulawesi](https://sws.geonames.org/9062340/), [Sumatra](https://sws.geonames.org/1626198/), [Timor](https://sws.geonames.org/1623843/)
 ,
   Period of activity:
   Year of start:

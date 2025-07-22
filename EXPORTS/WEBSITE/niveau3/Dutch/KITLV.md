@@ -7,19 +7,17 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KITLV.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KITLV.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KITLV.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KITLV.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-04_  
-_last edited by wiebe reints as original_author on 2024-07-04_
+_first edited by Wiebe Reints as original_author on 2024-07-04_  
+_last edited by Wiebe Reints as original_author on 2024-07-04_
 
 
 # Koninklijk Instituut voor Taal- Land- en Volkenkunde
 
 
 ## Abstract
-
-Het Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV) werd in 1851 opgericht met als taak het aanleggen van een wetenschappelijke collectie en het bevorderen van wetenschap naar de Nederlandse koloniale gebieden. Tegenwoordig ligt de focus op de bestudering van Zuidoost-Azië en het Caraïbische gebied. In 2014 werd de volledige collectie van het KITLV overgedragen aan de Universiteit Leiden.
 
 Het Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV) werd in 1851 opgericht met als taak het aanleggen van een wetenschappelijke collectie en het bevorderen van wetenschap naar de Nederlandse koloniale gebieden. Tegenwoordig ligt de focus op de bestudering van Zuidoost-Azië en het Caraïbische gebied. In 2014 werd de volledige collectie van het KITLV overgedragen aan de Universiteit Leiden.
 
@@ -94,7 +92,7 @@ Digitale collectie:
 ## Secondary sources
 
 Boek:
-  > Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
+  > Kuitenbrouwer, M. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
 > [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
 > _Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
 
@@ -126,7 +124,7 @@ KITLV, Royal Netherlands Institute of Southeast Asian and Caribbean Studies
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084), [ABCSSS-eilanden](https://sws.geonames.org/8505032/), [Suriname](https://sws.geonames.org/3382998)
+[Indonesië](https://sws.geonames.org/1643084/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Suriname](https://sws.geonames.org/3382998/)
 ,
   Period of activity:
   Year of start:

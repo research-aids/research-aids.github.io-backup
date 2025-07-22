@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-05-13_  
-_last edited by wiebe reints as original_author on 2025-05-13_
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
+_last edited by Wiebe Reints as original_author on 2025-05-13_
 
 
 # Volkenkundig Museum 'Gerardus van der Leeuw'
@@ -9,8 +9,6 @@ _last edited by wiebe reints as original_author on 2025-05-13_
 ## Abstract
 
 Until 2003, the Gerardus van der Leeuw Ethnographic Museum was an ethnographic museum in Groningen and formed a part of the university in that city. The museum collection consisted of various sub-collections, including objects from the former Tropical Agricultural School in Deventer and the Princessehof Museum in Leeuwarden. After the museum closed in 2003, the collection became part of the University Museum of the University of Groningen.
-
-Until 2003, the Volkenkundig Museum 'Gerardus van der Leeuw' (Gerardus van der Leeuw Ethnographic Museum) was an ethnographic museum in Groningen and formed a part of the university in that city. The museum collection consisted of various sub-collections, including objects from the former Tropical Agricultural School in Deventer and the Princessehof Museum in Leeuwarden. After the museum closed in 2003, the collection became part of the University Museum of the Rijksuniversiteit Groningen (University of Groningen, RUG).
 
 ### Description
 
@@ -27,9 +25,9 @@ The archive of the Gerardus van der Leeuw Ethnographic Museum (until 1995) is ho
 
 ## Related Aids
 
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](published/niveau2/English/Science_20240821.yml)_  
-_see also: [Wageningen University & Research](published/niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science_20240821.yml)_  
+_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -88,7 +86,7 @@ http://www.wikidata.org/entity/Q14942678
 ,
   Geographical:
   
-[Asia](https://sws.geonames.org/6255147), [North Africa](https://sws.geonames.org/7729887), [Southern Africa](https://sws.geonames.org/9406051), [Central Africa](https://sws.geonames.org/7729886), [East Africa](https://sws.geonames.org), [West Africa](https://sws.geonames.org/7729885), [North America](https://sws.geonames.org/6255149), [Central America](https://sws.geonames.org/7729892), [South Amerika](https://sws.geonames.org/6255150), [Oceania](https://sws.geonames.org/6255151)
+[Asia](https://sws.geonames.org/6255147/), [North Africa](https://sws.geonames.org/7729887/), [Southern Africa](https://sws.geonames.org/9406051/), [Central Africa](https://sws.geonames.org/7729886/), [East Africa](https://sws.geonames.org/7729889/), [West Africa](https://sws.geonames.org/7729885/), [North America](https://sws.geonames.org/6255149/), [Central America](https://sws.geonames.org/7729892/), [South Amerika](https://sws.geonames.org/6255150/), [Oceania](https://sws.geonames.org/6255151/)
 ,
   Period of activity:
   Year of start:

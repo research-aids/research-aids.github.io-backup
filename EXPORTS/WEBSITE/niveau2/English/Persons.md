@@ -7,7 +7,7 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Persons.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Persons.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Persons.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Persons.docx){: .btn .btn-blue }
 
 _This is a level 2 Research Aid_  
 _first edited by Wiebe Reints as original_author on 2025-01-13_  
@@ -19,7 +19,7 @@ _last edited by Wiebe Reints as original_author on 2025-06-12_
 
 ## Abstract
 
-This page is under construction.
+xxx
 
 **This page in under construction.**
 

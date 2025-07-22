@@ -1,5 +1,5 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-08_  
+_first edited by Wiebe Reints as original_author on 2024-05-08_  
 _last edited by abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
@@ -10,8 +10,6 @@ _last edited by abacus as translator on 2025-04-24
 ## Abstract
 
 The Netherlands Missionary Society (Nederlandsch Zendeling Genootschap, NZG) was highly active in the collecting of objects in the former Dutch East Indies. NZG's collection was used in the Netherlands to educate novice missionaries. A part of NZG's collection was donated to the Wereldmuseum Rotterdam.
-
-The Netherlands Missionary Society (Nederlandsch Zendeling Genootschap, NZG) was highly active in the collecting of objects in the former Dutch East Indies. NZG's collection was used in the Netherlands to educate novice missionaries. A part of NZG's collection was donated to the [Wereldmuseum Rotterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191).
 
 ### Description
 
@@ -101,7 +99,7 @@ Nederlands Zendelinggenootschap, NZG
 ,
   Geographical:
   
-[Bali](https://sws.geonames.org/1650534), [Indonesia](https://sws.geonames.org/1643084), [Java](https://sws.geonames.org/1642673), [Maluku Islands](https://sws.geonames.org/1636629), [Sulawesi](https://sws.geonames.org/9062340), [Sumatra](https://sws.geonames.org/1626198), [Timor](https://sws.geonames.org/1623843)
+[Bali](https://sws.geonames.org/1650534/), [Indonesia](https://sws.geonames.org/1643084/), [Java](https://sws.geonames.org/1642673/), [Maluku Islands](https://sws.geonames.org/1636629/), [Sulawesi](https://sws.geonames.org/9062340/), [Sumatra](https://sws.geonames.org/1626198/), [Timor](https://sws.geonames.org/1623843/)
 ,
   Period of activity:
   Year of start:

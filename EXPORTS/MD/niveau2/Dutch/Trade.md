@@ -1,6 +1,6 @@
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-26_  
-_last edited by wiebe reints as original_author on 2024-03-26_
+_first edited by Wiebe Reints as original_author on 2024-03-26_  
+_last edited by Wiebe Reints as original_author on 2024-03-26_
 
 
 # De handel in objecten uit een koloniale context
@@ -10,13 +10,11 @@ _last edited by wiebe reints as original_author on 2024-03-26_
 
 De handel in objecten uit gekoloniseerde gebieden speelde een centrale rol in de circulatie van deze voorwerpen in Europa. Veel (etnografische) musea bouwden hun collecties op door middel van aankopen bij handelaren.
 
-De handel in objecten uit gekoloniseerde gebieden speelde een centrale rol in de circulatie van deze voorwerpen in Europa. Veel (etnografische) musea bouwden hun collecties op door middel van aankopen bij handelaren.
-
 ### Beschrijving
 
 De handel in koloniale voorwerpen en goederen stond aan de basis van de vorming van collecties in Nederland aan het eind van de achttiende en in de loop van de negentiende eeuw. Handel en verkoop speelden een centrale rol in de circulatie van deze voorwerpen in Europa. Tegen het begin van de 20ste eeuw had de koloniale kunsthandel zich in Nederland tot een bloeiende business ontwikkeld. Musea kochten regelmatig bij handelaren en veilinghuizen, niet alleen in Nederland, maar ook in andere Europese koloniserende landen, met name Duitsland, België, Frankrijk en Groot-Brittannië. Diezelfde handelaren en veilinghuizen waren bronnen voor privécollecties, van waaruit voorwerpen soms later weer in museumcollecties terechtkwamen.
 
-Bekende handelaren die koloniale goederen aan musea en particulieren verkochten waren de firma’s [Van Lier](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb4671e55ad5cca627bb7f16983388b7f) (1927-1996), [Aalderink](https://data.rkd.nl/artists/437058) (1930-2023) en [Lemaire](https://data.rkd.nl/artists/446005) (1933-heden) en de Amsterdamse veilinghuizen [Frederik Muller & Co.](https://www.wikidata.org/entity/Q18821838) (1876-1961) en [Mak van Waay](https://www.wikidata.org/entity/Q73900989) (1918-1974). In Den Haag waren de winkels de [Groote Koninklijke Bazar](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F05a5c7a799263dcf493f0a7bdc2f525a) en [Boeatan](https://www.wikidata.org/entity/Q101082502) (1903-1949) gespecialiseerd in oosterse kunstnijverheid.
+Bekende handelaren die koloniale goederen aan musea en particulieren verkochten waren de firma’s [Van Lier](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb4671e55ad5cca627bb7f16983388b7f) (1927-1996), [Aalderink](https://data.rkd.nl/artists/437058) (1930-2023) en [Lemaire](https://data.rkd.nl/artists/446005) (1933-heden) en de Amsterdamse veilinghuizen [Frederik Muller & Co.](https://www.wikidata.org/entity/Q18821838) (1876-1961) en [Mak van Waay](https://www.wikidata.org/entity/Q73900989) (1918-1974). In Den Haag waren de winkels de [Groote Koninklijke Bazar](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F05a5c7a799263dcf493f0a7bdc2f525a) en [Boeatan](https://www.wikidata.org/entity/Q101082502) (1903-1949) gespecialiseerd in oosterse kunstnijverheid.
 
 Een andere connectie met handel was de handel in koloniale producten en grondstoffen, zoals rubber, ivoor, katoen en tabak. Ten behoeve van de handel in deze goederen werden groothandelsfirma's opgericht. De medewerkers van deze handelshuizen verzamelden (kunst)voorwerpen in het kielzog van hun werkzaamheden. Een voorbeeld is de [Nieuwe Afrikaansche Handels-Vennootschap N.V.](https://www.wikidata.org/entity/Q2543001) (NAHV, 1880-1982) die handel dreef in [Centraal-Afrika](https://sws.geonames.org/7729886). Een groot aantal Afrikaanse voorwerpen, vooral uit [Congo](https://sws.geonames.org/203312), is door personen die aan dit bedrijf verbonden waren aan Nederlandse musea geschonken.
 
@@ -53,7 +51,7 @@ _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_
 _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 
@@ -70,13 +68,13 @@ Database:
 ## Secondary sources
 
 Boek:
-  > Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
+  > Corbey, Raymond. Tribal art traffic: a chronicle of taste, trade and desire in colonial an post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
 > [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
 > _Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen._  
 
 Boek:
   > Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.  
-> [https://search.worldcat.org/title/71681153?oclcNum=71681153](https://search.worldcat.org/title/71681153?oclcNum=71681153), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
+> [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
 > _Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland._  
 
 
@@ -94,6 +92,6 @@ Tags:
 ,
   Geographical:
   
-[China](http://vocab.getty.edu/aat/300417515), [Democratische Republiek Congo](https://sws.geonames.org/203312), [Republiek Indonesië](https://sws.geonames.org/1643084), [Japan](https://sws.geonames.org/1861060)
+[China](http://vocab.getty.edu/aat/300417515/), [Democratische Republiek Congo](https://sws.geonames.org/203312/), [Republiek Indonesië](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/)
 
         

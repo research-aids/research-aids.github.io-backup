@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/BGKW.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/BGKW.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/BGKW.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/BGKW.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-09-05_  
-_last edited by abacus as translator on 2025-04-07
+_first edited by Wiebe Reints as original_author on 2024-09-05_  
+_last edited by Abacus as translator on 2025-04-07
         (applies to section: Main-text; Sources)_
 
 
@@ -21,8 +21,6 @@ _last edited by abacus as translator on 2025-04-07
 ## Abstract
 
 The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society for Arts and Science) was founded in 1778. It set itself the task to promote (fine) art and science in the former Dutch East Indies. For long, the Bataviaasch Genootschap decided whether collected objects were kept in Indonesia or send to the Netherlands. In 1962, the collection of the Bataviaasch Genootschap subsumed in the National Museum of Indonesia.
-
-The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society of Arts and Sciences) was founded in 1778. It set itself the task to promote (fine) art and science in the former Dutch East Indies. For long, the Bataviaasch Genootschap decided whether collected objects were kept in Batavia (today's Jakarta) or send to the Netherlands. In 1962, the collection of the Bataviaasch Genootschap subsumed in the National Museum of Indonesia.
 
 ### Description
 
@@ -108,7 +106,7 @@ Bataviaasch Genootschap, Lembaga Kebudajaan Indonesia
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084)
+[Indonesia](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

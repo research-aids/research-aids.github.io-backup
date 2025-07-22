@@ -7,7 +7,7 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
@@ -31,7 +31,7 @@ Bij herkomstonderzoek naar koloniale collecties zijn twee momenten van bijzonder
 
 ## Hoe selecteer je voorwerpen met een problematische herkomst?
 
-Wanneer het jouw bedoeling is om voorwerpen te identificeren die geroofd zijn of op andere onvrijwillige wijze zijn afgestaan, wil je waarschijnlijk weten of er bepaalde kenmerken zijn waaraan je deze voorwerpen kunt herkennen. Eventuele duidelijkheid hierover zal er pas zijn na herkomstonderzoek. Soms is [basisonderzoek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2741eb61e9f4b63fa0d750159b2503d) voldoende om een problematische herkomst aan het licht te brengen, maar vaak zal uitgebreid onderzoek nodig zijn. 
+Wanneer het jouw bedoeling is om voorwerpen te identificeren die geroofd zijn of op andere onvrijwillige wijze zijn afgestaan, wil je waarschijnlijk weten of er bepaalde kenmerken zijn waaraan je deze voorwerpen kunt herkennen. Eventuele duidelijkheid hierover zal er pas zijn na herkomstonderzoek. Soms is [basisonderzoek](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2741eb61e9f4b63fa0d750159b2503d) voldoende om een problematische herkomst aan het licht te brengen, maar vaak zal uitgebreid onderzoek nodig zijn. 
 
 Er zijn verschillende categorieën voorwerpen die prioriteit kunnen krijgen in dit verband:
 - Voorwerpen en collecties die (wellicht elders) onderwerp zijn van een teruggaveverzoek 
@@ -41,7 +41,7 @@ Er zijn verschillende categorieën voorwerpen die prioriteit kunnen krijgen in d
 - Beelden en andere versieringen afkomstig van of uit gebouwen en monumenten (bijvoorbeeld heiligdommen, tempels, moskeeën, mausolea of begraafplaatsen)
 - Voorwerpen afkomstig uit opgravingen, vooral als het om ongedocumenteerde vondsten gaat
 
-Indien het voorwerp uit een particuliere collectie komt, is het de moeite waard om eerst uit te zoeken of het bekend is wie het voorwerp naar Nederland heeft meegenomen en welk beroep diegene uitoefende. Beroepen die direct verbonden zijn aan het koloniaal systeem, zoals [militair](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) en [bestuursambtenaar](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18), kunnen aanleiding zijn voor nader onderzoek naar de herkomst.
+Indien het voorwerp uit een particuliere collectie komt, is het de moeite waard om eerst uit te zoeken of het bekend is wie het voorwerp naar Nederland heeft meegenomen en welk beroep diegene uitoefende. Beroepen die direct verbonden zijn aan het koloniaal systeem, zoals [militair](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) en [bestuursambtenaar](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18), kunnen aanleiding zijn voor nader onderzoek naar de herkomst.
 
 ## Hoe selecteer je voorwerpen als je informatie wilt delen?
 

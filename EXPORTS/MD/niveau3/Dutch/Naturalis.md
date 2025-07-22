@@ -1,14 +1,12 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-10_  
-_last edited by wiebe reints as original_author on 2024-07-10_
+_first edited by Wiebe Reints as original_author on 2024-07-10_  
+_last edited by Wiebe Reints as original_author on 2024-07-10_
 
 
 # Naturalis Biodiversity Center
 
 
 ## Abstract
-
-Naturalis Biodiversity Center, voorheen het Rijksmuseum van Natuurlijke Historie, werd in 1820 opgericht in Leiden. De focus van Naturalis is drieledig: het opbouwen en onderhouden van een collectie van natuurhistorische objecten, het doen van onderzoek naar deze collectie en die tentoonstellen aan een breed publiek. Een groot deel van Naturalis' collectie vindt zijn oorsprong in voormalig Nederlands-Indië en andere voormalig gekoloniseerde gebieden, waar wetenschappers in de negentiende en twintigste eeuw grote verzamelingen natuurhistorische voorwerpen aanlegden.
 
 Naturalis Biodiversity Center, voorheen het Rijksmuseum van Natuurlijke Historie, werd in 1820 opgericht in Leiden. De focus van Naturalis is drieledig: het opbouwen en onderhouden van een collectie van natuurhistorische objecten, het doen van onderzoek naar deze collectie en die tentoonstellen aan een breed publiek. Een groot deel van Naturalis' collectie vindt zijn oorsprong in voormalig Nederlands-Indië en andere voormalig gekoloniseerde gebieden, waar wetenschappers in de negentiende en twintigste eeuw grote verzamelingen natuurhistorische voorwerpen aanlegden.
 
@@ -61,15 +59,15 @@ _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_
 _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
+_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
 Boek:
-  > Haan, W. de, P. W. Korthals, Salomon Müller, H. Schlegel, C. J. Temminck, en Natuurkundige Commissie in Oost-Indië. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839  
-> [https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361 of 816811748](https://search.worldcat.org/title/12686361 of 816811748)  
+  > Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
+> [https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361](https://search.worldcat.org/title/12686361)  
 > _Alle verhandelingen van de Natuurkundige Commissie in Oost-Indië in een gebonden boek, verdeeld in drie volumes: Land-en Volkenkunde, Zoölogie en Botanie. Beschikbaar via de website van Biodiversity Heritage Library._  
 
 Tijdschrift:
@@ -85,27 +83,27 @@ Tijdschrift:
 ## Secondary sources
 
 Boek:
-  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie. Nationaal Natuurhistorisch Museum, Leiden, 1995.  
+  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.  
 > [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714), [WorldCat 69079231](https://search.worldcat.org/title/69079231)  
 > _Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
 
 Boek:
-  > Gijzen, Agatha. 's Rijks Museum Van Natuurlijke Historie, 1820-1915. W.L. & J. Brusse, Rotterdam, 1938.  
+  > Gijzen, Agatha. ‘’s Rijks Museum van Natuurlijke Historie, 1820-1915’, 1938.  
 > [https://repository.naturalis.nl/pub/631350](https://repository.naturalis.nl/pub/631350), [WorldCat 896666422](https://search.worldcat.org/title/896666422)  
 > _Dissertatie uit 1938 die de geschiedenis van het 's Rijks Museum van Natuurlijke historie van 1820 tot en met 1915 beschrijft._  
 
 Artikel:
-  > de Groot, G.E. “Rijksmuseum Van Geologie En Mineralogie 1878-1978 : A Retrospect”. Scripta Geologica 48 (January 1978): 3–25.  
+  > Groot, G. E. de. ‘Rijksmuseum van Geologie En Mineralogie 1878-1978 : A Retrospect’. Scripta Geologica 48 (1 januari 1978): 3-25.  
 > [WorldCat 899054688](https://search.worldcat.org/title/899054688), [https://repository.naturalis.nl/pub/317444](https://repository.naturalis.nl/pub/317444)  
 > _Artikel uit 1978 dat de geschiedenis van het Rijksmuseum van Geolgie en Mineralogie van 1878 tot en met 1978 beschrijft._  
 
-Article:
-  > Husson, A.M., and Lipke Holthuis. “The Dates of Publication of “verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen” Edited by C. J. Temminck”. Zoologische Mededelingen 34, no. 2 (January 1955): 17–24.  
+Artikel:
+  > Husson, A. M., en Lipke Holthuis. ‘The Dates of Publication of “Verhandelingen over de Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen” Edited by C. J. Temminck’. Zoologische Mededelingen 34, nr. 2 (1 januari 1955): 17-24.  
 > [WorldCat 67808542](https://search.worldcat.org/title/67808542), [https://repository.naturalis.nl/pub/318953](https://repository.naturalis.nl/pub/318953)  
 > _Artikel uit 1955 waarin alle publicaties van het tijdschrift Verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen uiteen worden gezet en beschreven._  
 
 Artikel:
-  > Andreas, Weber. 2019. “Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century.” Bmgn: Low Countries Historical Review.  
+  > Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck, en Natuurkundige Commissie in Oost-Indië (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
 > [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 > _Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
 
@@ -132,7 +130,7 @@ Naturalis, Rijksmuseum van Natuurlijke Historie, Rijksmuseum van Geologie en Min
 ,
   Geographical:
   
-[Europa](https://sws.geonames.org/6255148), [Azië](https://sws.geonames.org/6255147), [Afrika](https://sws.geonames.org/6255146), [Oceanië](https://geonames.org/6255151), [Noord-Amerika](https://sws.geonames.org/6255149), [Zuid-Amerika](https://sws.geonames.org/6255150)
+[Europa](https://sws.geonames.org/6255148/), [Azië](https://sws.geonames.org/6255147/), [Afrika](https://sws.geonames.org/6255146/), [Oceanië](https://geonames.org/6255151/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

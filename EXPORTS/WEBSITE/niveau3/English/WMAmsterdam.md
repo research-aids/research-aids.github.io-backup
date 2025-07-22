@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMAmsterdam.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMAmsterdam.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMAmsterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMAmsterdam.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-09_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-08-09_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -22,13 +22,11 @@ _last edited by abacus as translator on 2025-04-24
 
 Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it's origins in the 19th century. The collection of the Wereldmuseum Amsterdam includes objects from several other museums, including the former Artis Ethnographic Museum.
 
-Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it's origins in the 19th century. The collection of the Wereldmuseum Amsterdam includes objects from several other museums, including the former [Artis Ethnographic Museum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593).
-
 ### Description
 
 The current Wereldmuseum Amsterdam evolved from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893), founded in Haarlem in 1871. The Colonial Museum, located in Paviljoen Welgelegen, was initially mainly a products museum, where a variety of colonial goods and artefacts were displayed. The museum served as a resource for colonial entrepreneurs, providing them with knowledge about things such as minerals and natural resources. Important donors of objects included government officials such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname [Johann George Otto Stuart von Schmidt auf Altenstadt](http://www.wikidata.org/entity/Q1694028), the Government of the Dutch East Indies, 's Lands Plantentuin in Bogor and various trading companies and businesses.
 
-Due to lack of space in Haarlem it was decided in 1913 to transfer the collection to the Vereeniging Koloniaal Insituut, which was in the process of being set up and would open its own museum on Mauritskade in Amsterdam in 1926, in the building where Wereldmuseum Amsterdam is still located today. The collection of the [Artis Ethnographic Museum](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593) was also incorporated into the Colonial Institute's museum. In 1926, the collection consisted of around 30,000 objects, 10,000 of which were from the Artis collection. The Colonial Institute was divided into three departments: Tropical Products, Tropical Hygiene and Ethnography, with separate exhibition space dedicated to each. The Tropical Products Museum was disbanded in the 1960s and several of its objects were subsequently transferred to what was then the [Agricultural University of Wageningen (now Wageningen University & Research)](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2c7a29ba107a49a29f1251631db1cf11) and the [National Museum of Natural History in Leiden (now Naturalis Biodiversity Center)](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb). 
+Due to lack of space in Haarlem it was decided in 1913 to transfer the collection to the Vereeniging Koloniaal Insituut, which was in the process of being set up and would open its own museum on Mauritskade in Amsterdam in 1926, in the building where Wereldmuseum Amsterdam is still located today. The collection of the [Artis Ethnographic Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593) was also incorporated into the Colonial Institute's museum. In 1926, the collection consisted of around 30,000 objects, 10,000 of which were from the Artis collection. The Colonial Institute was divided into three departments: Tropical Products, Tropical Hygiene and Ethnography, with separate exhibition space dedicated to each. The Tropical Products Museum was disbanded in the 1960s and several of its objects were subsequently transferred to what was then the [Agricultural University of Wageningen (now Wageningen University & Research)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2c7a29ba107a49a29f1251631db1cf11) and the [National Museum of Natural History in Leiden (now Naturalis Biodiversity Center)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb). 
 
 After the Second World War it was decided to change the name of the Colonial Institute to the Indisch Instituut (East Indies Institute) with an Indisch Museum focused entirely on relations between the Netherlands and its colonies in the East and West. For this reason it was decided in 1947 to transfer the museum's African collection to the then Rijksmuseum voor Volkenkunde in Leiden. When the transfer of sovereignty took place in 1949 after the Indonesian war of independence, the Indisch Museum faced a quandary. The decision was taken to broaden its focus to the entire 'tropical realm'. From 1950 the East Indies Institute was known as the Royal Tropical Institute (KIT) and its museum as the Tropenmuseum. Because of this change in perspective, the focus in the second half of the 20th century was on collecting objects from the various tropical regions. Many objects also came to Amsterdam from West New Guinea, which remained a Dutch colony until 1962.
 
@@ -36,7 +34,7 @@ In 2014 the Tropenmuseum, Museum Volkenkunde in Leiden, the Afrika Museum in Ber
 
 ### Provenance research
 
-The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseum collection using the attribute TM', with 'TM-H' standing for the former collection of the Colonial Museum in Haarlem and 'TM-A' for the collection of the Artis Ethnographic Museum. The archives of the Wereldmuseum Amsterdam up to 1995 are available at the National Archives in The Hague via the [archive access 2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69) (The archives of the Royal Tropical Institute). This includes the archives of the Koloniaal Museum in Haarlem and the Artis Ethnographic Museum. The archive description in the National Archives contains detailed information on the history of the establishment of the Wereldmuseum Amsterdam and the structure of the archive. The archive up to 1950 was digitalised by the Royal Tropical Institute and is available through the Wereldmuseum's collection database. Archives after 1995 are still physically held at the Wereldmuseum Amsterdam. For more information on the museum archives up to 1995 please refer to the research aid on the Royal Tropical Institute. The Amsterdam City Archive also contains archive material relating to the current Wereldmuseum Amsterdam within the archives of the [Royal Zoological Society Natura Artis Magistra](https://archief.amsterdam/inventarissen/details/395/), with the archives under inventory numbers 1876 to 1919 being particularly relevant. For more information on the Artis Ethnographic Museum please refer to the [relevant research aid](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593). 
+The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseum collection using the attribute TM', with 'TM-H' standing for the former collection of the Colonial Museum in Haarlem and 'TM-A' for the collection of the Artis Ethnographic Museum. The archives of the Wereldmuseum Amsterdam up to 1995 are available at the National Archives in The Hague via the [archive access 2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69) (The archives of the Royal Tropical Institute). This includes the archives of the Koloniaal Museum in Haarlem and the Artis Ethnographic Museum. The archive description in the National Archives contains detailed information on the history of the establishment of the Wereldmuseum Amsterdam and the structure of the archive. The archive up to 1950 was digitalised by the Royal Tropical Institute and is available through the Wereldmuseum's collection database. Archives after 1995 are still physically held at the Wereldmuseum Amsterdam. For more information on the museum archives up to 1995 please refer to the research aid on the Royal Tropical Institute. The Amsterdam City Archive also contains archive material relating to the current Wereldmuseum Amsterdam within the archives of the [Royal Zoological Society Natura Artis Magistra](https://archief.amsterdam/inventarissen/details/395/), with the archives under inventory numbers 1876 to 1919 being particularly relevant. For more information on the Artis Ethnographic Museum please refer to the [relevant research aid](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593). 
 
 
 ## Related Aids
@@ -52,9 +50,9 @@ _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_
 _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/KITLV_20240704.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/English/Museon_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -113,7 +111,7 @@ Tropenmuseum, Koloniaal Museum, Indisch museum, Nationaal Museum van Wereldcultu
 ,
   Geographical:
   
-[Africa](https://www.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147), [North America](https://www.geonames.org/6255149), [Oceania](https://www.geonames.org/6255151), [South America](https://www.geonames.org/6255150)
+[Africa](https://www.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147/), [North America](https://www.geonames.org/6255149/), [Oceania](https://www.geonames.org/6255151/), [South America](https://www.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

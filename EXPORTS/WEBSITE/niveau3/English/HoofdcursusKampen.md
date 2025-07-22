@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/HoofdcursusKampen.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/HoofdcursusKampen.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/HoofdcursusKampen.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/HoofdcursusKampen.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-05-13_  
-_last edited by wiebe reints as original_author on 2025-05-13_
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
+_last edited by Wiebe Reints as original_author on 2025-05-13_
 
 
 # Hoofdcursus Kampen
@@ -21,8 +21,6 @@ _last edited by wiebe reints as original_author on 2025-05-13_
 
 The Hoofdcursus was a military school in Kampen (Overijssel). Whereas the Royal Military Academy in Breda had a more scientific approach, the Hoofdcursus had a focus on practical education. As such, an ethnographic collection was assembled for training officers for the former Dutch East Indies. This collection was also open to the general public. After the closure of the school in 1923, the collection was incorporated into that of the Royal Military Academy in Breda.
 
-The Hoofdcursus was a military school in Kampen (Overijssel). Whereas the Royal Military Academy in Breda had a more scientific approach, the Hoofdcursus had a focus on practical education. As such, an ethnographic collection was assembled for officers personnel for the former Dutch East Indies. This collection was also open to the general public. After the closure of the school in 1923, the collection was incorporated into that of the Royal Military Academy in Breda.
-
 ### Description
 
 The Hoofdcursus, as the military academy in Kampen was called from 1880 onwards, provided education for military personnel in the Netherlands and the former Dutch East Indies. The curriculum at the Hoofdcursus had a more practical focus than that of the Royal Military Academy (Koninklijke Militaire Academie, KMA) in Breda. At the beginning of the twentieth century, certain courses were tailored to working in the Dutch colony in Southeast Asia. Hendrik Theodorus van IJsseldijk was appointed as a teacher of Malay language, geography and ethnography, among other subjects. To illustrate his lessons, Van IJsseldijk brought his own ethnographic collection to the Hoofdcursus and encouraged other military personnel to send their collections there too. George Nypels was among those who responded to Van IJsseldijk's request. Among other things, he donated a gravestone he had brought back from Aceh. This object was examined in 2022 as part of the Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE). See the full report under ‘Sources’. H.J. Voskuil, who later succeeded Van IJsseldijk as curator of the ethnographic collection, also donated various objects.
@@ -31,16 +29,16 @@ In 1900, Van IJsseldijk was able to set up a museum with the collection he had a
 
 ### Provenance research
 
-The archive of the ethnographic collection of the Main Course was merged with the collection in 1923 into that of the Volkenkundig Museum ‘Justinus van Nassau’. That museum in turn became part of the then Rijksmuseum voor Volkenkunde, now the [Wereldmuseum Leiden](https://app.colonialcollections. nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Within the archive of the Wereldmuseum Leiden, the archive of the Volkenkundig Museum Justinus van Nassau can be found under the access ‘A16’. For more information about the collection or to consult archival documents, please contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). The general archive of the Hoofdcursus in Kampen is available through the National Archives in The Hague.
+The archive of the ethnographic collection of the Main Course was merged with the collection in 1923 into that of the Volkenkundig Museum ‘Justinus van Nassau’. That museum in turn became part of the then Rijksmuseum voor Volkenkunde, now the [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Within the archive of the Wereldmuseum Leiden, the archive of the Volkenkundig Museum Justinus van Nassau can be found under the access ‘A16’. For more information about the collection or to consult archival documents, please contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). The general archive of the Hoofdcursus in Kampen is available through the National Archives in The Hague.
 
 
 ## Related Aids
 
-_see also: [Army and navy personnel in colonised territories](published/niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Wageningen University & Research](published/niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Museum Bronbeek](published/niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Museum Nusantara](published/niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+_see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
 
 ## Primary sources
 
@@ -104,7 +102,7 @@ http://www.wikidata.org/entity/Q104871407
 ,
   Geographical:
   
-[Indonesia](https://www.geonames.org/1643084)
+[Indonesia](https://www.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

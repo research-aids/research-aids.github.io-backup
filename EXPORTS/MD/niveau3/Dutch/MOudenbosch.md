@@ -1,8 +1,8 @@
 _This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-07
+_first edited by UNKNOWN as UNKNOWN on 2025-07-22
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-07
+_last edited by UNKNOWN as UNKNOWN on 2025-07-22
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
 
@@ -13,8 +13,6 @@ _last edited by UNKNOWN as UNKNOWN on 2025-07-07
 ## Abstract
 
 Natuurhistorisch en Volkenkundig Museum Oudenbosch ontstond in 1956 uit de collectie natuurhistorische, archeologische en volkenkundige objecten van de Broeders van Saint Louis. In het Noord-Brabantse dorp Oudenbosch opende deze congregatie een jongensinternaat in 1840. De objecten die de missionarissen meenamen van hun reizen naar onder andere Zuidoost-Azië en Afrika werden gebruikt om de leerlingen van het internaat te onderwijzen.
-
-Natuurhistorisch en Volkenkundig Museum Oudenbosch ontstond in 1956 uit de collectie natuurhistorische, archeologische en volkenkundige objecten van de Broeders van Saint Louis. In het Noord-Brabantse dorp Oudenbosch opende deze congregatie een jongensinternaat in 1840. De objecten die de missionarissen meenamen van hun reizen naar onder andere Zuidoost-Azië en Afrika werden gebruikt om de leerlingen van het internaat te onderwijzen. 
 
 ### Beschrijving
 
@@ -31,16 +29,16 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
 
 ## Related Aids
 
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](published/niveau2/Dutch/ChristianMission_20240326.yml)_  
-_see also: [Musea en efgoedbeherende instellingen](published/niveau2/Dutch/Museum_20250113.yml)_  
-_see also: [Etnografisch Museum Artis](published/niveau3/Dutch/EMArtis_20240711.yml)_  
-_see also: [Naturalis Biodiversity Center](published/niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Wereldmuseum Amsterdam](published/niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Berg en Dal](published/niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Wereldmuseum Leiden](published/niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Rotterdam](published/niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
+_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
+_see also: [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)_  
+_see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
+_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+_see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
+_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
 
 ## Primary sources
 
@@ -84,7 +82,7 @@ http://www.wikidata.org/entity/Q2299923
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084), [Congo](https://sws.geonames.org/2260494)
+[Indonesië](https://sws.geonames.org/1643084/), [Congo](https://sws.geonames.org/2260494/)
 ,
   Period of activity:
   Year of start:

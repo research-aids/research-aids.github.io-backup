@@ -1,6 +1,6 @@
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-17_  
-_last edited by abacus as translator on 2025-03-12
+_first edited by Wiebe Reints as original_author on 2024-04-17_  
+_last edited by Abacus as translator on 2025-03-12
         (applies to section: Main-text; Sources)_
 
 
@@ -8,8 +8,6 @@ _last edited by abacus as translator on 2025-03-12
 
 
 ## Abstract
-
-Army and navy personnel collected objects in various ways in the former Dutch colonies. Objects were looted, gifted or bought from local inhabitants. These objects were of ten donated to museums in the Netherlands at a later date.
 
 Army and navy personnel collected objects in various ways in the former Dutch colonies. Objects were looted, gifted or bought from local inhabitants. These objects were of ten donated to museums in the Netherlands at a later date.
 
@@ -44,8 +42,8 @@ _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_
 _see also: [Wereldmuseum Leiden](niveau3/English/WMRotterdam_2040822.yml)_  
 _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
 
 ## Primary sources
 
@@ -72,7 +70,7 @@ Web portal:
 ## Secondary sources
 
 Article:
-  > Witkam, Jan Just. 'Teuku Panglima Polem’s Purse: Manuscripts as War Booty in Colonial Times.' Journal of Islamic Manuscripts 10, no. 1 (2019): 84–104.  
+  > Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.  
 > [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
 > _Article about Teuku Panglima Polem, an Aceh leader during the colonial war fought by the Netherlands in Aceh._  
 
@@ -101,6 +99,6 @@ Tags:
 ,
   Geographical:
   
-[ABCSSS islands](https://sws.geonames.org/8505032), [Indonesia](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998)
+[Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
 
         

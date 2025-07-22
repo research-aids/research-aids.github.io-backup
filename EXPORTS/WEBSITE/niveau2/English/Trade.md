@@ -7,7 +7,7 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Trade.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Trade.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Trade.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Trade.docx){: .btn .btn-blue }
 
 _This is a level 2 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-03-16_  
@@ -22,13 +22,11 @@ _last edited by abacus as translator on 2025-03-12
 
 The trade in objects from colonised regions played a central role in the circulation of these objects in Europe. Many (ethnographic) museums constructed their collections with objects bought from trading companies.
 
-The trade in objects from colonised regions played a central role in the circulation of these objects in Europe. Many (ethnographic) museums constructed their collections with objects bought from trading companies.
-
 ### Description
 
 Trade in colonial objects and goods was at the heart of the formation of collections in the Netherlands from the late 18th and throughout the 19th century. Trade and sales played a central role in the circulation of these objects in Europe. By the early 20th century the colonial art trade had developed into a thriving business in the Netherlands. Dutch museums regularly bought from dealers and auction houses, not only in the Netherlands, but also in other European colonising countries, particularly Germany, Belgium, France and Great Britain. These same dealers and auction houses were sources for private collections, from where objects later sometimes made their way into museum collections.
 
-Well-known dealers who sold colonial goods to museums and individuals were the firms [Van Lier (1927-1996)](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb4671e55ad5cca627bb7f16983388b7f), [Aalderink (1930-2023)](https://data.rkd.nl/artists/437058) and [Lemaire (1933-present)](https://data.rkd.nl/artists/446005) and the Amsterdam auction houses [Frederik Muller & Co. (1876-1961)](https://www.wikidata.org/entity/Q18821838) and [Mak van Waay (1918-1974)](https://www.wikidata.org/entity/Q73900989). In The Hague, the stores [Groote Koninklijke Bazar (1841-1927)](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F05a5c7a799263dcf493f0a7bdc2f525a) and [Boeatan (1903-1949)](https://www.wikidata.org/entity/Q101082502) specialised in Asian applied art.
+Well-known dealers who sold colonial goods to museums and individuals were the firms [Van Lier (1927-1996)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb4671e55ad5cca627bb7f16983388b7f), [Aalderink (1930-2023)](https://data.rkd.nl/artists/437058) and [Lemaire (1933-present)](https://data.rkd.nl/artists/446005) and the Amsterdam auction houses [Frederik Muller & Co. (1876-1961)](https://www.wikidata.org/entity/Q18821838) and [Mak van Waay (1918-1974)](https://www.wikidata.org/entity/Q73900989). In The Hague, the stores [Groote Koninklijke Bazar (1841-1927)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F05a5c7a799263dcf493f0a7bdc2f525a) and [Boeatan (1903-1949)](https://www.wikidata.org/entity/Q101082502) specialised in Asian applied art.
 
 Another connection with trade was the trade in colonial products and raw materials, such as rubber, ivory, cotton and tobacco, with wholesale firms being established to promote this trade. In the course of their work the employees of these trading houses collected art and other objects on the side. An example is the [Nieuwe Afrikaansche Handels-Vennootschap N.V. (NAHV, 1880-1982)](https://www.wikidata.org/entity/Q2543001), a trading company that operated in [Central Africa](https://sws.geonames.org/7729886). A large number of African objects, especially from [Congo](https://sws.geonames.org/203312), were donated to Dutch museums by individuals associated with this company.
 
@@ -42,7 +40,7 @@ Compared to the trade in western art, the archives of dealers in ethnographic an
 
 Due to privacy legislation auction houses do not disclose the names of consignors to auctions that took place within the last 50 years. Still, it is worth making an inquiry, if only to get a rough description of the consignor. International auction houses such as [Christie's](https://www.christies.com/) and [Sotheby's](https://www.sothebys.com/en/) have specialist staff who provide information for provenance research. An important source are catalogues for auctions of non-western objects. The two largest libraries in this field, those of the RKD and the Rijksmuseum, also have annotated catalogues, which sometimes contain notes on the objects, buyers and sellers.
 
-The libraries of the [RKD (Netherlands Institute for Art History)](https://rkd.nl/nl/explore/library) and the [Rijksmuseum](www.library.rijksmuseum.nl) have extensive collections of catalogues of auctions held in the Netherlands, including auctions of non-western objects. The RKD's digitialised auction catalogues are available through the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) database. This database can be consulted for free onsite at the Rijksmuseum Research Library and the RKD.
+The libraries of the [RKD (Netherlands Institute for Art History)](https://rkd.nl/nl/explore/library) and the [Rijksmuseum](www.library.rijksmuseum.nl) have extensive collections of catalogues of auctions held in the Netherlands, including auctions of non-western objects. The RKD's digitalised auction catalogues are available through the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) database. This database can be consulted for free onsite at the Rijksmuseum Research Library and the RKD.
 
 Many of the catalogues at the RKD and the Rijksmuseum Research Library are not yet accessible online and cannot be found in the library catalogue. However, it is possible to contact both libraries, stating the date and name of the auction house, and the staff will see if the relevant catalogue is available.
 
@@ -65,7 +63,7 @@ _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_
 _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
 _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 
@@ -82,13 +80,13 @@ Database:
 ## Secondary sources
 
 Book:
-  > Corbey, Raymond. Tribal art traffic: A chronicle of taste, trade and desire in colonial and post-colonial times. Amsterdam: Royal Tropical Institute, 2000.  
+  > Corbey, Raymond. Tribal Art Traffic: A Chronicle of Taste, Trade and Desire in Colonial an Post-Colonial Times. Amsterdam: Royal Tropical Institute, 2000.  
 > [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
 > _Book describing the trade in various ethnographic objects, with a focus on the Low Countries._  
 
 Book:
-  > Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.  
-> [https://search.worldcat.org/title/71681153?oclcNum=71681153](https://search.worldcat.org/title/71681153?oclcNum=71681153), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
+  > Willink, Joost. ‘De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889)’. Dissertation Leiden University, 2006.  
+> [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
 > _Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands._  
 
 
@@ -106,6 +104,6 @@ Tags:
 ,
   Geographical:
   
-[China](http://vocab.getty.edu/aat/300417515), [Congo](https://sws.geonames.org/203312), [Indonesia](https://sws.geonames.org/1643084), [Japan](https://sws.geonames.org/1861060)
+[China](http://vocab.getty.edu/aat/300417515/), [Congo](https://sws.geonames.org/203312/), [Indonesia](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/)
 
         

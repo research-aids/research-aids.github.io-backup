@@ -1,6 +1,6 @@
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-14_  
-_last edited by wiebe reints as original_author on 2024-08-14_
+_first edited by Wiebe Reints as original_author on 2024-08-14_  
+_last edited by Wiebe Reints as original_author on 2024-08-14_
 
 
 # Wetenschappelijk onderzoek in gekoloniseerde gebieden
@@ -10,15 +10,13 @@ _last edited by wiebe reints as original_author on 2024-08-14_
 
 De door Nederland gekoloniseerde gebieden vormden voor veel vakgebieden, zoals antropologie en geologie, de basis voor (nieuw) wetenschappelijk onderzoek. In het kader van dit onderzoek vonden vele objecten hun weg naar Europese musea.
 
-De door Nederland gekoloniseerde gebieden vormden voor veel vakgebieden, zoals antropologie en geologie, de basis voor (nieuw) wetenschappelijk onderzoek. In het kader van dit onderzoek vonden vele objecten hun weg naar Europese musea.
-
 ### Beschrijving
 
-De ontwikkeling van verschillende wetenschappelijke disciplines, zoals de etnografie en geologie, gedurende voornamelijk de negentiende eeuw ging hand in hand met de Europese koloniale expansie. De Nederlandse koloniale gebieden en de daar aanwezige natuur, cultuur en bevolking, vormden zodoende een belangrijk bronnen voor wetenschappelijk onderzoek door onderzoekers uit Nederland en andere landen. Een bekend voorbeeld waarbij wetenschappelijk onderzoek en kolonialisme hand in hand gingen zijn de opgravingen die onder Eugène Dubois plaatsvonden op Sumatra en Java aan het eind van de negentiende eeuw, waarbij vijftig dwangarbeiders een collectie van bijna 40.000 objecten opgroeven. Deze collectie is tot op de dag van vandaag onderdeel van [Naturalis](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb) in Leiden en de Homo erectus fossielen die tijdens deze opgravingen gevonden zijn, worden nog altijd als een belangrijke wetenschappelijke ontdekking gezien. Zonder het koloniale systeem was Eugène Dubois niet in staat geweest deze vondst te doen.
+De ontwikkeling van verschillende wetenschappelijke disciplines, zoals de etnografie en geologie, gedurende voornamelijk de negentiende eeuw ging hand in hand met de Europese koloniale expansie. De Nederlandse koloniale gebieden en de daar aanwezige natuur, cultuur en bevolking, vormden zodoende een belangrijk bronnen voor wetenschappelijk onderzoek door onderzoekers uit Nederland en andere landen. Een bekend voorbeeld waarbij wetenschappelijk onderzoek en kolonialisme hand in hand gingen zijn de opgravingen die onder Eugène Dubois plaatsvonden op Sumatra en Java aan het eind van de negentiende eeuw, waarbij vijftig dwangarbeiders een collectie van bijna 40.000 objecten opgroeven. Deze collectie is tot op de dag van vandaag onderdeel van [Naturalis](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb) in Leiden en de Homo erectus fossielen die tijdens deze opgravingen gevonden zijn, worden nog altijd als een belangrijke wetenschappelijke ontdekking gezien. Zonder het koloniale systeem was Eugène Dubois niet in staat geweest deze vondst te doen.
 
 Veel Europese wetenschappers hadden vaak een bredere interesse hadden dan hun eigen vakgebied. Zo kan het dus goed voorkomen dat een geoloog ook andersoortige objecten verzamelde en die later aan een Nederlands museum heeft geschonken. Ook zendelingen en missionarissen hielden zich naast het kerstenen van de lokale bevolking bezig met wetenschappelijk onderzoek. De collecties die zij verzamelden waren dus niet alleen verzameld uit het oogpunt van hun missie of zending, maar konden ook een wetenschappelijk karakter hebben. Veelal werden collecties verzameld door missionarissen en zendelingen gebruikt ter onderwijzing in Nederland. Een speciale vermelding verdient ook de fotografie. Deze relatief nieuwe techniek die werd ontwikkeld in de negentiende eeuw werd veelvuldig ingezet tijdens wetenschappelijk onderzoek in de koloniale gebieden. Deze foto's bleven later vaak onderdeel van de aldaar verzamelde collecties en droegen zo bij aan het beeld dat in Europa ontstond van de mensen, hun cultuur en de natuur in de koloniën.
 
-Wetenschappers in de koloniën waren vaak verbonden aan een Nederlandse universiteit of raakten dat gaande weg. Overigens is het niet zo dat wetenschappers in door Nederland gekoloniseerde gebieden uitsluiten uit Nederland afkomstig waren. Ook andere Europeanen deden wetenschappelijk onderzoek in Nederlandse koloniën en zonden collecties op naar instellingen buiten Nederland. Bovendien zijn er voorbeelden van plaatselijke wetenschappers waarvan verzamelde objecten naar Nederland werden verzonden. Een bekend voorbeeld hiervan is de Indonesische schilder, wetenschapper en schrijver Raden Saleh. Naast een verbondenheid aan een universiteit in Europa waren er ook allerhande verenigingen waar wetenschappers samenkwamen. Bekende voorbeelden zijn het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) (KITLV) in Nederland en het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) in Indonesië. Ook de Koninklijke Nederlandse Academie van Wetenschappen (KNAW) had sterke banden met de koloniën. Via dit soort verenigingen en universiteiten werden de bevindingen van wetenschappelijk onderzoek gepubliceerd in allerhande tijdschriften en boeken. De objecten, documenten en foto's die gedurende het onderzoek werden verzameld vonden vaak op een later moment hun weg naar de collecties van de instellingen waar desbetreffende onderzoekers onderdeel van waren.
+Wetenschappers in de koloniën waren vaak verbonden aan een Nederlandse universiteit of raakten dat gaande weg. Overigens is het niet zo dat wetenschappers in door Nederland gekoloniseerde gebieden uitsluiten uit Nederland afkomstig waren. Ook andere Europeanen deden wetenschappelijk onderzoek in Nederlandse koloniën en zonden collecties op naar instellingen buiten Nederland. Bovendien zijn er voorbeelden van plaatselijke wetenschappers waarvan verzamelde objecten naar Nederland werden verzonden. Een bekend voorbeeld hiervan is de Indonesische schilder, wetenschapper en schrijver Raden Saleh. Naast een verbondenheid aan een universiteit in Europa waren er ook allerhande verenigingen waar wetenschappers samenkwamen. Bekende voorbeelden zijn het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) (KITLV) in Nederland en het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) in Indonesië. Ook de Koninklijke Nederlandse Academie van Wetenschappen (KNAW) had sterke banden met de koloniën. Via dit soort verenigingen en universiteiten werden de bevindingen van wetenschappelijk onderzoek gepubliceerd in allerhande tijdschriften en boeken. De objecten, documenten en foto's die gedurende het onderzoek werden verzameld vonden vaak op een later moment hun weg naar de collecties van de instellingen waar desbetreffende onderzoekers onderdeel van waren.
 
 Zodoende hebben vrijwel alle koloniale collecties in Nederland een vorm van verbondenheid met wetenschappelijk onderzoek in gekoloniseerde gebieden. Naast de bekende musea zoals het Wereldmuseum, Naturalis en het Rijksmuseum bevatten ook veel universitaire musea collecties die verzameld zijn in voormalige koloniën.
 
@@ -49,24 +47,24 @@ _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity
 _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
+_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)_  
 
 ## Secondary sources
 
 Boek:
-  > Kuitenbrouwer, Maarten. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001 (Leiden: KITLV Uitgeverij, 2001).  
+  > Kuitenbrouwer, M. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
 > [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
 > _Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
 
 Boek:
-  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum Van Natuurlijke Historie (Nationaal Natuurhistorisch Museum: Leiden, 1995).  
+  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.  
 > [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
 > _Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
 
 Artikel:
-  > Weber, Andreas. 'Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century'. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72-95.  
+  > Weber, Andreas. ‘Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century’. BMGN - Low Countries Historical Review 134, nr. 3 (26 september 2019): 72-95.  
 > [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 > _Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
 
@@ -85,6 +83,6 @@ Tags:
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998), [ABCSSS-eilanden](https://sws.geonames.org/8505032)
+[Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/)
 
         

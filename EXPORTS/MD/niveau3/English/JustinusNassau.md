@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-05-13_  
-_last edited by wiebe reints as original_author on 2025-05-13_
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
+_last edited by Wiebe Reints as original_author on 2025-05-13_
 
 
 # Volkenkundig Museum Justinus van Nassau
@@ -10,17 +10,15 @@ _last edited by wiebe reints as original_author on 2025-05-13_
 
 The Volkenkundig Museum Justinus van Nassau was established as part of the Royal Military Academy in Breda. Before 1956, the museum operated independently, after which it became part of the Rijksmuseum voor Volkenkunde, now known as the Wereldmuseum Leiden. In 1993, the ethnographic museum in Breda closed its doors. The museum collection is still part of the Wereldmuseum.
 
-The Volkenkundig Museum Justinus van Nassau was established as part of the Royal Military Academy in Breda. Before 1956, the museum operated independently, after which it became part of the Rijksmuseum voor Volkenkunde, now known as the Wereldmuseum Leiden. In 1993, the ethnographic museum in Breda closed its doors. The museum collection is still part of the Wereldmuseum.
-
 ### Description
 
-Due to increasing demand for soldiers for the [(Royal) Dutch East Indies Army](http://www.wikidata.org/entity/Q523553), it was decided to establish an ‘Indies training programme’ at the [Royal Military Academy](http://www.wikidata.org/entity/Q934782) in Breda. To enrich the standard form of education, Claas Spat, who taught Malay language and literature at the KMA, decided to establish an ethnographic collection. Spat contacted the [Rijks Etnografisch Museum](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (National Ethnographic Museum) which sent some doubles to Breda. Objects were also donated by fellow military personnel and the Dutch East Indies Government. The collection grew mainly after the so-called ‘pacification wars’ waged by the Dutch in Aceh, Lombok and Sulawesi. Among others, the soldier [G.C.E. van Daalen](http://www.wikidata.org/entity/Q4258823) donated a collection to the KMA. 
+Due to increasing demand for soldiers for the [(Royal) Dutch East Indies Army](http://www.wikidata.org/entity/Q523553), it was decided to establish an ‘Indies training programme’ at the [Royal Military Academy](http://www.wikidata.org/entity/Q934782) in Breda. To enrich the standard form of education, Claas Spat, who taught Malay language and literature at the KMA, decided to establish an ethnographic collection. Spat contacted the [Rijks Etnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (National Ethnographic Museum) which sent some doubles to Breda. Objects were also donated by fellow military personnel and the Dutch East Indies Government. The collection grew mainly after the so-called ‘pacification wars’ waged by the Dutch in Aceh, Lombok and Sulawesi. Among others, the soldier [G.C.E. van Daalen](http://www.wikidata.org/entity/Q4258823) donated a collection to the KMA. 
 
 The collection, which was officially recognised in 1909 as the Ethnografische Verzameling van de Koninklijke Militaire Academie (Ethnographic Collection of the Royal Military Academy), consisted mainly of weapons. In order to expand the collection with other types of objects, Spat published an advertisement in the [Koloniaal Weekblad](https://archive.org/details/UNIVERSITEITLEIDEN-DIG-KOLONIAAL-WEEKBLAD-1909/page/n357/mode/2up) to ‘persons among the readers of these lines who have a private collection and are willing to donate one or more items from their collection to the Royal Military Academy’.
 
 When the Dutch Ministry of War had to make cutbacks in 1920, it was decided to discontinue the Hoofdcursus in Kampen, a similar military training programme with a less academic focus and therefore lower admission requirements. This resulted in the Kampen museum collection being incorporated into that of the KMA in 1923. H.J. Voskuil, who had succeeded Spat as the administrator of the Breda collection, found himself with a lack of exhibition space due to the merged collections. In 1925, it was therefore decided to use the former residence of Justinus van Nassau, who would later serve as the museum's namesake. While the Kampen collection had always been accessible to the public, this was not the case for the Breda collection. It was not until November 1938 that the museum in Breda officially opened its doors to the public.
 
-Due to the independence of Indonesia, the Indies training programme at the KMA was discontinued in 1949, which cast doubt on the future of the ethnographic museum. This led to an uncertain period for the museum in the early 1950s. Nevertheless, the collection continued to expand, partly because the then curator, Sjoerd Nauta, was offered the opportunity to make a selection from the British [‘Wellcome Collection’](http://www.wikidata.org/entity/Q7981191). Nauta selected various weapons from Africa, Australia and the Pacific to supplement his Indonesian collection. In 1956, the uncertainty came to an end when it was decided to make the Breda museum part of the [Rijksmuseum voor Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now the Wereldmuseum) in Leiden. As a southern branch of the ethnographic museum in Leiden, exhibitions on areas other than Indonesia were also held in Breda. Exhibitions that had previously taken place in Leiden were often recycled at ‘Justinus van Nassau’. After persistent budget cuts in the 1980s, the then director of the Rijksmuseum voor Volkenkunde in Leiden, Steven Engelsman, decided to close the ethnographic museum in Breda on 1 January 1993. 
+Due to the independence of Indonesia, the Indies training programme at the KMA was discontinued in 1949, which cast doubt on the future of the ethnographic museum. This led to an uncertain period for the museum in the early 1950s. Nevertheless, the collection continued to expand, partly because the then curator, Sjoerd Nauta, was offered the opportunity to make a selection from the British [‘Wellcome Collection’](http://www.wikidata.org/entity/Q7981191). Nauta selected various weapons from Africa, Australia and the Pacific to supplement his Indonesian collection. In 1956, the uncertainty came to an end when it was decided to make the Breda museum part of the [Rijksmuseum voor Volkenkunde](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now the Wereldmuseum) in Leiden. As a southern branch of the ethnographic museum in Leiden, exhibitions on areas other than Indonesia were also held in Breda. Exhibitions that had previously taken place in Leiden were often recycled at ‘Justinus van Nassau’. After persistent budget cuts in the 1980s, the then director of the Rijksmuseum voor Volkenkunde in Leiden, Steven Engelsman, decided to close the ethnographic museum in Breda on 1 January 1993. 
 
 ### Provenance research
 
@@ -29,12 +27,12 @@ Since the ethnographic museum of the Royal Military Academy in Breda became part
 
 ## Related Aids
 
-_see also: [Army and navy personnel in colonised territories](published/niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Wereldmuseum Leiden](published/niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wageningen University & Research](published/niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Museum Bronbeek](published/niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Museum Nusantara](published/niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
+_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+_see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
 
 ## Primary sources
 
@@ -108,7 +106,7 @@ Ethnografische Verzameling van de Koninklijke Militaire Academie en de Hoofdcurs
 ,
   Geographical:
   
-[Indonesia](https://www.geonames.org/1643084)
+[Indonesia](https://www.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

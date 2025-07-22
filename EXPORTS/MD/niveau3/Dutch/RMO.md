@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-11-06_  
-_last edited by wiebe reints as original_author on 2024-11-06_
+_first edited by Wiebe Reints as original_author on 2024-11-06_  
+_last edited by Wiebe Reints as original_author on 2024-11-06_
 
 
 # Rijksmuseum van Oudheden
@@ -9,8 +9,6 @@ _last edited by wiebe reints as original_author on 2024-11-06_
 ## Abstract
 
 Het Rijksmuseum van Oudheden in Leiden werd in 1818 opgericht vanuit een collectie van oudheidkundige objecten. Tot het begin van de twintigste eeuw waren ook verschillende Indonesische oudheden onderdeel van de collectie. Deze Indonesische voorwerpen zijn in 1904 overgedragen aan het tegenwoordige Wereldmuseum Leiden.
-
-Het Rijksmuseum van Oudheden in Leiden werd in 1818 opgericht vanuit een collectie van oudheidkundige objecten. Tot het begin van de twintigste eeuw waren ook verschillende Indonesische oudheden onderdeel van de collectie. Deze Indonesische voorwerpen zijn in 1904 overgedragen aan het tegenwoordige [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b).
 
 ### Beschrijving
 
@@ -113,7 +111,7 @@ Museum van Oudheden, RMO
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084)
+[Indonesië](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

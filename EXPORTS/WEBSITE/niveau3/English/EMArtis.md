@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/EMArtis.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/EMArtis.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/EMArtis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/EMArtis.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-12_  
-_last edited by abacus as translator on 2025-04-07
+_first edited by Wiebe Reints as original_author on 2024-07-12_  
+_last edited by Abacus as translator on 2025-04-07
         (applies to section: Main-text; Sources)_
 
 
@@ -21,8 +21,6 @@ _last edited by abacus as translator on 2025-04-07
 ## Abstract
 
 The Artis Ethnographic Museum was an ethnographic museum in Amsterdam founded in 1851 as part of the Artis Zoo. In 1921, the collection was subsumed by the newly established Colonial Museum, today's Wereldmuseum Amsterdam.
-
-The Artis Ethnographic Museum was an ethnographic museum in Amsterdam founded in 1851 as part of the Artis Zoo. In 1921, the collection was subsumed by the newly established Colonial Museum, today's [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208).
 
 ### Description
 
@@ -48,9 +46,9 @@ _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/English/Museon_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -119,7 +117,7 @@ Museum voor Land- en Volkenkunde
 ,
   Geographical:
   
-[Africa](https://sws.geonames.org/6255146/), [Asia](https://sws.geonames.org/6255147), [North America](https://sws.geonames.org/6255149), [Oceania](https://sws.geonames.org/6255151), [South America](https://sws.geonames.org/6255150)
+[Africa](https://sws.geonames.org/6255146/), [Asia](https://sws.geonames.org/6255147/), [North America](https://sws.geonames.org/6255149/), [Oceania](https://sws.geonames.org/6255151/), [South America](https://sws.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

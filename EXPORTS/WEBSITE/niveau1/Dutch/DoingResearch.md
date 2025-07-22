@@ -7,7 +7,7 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/DoingResearch.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/DoingResearch.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
@@ -35,7 +35,7 @@ Voor onderzoekers:
 - Welke collecties zijn bovengemiddeld interessant en waar kwamen de door jou onderzochte objecten doorgaans terecht. 
 - Welke individuen of instellingen speelden daarbij een rol?
 
-Voor meer informatie over deze stap verwijzen we naar de zoekhulp [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml).
+Voor meer informatie over deze stap verwijzen we naar de zoekhulp [Selecteren en afbakenen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2fbf96b4890fa2e37c7c711f524753c6).
 
 **Stap 2: Basisonderzoek**
 
@@ -74,7 +74,7 @@ Mogelijke bronnen kunnen zijn:
 - Gemeenschappen in de gebieden van herkomst
 - Deskundigen met kennis van het object of het koloniale verleden
 
-De zoekhulp [Bronnen](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) geeft informatie over waar deze bronnen te vinden zijn. Achtergronden van personen, koloniale instellingen en gebeurtenissen kunnen door middel van de [DataHub](https://app.colonialcollections.nl/nl) worden achterhaald, of elders worden gevonden, zoals op Wikipedia. Houd er rekening mee dat in de Nederlandstalige versie van Wikipedia veelal informatie vanuit een koloniaal perspectief ongefilterd is overgenomen. Het is daarom aanbevolen om ook altijd de versie in de taal van het herkomstgebied te raadplegen.
+De zoekhulp [Bronnen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) geeft informatie over waar deze bronnen te vinden zijn. Achtergronden van personen, koloniale instellingen en gebeurtenissen kunnen door middel van de [DataHub](https://app.colonialcollections.nl/nl/objects) worden achterhaald, of elders worden gevonden, zoals op Wikipedia. Houd er rekening mee dat in de Nederlandstalige versie van Wikipedia veelal informatie vanuit een koloniaal perspectief ongefilterd is overgenomen. Het is daarom aanbevolen om ook altijd de versie in de taal van het herkomstgebied te raadplegen.
 
 Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale collecties is inmiddels gedigitaliseerd, hetgeen het onderzoek aanzienlijk vergemakkelijkt. Digitale databanken worden voortdurend aangevuld. Het loont daarom om een zoektocht die niets heeft opgeleverd na enige tijd te herhalen.
 

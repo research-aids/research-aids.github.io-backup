@@ -7,13 +7,13 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MOudenbosch.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MOudenbosch.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MOudenbosch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MOudenbosch.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-07
+_first edited by UNKNOWN as UNKNOWN on 2025-07-22
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-07
+_last edited by UNKNOWN as UNKNOWN on 2025-07-22
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
 
@@ -22,8 +22,6 @@ _last edited by UNKNOWN as UNKNOWN on 2025-07-07
 
 
 ## Abstract
-
-The Natuurhistorisch en Volkenkundig Museum Oudenbosch (Natural History and Ethnographic Museum Oudenbosch) was founded in 1956 from the collection of natural history, archaeological and ethnographic objects of the Brothers of Saint Louis. This congregation opened a boys' boarding school in the village of Oudenbosch in the Dutch province of North Brabant in 1840. The objects that missionaries brought back from their travels to Southeast Asia and Africa were used to teach the boarding school pupils.
 
 The Natuurhistorisch en Volkenkundig Museum Oudenbosch (Natural History and Ethnographic Museum Oudenbosch) was founded in 1956 from the collection of natural history, archaeological and ethnographic objects of the Brothers of Saint Louis. This congregation opened a boys' boarding school in the village of Oudenbosch in the Dutch province of North Brabant in 1840. The objects that missionaries brought back from their travels to Southeast Asia and Africa were used to teach the boarding school pupils.
 
@@ -42,16 +40,16 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
 
 ## Related Aids
 
-_see also: [Christian mission](published/niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Museums and collection holding institutions](published/niveau2/English/Museum_20250113.yml)_  
-_see also: [Artis Ethnographic Museum](published/niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Naturalis Biodiversity Center](published/niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Wereldmuseum Amsterdam](published/niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Berg en Dal](published/niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Wereldmuseum Leiden](published/niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](published/niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Missiemuseum Steyl](published/niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/English/GerardusLeeuw_20250602.yml)_  
+_see also: [Christian mission](niveau2/English/ChristianMission_20240417.yml)_  
+_see also: [Museums and collection holding institutions](niveau2/English/Museum_20250113.yml)_  
+_see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+_see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
+_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Primary sources
 
@@ -95,7 +93,7 @@ http://www.wikidata.org/entity/Q2299923
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084), [Congo](https://sws.geonames.org/2260494)
+[Indonesia](https://sws.geonames.org/1643084/), [Congo](https://sws.geonames.org/2260494/)
 ,
   Period of activity:
   Year of start:

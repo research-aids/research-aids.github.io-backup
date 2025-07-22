@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/CivilServants.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/CivilServants.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/CivilServants.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/CivilServants.docx){: .btn .btn-blue }
 
 _This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-20_  
-_last edited by wiebe reints as original_author on 2024-03-20_
+_first edited by Wiebe Reints as original_author on 2024-03-20_  
+_last edited by Wiebe Reints as original_author on 2024-03-20_
 
 
 # Ambtenaren in gekoloniseerde gebieden
@@ -21,15 +21,13 @@ _last edited by wiebe reints as original_author on 2024-03-20_
 
 Koloniale bestuursambtenaren speelden een belangrijke rol in de verzameling van objecten tijdens het koloniale tijdperk. Sommigen onderhielden eigen collecties die ze later doneerde aan collectiebeherende instellingen in Nederland.
 
-Koloniale bestuursambtenaren speelden een belangrijke rol in de verzameling van objecten tijdens het koloniale tijdperk. Sommigen onderhielden eigen collecties die ze later doneerde aan collectiebeherende instellingen in Nederland.
-
 ### Beschrijving
 
 Om de Nederlandse koloniën te besturen werden ambtenaren aangesteld. Met name in voormalig [Nederlands-Indië](https://sws.geonames.org/1643084) en [Suriname](https://sws.geonames.org/3382998) waren vele ambtenaren actief, die voor een deel vanuit Nederland werden aangestuurd. Onder hen waren niet alleen ambtenaren voor het bestuur, maar ook voor het onderwijs, de rechtspraak, belastingdienst, politie, landbouw en andere overheidsdiensten, bijvoorbeeld het Kantoor voor Inlandse Zaken, de meteorologische en de oudheidkundige dienst.
   
 Het bestuursapparaat verschilde per kolonie, waarbij de positie van gouverneur(-generaal) een overeenkomst is. De bestuurlijke structuur van een kolonie kan worden teruggevonden in de zoekhulp over die specifieke kolonie. Belangrijk om te weten is dat gedurende de Franse overheersing  van het Europese Nederland, het overgrote deel van het Nederlandse koloniale grondgebied onder Engels bestuur terecht kwam: het zogenaamde Engels tussenbestuur, of interregnum. Het kan dus voorkomen dat je met betrekking tot ambtenaren Engelse namen tegenkomt in archieven uit de periode tussen ongeveer 1795 en 1820. Een voorbeeld hiervan is [Thomas Stamford Raffles](http://www.wikidata.org/entity/Q130327), die tussen 1811 en 1816 gouverneur was van voormalig Nederlands-Indië.
   
-Een aanzienlijk deel van de voorwerpen in Nederlandse collecties is afkomstig van bestuursambtenaren en andere personen die in overheidsdienst waren. Vanaf 1862 werden bestuursambtenaren in Nederlands-Indië aangemoedigd om verzamelingen aan te leggen en naar het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) te sturen. Dit genootschap zou dan voor de verdeling tussen het eigen museum en de musea in Nederland zorgen. In de praktijk kwam hier weinig van terecht en bepaalden ambtenaren zelf wat zij met de voorwerpen in hun bezit deden.
+Een aanzienlijk deel van de voorwerpen in Nederlandse collecties is afkomstig van bestuursambtenaren en andere personen die in overheidsdienst waren. Vanaf 1862 werden bestuursambtenaren in Nederlands-Indië aangemoedigd om verzamelingen aan te leggen en naar het [Bataviaasch Genootschap der Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) te sturen. Dit genootschap zou dan voor de verdeling tussen het eigen museum en de musea in Nederland zorgen. In de praktijk kwam hier weinig van terecht en bepaalden ambtenaren zelf wat zij met de voorwerpen in hun bezit deden.
   
 ### Herkomstonderzoek
 
@@ -64,8 +62,8 @@ _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_
 _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
 _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 
@@ -112,17 +110,17 @@ Zoekhulp:
 > _Zoekhulp van het Nationaal Archief met een overzicht van alle archieftoegangen die betrekking hebben tot Nederlands-Indië en verdere informatie over het raadplegen van deze archieven._  
 
 Boek:
-  > Fasseur, Cees. De indologen: ambtenaren voor de Oost 1825-1950. Amsterdam: Bert Bakker, 1994.  
+  > Fasseur, C. De indologen: ambtenaren voor de Oost 1825-1950. Amsterdam: Aula, 2003.  
 > [https://search.worldcat.org/title/66730672](https://search.worldcat.org/title/66730672), [ISBN 9789057137723](https://isbnsearch.org/isbn/9789057137723), [WorldCat 66730672](https://search.worldcat.org/title/66730672)  
 > _Boek over het Indisch ambtenarenonderwijs. De schrijver gaat in op de achtergrond en herkomst van studenten en docenten._  
 
 Boek:
-  > Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.  
+  > Graaff, M.G.H.A. de. Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. [Verbeterde uitgave]. Den Haag, 2015.  
 > [https://search.worldcat.org/title/921923079?oclcNum=921923079](https://search.worldcat.org/title/921923079?oclcNum=921923079), [WorldCat 921923079](https://search.worldcat.org/title/921923079)  
 > _Gids voor het doen van onderzoek in het archief van het Ministerie van Koloniën._  
 
 Boek:
-  > Doel, H. W. van den. De Stille Macht : Het Europese Binnenlands Bestuur Op Java En Madoera, 1808-1942 (Amsterdam: Bert Bakker, 1994).  
+  > Doel, H. W. van den. De Stille Macht: Het Europese Binnenlands Bestuur Op Java En Madoera, 1808-1942. Amsterdam: Bert Bakker, 1994.  
 > [https://search.worldcat.org/title/471738724](https://search.worldcat.org/title/471738724), [ISBN 9789035114050](https://isbnsearch.org/isbn/9789035114050), [WorldCat 471738724](https://search.worldcat.org/title/471738724)  
 > _Boek over de ontwikkeling van het Nederlandse koloniale bestuur in Indonesië tussen 1808 en 1942._  
 
@@ -141,6 +139,6 @@ Tags:
 ,
   Geographical:
   
-[ABCSSS-eilanden](https://sws.geonames.org/8505032), [Indonesië] (https://sws.geonames.org/1643084), [Suriname] (https://sws.geonames.org/3382998)
+[ABCSSS-eilanden](https://sws.geonames.org/8505032/), [Indonesië] (https://sws.geonames.org/1643084/), [Suriname] (https://sws.geonames.org/3382998/)
 
         

@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-07-10_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-07-10_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -8,8 +8,6 @@ _last edited by abacus as translator on 2025-04-24
 
 
 ## Abstract
-
-Naturalis Biodiversity Center, before the Rijksmuseum van Natuurlijke Historie (State Museum of Natural History), was founded in 1820 in Leiden. The focus of Naturalis is threefold: accumulating and maintaining a collection of natural historical objects, conducting research into the collection and exhibit the collection to a broad audience. A large part of Naturalis' collection originates from the former Dutch East Indies and other former Dutch colonies. In the 19th and 20th century, scientists amassed large collections of natural historical specimens in these regions.
 
 Naturalis Biodiversity Center, before the Rijksmuseum van Natuurlijke Historie (State Museum of Natural History), was founded in 1820 in Leiden. The focus of Naturalis is threefold: accumulating and maintaining a collection of natural historical objects, conducting research into the collection and exhibit the collection to a broad audience. A large part of Naturalis' collection originates from the former Dutch East Indies and other former Dutch colonies. In the 19th and 20th century, scientists amassed large collections of natural historical specimens in these regions.
 
@@ -62,9 +60,9 @@ _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_
 _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.ymll)_  
 _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)_  
 _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
-_see also: [Museon-Omniversum](published/niveau3/English/Museon_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/English/MOudenbosch_20250603.yml)_  
+_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -133,7 +131,7 @@ Naturalis, Rijksmuseum van Natuurlijke Historie, Rijksmuseum van Geologie en Min
 ,
   Geographical:
   
-[Europe](https://sws.geonames.org/6255148), [Asia](https://sws.geonames.org/6255147), [Africa](https://sws.geonames.org/6255146), [Oceania](https://geonames.org/6255151), [North America](https://sws.geonames.org/6255149), [South America](https://sws.geonames.org/6255150)
+[Europe](https://sws.geonames.org/6255148/), [Asia](https://sws.geonames.org/6255147/), [Africa](https://sws.geonames.org/6255146/), [Oceania](https://geonames.org/6255151/), [North America](https://sws.geonames.org/6255149/), [South America](https://sws.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

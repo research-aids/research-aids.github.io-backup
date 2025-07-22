@@ -1,6 +1,6 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-09-05_  
-_last edited by abacus as translator on 2025-04-24
+_first edited by Wiebe Reints as original_author on 2024-09-05_  
+_last edited by Abacus as translator on 2025-04-24
         (applies to section: Main-text; Sources)_
 
 
@@ -10,8 +10,6 @@ _last edited by abacus as translator on 2025-04-24
 ## Abstract
 
 Today's Rijksmuseum Amsterdam was founded in 1885. It is an amalgamation of several 19th century Dutch collections. The collection includes objects coming from the Royal Cabinet of Curiosities. Additionally, the collection of the Royal Asian Art Society in the Netherlands is exhibited in the Rijksmuseum.
-
-Today's Rijksmuseum Amsterdam was founded in 1885. It is an amalgamation of several 19th century Dutch collections. The collection includes objects coming from the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1). Additionally, the collection of the [Royal Asian Art Society in the Netherlands](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F406a43378409167aedcac1ac77cdedb5) is exhibited in the Rijksmuseum.
 
 ### Description
 
@@ -38,7 +36,7 @@ _see also: [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20
 _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 
@@ -77,7 +75,7 @@ http://www.wikidata.org/entity/Q190804
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084), [Sri Lanka](https://sws.geonames.org/1227603)
+[Indonesia](https://sws.geonames.org/1643084/), [Sri Lanka](https://sws.geonames.org/1227603/)
 ,
   Period of activity:
   Year of start:

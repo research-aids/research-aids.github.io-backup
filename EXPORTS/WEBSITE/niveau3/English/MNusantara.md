@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MNusantara.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MNusantara.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MNusantara.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MNusantara.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-02-25_  
-_last edited by wiebe reints as original_author on 2025-02-25_
+_first edited by Wiebe Reints as original_author on 2025-02-25_  
+_last edited by Wiebe Reints as original_author on 2025-02-25_
 
 
 # Museum Nusantara
@@ -20,8 +20,6 @@ _last edited by wiebe reints as original_author on 2025-02-25_
 ## Abstract
 
 Museum Nusantara was a museum in the city of Delft that held a collection of predominantly Indonesian objects. After the museum's closing in 2013, 1500 objects were transferred to Indonesia. The rest of the collection was divided among museums in the Netherlands and abroad, including Wereldmuseum Leiden.
-
-Museum Nusantara was a museum in the city of Delft that held a collection of predominantly Indonesian objects. After the museum's closing in 2013, 1500 objects were transferred to Indonesia. The rest of the collection was divided among museums in the Netherlands and abroad, including [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b).
 
 ### Description
 
@@ -43,9 +41,9 @@ After the closing of Museum Nusantara, its archive was transferred to the [Stads
 _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
 _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
 _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Hoofdcursus Kampen](published/niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](published/niveau3/English/JustinusNassau_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](published/niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 
@@ -99,7 +97,7 @@ http://www.wikidata.org/entity/Q2668933
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084)
+[Indonesia](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:
