@@ -15,7 +15,7 @@ class EditEvent:
         self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
         self.author = author
         self.role = role
-        self.is_origin = ("original_author" in self.role.lower().replace(" ", "_"))
+        self.is_origin = ("original_author" in self.role.lower().replace(" ", "_")) if self.role else False
         
         self.applies_to = applies_to
         self.notes = notes
