@@ -5,12 +5,13 @@ class EditEvent:
     def from_yaml(cls, yml):
         appl = yml.get("applies_to", None) 
         notes = yml.get("notes", None)
+        role = yml.get("role", None)
         return cls(yml["date"],
                    yml["author"],
-                   yml["role"],
+                   role,
                    appl, notes)        
         
-    def __init__(self, date, author, role, applies_to=None, notes=None):
+    def __init__(self, date, author, role=None, applies_to=None, notes=None):
         self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
         self.author = author
         self.role = role
@@ -23,9 +24,12 @@ class EditEvent:
         return str(self.__dict__)
         
     def to_markdown(self, markdown=""):
-        return markdown + f"""edited by {self.author} as {self.role} on {self.date.strftime("%Y-%m-%d")}
-        {f'(applies to section: {self.applies_to})' if self.applies_to else ''}
-        {f'(notes: {self.notes})' if self.notes else ''}""".strip()
+        role = f"as {self.role}" if self.role else ""
+        appl = f'(applies to section: {self.applies_to})' if self.applies_to else ''
+        notes = f'(notes: {self.notes})' if self.notes else ''
+        return markdown + f"""edited by {self.author} {role} on {self.date.strftime("%Y-%m-%d")}
+        {appl}
+        {notes}""".strip()
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
