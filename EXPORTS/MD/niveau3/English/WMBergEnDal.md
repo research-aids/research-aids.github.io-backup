@@ -32,14 +32,14 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 
 ## Related Aids
 
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

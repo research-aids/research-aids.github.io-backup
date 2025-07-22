@@ -40,15 +40,15 @@ De fotocollectie van het Wereldmuseum Rotterdam is in 2008 overgedragen aan het 
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

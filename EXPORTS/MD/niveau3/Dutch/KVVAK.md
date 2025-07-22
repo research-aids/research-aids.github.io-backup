@@ -25,8 +25,8 @@ Niet de gehele collectie Aziatische kunst van het Rijksmuseum is een bruikleen v
 
 ## Related Aids
 
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
 
 ## Primary sources
 

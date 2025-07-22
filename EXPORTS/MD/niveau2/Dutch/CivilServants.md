@@ -37,22 +37,22 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
-_see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
-_see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
-_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)_  
+ - _see also: [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
+ - _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+ - _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
+ - _see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 

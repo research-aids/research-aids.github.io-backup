@@ -29,17 +29,17 @@ Bij de verschillende musea die naderhand objecten hebben ontvangen is archiefmat
 
 ## Related Aids
 
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
+ - _see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
 
 ## Primary sources
 

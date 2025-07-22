@@ -36,10 +36,10 @@ Het museum beheert verschillende datasets over stamboeken van het KNIL, uitgezon
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
-_see also: [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
+ - _see also: [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
 
 ## Primary sources
 

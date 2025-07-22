@@ -43,13 +43,13 @@ Archives of missionary organisations are scattered. Substantial archival collect
 
 ## Related Aids
 
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

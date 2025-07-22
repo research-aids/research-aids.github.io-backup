@@ -42,24 +42,24 @@ Although this thematic subdivision provides a good overview of the ways in which
 
 ## Related Aids
 
-_see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
-_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
-_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+ - _see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
+ - _see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary Sources
 

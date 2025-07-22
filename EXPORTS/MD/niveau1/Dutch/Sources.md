@@ -81,21 +81,21 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
 
 ## Related Aids
 
-_see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
-_see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
+ - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
+ - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
 
 
         

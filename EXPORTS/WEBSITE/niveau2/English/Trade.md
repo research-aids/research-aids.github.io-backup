@@ -49,21 +49,21 @@ The French portal [AGORHA](https://agorha.inha.fr) also contains information on 
 
 ## Related Aids
 
-_broader: [Sources](niveau1/English/Sources_20240501.yml)_  
-_broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)_  
-_see also: [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)_  
-_see also: [Royal Asian Art Society in the Netherlands](niveau3/English/RAAS_20240508.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Artis Ethnograpic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+ - _broader: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)_  
+ - _see also: [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)_  
+ - _see also: [Royal Asian Art Society in the Netherlands](niveau3/English/RAAS_20240508.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Artis Ethnograpic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 

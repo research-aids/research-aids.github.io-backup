@@ -54,9 +54,9 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
 
 ## Related Aids
 
-_see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
+ - _see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
 
 
         

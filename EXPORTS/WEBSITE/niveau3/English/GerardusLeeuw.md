@@ -36,9 +36,9 @@ The archive of the Gerardus van der Leeuw Ethnographic Museum (until 1995) is ho
 
 ## Related Aids
 
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science_20240821.yml)_  
-_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

@@ -36,12 +36,12 @@ Veel archiefmateriaal en door Reinwardt gepubliceerde werken zijn online beschik
 
 ## Related Aids
 
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [RMO](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [RMO](niveau3/Dutch/RMO_20241106.yml)_  
 
 ## Primary sources
 

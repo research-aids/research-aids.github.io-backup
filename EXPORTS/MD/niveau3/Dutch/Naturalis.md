@@ -51,17 +51,17 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
-_see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+ - _see also: [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

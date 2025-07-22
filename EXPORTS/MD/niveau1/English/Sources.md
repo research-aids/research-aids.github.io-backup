@@ -82,21 +82,21 @@ Some collectors and organisations were active in several European countries, whi
 
 ## Related Aids
 
-_see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
-_see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
+ - _see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
 
 
         

@@ -38,10 +38,10 @@ De collectie van het Missiemuseum is tot op heden niet volledig geregistreerd, d
 
 ## Related Aids
 
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

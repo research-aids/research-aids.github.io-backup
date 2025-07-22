@@ -37,18 +37,18 @@ Archives relating to the Artis Ethnographic Museum are spread across several ins
 
 ## Related Aids
 
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [The trade in objects from a colonial context](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)_  
-_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [The trade in objects from a colonial context](niveau2/Dutch/Trade_20240326.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)_  
+ - _see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+ - _see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

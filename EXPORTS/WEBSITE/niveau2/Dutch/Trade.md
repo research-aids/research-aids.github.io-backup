@@ -48,21 +48,21 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
-_see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
-_see also: [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK_20240312.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
-_see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
+ - _see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
+ - _see also: [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK_20240312.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
+ - _see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 

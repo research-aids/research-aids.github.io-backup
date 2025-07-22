@@ -27,9 +27,9 @@ Tijdens de Tweede Wereldoorlog zijn tienduizenden cultuurgoederen vanuit Nederla
 
 ## Related Aids
 
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
 
 ## Primary sources
 

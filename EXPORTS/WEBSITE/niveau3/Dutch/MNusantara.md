@@ -38,12 +38,12 @@ Het archief van Museum Nusantara is na de sluiting van het museum overgebracht n
 
 ## Related Aids
 
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
-_see also: [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
+ - _see also: [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
 
 ## Primary sources
 

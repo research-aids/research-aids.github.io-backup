@@ -33,13 +33,13 @@ De tekstcollecties van het KITLV kunnen worden aangevraagd via de [online catalo
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)_  
-_see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)_  
+ - _see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
 
 ## Primary sources
 

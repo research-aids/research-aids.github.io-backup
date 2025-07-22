@@ -28,9 +28,9 @@ The [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960] (https:
 
 ## Related Aids
 
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
 
 ## Primary sources
 

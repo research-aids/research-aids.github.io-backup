@@ -40,16 +40,16 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
 
 ## Related Aids
 
-_see also: [Christian mission](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Museums and collection holding institutions](niveau2/English/Museum_20250113.yml)_  
-_see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
+ - _see also: [Christian mission](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Museums and collection holding institutions](niveau2/English/Museum_20250113.yml)_  
+ - _see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Primary sources
 

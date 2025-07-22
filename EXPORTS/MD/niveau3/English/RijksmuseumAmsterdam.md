@@ -26,17 +26,17 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 
 ## Related Aids
 
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20240508.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20240508.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 

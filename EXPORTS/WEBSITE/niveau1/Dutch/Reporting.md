@@ -63,9 +63,9 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
 
 ## Related Aids
 
-_see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
-_see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)_  
+ - _see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
+ - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)_  
 
 
         

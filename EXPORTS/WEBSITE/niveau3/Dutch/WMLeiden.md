@@ -42,27 +42,27 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
-_see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
-_see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
-_see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
-_see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
-_see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
+ - _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
+ - _see also: [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)_  
+ - _see also: [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)_  
+ - _see also: [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+ - _see also: [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+ - _see also: [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Secondary sources
 

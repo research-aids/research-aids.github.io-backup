@@ -37,9 +37,9 @@ Het archief van het Volkenkundig Museum 'Gerardus van der Leeuw' (tot 1995) is o
 
 ## Related Aids
 
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

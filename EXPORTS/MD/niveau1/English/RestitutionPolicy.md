@@ -80,8 +80,8 @@ After deliberation, the final advice of the Colonial Collections Committee is pr
 
 ## Related Aids
 
-_see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
 
 
         

@@ -79,10 +79,10 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
 
 ## Related Aids
 
-_see also: [Verslagleggen](niveau1/Dutch/Reporting_20240501.yml)_  
-_see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
-_see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Verslagleggen](niveau1/Dutch/Reporting_20240501.yml)_  
+ - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
+ - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
 
 
         

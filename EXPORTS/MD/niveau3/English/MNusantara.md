@@ -27,12 +27,12 @@ After the closing of Museum Nusantara, its archive was transferred to the [Stads
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+ - _see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+ - _see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
 
 ## Primary sources
 

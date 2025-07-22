@@ -42,13 +42,13 @@ Archieven van zending- en missieorganisaties zijn verspreid. Omvangrijke archief
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

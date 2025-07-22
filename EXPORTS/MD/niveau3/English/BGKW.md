@@ -30,18 +30,18 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
 
 ## Primary sources
 

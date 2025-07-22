@@ -28,25 +28,25 @@ Be aware that scientists may have been active at several institutions and so it 
 
 ## Related Aids
 
-_broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_narrower: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
-_see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
-_see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
-_see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
-_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
+ - _broader: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
+ - _narrower: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)_  
+ - _see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
+ - _see also: [Museon-Omniversum](niveau3/English/Museon_20250513.yml)_  
+ - _see also: [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)_  
+ - _see also: [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Secondary sources
 

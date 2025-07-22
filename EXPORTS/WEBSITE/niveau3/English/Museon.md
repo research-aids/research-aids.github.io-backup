@@ -38,10 +38,10 @@ The Museon archive is managed by the [The Hague Municipal Archives](https://hdl.
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Naturalis](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Naturalis](niveau3/English/Naturalis_20270710.yml)_  
 
 ## Primary sources
 

@@ -42,14 +42,14 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

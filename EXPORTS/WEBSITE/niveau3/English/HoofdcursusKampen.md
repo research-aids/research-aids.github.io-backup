@@ -34,11 +34,11 @@ The archive of the ethnographic collection of the Main Course was merged with th
 
 ## Related Aids
 
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
-_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+ - _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
 
 ## Primary sources
 

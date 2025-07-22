@@ -35,13 +35,13 @@ The archives of the Agricultural College until 1959 are held in the [Gelders Arc
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
-_see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
-_see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
-_see also: [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)_  
+ - _see also: [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)_  
+ - _see also: [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)_  
+ - _see also: [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)_  
 
 ## Primary sources
 

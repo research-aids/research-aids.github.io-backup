@@ -28,10 +28,10 @@ The Missiemuseum's collection is not fully registered although this is being wor
 
 ## Related Aids
 
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 

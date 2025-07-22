@@ -81,10 +81,10 @@ A number of the Dutch-language sources for provenance research into colonial col
 
 ## Related Aids
 
-_see also: [Sources](niveau1/English/Sources_20240501.yml)_  
-_see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
-_see also: [Reporting](niveau1/English/Reporting_20240501.yml)_  
-_see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
+ - _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
+ - _see also: [Reporting](niveau1/English/Reporting_20240501.yml)_  
+ - _see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
 
 
         
