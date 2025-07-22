@@ -20,7 +20,7 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden_20240508.yml"
         rel_type: "see also"
-  - "RMO":
+  - "Rijksmuseum van Oudheden":
         link: "niveau3/English/RMO_20241106.yml"
         rel_type: "see also"
 
