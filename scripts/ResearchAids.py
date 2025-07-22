@@ -11,7 +11,7 @@ class EditEvent:
                    role,
                    appl, notes)        
         
-    def __init__(self, date, author, role=None, applies_to=None, notes=None):
+    def __init__(self, date, author, role, applies_to=None, notes=None):
         self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
         self.author = author
         self.role = role

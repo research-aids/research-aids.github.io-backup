@@ -10,6 +10,8 @@ from io import StringIO
 
 # unused: from docx import Document
 from Markdown2docx import Markdown2docx
+# from md2docx_python.src.md2docx_python import markdown_to_word
+
 from markdown_pdf import MarkdownPdf, Section
 from yaml_to_markdown.md_converter import MDConverter
 MD_CONV = MDConverter()
@@ -87,6 +89,13 @@ This is level {level[-1]} of the RAs.
     #     markdown_content = handle.read()
     #     return markdown_content
 
+def remove_imgs(md):
+    img_regex = re.compile(r"!\[.+\]\(.+\)")
+
+    md_copy = md[:]
+    for instance in img_regex.findall(md_copy):
+        md_copy = md_copy.replace(instance, instance[1:])
+    return md_copy
 
 
 if __name__ == "__main__":
@@ -123,8 +132,9 @@ if __name__ == "__main__":
             pdf.save(new_name)
         elif fmt.lower() == "docx":
             try:
+                docx_md_content = remove_imgs(markdown_content)
                 # raise Exception("bold and italics don't render!")
-                docx = Markdown2docx(name, markdown=[markdown_content])
+                docx = Markdown2docx(name, markdown=[docx_md_content])
                 docx.eat_soup()
                 docx.outfile = new_name
                 docx.save()
