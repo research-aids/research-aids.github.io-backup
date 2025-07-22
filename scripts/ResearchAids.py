@@ -119,17 +119,20 @@ _first {self.edit_history.origin_event.to_markdown()}_
         # value_dict = next(yml.values())
         item_title, item_value_dict = tuple(yml.items())[0]
         rel_type = item_value_dict["rel_type"]
+
+        
         if rel_type.lower()  == "see also":
             # raise Exception("this Markdown doesn't get displayed right!")
-            return f"_see also: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "see also"
         elif rel_type == "broader":
-            return f"_broader: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "broader"
         elif rel_type == "narrower":
-            return f"_narrower: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "narrower"
         else:
             print(rel_type.lower())
             raise ValueError(f"{item_value_dict}")
 
+        return f" - _{rel_str}: [{item_title}]({item_value_dict["link"]})_  \n"
     
     def parse_anything(self, yml, result_md="", level=0):
         if isinstance(yml, (str, int, float, bool)):
