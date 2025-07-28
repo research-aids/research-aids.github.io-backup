@@ -260,8 +260,8 @@ class Level2(Level1):
                     md+= f"> _{source["Description and remarks"]}_  \n\n"
         return md
 
-    def parse_relevant_data(yml):
-        pass
+    def parse_relevant_data(self, yml):
+        return "TO BE FILLED"
                 
     def __call__(self):
         md = super().__call__()
