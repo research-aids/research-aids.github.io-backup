@@ -8,6 +8,8 @@ date: 2025-07-28
 --- 
 
 
+this new string from 28.07.2025
+
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Reporting.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Reporting.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
