@@ -69,7 +69,5 @@ Although this thematic subdivision provides a good overview of the ways in which
 
 ---
 ## Relevant Data 
-
-
-
+TO BE FILLED
         

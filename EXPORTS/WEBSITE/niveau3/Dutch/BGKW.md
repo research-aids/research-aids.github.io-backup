@@ -4,8 +4,11 @@ title: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/BGKW.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/BGKW.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2024-08-27_
 
 Het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen werd in 1778 opgericht. Het stelde zichzelf de taak de (schone) kunsten en wetenschappen in voormalig Nederlands-Indië te bevorderen. Lang besloot het Bataviaasch Genootschap of een object in Indonesië bleef, of dat het naar Nederland werd verzonden ten behoeve van de musea aldaar. Na 1962 is de collectie van het Genootschap opgegaan in het Nationale Museum van Indonesië.
 
-### Beschrijving
+### Geschiedenis
 
 Het Bataviaasch Genootschap van Kunsten en Wetenschappen, dat sinds 1910 het predicaat 'Koninklijk' droeg, werd in 1778 opgericht. Zodoende heeft het genootschap verscheidene koloniale besturen doorstaan, de VOC, de Franse periode, het Britse interregnum en ten slotte het Koninkrijk der Nederlanden. Na de Indonesische onafhankelijkheid werd in 1950 de naam van het genootschap veranderd in *Lembaga Kebudajaan Indonesia*, het Indonesisch Cultureel Instituut. In 1962 hield het instituut op te bestaan en is de collectie opgenomen in het Nationale Museum van Indonesië, dat nog altijd huist in het gebouw waar het Bataviaasch Genootschap in 1867 naartoe verhuisde. De leden van het genootschap waren voornamelijk afkomstig uit de hogere regionen van het koloniale bestuur in voormalig Nederlands-Indië, de lijntjes met het gezag waren om die reden dan ook kort. Ook was er veel contact met soortgelijke genootschappen in Nederland en met Nederlandse musea en wetenschappers. Op deze manier ontwikkelde het Bataviaasch Genootschap van Kunsten en Wetenschappen zich tot een spil in het culturele en wetenschappelijke veld binnen Nederlands-Indië.
 
@@ -30,6 +33,9 @@ Het doel van het Bataviaasch Genootschap was het bevorderen van de kunsten en we
 Vanaf 1878 gold dat alle door ambtenaren verzamelde objecten eerst naar het Bataviaasch Genootschap dienen te worden gestuurd, waar een selectie werd gemaakt. Een deel bleef zodoende in Batavia en het andere gedeelte werd naar Nederland opgestuurd. Dit is bijvoorbeeld de reden dat van de zogenaamde 'Lombokschat', die gedurende de Lombok-oorlog aan het eind van de negentiende eeuw door het Koninklijk Nederlands-Indisch Leger buit werd gemaakt, voor een deel in de collectie van het Bataviaasch Genootschap werd opgenomen.
 
 Vanaf 1779 publiceerde het Bataviaasch Genootschap wetenschappelijke bevindingen in *Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen* dat op een regelmatige basis werd uitgebracht en vanaf 1838 door het genootschap zelf werd uitgegeven. In 1853 richtte het genootschap ook het tijdschrift *Tijdschrift voor Indische taal- land- en volkenkunde* op. Ook de notulen van het genootschap werden sinds die tijd gepubliceerd, hierin is veelal interessante informatie te vinden over de objecten die werden verworven.
+
+![Foto uit 1948 van het museum van het Bataviaasch Genootschap voor Kunsten en Wetenschappen op het Koningsplein in Batavia (tegenwoordig het Museum Nasional in Jakarta, Indonesië)](https://upload.wikimedia.org/wikipedia/commons/8/80/Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein%2C_Bestanddeelnr_13905.jpg)
+_Het museum van het BGKW in 1948 ([R.G. Jonkman / Nationaal Archief Den Haag](https://commons.wikimedia.org/wiki/File:Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein,_Bestanddeelnr_13905.jpg))_
 
 ### Herkomstonderzoek
 
@@ -85,41 +91,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1789996
-,
-  Name variations:
-  
-Bataviaasch Genootschap, Lembaga Kebudajaan Indonesia
-,
-  Tags:
-  Activity:
-  
-[Genootschap](http://vocab.getty.edu/aat/300026009), [Collectie](http://vocab.getty.edu/aat/300025976), [Museum](http://vocab.getty.edu/aat/300312281)
-,
-  Type of objects:
-  
-[Natuurlijke objecten](http://vocab.getty.edu/aat/300404125), [Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591), [Mineralen](http://vocab.getty.edu/aat/300011068)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1778,
-  Year of end:
-  1962,
-  Collections:
-  General remarks:
-  content:
-  "De museale collectie van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen is na 1962 opgenomen in het Nationale Museum van Indonesië. De boekencollectie van het genootschap vormt sinds de oprichting in 1980 een onderdeel van de nationale bibliotheek van Indonesië."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

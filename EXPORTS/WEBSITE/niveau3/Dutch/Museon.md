@@ -4,8 +4,11 @@ title: Museon-Omniversum
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Museon.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Museon.docx){: .btn .btn-blue }
 
@@ -22,7 +25,7 @@ _last edited by Wiebe Reints as original_author on 2025-06-16
 
 Het Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht als onderwijsmuseum. Vanaf 1909 hield het verschillende tentoonstellingen met de verworven collectie die is opgedeeld in drie thema's: natuur, cultuur en technologie. Binnen zowel de natuurhistorische- als etnografische collecties van het museum bevinden zich verschillende objecten die zijn verworven in een koloniale context.
 
-### Beschrijving 
+### Geschiedenis van het museum 
 
 In oktober 1904 werd de 'Vereeniging Het museum ten bate van het Onderwijs' opgericht door een groep onderwijsvernieuwers die voorstanders waren van zogenaamd 'aanschouwelijk onderwijs'. Hiermee werd onderwijs bedoeld dat wordt ondersteund door het tonen van bijvoorbeeld voorwerpen, foto's of films. Enkele jaren later, in 1909, werd daadwerkelijk het Museum ten bate van het Onderwijs opgericht. Het 'Schoolmuseum' zoals het in de volksmond bekend kwam te staan was gevestigd aan de Nieuwmarkt in Den Haag en behandelde de vakgebieden geologie, volkenkunde, biologie en nijverheid. De collectie van de eerste directeur van het museum, de geoloog [Herman van Cappelle](http://www.wikidata.org/entity/Q2659534), vormde de basis van het museum. Van Cappelle is voornamelijk bekend van zijn onderzoekingen in Suriname. Door verschillende andere schenkingen van onder andere koningin Juliana is de collectie objecten uit Suriname van het Museon een van de grootste van Nederland.
 
@@ -82,41 +85,5 @@ Collectieplan:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/wiki/Q1954331
-,
-  Name variations:
-  
-Museum ten bate van het Onderwijs, Gemeentelijk museum voor het Onderwijs, Museon
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Natuurlijke objecten](http://vocab.getty.edu/aat/300404125), [Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591), [Dierlijke specimens](http://vocab.getty.edu/aat/300420186), [Mineralen](http://vocab.getty.edu/aat/300011068), [Fossielen](http://vocab.getty.edu/aat/300011068), [Oudheidkundige objecten](http://vocab.getty.edu/aat/300234110)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/), [Tibet](https://sws.geonames.org/8449601/), [Nepal](https://sws.geonames.org/1282988/), [Thailand](https://sws.geonames.org/1605651/), [India](https://sws.geonames.org/1269750/), [Azië](https://sws.geonames.org/6255147/), [Noord-Afrika](https://sws.geonames.org/7729887/), [Zuidelijk Afrika](https://sws.geonames.org/9406051/), [Centraal Afrika](https://sws.geonames.org/7729886/), [Oost-Afrika](https://sws.geonames.org/7729889/), [West-Afrika](https://sws.geonames.org/7729885/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Suriname](https://sws.geonames.org/3382998/), [Midden-Amerika](https://sws.geonames.org/7729892/), [Zuid-Amerika](https://sws.geonames.org/6255150/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Oceanië](https://sws.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1904,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "Het Museon heeft een soortgelijke collectiewebsite als het Wereldmuseum. De volledige collectie is benaderbaar en is onderverdeeld in 'Natuur', 'Cultuur', 'Technologie' en 'Beeldmateriaal'."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://cc.museon-omniversum.nl/#/query/01056f93-83f2-47b0-bc5b-fd7033c7ee0c
+TO BE FILLED
         

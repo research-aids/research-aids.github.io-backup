@@ -4,8 +4,11 @@ title: Wetenschappelijk onderzoek in gekoloniseerde gebieden
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/Science.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/Science.docx){: .btn .btn-blue }
 
@@ -83,17 +86,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Onderzoekers](http://vocab.getty.edu/aat/300025576), [Wetenschap](http://vocab.getty.edu/aat/300054135)
-,
-  Type of objects:
-  
-[Natuurhistorische objecten](http://vocab.getty.edu/aat/300379591), [Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/)
-
+TO BE FILLED
         

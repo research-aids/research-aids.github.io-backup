@@ -11,7 +11,7 @@ _last edited by Wiebe Reints as original_author on 2025-06-16
 
 Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etnografisch museum in Groningen, dat een onderdeel vormde van de universiteit aldaar. De museumcollectie bestond uit verschillende deelcollecties, waaronder uit objecten van de voormalige Tropische Landbouwschool in Deventer en Museum Princessehof in Leeuwarden. Na de sluiting van het museum in 2003 werd de collectie onderdeel van het universiteitsmuseum van de Rijksuniversiteit Groningen (RUG).
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Het voormalig Volkenkundig Museum 'Gerardus van der Leeuw' ontstond uit de persoonlijke etnografische collectie van de godsdiensthistoricus [Theo van Baaren](https://www.wikidata.org/entity/Q1923049) die als hoogleraar aan de Rijksuniversiteit Groningen was verbonden. Van Baaren bezocht nooit zelf de landen waarvan hij voorwerpen verzamelde, maar kocht zijn collectie bij elkaar via kunsthandelaren. In 1968 schonk Van Baaren zijn collectie aan de Groningse universiteit, waarna de stichting Gerardus van der Leeuw werd opgericht, genoemd naar de hoogleraar die Van Baaren had opgevolgd. Via deze vereniging werd Van Baarens collectie ruimschoots uitgebreid. Onder andere museum Het Princessehof in Leeuwarden schonk haar etnografische collectie aan het museum in Groningen, omdat het Friese museum zich enkel ging richten op het verzamelen van keramiek. De gemeente Deventer schonk de collectie van de voormalige Tropische Landbouwschool. Daarnaast gaf de zakenman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) zijn collectie etnografica in langdurige bruikleen. Samen met de door de Vereniging Gerardus van der Leeuw aangekochte objecten, vormden bovenstaande collecties de kern van het Volkenkundig Museum 'Gerardus van der Leeuw' dat in 1978 haar deuren opende aan de Nieuwe Kijk in 't Jatstraat in Groningen-stad. Gedurende het bestaan van het museum werd de collectie door aankopen en schenkingen aangevuld. Na verschillende mislukte poging het etnografisch museum te laten fuseren met een ander museum in Groningen sloot Volkenkundig Museum 'Gerardus van der Leeuw' in 2003. De museumcollectie werd opgenomen door het Groninger universiteitsmuseum, waar de verzameling nog altijd deel vanuit maakt.
 
@@ -68,39 +68,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q14942678
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Universiteitsmuseum](http://vocab.getty.edu/page/aat/300444944)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Azië](https://sws.geonames.org/6255147/), [Noord-Afrika](https://sws.geonames.org/7729887/), [Zuidelijk Afrika](https://sws.geonames.org/9406051/), [Centraal Afrika](https://sws.geonames.org/7729886/), [Oost-Afrika](https://sws.geonames.org/7729889/), [West-Afrika](https://sws.geonames.org/7729885/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Midden-Amerika](https://sws.geonames.org/7729892/), [Zuid-Amerika](https://sws.geonames.org/6255150/), [Oceanië](https://www.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1978,
-  Year of end:
-  2003,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van het voormalige Volkenkundige Museum 'Gerardus van der Leeuw' maakt onderdeel uit van het museum van de Rijksuniversiteit Groningen. "
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://www.rug.nl/museum/collections/ethnological/
+TO BE FILLED
         

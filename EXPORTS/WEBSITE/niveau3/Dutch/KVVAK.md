@@ -4,8 +4,11 @@ title: Koninklijke Vereniging Vrienden der Aziatische Kunst
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KVVAK.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KVVAK.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2024-03-12_
 
 De KVVAK is een verzamelaarsvereniging die een grote collectie Aziatische kunst heeft opgebouwd, die sinds 1952 wordt tentoongesteld in het Rijksmuseum Amsterdam.
 
-### Beschrijving
+### Geschiedenis
 
 De [Koninklijke Vereniging van Vrienden der Aziatische Kunst (KVVAK)](https://www.wikidata.org/entity/Q96749093) is een in 1918 opgerichte vereniging die sinds 2018 het predicaat Koninklijk draagt. De KVVAK is op 29 juni 1918 opgericht door de ingenieur [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) en de verzamelaar en handelaar [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681) met het doel grotere bekendheid te geven aan [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), de belangstelling ervoor te stimuleren en de wetenschapsbeoefening op dit gebied te bevorderen. De eerste voorzitter van de vereniging was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) (1868-1941), die later zijn eigen collectie aan de KVVAK zou legateren. De collectie van de vereniging telt op dit moment ongeveer 1850 objecten, bestaande uit verschillende kunstvormen zoals beeldhouwkunst, Japanse [prenten](http://vocab.getty.edu/aat/300106750) en [keramiek](http://vocab.getty.edu/aat/300310706). 
 
@@ -122,43 +125,5 @@ Tijdschrift:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q96749093
-,
-  Name variations:
-  
-Vereniging Vrienden der Aziatische Kunst, Vereeniging Vrienden der Aziatische Kunst, KVVAK, VVAK, Museum voor Aziatische Kunst
-,
-  Tags:
-  Activity:
-  
-[Aziatisch paviljoen](http://www.wikidata.org/entity/Q37769044), [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Stedelijk Museum](https://www.wikidata.org/entity/Q924335), [Vereniging](http://vocab.getty.edu/aat/300025950), [Verzamelen](https://www.wikidata.org/entity/Q208165)
-,
-  Type of objects:
-  
-[Aziatische Kunst](https://www.wikidata.org/entity/Q3399573), [Borobudur](https://www.wikidata.org/entity/Q42798), [Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Oost-Azië](https://sws.geonames.org/7729894/), [Zuidoost-Azië](https://sws.geonames.org/7729896/)
-,
-  Period of activity:
-  Year of start:
-  1918,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  Op de website van de KVVAK is een [overzicht](https://www.kvvak.nl/collectie/) van de volledige collectie van de vereniging. Ook op de [collectiewebsite](https://www.rijksmuseum.nl/nl/zoeken/uitgebreid) van het Rijksmuseum zijn deze objecten terug te vinden. Binnen de collectiewebsite is een selectie gemaakt van [Aziatische Kunst](https://www.rijksmuseum.nl/nl/rijksstudio/kunstwerken/aziatische-kunst), maar let op: niet alle objecten zijn afkomstig van de KVVAK, het Rijksmuseum bezit ook zelf objecten die vallen onder de term Aziatische Kunst.
-,
-  content-type:
-  text/markdown,
-  Within Data Hub:
-  
-
-
+TO BE FILLED
         

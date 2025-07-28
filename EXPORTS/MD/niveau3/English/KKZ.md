@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-03-12
 
 The Royal Cabinet of Curiosities (Koninklijk Kabinet van Zeldzaamheden, KKZ) was founded in 1816 by King Willem I. The collection contained various objects from among others the Dutch colonies. In 1883, the KKZ was closed down, after which it's collection was divided amongst Dutch museums, such as the Rijksmuseum in Amsterdam and today's Wereldmuseum Leiden.
 
-### Description
+### History of the collection
 
 The Royal Cabinet of Curiosities was a museum in The Hague, founded in 1816 by [King Willem I](https://www.wikidata.org/entity/Q2079957). The museum took the form of a cabinet of curiosities and its collection comprised a wide array of objects, including many from Dutch and other powers’ colonies. Ultimately, it housed all sorts: objects related to Dutch history, Asian [applied arts](https://hdl.handle.net/20.500.11840/termmaster10049837), [ethnographic objects](https://hdl.handle.net/20.500.11840/termmaster10068984), and [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
 
@@ -113,37 +113,5 @@ Catalogue:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q34076860, https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22, https://hdl.handle.net/20.500.11840/pi57733
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Collection](http://vocab.getty.edu/aat/300025976), [Cabinet of curiosities](http://vocab.getty.edu/aat/300263444), [Museum](http://vocab.getty.edu/aat/300005768)
-,
-  Type of objects:
-  
-[Ethnographic objects](https://hdl.handle.net/20.500.11840/termmaster10068984), [Decorative art](https://hdl.handle.net/20.500.11840/termmaster10049837), [Naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008), [Numismatics](http://vocab.getty.edu/aat/300054419)
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Indonesia](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/), [North America](https://sws.geonames.org/6255149/), [Papua New Guinea](https://sws.geonames.org/2088628/), [Suriname](https://sws.geonames.org/3382998/), [Turkey](https://sws.geonames.org/298795/), [South Africa](https://sws.geonames.org/953987/)
-,
-  Period of activity:
-  Year of start:
-  1816,
-  Year of end:
-  1883,
-  Collections:
-  General remarks:
-  content:
-  Objects originating from the [Royal Cabinet of Curiosities](https://www.wikidata.org/entity/Q34076860) are found, among others, at the [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), the [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/entity/Q641676), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q854010), the [Rijksmuseum of Antiquities](https://www.wikidata.org/entity/Q2042754), the [Leiden University Library](https://www.wikidata.org/entity/Q638395), the [Smithsonian Institution](https://www.wikidata.org/entity/Q131626), and the [Rautenstrauch Joest Museum](https://www.wikidata.org/entity/Q2133582).
-,
-  content-type:
-  text/markdown
+TO BE FILLED
         

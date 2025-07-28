@@ -4,8 +4,11 @@ title: Zendelingen en missionarissen in gekoloniseerde gebieden
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/ChristianMission.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/ChristianMission.docx){: .btn .btn-blue }
 
@@ -98,17 +101,5 @@ Boekhoofdstuk:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Broeder](http://www.wikidata.org/entity/Q16824629), [Frater](http://vocab.getty.edu/aat/300266789), [Missionaris](http://www.wikidata.org/entity/Q219477), [Pater](http://www.wikidata.org/entity/Q435940), [Zendeling](http://www.wikidata.org/entity/Q20746152), [Zuster](https://www.wikidata.org/entity/Q191808)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

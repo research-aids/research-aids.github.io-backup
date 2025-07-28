@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2025-01-30_
 
 Museum Nusantara is een voormalig museum in Delft met een collectie van voornamelijk Indonesische objecten. Na de sluiting in 2013 zijn 1500 objecten teruggegeven aan Indonesië. Het overige deel is bij verschillende musea in Nederland en het buitenland terecht gekomen, waaronder Wereldmuseum Leiden.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 De collectie van [Museum Nusantara](http://www.wikidata.org/entity/Q2668933) vindt zijn oorsprong in de Instelling van onderwijs in de taal-, land- en volkenkunde van Nederlandsch-Indië, of kortweg: [de Indische Instelling](http://www.wikidata.org/entity/Q62604589). Tussen 1842 en 1864 was de [Koninklijke Akademie](http://www.wikidata.org/entity/Q21029912) gevestigd in Delft, waar zowel burgerlijke ingenieurs als koloniale bestuursambtenaren werden opgeleid. In 1864 werd de Koninklijke Akademie opgesplitst in de [Polytechnische School](http://www.wikidata.org/entity/Q56587288) (de voorloper van de huidige Technische Universiteit in Delft) en werd het onderwijs (en daarmee ook de relevante object- en bibliotheekcollectie) voor Indische bestuursambtenaren verplaatst naar Leiden, waar een meer academische opleiding werd gesticht. In navolging van dit beleid besloot de Gemeente Delft de Indische Instelling op te richten.
 
@@ -67,39 +67,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2668933
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1911,
-  Year of end:
-  2013,
-  Collections:
-  General remarks:
-  content:
-  "Na de sluiting van Museum Nusantara in 2013 is de museumcollectie verdeeld over verschillende instellingen. 1500 objecten zijn teruggekeerd naar Indonesië. De gehele collectie is te raadplegen op de overgebleven [website van Museum Nusantara](http://collectie-nusantara.nl/)."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: Rijksmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/RijksmuseumAmsterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/RijksmuseumAmsterdam.docx){: .btn .btn-blue }
 
@@ -22,9 +25,12 @@ _last edited by Abacus as translator on 2025-04-24
 
 Today's Rijksmuseum Amsterdam was founded in 1885. It is an amalgamation of several 19th century Dutch collections. The collection includes objects coming from the Royal Cabinet of Curiosities. Additionally, the collection of the Royal Asian Art Society in the Netherlands is exhibited in the Rijksmuseum.
 
-### Description
+### History of the museum
 
 The Rijksmuseum in Amsterdam in its current form dates from 1885, when the collections of several Dutch museums were merged. Direct predecessors of the Rijksmuseum are the [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) in Haarlem, Nederlandsch Museum van Geschiedenis en Kunst and the [Royal Cabinet of Curiosities](http://www.wikidata.org/entity/Q34076860), both in The Hague. Since 1952, the collection of the [Royal Society of Friends of Asian Art](http://www.wikidata.org/entity/Q96749093) (KVVAK) has also been exhibited at the Rijksmuseum. In the context of research into collections from a colonial context, the collections of the KVVAK and the Royal Cabinet of Curiosities within the Rijksmuseum collection are of particular interest.
+
+![Picture of the Rijksmuseum Amsterdam in around 1885](https://upload.wikimedia.org/wikipedia/commons/9/96/Rijksmuseum_Amsterdam_ca_1895_rotated.jpg)
+_The Rijksmuseum Amsterdam in ca. 1885 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam_ca_1895_rotated.jpg))_
 
 ### Provenance research
 
@@ -67,41 +73,5 @@ Publication:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q190804
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Museum](http://vocab.getty.edu/aat/300312281), [Collection](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Paintings](http://vocab.getty.edu/page/aat/300033618), [Decorative arts](http://vocab.getty.edu/page/aat/300054168)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/), [Sri Lanka](https://sws.geonames.org/1227603/)
-,
-  Period of activity:
-  Year of start:
-  1885,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "The Rijksmuseum collection within the data hub is a selection of objects originating from a colonial context."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?publishers=Rijksmuseum
+TO BE FILLED
         

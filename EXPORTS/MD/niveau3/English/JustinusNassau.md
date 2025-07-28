@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2025-05-13_
 
 The Volkenkundig Museum Justinus van Nassau was established as part of the Royal Military Academy in Breda. Before 1956, the museum operated independently, after which it became part of the Rijksmuseum voor Volkenkunde, now known as the Wereldmuseum Leiden. In 1993, the ethnographic museum in Breda closed its doors. The museum collection is still part of the Wereldmuseum.
 
-### Description
+### History of the museum
 
 Due to increasing demand for soldiers for the [(Royal) Dutch East Indies Army](http://www.wikidata.org/entity/Q523553), it was decided to establish an ‘Indies training programme’ at the [Royal Military Academy](http://www.wikidata.org/entity/Q934782) in Breda. To enrich the standard form of education, Claas Spat, who taught Malay language and literature at the KMA, decided to establish an ethnographic collection. Spat contacted the [Rijks Etnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (National Ethnographic Museum) which sent some doubles to Breda. Objects were also donated by fellow military personnel and the Dutch East Indies Government. The collection grew mainly after the so-called ‘pacification wars’ waged by the Dutch in Aceh, Lombok and Sulawesi. Among others, the soldier [G.C.E. van Daalen](http://www.wikidata.org/entity/Q4258823) donated a collection to the KMA. 
 
@@ -19,6 +19,9 @@ The collection, which was officially recognised in 1909 as the Ethnografische Ve
 When the Dutch Ministry of War had to make cutbacks in 1920, it was decided to discontinue the Hoofdcursus in Kampen, a similar military training programme with a less academic focus and therefore lower admission requirements. This resulted in the Kampen museum collection being incorporated into that of the KMA in 1923. H.J. Voskuil, who had succeeded Spat as the administrator of the Breda collection, found himself with a lack of exhibition space due to the merged collections. In 1925, it was therefore decided to use the former residence of Justinus van Nassau, who would later serve as the museum's namesake. While the Kampen collection had always been accessible to the public, this was not the case for the Breda collection. It was not until November 1938 that the museum in Breda officially opened its doors to the public.
 
 Due to the independence of Indonesia, the Indies training programme at the KMA was discontinued in 1949, which cast doubt on the future of the ethnographic museum. This led to an uncertain period for the museum in the early 1950s. Nevertheless, the collection continued to expand, partly because the then curator, Sjoerd Nauta, was offered the opportunity to make a selection from the British [‘Wellcome Collection’](http://www.wikidata.org/entity/Q7981191). Nauta selected various weapons from Africa, Australia and the Pacific to supplement his Indonesian collection. In 1956, the uncertainty came to an end when it was decided to make the Breda museum part of the [Rijksmuseum voor Volkenkunde](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now the Wereldmuseum) in Leiden. As a southern branch of the ethnographic museum in Leiden, exhibitions on areas other than Indonesia were also held in Breda. Exhibitions that had previously taken place in Leiden were often recycled at ‘Justinus van Nassau’. After persistent budget cuts in the 1980s, the then director of the Rijksmuseum voor Volkenkunde in Leiden, Steven Engelsman, decided to close the ethnographic museum in Breda on 1 January 1993. 
+
+![Photo from 1961 of the interior of one of the halls in the Volkenkundig Museum Justinus van Nassau](https://upload.wikimedia.org/wikipedia/commons/d/d7/Museum_voor_de_tropen%2C_interieur_-_Breda_-_20041718_-_RCE.jpg)
+_One of the halls in the Volkenkundig Museum Justinus van Nassau, 1961 ([G.Th. Delemarre / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Museum_voor_de_tropen,_interieur_-_Breda_-_20041718_-_RCE.jpg))_
 
 ### Provenance research
 
@@ -87,39 +90,5 @@ Provenance report:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q85400158
-,
-  Name variations:
-  
-Ethnografische Verzameling van de Koninklijke Militaire Academie en de Hoofdcursus, Ethnografische Verzameling van de Koninklijke Militaire Academie
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Weapons](http://vocab.getty.edu/page/aat/300036926)
-,
-  Geographical:
-  
-[Indonesia](https://www.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1923,
-  Year of end:
-  1993,
-  Collections:
-  General remarks:
-  content:
-  "The former Volkenkundig Museum Justinus van Nassau collection is since 1956 part of today's Wereldmuseum Leiden."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=%22justinus+van+nassau%22
+TO BE FILLED
         

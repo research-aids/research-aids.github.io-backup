@@ -4,8 +4,11 @@ title: Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KIT
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KITLV.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KITLV.docx){: .btn .btn-blue }
 
@@ -22,7 +25,7 @@ _last edited by Abacus as translator on 2025-04-07
 
 The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 with the task of establishing a scientific collection and promote the sciences in the Dutch colonies. Nowadays, the institute focuses on the study of Southeast Asia and the Caribbean region. In 2014, the entire collection of the KITLV was transferred to the Leiden University Libraries.
 
-### Description
+### History
 
 The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 by [Jean Chrétien Baud](http://www.wikidata.org/entity/Q2334397), [Taco Roorda](http://www.wikidata.org/entity/Q13138262) and [Gerrit Simons](http://www.wikidata.org/entity/Q2318641). From 1873 land studies, or geography, was left to the Koninklijk Nederlands Aardrijkskundig Genootschap (Royal Dutch Geographical Society, KNAG), founded in that year, while history joined linguistics and anthropology as a KITLV area of research. The initial tasks of the KITLV were threefold: establishing and maintaining a collection (including, for example, a large photographic collection), conducting research into and within regions colonised by the Netherlands, and publishing its research results in the journals *Bijdragen tot de taal-, land- en volkenkunde* and the *Nieuw West-Indische Gids*, with the latter focusing exclusively on research in and into the (Dutch) Caribbean region. Although the KITLV focused on the Dutch colonies in Southeast Asia and the Caribbean, the emphasis was on research in and into the Indonesian archipelago.
 
@@ -107,43 +110,5 @@ Magazine:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2282075
-,
-  Name variations:
-  
-KITLV, Koninklijk Instituut voor Taal-, Land- en Volkenkunde
-,
-  Tags:
-  Activity:
-  
-[Collection](http://vocab.getty.edu/aat/300025976), [Archive](http://vocab.getty.edu/aat/300312242
-,
-  Type of objects:
-  
-[Photographs](http://vocab.getty.edu/aat/300046300), [Books](http://vocab.getty.edu/aat/300028051), [Documents](http://vocab.getty.edu/aat/300026685), [Maps](http://vocab.getty.edu/page/300028094), [Manuscripts](http://vocab.getty.edu/page/aat/300252927)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Suriname](https://sws.geonames.org/3382998/)
-,
-  Period of activity:
-  Year of start:
-  1851,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  The KITLV collections were transferred to the Leiden University Library in 2014. The collection of books, journals, photographs, archival and audio-visual materials, among others, can for this reason be found through the [Leiden University Library catalog](https://catalogue.leidenuniv.nl)
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

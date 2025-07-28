@@ -4,8 +4,11 @@ title: Wageningen University & Research
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WageningenUniversity.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WageningenUniversity.docx){: .btn .btn-blue }
 
@@ -76,43 +79,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q422208, https://hdl.handle.net/20.500.11840/pi256
-,
-  Name variations:
-  
-Landbouwhogeschool, Rijkslandbouwschool, Landbouwuniversiteit Wageningen
-,
-  Tags:
-  Activity:
-  
-[Collection](http://vocab.getty.edu/aat/300025976), [Museum](http://vocab.getty.edu/aat/300005768)
-,
-  Soort objecten:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geografisch:
-  
-[Indonesia](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1876,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  The [Agricultural College](https://www.wikidata.org/entity/Q422208) collection was disposed of from about 1962 and dispersed around various institutions. Objects are currently in the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754) and [Museum Bronbeek](https://www.wikidata.org/entity/Q61930724). Objects may also be in other museums, especially when they were part of the collection of [Museum Nusantara](https://www.wikidata.org/entity/Q2668933).
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

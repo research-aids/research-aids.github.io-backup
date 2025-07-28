@@ -4,8 +4,11 @@ title: Museums and collection holding institutions
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Museum.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Museum.docx){: .btn .btn-blue }
 
@@ -80,7 +83,5 @@ Although this thematic subdivision provides a good overview of the ways in which
 
 ---
 ## Relevant Data 
-
-
-
+TO BE FILLED
         

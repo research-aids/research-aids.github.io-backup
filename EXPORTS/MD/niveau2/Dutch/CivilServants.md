@@ -117,17 +117,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Assistent-Resident](http://www.wikidata.org/entity/Q1871115), [Bestuursambtenaar](http://www.wikidata.org/entity/Q64495361), [Commies](http://www.wikidata.org/entity/Q2685184), [Controleur](http://www.wikidata.org/entity/Q28725568), [Districtscommissaris](http://www.wikidata.org/entity/Q76302606), [Gouverneur](https://data.cultureelerfgoed.nl/term/id/cht/9ffbac66-fc9a-4534-92fb-da1f90e41390), [Gouverneur-Generaal](http://www.wikidata.org/entity/Q382844), [Resident](http://www.wikidata.org/entity/Q19973930)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[ABCSSS-eilanden](https://sws.geonames.org/8505032/), [Indonesië] (https://sws.geonames.org/1643084/), [Suriname] (https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

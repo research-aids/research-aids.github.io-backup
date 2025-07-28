@@ -81,17 +81,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Kunsthandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf), [Etnografica](http://vocab.getty.edu/aat/300234108), [Kunstnijverheid](http://vocab.getty.edu/aat/300054168), [Handelshuis](http://vocab.getty.edu/aat/300417515), [Veilinghuis](http://vocab.getty.edu/aat/300417515)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[China](http://vocab.getty.edu/aat/300417515/), [Democratische Republiek Congo](https://sws.geonames.org/203312/), [Republiek Indonesië](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/)
-
+TO BE FILLED
         

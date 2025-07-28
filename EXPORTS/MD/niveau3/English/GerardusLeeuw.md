@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2025-05-13_
 
 Until 2003, the Gerardus van der Leeuw Ethnographic Museum was an ethnographic museum in Groningen and formed a part of the university in that city. The museum collection consisted of various sub-collections, including objects from the former Tropical Agricultural School in Deventer and the Princessehof Museum in Leeuwarden. After the museum closed in 2003, the collection became part of the University Museum of the University of Groningen.
 
-### Description
+### History of the museum
 
 The former Gerardus van der Leeuw Ethnographic Museum originated from the personal ethnographic collection of Theo van Baaren, a religion historian who was a professor at the University of Groningen. Van Baaren never visited the countries from which he collected objects, but acquired his collection through several art dealers. In 1968, Van Baaren donated his collection to the University of Groningen, after which a foundation was established, named after the professor who had succeeded Van Baaren, Gerardus van der Leeuw. Through this association, Van Baaren's collection was greatly expanded. Among others, the Princessehof Museum in Leeuwarden sent its ethnographic collection to Groningen, as the Frisian museum decided to focus solely on collecting ceramics. The municipality of Deventer donated the collection of the former Tropical Agricultural School. In addition, businessman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) gave his ethnographic collection on long-term loan. Together with the objects purchased by the Gerardus van der Leeuw Association, the above collections formed the core of the Gerardus van der Leeuw Ethnographic Museum, which opened its doors in 1978 on the Nieuwe Kijk in 't Jatstraat in the city of Groningen. During the museum's existence, the collection was supplemented by purchases and donations. After several unsuccessful attempts to merge the ethnographic museum with other museums in Groningen, the Gerardus van der Leeuw Ethnographic Museum closed in 2003. Afterwards, the museum collection was incorporated into the museum of the University of Groningen, where it remains until today.
 
@@ -67,39 +67,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q14942678
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/aat/300451067), [University museum](http://vocab.getty.edu/page/aat/300444944)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Asia](https://sws.geonames.org/6255147/), [North Africa](https://sws.geonames.org/7729887/), [Southern Africa](https://sws.geonames.org/9406051/), [Central Africa](https://sws.geonames.org/7729886/), [East Africa](https://sws.geonames.org/7729889/), [West Africa](https://sws.geonames.org/7729885/), [North America](https://sws.geonames.org/6255149/), [Central America](https://sws.geonames.org/7729892/), [South Amerika](https://sws.geonames.org/6255150/), [Oceania](https://sws.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1978,
-  Year of end:
-  2003,
-  Collections:
-  General remarks:
-  content:
-  "The collection of the former Gerardus van der Leeuw Ethnographic Museum is part of the museum of the University of Groningen. "
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://www.rug.nl/museum/collections/ethnological/
+TO BE FILLED
         

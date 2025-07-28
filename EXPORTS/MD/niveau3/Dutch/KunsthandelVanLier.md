@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2024-03-13_
 
 Kunsthandel Van Lier werd in 1924 opgericht door Carel van Lier en handelde in kunstvoorwerpen en etnografica uit onder andere Afrika, Azië en Noord-Amerika. Na de Tweede Wereldoorlog is de handel nog kortstondig door zijn vrouw voortgezet, waarna de zaak uiteindelijk door Leendert van Lier (geen familie) werd overgenomen.
 
-### Beschrijving
+### Geschiedenis
 
 [Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) begon in 1924 een galerie in [Laren](https://sws.geonames.org/2751874) en verhuisde drie jaar later naar Amsterdam. [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) hield zich vooral bezig met [moderne Europese kunst](http://vocab.getty.edu/aat/300264736). Van Lier raakte echter ook in de ban van de esthetiek van de [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en [houtsnijwerk](http://vocab.getty.edu/aat/300449031). De tentoonstelling van zijn privécollectie Afrikaanse kunst in het [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 beïnvloedde modernistische schilders. Al snel handelde Van Lier in [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en [etnografische voorwerpen](http://vocab.getty.edu/aat/300234108) uit de hele wereld (waaronder [inheems Noord-Amerika](https://hdl.handle.net/20.500.11840/termmaster10075993)). Deze werden verworven van particuliere verzamelaars in Nederland, aankoopreizen naar [Londen](https://sws.geonames.org/2643743), [Parijs](https://sws.geonames.org/2988507), [Brussel](https://sws.geonames.org/2800866) en [Antwerpen](https://sws.geonames.org/2803138), en via zijn netwerk van relaties in de internationale handel in etnografische kunst, met name kunsthandelaar [Charles Ratton](https://www.wikidata.org/entity/Q15220243) in Parijs. 
 
@@ -54,39 +54,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q87665942, https://hdl.handle.net/20.500.11840/pi57937, https://rkd.nl/explore/artists/446007, https://rkd.nl/nl/explore/artists/49975
-,
-  Name variations:
-  
-Kunstzaal Van Lier, Carel van Lier, Leendert van Lier
-,
-  Tags:
-  Activity:
-  
-[Kunsthandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Keramiek](http://vocab.getty.edu/aat/300151343), [Sculpturen](https://hdl.handle.net/20.500.11840/termmaster25727)
-,
-  Geographical:
-  
-[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Indonesië](https://sws.geonames.org/1643084/), [China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Zuid-Amerika](https://sws.geonames.org/6255150/), [Oceanië](https://sws.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1924,
-  Year of end:
-  1996,
-  Collections:
-  General remarks:
-  content:
-  Voorwerpen die zijn verkocht door Kunsthandel Van Lier bevinden in zich onder andere het [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), [Museum de Fundatie](https://www.wikidata.org/entity/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/entity/Q679527) en het [Weltkulturenmuseum Frankfurt](https://www.wikidata.org/entity/Q1954571). Ook in de collectie van [Museum Nusantara](https://www.wikidata.org/entity/Q2668933) bevonden zich voorwerpen die bij kunsthandel Van Lier waren gekocht.
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier
+TO BE FILLED
         

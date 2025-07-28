@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2024-03-14_
 
 Het Nederlandsch Zendeling Genootschap was een zendingsorganisatie die zeer actief was in het verzamelen van objecten in Indonesië. De collectie van het NZG werd in Nederland gebruikt om nieuwe missionarissen mee op te leiden. Een deel van de collectie van het NZG is uiteindelijk bij het Wereldmuseum Rotterdam terecht gekomen.
 
-### Beschrijving
+### Geschiedenis
 
 Ten tijde van de VOC en WIC was de zorg voor kerk en zending in de Nederlandse overzeese gebieden bij de compagnie belegd, waarbij de VOC respectievelijk in de oostelijke koloniën en de WIC in de westelijke koloniën deze verantwoordelijkheid droeg. De VOC liet geen particuliere zendelingen toe, maar in Suriname werden vanaf de achttiende eeuw de Herrnhutters toegelaten. Om deze reden maken de kerkelijke archieven uit deze periode onderdeel uit van de Compagniesarchieven, die in het geval van de VOC berusten bij het Nationaal Archief van de Republiek Indonesië (ANRI). De kerkelijke verantwoordelijkheden van de VOC en WIC werden in de negentiende eeuw door de Nederlandse overheid overgenomen, hierdoor ontstonden de Protestantse Kerk in Nederlands Oost-Indië, ook wel de Indische Kerk, en de Protestantse Kerk in West-Indië. Deze overgang schiep de mogelijkheid voor Nederlandse christenen om zendingswerk uit te gaan voeren in de Nederlandse overzeese gebieden. Naar Engels voorbeeld werd zodoende in 1797 het [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670) opgericht, wat zich vestigde in Rotterdam. 
 
@@ -79,39 +79,5 @@ Website:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q1946670, https://hdl.handle.net/20.500.11840/pi75783, https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829
-,
-  Name variations:
-  
-Nederlands Zendelinggenootschap, NZG
-,
-  Tags:
-  Activity:
-  
-[Missie](https://hdl.handle.net/20.500.11840/termmaster25128)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Bali](https://sws.geonames.org/1650534/), [Indonesië](https://sws.geonames.org/1643084/), [Java](https://sws.geonames.org/1642673/), [Molukken](https://sws.geonames.org/1636629/), [Sulawesi](https://sws.geonames.org/9062340/), [Sumatra](https://sws.geonames.org/1626198/), [Timor](https://sws.geonames.org/1623843/)
-,
-  Period of activity:
-  Year of start:
-  1797,
-  Year of end:
-  1951,
-  Collections:
-  General remarks:
-  content:
-  Voorwerpen verzameld door zendingswerkers van het Nederlandsch Zendeling Genootschap zijn vooral te vinden in de collectie van het [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), maar ook bij het [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589) en [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437).
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=NZG
+TO BE FILLED
         

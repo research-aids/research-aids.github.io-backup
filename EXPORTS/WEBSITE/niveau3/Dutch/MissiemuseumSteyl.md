@@ -4,8 +4,11 @@ title: Missiemuseum Steyl
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/MissiemuseumSteyl.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/MissiemuseumSteyl.docx){: .btn .btn-blue }
 
@@ -21,13 +24,16 @@ _last edited by Wiebe Reints as original_author on 2024-10-21_
 
 Het Missiemuseum in Steyl is in 1931 opgericht met de collectie die missionarissen van Steyl meenamen van hun missies in Azië en Afrika. Aan de opstelling zoals die was in 1934 is sindsdien vrijwel niets veranderd.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Tijdens de zogenaamde *Kulturkampf* in Duitsland, besloot priester Arnold Janssen in 1875 om, vlak over de grens met Nederland, in Steyl de congregatie [Societas Verbi Divini](http://www.wikidata.org/entity/Q696656) (SVD) op te richten. Al vanaf de missie in 1879 naar China werden er door missionarissen objecten verzameld en meegenomen terug naar Steyl. In 1894 bouwde het missiehuis een nieuwe drukkerij, waar de collectie ook een plaats krijgt. Deze collectie groeide ondertussen gestaag met objecten uit verschillende landen waar de missionarissen uit Steyl naartoe vertrekken en wordt, naast etnografica, aangevuld met geprepareerde dieren, opgezet of op sterkwater. Niet alle dieren en objecten werden overigens door de missionarissen uit Steyl verzameld, ook collecties van andere christelijke gemeenschappen werden overgenomen. Door de groeiende collectie kreeg het museum wederom een nieuwe locatie, waar het tot op heden zit.
 
 Het museum zoals dat in 1931 opende was volledig ingericht naar het idee van Broeder Berchmans, die ook verantwoordelijk was voor de grote vlindercollectie van het museum. Sinds het overlijden van Berchmans in 1934 is de presentatie van de collectie in het Missiemuseum vrijwel niet aangepast. De vitrines met etnografica zijn zodoende, in lijn met de heersende ideeën in 1931 ingedeeld naar de vermeende mate van 'beschaving' van verschillende volkeren. Aangezien de opstelling van het museum sinds 1934 vrijwel niet meer is aangepast, is het Missiemuseum in Steyl een 'museum in een museum', dat een goed beeld geeft van hoe er in de twintigste eeuw tegen etnografische collecties werd aangekeken.
 
 Broeder Berchmans liet na zijn overlijden weinig documentatie met betrekking tot de museumcollectie na, om die reden is van veel objecten geen precieze herkomstgeschiedenis bekend. Veel van de natuurhistorische collectie is gekocht van dierentuinen en handelaren. Etnografische objecten zijn voornamelijk verworven door missionarissen van de SVB, over de manier van verwerven is weinig bekend. De natuurhistorische collectie is niet louter gericht op flora en fauna uit het buitenland, maar bevat ook objecten afkomstig uit Nederland. Het Missiemuseum Steyl is ook beheerder van de collectie Schmutzer, dit is een groep van houten beelden, gemaakt tussen 1924 en 1927 door de Indonesische kunstenaar Iko, in opdracht van [Joseph Schmutzer](http://www.wikidata.org/entity/Q1876872).
+
+![Foto uit 2015 van de collectieopstelling in de grote zaal van het Missiemuseum in Steyl](https://upload.wikimedia.org/wikipedia/commons/9/9e/Missiemuseum_Steyl-Tegelen%2C_grote_zaal%2C_vaste_collectie_02.jpg)
+_Vaste opstelling in de grote zaal van het Missiemuseum Steyl ([Kleon3](https://commons.wikimedia.org/wiki/File:Missiemuseum_Steyl-Tegelen,_grote_zaal,_vaste_collectie_02.jpg))_
 
 ### Herkomstonderzoek
 
@@ -66,43 +72,5 @@ Collectiedatabase:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2534749
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Collectie](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Japan](https://sws.geonames.org/1861060/), [Indonesië](https://sws.geonames.org/1643084/), [Filipijnen](https://sws.geonames.org/1694008/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Ghana](https://sws.geonames.org/2300660/), [Togo](https://sws.geonames.org/2363686/), [Congo](https://sws.geonames.org/2260494/), [Paraguay](https://sws.geonames.org/3437598/)
-,
-  Period of activity:
-  Year of start:
-  1931,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "Niet de hele collectie van het Missiemuseum Steyl is geregistreerd, daar wordt op dit moment aan gewerkt. Tevens wordt de collectie tijdens deze registratie gedigitaliseerd en toegankelijk gemaakt via de website van het [Limburgs Erfgoednet](https://limburgserfgoednet.nl/)."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

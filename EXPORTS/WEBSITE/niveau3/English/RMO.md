@@ -4,8 +4,11 @@ title: Rijksmuseum van Oudheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/RMO.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/RMO.docx){: .btn .btn-blue }
 
@@ -108,41 +111,5 @@ Dissertation:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1860378
-,
-  Name variations:
-  
-Museum van Oudheden, RMO
-,
-  Tags:
-  Activity:
-  
-[National museum](http://vocab.getty.edu/300312321), [Historical museum](http://vocab.getty.edu/300312304)
-,
-  Type of objects:
-  
-[Antiquities](http://vocab.getty.edu/300311592)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1818,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "The collection of the National Museum of Antiquities is not included in the Datahub. The objects transferred to the Ethnographic Museum in Leiden in 1904 are marked with the inventory number RV-1403"
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=oudheden&publishers=Wereldmuseum
+TO BE FILLED
         

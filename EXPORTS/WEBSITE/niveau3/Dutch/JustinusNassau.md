@@ -4,8 +4,11 @@ title: Volkenkundig Museum Justinus van Nassau
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/JustinusNassau.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/JustinusNassau.docx){: .btn .btn-blue }
 
@@ -22,7 +25,7 @@ _last edited by Wiebe Reints as original_author on 2025-06-16
 
 Het Volkenkundig Museum 'Justinus van Nassau' is ontstaan als onderdeel van de Koninklijke Militaire Academie in Breda. Voor 1956 opereerde het museum zelfstandig, nadien vormde het onderdeel van het Rijksmuseum voor Volkenkunde, het tegenwoordige Wereldmuseum Leiden. In 1993 sloot het volkenkundig museum in Breda haar deuren, de museumcollectie is nog altijd onderdeel van het Wereldmuseum.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Vanwege een stijgende vraag naar militairen voor het [(Koninklijk) Nederlandsch-Indisch Leger](http://www.wikidata.org/entity/Q523553) werd er besloten een 'Indische opleiding' op te richten aan de [Koninklijke Militaire Academie](http://www.wikidata.org/entity/Q934782) in Breda. Om de boekenkennis van de studenten te verlevendigen, besloot [Claas Spat](http://www.wikidata.org/entity/Q63004149), die als docent Maleise taal en letterkunde aan de KMA was verbonden, een etnografische collectie aan te leggen. Spat nam daartoe contact op met het [Rijks Etnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) in Leiden en ontving van hen enkele doubletten. Ook werden er door collega-militairen en het Indisch Gouvernement objecten afgestaan. De collectie groeide voornamelijk na de zogenoemde 'pacificatie oorlogen' die Nederland voerde in onder meer Atjeh, Lombok en Sulawesi. Zo schonk onder andere de militair [G.C.E. van Daalen](http://www.wikidata.org/entity/Q4258823) een collectie aan de KMA. 
 
@@ -31,6 +34,9 @@ De collectie, die in 1909 officieel erkend werd als de 'Ethnografische Verzameli
 Toen het Ministerie van Oorlog in 1920 moest bezuinigen werd er besloten de Hoofdcursus in Kampen, een soortgelijke militaire opleiding met een minder academische inslag en daardoor lagere toegangseisen, op te heffen. Dat resulteerde in 1923 in de opname van de Kampense museumcollectie in die van de KMA. H.J. Voskuil, die Spat als beheerder had opgevolgd, kampte door de samengevoegde collectie met een gebrek aan tentoonstellingsruimte. Zodoende werd er in 1925 besloten het voormalig woonhuis van Justinus van Nassau, die later als naamgever van het museum zou dienen, in gebruik te nemen. Waar de collectie uit Kampen altijd al toegankelijk was voor het publiek, gold dat niet voor de Bredase collectie. Terwijl de collectie bleef groeien door allerhande giften, duurde het tot november 1938 voordat het museum haar deuren officieel opende voor het publiek.
 
 Vanwege de Indonesische onafhankelijkheid stopte de Indische opleiding aan de KMA vanaf 1949, waardoor het bestaansrecht van het volkenkundig museum ook op losse schroeven kwam te staan. Dat zorgde in het begin van de jaren '50 voor een onzekere periode voor het museum. De collectie bleef desondanks uitbreiden, onder andere omdat de toenmalige beheerder Sjoerd Nauta het aanbod had gekregen een selectie te maken uit de Britse ['Wellcome-collectie'](http://www.wikidata.org/entity/Q7981191). Nauta selecteerde zodoende verschillende wapens uit Afrika, Australië en de Stille Oceaan ter aanvulling van de Indonesische collectie. In 1956 kwam aan de onzekerheid een einde toen werd besloten het Bredase museum onderdeel te maken van het [Rijksmuseum voor Volkenkunde](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het huidige Wereldmuseum) in Leiden. Als zuidelijke dependance van het volkenkundige museum in Leiden, werden er na 1956 ook tentoonstellingen over andere gebieden dan Indonesië gehouden in Breda. Veelal werden tentoonstellingen die eerder in Leiden hadden plaatsgevonden 'gerecycled' bij 'Justinus van Nassau'. Na aanhoudende bezuinigingen in de jaren 1980 werd door de toenmalige directeur van Rijksmuseum voor Volkenkunde in Leiden, Steven Engelsman, besloten het volkenkundig museum in Breda per 1 januari 1993 te sluiten. 
+
+![Foto uit 1960 van het interieur van één van de zalen van het Volkenkundig Museum Justinus van Nassau](https://upload.wikimedia.org/wikipedia/commons/d/d7/Museum_voor_de_tropen%2C_interieur_-_Breda_-_20041718_-_RCE.jpg)
+_Een van de zalen van het Volkenkundig Museum Justinus van Nassau, 1961 ([G.Th. Delemarre / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Museum_voor_de_tropen,_interieur_-_Breda_-_20041718_-_RCE.jpg))_
 
 ### Herkomstonderzoek
 
@@ -99,39 +105,5 @@ Herkomstverslag:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q85400158
-,
-  Name variations:
-  
-Ethnografische Verzameling van de Koninklijke Militaire Academie en de Hoofdcursus, Ethnografische Verzameling van de Koninklijke Militaire Academie
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Wapens](http://vocab.getty.edu/page/aat/300036926)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1923,
-  Year of end:
-  1993,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van Volkenkundig Museum Justinus van Nassau maakt sinds 1956 onderdeel uit van de collectie van Museum Volkenkunde, het huidige Wereldmuseum Leiden."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=%22justinus+van+nassau%22
+TO BE FILLED
         

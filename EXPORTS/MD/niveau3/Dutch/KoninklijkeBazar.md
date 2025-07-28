@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2024-03-13_
 
 De Groote Koninklijke Bazar was een warenhuis in Den Haag. De handel werd gerund door Dirk Boer, die in 1825 begon met de verkoop voor Aziatische (kunst)artikelen. In 1843 opende hij zijn winkel aan de Zeestraat.
 
-### Beschrijving
+### Geschiedenis
 
 De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://sws.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) en het toenmalige [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Na de dood van Boer in 1877 ging de zaak onder nieuwe eigenaren verder.
   
@@ -82,35 +82,5 @@ Catalogus:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q13648189, https://hdl.handle.net/20.500.11840/pi56363, https://rkd.nl/nl/explore/artists/349840
-,
-  Name variations:
-  
-Grand Bazar Royal, Dirk Aartsz. Boer, D. Boer & Zonen
-,
-  Tags:
-  Activity:
-  
-[Kunsthandel](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Keramiek](http://vocab.getty.edu/aat/300151343), [Tapijten](https://thesaurus.cultureelerfgoed.nl/concept/cht:0e27175e-cf3a-40cd-9c33-55d9127fa6fd)
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Indonesië](https://sws.geonames.org/1643084/), [Iran](https://sws.geonames.org/130758/), [Japan](https://sws.geonames.org/1861060/), [Oceanië](https://sws.geonames.org/6255151/), [Suriname](https://sws.geonames.org/3382998/), [Turkije](https://sws.geonames.org/298795/)
-,
-  Period of activity:
-  Year of start:
-  1825,
-  Year of end:
-  1927,
-  Collecties:
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

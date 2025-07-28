@@ -11,9 +11,7 @@ _last edited by Abacus as translator on 2025-04-24
 
 Today's Wereldmuseum Leiden, which was previously known as Museum Volkenkunde and before that as the 's Rijks Etnografisch Museum (State Ethnographic Museum), was founded in 1837 from the amalgamation of several collections of objects that were acquired in regions that were under Dutch colonial rule.
 
-![Wereldmuseum Leiden (November 2024)](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)
-
-### History of the collection
+### History of the museum
 
 The history of today’s Wereldmuseum Leiden goes back to 1837. Its first hundred years were characterised by financial difficulties, the accumulation of large quantities of objects and many changes of location. In 1937 the museum finally found a permanent home in the former University Hospital where it could display its entire collection. The museum is still located in this building. 
 
@@ -21,7 +19,8 @@ The collection of the Wereldmuseum Leiden originated from the private collection
 
 Objects were acquired in various ways. First, as described above, through exchange with other museums. In addition, the National Museum of Ethnology itself was an active buyer of ethnographic objects from dealers and auctions, with for example part of the museum's collection of Benin Bronzes having been obtained in this way. Many objects were also received as donations, often from [colonial civil servants](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18) or [military personnel](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) who served for example with the Royal Dutch East Indies Army (KNIL). The vast majority of the collection of the present Wereldmuseum Leiden was therefore collected during the 19th and 20th centuries.
 
-![Wereldmuseum Leiden (November 2024)](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)
+![Picture of the Wereldmuseum Leiden in November 2024](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)
+_The Wereldmuseum Leiden in November 2024 ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))_
 
 ### Provenance research
 
@@ -94,37 +93,5 @@ Book:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q17339437
-,
-  Name variations:
-  
-Verzameling Von Siebold, Rijks Japansch Museum, Rijks Japansch Museum Von Siebold, Rijks Etnografisch Museum, Rijksmuseum voor Volkenkunde, Museum Volkenkunde, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Collectie](http://vocab.getty.edu/aat/300025976), [Ethnographic museum](http://vocab.getty.edu/page/aat/300451067)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Africa](https://sws.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147/), [North America](https://www.geonames.org/6255149/), [Oceania](https://www.geonames.org/6255151/), [South America](https://www.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1837,
-  Year of end:
-  
-
-,
-  Collections:
-  Within Data Hub:
-  
-
-
+TO BE FILLED
         

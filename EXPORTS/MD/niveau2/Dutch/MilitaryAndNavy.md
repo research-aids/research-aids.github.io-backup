@@ -90,17 +90,5 @@ Zoekhulp:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Adelborst](http://www.wikidata.org/entity/Q11141137), [Luitenant-ter-zee](https://www.wikidata.org/entity/Q2631032), [Matroos](https://www.wikidata.org/entity/Q707995), [Officier](http://vocab.getty.edu/aat/300236210), [Onderofficier](https://www.wikidata.org/entity/Q158950), [Soldaat](http://vocab.getty.edu/aat/300185678)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

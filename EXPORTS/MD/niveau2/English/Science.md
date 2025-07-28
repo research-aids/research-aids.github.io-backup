@@ -69,17 +69,5 @@ Article:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Investigators](http://vocab.getty.edu/aat/300025576), [Science](http://vocab.getty.edu/aat/300054135)
-,
-  Type of objects:
-  
-[Natural history objects](http://vocab.getty.edu/aat/300379591), [Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/)
-
+TO BE FILLED
         

@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-04-24
 
 The Van Lier art trading company was founded in 1924 by Carel van Lier. He traded in art and ethnographic objects from Africa, Asia and North America. After the Second World War, Van Lier's company was continued by his widow. Eventually, the company was taken over and continued by Leendert van Lier (not a relative).
 
-### Description
+### History
 
 [Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) started a gallery in [Laren](https://sws.geonames.org/2751874) in 1924 and moved to Amsterdam three years later. In the early years, [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) primarily dealt in [modern European art](http://vocab.getty.edu/aat/300264736). However, Van Lier also became fascinated with the aesthetics of [African sculpture and woodcarving](http://vocab.getty.edu/aat/300108572). The exhibition of his private collection of African art at the [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 influenced modernist painters at the time. Soon Van Lier was dealing in [Asian art](https://www.wikidata.org/entity/Q3399573), [African sculpture](http://vocab.getty.edu/aat/300108572) and [ethnographic objects](http://vocab.getty.edu/aat/300234108) from around the world, including [Native North America](https://hdl.handle.net/20.500.11840/termmaster10075993). These objects were acquired from private collectors in the Netherlands, during purchasing trips to [London](https://sws.geonames.org/2643743), [Paris](https://sws.geonames.org/2988507), [Brussels](https://sws.geonames.org/2800866) and [Antwerp](https://sws.geonames.org/2803138), and through his network of relations in the international ethnographic art trade, in particular the Paris art dealer [Charles Ratton](https://www.wikidata.org/entity/Q15220243). 
 
@@ -55,39 +55,5 @@ Book:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q87665942, https://hdl.handle.net/20.500.11840/pi57937, https://rkd.nl/explore/artists/446007, https://rkd.nl/nl/explore/artists/49975
-,
-  Name variations:
-  
-Kunstzaal Van Lier, Carel van Lier, Leendert van Lier
-,
-  Tags:
-  Activity:
-  
-[Art market](http://vocab.getty.edu/aat/300055675)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Ceramics](http://vocab.getty.edu/aat/300151343), [Sculptures](http://vocab.getty.edu/aat/300047090)
-,
-  Geographical:
-  
-[Africa](https://sws.geonames.org/6255146/), [Asia](https://sws.geonames.org/6255147/), [Indonesia](https://sws.geonames.org/1643084/), [China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Papua New Guinea](https://sws.geonames.org/2088628/), [North America](https://sws.geonames.org/6255149/), [South America](https://sws.geonames.org/6255150/), [Oceania](https://sws.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1924,
-  Year of end:
-  1996,
-  Collections:
-  General remarks:
-  content:
-  Objects sold by Kunsthandel Van Lier are, among others, in the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), [Museum de Fundatie](https://www.wikidata.org/entity/Q2436387), [Museum Boijmans van Beuningen](https://www.wikidata.org/entity/Q679527) and the [Weltkulturenmuseum](https://www.wikidata.org/entity/Q1954571) in Frankfurt. Also the collection of [Museum Nusantara](https://www.wikidata.org/entity/Q2668933) included objects purchased from Kunsthandel Van Lier.
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=Kunstzaal+Van+Lier
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: Army and navy personnel in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/MilitaryAndNavy.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/MilitaryAndNavy.docx){: .btn .btn-blue }
 
@@ -99,17 +102,5 @@ Research aid:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Midshipman](https://www.wikidata.org/entity/Q11141137), [Naval lieutenant](https://www.wikidata.org/entity/Q2631032), [Seaman](https://www.wikidata.org/entity/Q707995), [Military officer](http://vocab.getty.edu/aat/300236210), [Non-commissioned officer](https://www.wikidata.org/entity/Q158950), [Soldier](http://vocab.getty.edu/aat/300185678)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

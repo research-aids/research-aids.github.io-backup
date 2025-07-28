@@ -4,8 +4,11 @@ title: The trade in objects from a colonial context
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Trade.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Trade.docx){: .btn .btn-blue }
 
@@ -93,17 +96,5 @@ Book:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Art trade](https://data.cultureelerfgoed.nl/term/id/cht/894a3834-2f95-4ed5-bf11-3f4170801bbf), [Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Decorative arts](http://vocab.getty.edu/aat/300054168), [Auction houses](http://vocab.getty.edu/aat/300417515)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[China](http://vocab.getty.edu/aat/300417515/), [Congo](https://sws.geonames.org/203312/), [Indonesia](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/)
-
+TO BE FILLED
         

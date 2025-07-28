@@ -4,16 +4,19 @@ title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/MOudenbosch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/MOudenbosch.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-22
+_first edited by UNKNOWN as UNKNOWN on 2025-07-28
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-22
+_last edited by UNKNOWN as UNKNOWN on 2025-07-28
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
 
@@ -25,13 +28,16 @@ _last edited by UNKNOWN as UNKNOWN on 2025-07-22
 
 Natuurhistorisch en Volkenkundig Museum Oudenbosch ontstond in 1956 uit de collectie natuurhistorische, archeologische en volkenkundige objecten van de Broeders van Saint Louis. In het Noord-Brabantse dorp Oudenbosch opende deze congregatie een jongensinternaat in 1840. De objecten die de missionarissen meenamen van hun reizen naar onder andere Zuidoost-Azië en Afrika werden gebruikt om de leerlingen van het internaat te onderwijzen.
 
-### Beschrijving
+### Geschiedenis van de collectie
 
 In 1840 wordt in het Noord-Brabantse dorp Oudenbosch de katholieke congregatie Broeders van de H. Aloysius van Gonzaga opgericht door [Willem Hellemons](http://www.wikidata.org/entity/Q2337729) en Johannes Huybrechts. Deze broederschap kwam later ook bekend te staan als de Broeders van Oudenbosch of de Broeders van Saint Louis, genoemd naar het tevens in 1840 gestichte jongensinternaat in Oudenbosch. De voornaamste taak van de congregatie betrof dan ook het onderwijzen van de leerlingen van de kostschool. Toen de congregatie vanaf 1862 ook in Nederlands-Indië actief werd, brachten missionarissen steeds vaker verzamelingen volkenkundige en natuurhistorische objecten mee naar Oudenbosch. In het internaat werden deze verzamelingen ingezet voor het onderwijzen van de leerlingen. Overigens kwamen niet alle volkenkundige en natuurhistorische collecties uit Nederlands-Indië, er werden ook collecties aangelegd van Nederlandse flora en fauna en via de [Witte Paters](http://www.wikidata.org/entity/Q278165) (Withe Fathers), een katholieke sociëteit die voornamelijk actief was in Centraal-Afrika, ontving het internaat in Oudenbosch objecten uit onder andere toenmalig Belgisch Congo. 
 
 De objecten waaruit de collecties in Oudenbosch bestaan komen voornamelijk voort uit de verschillende interesses van de broeders. Zo ontstond uiteindelijk een zogenaamd 'physisch kabinet' en 'indisch museum'. Het duurde tot 1956 voordat de verschillende klaslokalen met de bijbehorende collecties tot één museum werden samengevoegd. In 1968 verplaatste het museum naar het gebouw waar het vandaag de dag nog altijd gevestigd is. Pas vanaf deze verhuizing werd het museum ook toegankelijk voor bezoekers van buiten de broederschap. In 1985 werd de collectie ondergebracht in de Stichting Natuurhistorisch en Volkenkundig Museum.
 
 Tegenwoordig wisselt de volkenkundige expositie van het museum eens in de vijf jaar tussen een focus op voormalig Nederlands-Indië en Afrika. De huidige tentoonstelling gaat in op de Witte Paters en hun relatie tot Oudenbosch.
+
+![Foto uit 2011 van de buitenkant van het Natuurhistorisch en Volkenkundig Museum in Oudenbosch](https://upload.wikimedia.org/wikipedia/commons/0/03/Oudenbosch_P1070223.JPG)
+_Natuurhistorisch en Volkenkundig Museum in Oudenbosch, 2011 ([G. Lanting](https://commons.wikimedia.org/wiki/File:Oudenbosch_P1070223.JPG))_
 
 ### Herkomstonderzoek
 
@@ -74,43 +80,5 @@ Video:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2299923
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Natuur Historisch Museum](http://vocab.getty.edu/aat/300312324)
-,
-  Type of objects:
-  
-[Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591), [Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/), [Congo](https://sws.geonames.org/2260494/)
-,
-  Period of activity:
-  Year of start:
-  1956,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van Natuurhistorisch en Volkenkundig Museum Oudenbosch is digitaal ontsloten, maar niet toegankelijk voor het publiek."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

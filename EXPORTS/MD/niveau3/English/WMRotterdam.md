@@ -19,6 +19,8 @@ The collection of the Museum voor Land- en Volkenkunde initially comprised a wid
 
 It was not until 1961 that the Museum voor Land- en Volkenkunde and the Maritiem Museum Prins Hendrik continued as separate entities. Today they are still separate municipal museums, although the collections of both museums have been stored in the same depot since the 1980s. In May 2017 the Wereldmuseum Rotterdam established a partnership with the [National Museum of World Cultures](http://www.wikidata.org/entity/Q17153751) (NMVW) foundation, which manages the various ‘Wereldmuseums’ in the Netherlands. The museum's collection, however, is still owned by the municipality of Rotterdam. As of 2023 all museums within the NMVW continue under the name of Wereldmuseum, with the museum in Rotterdam thus becoming Wereldmuseum Rotterdam.
 
+![Picture of the Wereldmuseum Rotterdam in 2024](https://upload.wikimedia.org/wikipedia/commons/a/aa/Wereldmuseum_Rotterdam_2024-12-03.jpg)
+_The current Wereldmuseum Rotterdam, 2024 ([Andy Li](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Rotterdam_2024-12-03.jpg))_
 
 ### Provenance research
 
@@ -69,41 +71,5 @@ Website:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2042754
-,
-  Name variations:
-  
-Museum voor Land- en Volkenkunde, Museum voor Volkenkunde, Wereldmuseum, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Collection](http://vocab.getty.edu/aat/300025976), [Ethnographic museum](http://vocab.getty.edu/page/aat/300451067)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Africa](https://sws.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147/), [North America](https://www.geonames.org/6255149/), [Oceania](https://www.geonames.org/6255151/), [South America](https://www.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1851,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "Since 2017, the Wereldmuseum Rotterdam has been a part of the National Museum of World Cultures association. However, the Municipality of Rotterdam is still officially the owner of the museum's collection."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=WM
+TO BE FILLED
         

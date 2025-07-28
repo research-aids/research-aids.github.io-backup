@@ -88,17 +88,5 @@ Book chapter:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Brother](http://www.wikidata.org/entity/Q16824629), [Friar](http://vocab.getty.edu/aat/300266789), [Missionary](http://www.wikidata.org/entity/Q219477), [Father](http://www.wikidata.org/entity/Q435940), [Protestant missionary](http://www.wikidata.org/entity/Q20746152), [Sister](https://www.wikidata.org/entity/Q191808)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

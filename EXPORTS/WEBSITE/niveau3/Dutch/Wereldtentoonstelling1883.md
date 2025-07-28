@@ -4,8 +4,11 @@ title: Internationale Koloniale en Uitvoerhandel Tentoonstelling
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Wereldtentoonstelling1883.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
 
@@ -21,13 +24,16 @@ _last edited by Wiebe Reints as original_author on 2025-06-24_
 
 In 1883 werd de Internationale Koloniale en Uitvoerhandel Tentoonstelling, of kortweg de Wereldtentoonstelling van 1883, gehouden op wat tegenwoordig het Museumplein in Amsterdam is. Buiten een Nederlands paviljoen waar vele objecten uit de oostelijke en westelijke koloniën werden getoond, hielden ook andere landen en bedrijven exposities.
 
-### Beschrijving
+### Geschiedenis
 
 Tussen 1 mei en 31 oktober 1883 werd op het braakliggende terrein achter het in aanbouw zijnde [Rijksmuseum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) de Internationale Koloniale en Uitvoerhandel Tentoonstelling gehouden, die beter bekend staat als de Wereldtentoonstelling van Amsterdam. Hoewel er in eerste instantie weinig animo was voor het organiseren van een wereldtentoonstelling, wist de Franse ondernemer Edouard Agostini met behulp van buitenlandse investeerders de Nederlandse regering over the halen. Na de tentoonstellingen in achtereenvolgens Wenen, Londen, Philadelphia en Parijs, achtte de Fransman de tijd rijp om de handel in koloniale waar tentoon te stellen in Amsterdam.
 
 De hoofdingang van de Wereldtentoonstelling, die direct achter het Rijksmuseum was gelegen, bestond uit twee torens van imitatiemarmer, uitgevoerd in hindoeïstische ornamentiek en steunend op olifanten van gips. Achter de hoofdingang lag de zogenaamde Nijverheidshal, waar deelnemende landen hun koloniale waar en nijverheidsproducten uitstalden. Links van deze hal bevond zich het Nederlandse koloniale paviljoen, het belangrijkste onderdeel van de tentoonstelling. Dit paviljoen, uitgevoerd in een kenmerkende Moorse-Arabische stijl, werd geflankeerd door twee standbeelden: één van Jan Pieterszoon Coen en één van de godin Victoria, die diende als allegorie voor de Nederlandse 'overwinning' in de Atjeh-oorlog. Gelegen naast dit 'Atjeh-monument' was het zogenaamde Indische dorp, waar acht houten en bamboe huizen afkomstig uit verschillende Indonesische regio's werden getoond, inclusief hun bewoners. Deze mensen, onder andere Sumatranen, Sundanezen en Javanen, waren gedwongen gedurende de tentoonstelling hun ambachten te tonen, daarnaast werd er iedere dag een gamelan-voorstelling gehouden. Elders op het terrein bevond zich ook een Surinaams dorp. Net als in het Indische dorp werden hier Surinaamse woningen en inwoners tentoongesteld aan het Nederlandse publiek.
 
 De inrichting van het Nederlandse koloniale paviljoen was het werk van [Pieter Johannes Veth](http://www.wikidata.org/entity/Q2497749), een Nederlands geograaf en etnoloog. Van zijn hand verscheen nadat de tentoonstelling al was afgelopen ook de wetenschappelijke catalogus. Voor de samenstelling van  objecten in het Nederlands paviljoen riep Veth de hulp in van verschillende Nederlandse curatoren zoals [Lindor Serrurier](http://www.wikidata.org/entity/Q1906999) van het [Rijks Etnographisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het tegenwoordige Wereldmuseum Leiden) en Fredericus Anna Jentink van het tevens in Leiden aanwezige [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb) (het huidige Naturalis). De zoon van P.J. Veth, [Daniël Veth](http://www.wikidata.org/entity/Q21068926), was verantwoordelijk voor het verzamelen van objecten in Nederlands-Indië. Van hem kwam ook het idee voor het Indische dorp. De door P.J. Veth bedachte ordening van de tentoonstelling bestond uit drie hoofdgroepen, onderverdeeld in 38 subklassen. Groep I betrof 'Het  terrein der gekoloniseerde en overheerste gewesten', groep II 'De inlandsche bevolking dier gewesten' en groep III 'De Europeanen in die gewesten en hunne  betrekkingen tot de inlanders'. Terwijl deze ordening voortbouwde op oude zienswijzen, legitimeerde het ook de moderne Nederlandse koloniale onderneming: de natuurlijke  rijkdom en overschotten (groep I) en de exotische primitiviteit van de inheemse bevolking (groep  II) vroegen om het moderniserende en beschavende ondernemerschap van Nederlandse overheid  en particulieren (groep III). Als decoratiemateriaal hingen er in het paviljoen een aantal kaarten van Nederlands-Indië en verschillende trofeeën van wapens en vlaggen, welke afkomstig waren uit het [Militair-invalidenhuis Bronbeek](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). In het boek _[Koloniale Vertoningen](https://dare.uva.nl/search?identifier=261ddb19-419d-489d-a977-0a6e0adf3734)_ van Marieke Bloembergen is meer informatie beschikbaar over wat andere landen tentoonstelden tijdens de Wereldtentoonstelling in Amsterdam (blz. 60-61).
+
+![Tekening van het terrein van de Wereldtentoonstelling van 1883 op het plein achter het Rijksmusuem Amsterdam](https://upload.wikimedia.org/wikipedia/commons/8/8e/De_Internationale_Koloniale_en_Uitvoerhandel-Tentoonstelling_te_Amsterdam_in_1883._Vogelperspectief%2C_geteekend_door_J.C._Greive_Jr._%28titel_op_object%29%2C_RP-P-OB-89.774.jpg)
+_Het terrein van de Wereldtentoonstelling ([J.C. Greive Jr. / Rijksmuseum Amsterdam](https://commons.wikimedia.org/wiki/File:De_Internationale_Koloniale_en_Uitvoerhandel-Tentoonstelling_te_Amsterdam_in_1883._Vogelperspectief,_geteekend_door_J.C._Greive_Jr._(titel_op_object),_RP-P-OB-89.774.jpg))_
 
 ### Herkomstonderzoek
 
@@ -95,39 +101,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2417163
-,
-  Name variations:
-  
-Wereldtentoonstelling van 1883
-,
-  Tags:
-  Activity:
-  
-[Wereldtentoonstelling](http://vocab.getty.edu/aat/300054778)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://www.geonames.org/1643084/), [Suriname] (https://sws.geonames.org/3382998/), [Nederlandse Antillen](https://sws.geonames.org/8505032/)
-,
-  Period of activity:
-  Year of start:
-  1883,
-  Year of end:
-  1883,
-  Collections:
-  General remarks:
-  content:
-  "Na afloop van de Wereldtentoonstelling in 1883 zijn veel van de tentoongestelde objecten verdeeld over verschillende instellingen in Nederland."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/nl/objects?query=wereldtentoonstelling+1883
+TO BE FILLED
         

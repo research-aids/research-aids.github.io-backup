@@ -4,8 +4,11 @@ title: Koninklijk Instituut voor Taal- Land- en Volkenkunde
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KITLV.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KITLV.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2024-07-04_
 
 Het Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV) werd in 1851 opgericht met als taak het aanleggen van een wetenschappelijke collectie en het bevorderen van wetenschap naar de Nederlandse koloniale gebieden. Tegenwoordig ligt de focus op de bestudering van Zuidoost-Azië en het Caraïbische gebied. In 2014 werd de volledige collectie van het KITLV overgedragen aan de Universiteit Leiden.
 
-### Beschrijving
+### Geschiedenis
 
 Het Koninklijk Instituut voor Taal-, Land- en Volkenkunde werd in 1851 opgericht door [Jean Chrétien Baud](http://www.wikidata.org/entity/Q2334397), [Taco Roorda](http://www.wikidata.org/entity/Q13138262) en [Gerrit Simons](http://www.wikidata.org/entity/Q2318641). Landkunde, oftewel geografie, werd na 1873 overgelaten aan het in dat jaar opgerichte Koninklijk Nederlands Aardrijkskundig Genootschap (KNAG), terwijl geschiedenis, naast linguïstiek en antropologie, ook een onderzoeksgebied van het instituut werd. De initiële taken van het KITLV kunnen drievoudig worden ontleed: het opbouwen en beheren van een collectie (waaronder bijvoorbeeld een grote fotoverzameling), het doen van onderzoek naar en in door Nederland gekoloniseerde regio's en het publiceren van de onderzoeksresultaten in de tijdschriften *Bijdragen tot de taal-, land- en volkenkunde* en de *Nieuwe West-Indische Gids*, waarvan de laatste zich uitsluitend richt op onderzoek in en naar het (Nederlandse) Caraïbische gebied. Hoewel het KITLV zich richtte op zowel de Nederlandse koloniën in Zuidoost-Azië en het Caraïbische gebied, lag de nadruk op onderzoek in en naar Indonesië.
 
@@ -105,43 +108,5 @@ Tijdschrift:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2282075
-,
-  Name variations:
-  
-KITLV, Royal Netherlands Institute of Southeast Asian and Caribbean Studies
-,
-  Tags:
-  Activity:
-  
-[Collectie](http://vocab.getty.edu/aat/300025976), [Archief](http://vocab.getty.edu/aat/300312242
-,
-  Type of objects:
-  
-[Foto's](http://vocab.getty.edu/aat/300046300), [Boeken](http://vocab.getty.edu/aat/300028051), [Documentatie](http://vocab.getty.edu/aat/300026685), [Kaarten](http://vocab.getty.edu/page/300028094), [Manuscripten](http://vocab.getty.edu/page/aat/300252927)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/), [Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Suriname](https://sws.geonames.org/3382998/)
-,
-  Period of activity:
-  Year of start:
-  1851,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  De collecties van het KITLV zijn in 2014 overgedragen aan de universiteitsbibliotheek van Leiden. De collectie van onder andere boeken, tijdschriften, foto's en archief- en audio-visueelmateriaal zijn om die reden te vinden via de [catalogus van de Leidse universiteitsbibliotheek](https://catalogue.leidenuniv.nl)
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

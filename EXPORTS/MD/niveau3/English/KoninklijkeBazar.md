@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-04-07
 
 The Groote Koninklijke Bazar (Big Royal Bazar) was a department store in The Hague. Dirk Boer, the owner of the company, started trading in Asian arts from 1825. In 1843, he opened his store at the Zeestraat.
 
-### Description
+### History
 
 The Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Its owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on Zeestraat in 1843. The store sold Asian items, mainly from [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [the Dutch East Indies](https://sws.geonames.org/1643084). The buyers were private individuals, including King [Willem II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) and the then [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). After Boer's death, the business continued under new owners.
 
@@ -80,35 +80,5 @@ Catalogue:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q13648189, https://hdl.handle.net/20.500.11840/pi56363, https://rkd.nl/nl/explore/artists/349840
-,
-  Name variations:
-  
-Grand Bazar Royal, Dirk Aartsz. Boer, D. Boer & Zonen
-,
-  Tags:
-  Activity:
-  
-[Art market](http://vocab.getty.edu/aat/300055675)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Ceramics](http://vocab.getty.edu/aat/300151343), [Tapestries](http://vocab.getty.edu/aat/300205002)
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Indonesia](https://sws.geonames.org/1643084/), [Iran](https://sws.geonames.org/130758/), [Japan](https://sws.geonames.org/1861060/), [Oceania](https://sws.geonames.org/6255151/), [Suriname](https://sws.geonames.org/3382998/), [Turkey](https://sws.geonames.org/298795/)
-,
-  Period of activity:
-  Year of start:
-  1825,
-  Year of end:
-  1927,
-  Collections:
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

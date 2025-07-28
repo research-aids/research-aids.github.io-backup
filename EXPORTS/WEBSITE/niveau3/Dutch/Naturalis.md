@@ -4,8 +4,11 @@ title: Naturalis Biodiversity Center
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Naturalis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Naturalis.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2024-07-10_
 
 Naturalis Biodiversity Center, voorheen het Rijksmuseum van Natuurlijke Historie, werd in 1820 opgericht in Leiden. De focus van Naturalis is drieledig: het opbouwen en onderhouden van een collectie van natuurhistorische objecten, het doen van onderzoek naar deze collectie en die tentoonstellen aan een breed publiek. Een groot deel van Naturalis' collectie vindt zijn oorsprong in voormalig Nederlands-Indië en andere voormalig gekoloniseerde gebieden, waar wetenschappers in de negentiende en twintigste eeuw grote verzamelingen natuurhistorische voorwerpen aanlegden.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 In 1820 werd bij Koninklijk Besluit door [Koning Willem I](http://www.wikidata.org/entity/Q2079957) het ['s Rijksmuseum van Natuurlijke Historie](http://www.wikidata.org/entity/Q3432011) (RMNH) opgericht, sinds 2010 Naturalis Biodiversity Center genaamd. Het museum werd gesticht door de collecties van de Leidse Universiteit, 's Lands Kabinet van Natuurlijke Historie en de persoonlijke verzameling van de eerste directeur [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621), samen te voegen. Deze collecties, die in eerste instantie werden verzameld als curiosa, kwamen gedurende de negentiende eeuw steeds meer in de belangstelling te staan van de opkomende wetenschap. Temminck slaagde erin Nederlanders in het buitenland verzamelingen van natuurlijke objecten aan te laten leggen ten behoeve van het Rijksmuseum van Natuurlijke Historie. Zodoende werd de een collectie natuurlijke objecten uit Japan van [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), wiens etnografische verzameling als latere basis zou dienen van het Rijks Etnografisch Museum in Leiden, ook opgenomen in de collectie van het RMNH. 
 
@@ -50,6 +53,9 @@ In de loop van de twintigste eeuw werd de collectie van zowel het RMNH en RGM fl
   - Berend George Escher (1922-1955)
   - Isaäk Martinus van der Vlerk (1955-1961)
   - Cornelis Beets (1963-1977)
+
+![Foto uit 1972 van een tentoonstelling van dieren uit Suriname in het toenmalige Rijksmuseum voor Natuurlijke Historie](https://upload.wikimedia.org/wikipedia/commons/5/57/Rijksmuseum_van_Natuurlijke_Historie%2C_Objectnr_PV_PV16120.jpg)
+_Tentoonstelling van dieren uit Suriname in het Rijksmuseum voor Natuurlijke Historie, 1972 ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))_
 
 ### Herkomstonderzoek
 
@@ -122,41 +128,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q641676
-,
-  Name variations:
-  
-Naturalis, Rijksmuseum van Natuurlijke Historie, Rijksmuseum van Geologie en Mineralogie, Nationaal Natuurhistorisch Museum
-,
-  Tags:
-  Activity:
-  
-[Onderzoekscentrum](http://vocab.getty.edu/aat/300343398), [Collectie](http://vocab.getty.edu/aat/300077121), [Natuur Historisch Museum](http://vocab.getty.edu/aat/300312324)
-,
-  Type of objects:
-  
-[Natuurlijke objecten](http://vocab.getty.edu/aat/300404125), [Natuurhistorische specimens](http://vocab.getty.edu/aat/300379591), [Dierlijke specimens](http://vocab.getty.edu/aat/300420186), [Mineralen](http://vocab.getty.edu/aat/300011068), [Fossielen](http://vocab.getty.edu/aat/300011068)
-,
-  Geographical:
-  
-[Europa](https://sws.geonames.org/6255148/), [Azië](https://sws.geonames.org/6255147/), [Afrika](https://sws.geonames.org/6255146/), [Oceanië](https://geonames.org/6255151/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1820,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  
-
-,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: Christian missionaries in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/ChristianMission.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/ChristianMission.docx){: .btn .btn-blue }
 
@@ -99,17 +102,5 @@ Book chapter:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Brother](http://www.wikidata.org/entity/Q16824629), [Friar](http://vocab.getty.edu/aat/300266789), [Missionary](http://www.wikidata.org/entity/Q219477), [Father](http://www.wikidata.org/entity/Q435940), [Protestant missionary](http://www.wikidata.org/entity/Q20746152), [Sister](https://www.wikidata.org/entity/Q191808)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Congo](https://sws.geonames.org/203312/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

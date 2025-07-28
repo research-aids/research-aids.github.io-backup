@@ -4,8 +4,11 @@ title: Artis Ethnographic Museum
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/EMArtis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/EMArtis.docx){: .btn .btn-blue }
 
@@ -22,11 +25,14 @@ _last edited by Abacus as translator on 2025-04-07
 
 The Artis Ethnographic Museum was an ethnographic museum in Amsterdam founded in 1851 as part of the Artis Zoo. In 1921, the collection was subsumed by the newly established Colonial Museum, today's Wereldmuseum Amsterdam.
 
-### Description
+### History of the museum
 
 The Artis Ethnographic Museum was founded in 1851 to house the collection of ethnographic objects of the Koninklijk Zoölogisch Genootschap Natura Artis Magistra, the royal zoological society. At the time it was not unusual for a zoo to also collect objects, as the rapidly changing sciences in the nineteenth century often focused on several areas of research at once. The interest both in other cultures, objects and customs and in plants, animals and geology was closely linked to the broader European colonial project. Artis' ethnographic collection grew steadily throughout the nineteenth century and so a special museum building, [the Volharding](http://www.wikidata.org/entity/Q17302628), was constructed in 1888. The building is still part of Artis Zoo today. In the late nineteenth century, the collection was expanded with objects from the [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://www.wikidata.org/entity/Q2417163), also known as the World Exhibition, of 1883 and objects collected by the [Nieuwe Afrikaansche Handels-Vennootschap](http://www.wikidata.org/entity/Q2543001). As such, the Artis Ethnographic Museum was closely linked to Dutch colonial relations.
 
-From 1905 to 1913 the collection of the Colonial Museum in Haarlem was temporarily included in the collection of the Ethnographic Museum Artis but not long after the decision was made to transfer the collections to the yet-to-be-established museum of the Colonial Institute, which finally took place in 1921. It was not until 1926 that the museum of the Colonial Institute, now Wereldmuseum Amsterdam, opened its doors. To this day, the collection of the Ethnographic Museum Artis forms an important basis of the collection of the Wereldmuseum Amsterdam. 
+From 1905 to 1913 the collection of the Colonial Museum in Haarlem was temporarily included in the collection of the Ethnographic Museum Artis but not long after the decision was made to transfer the collections to the yet-to-be-established museum of the Colonial Institute, which finally took place in 1921. It was not until 1926 that the museum of the Colonial Institute, now Wereldmuseum Amsterdam, opened its doors. To this day, the collection of the Ethnographic Museum Artis forms an important basis of the collection of the Wereldmuseum Amsterdam.
+
+![Photo of the Artis Ethnographic Museum's interior](https://upload.wikimedia.org/wikipedia/commons/d/d9/Artis%2C_interieur_ethnografisch_museum_3.jpg)
+_Interior of the Artis Ethnographic Museum ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))_
 
 ### Provenance research
 
@@ -98,33 +104,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2267276
-,
-  Name variations:
-  
-Museum voor Land- en Volkenkunde
-,
-  Tags:
-  Activity:
-  
-[Collection](http://vocab.getty.edu/aat/300025976), [Ethnographic museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Africa](https://sws.geonames.org/6255146/), [Asia](https://sws.geonames.org/6255147/), [North America](https://sws.geonames.org/6255149/), [Oceania](https://sws.geonames.org/6255151/), [South America](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1851,
-  Year of end:
-  1921,
-  Collections:
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=artis&publishers=Wereldmuseum
+TO BE FILLED
         

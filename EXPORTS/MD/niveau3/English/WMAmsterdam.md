@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-04-24
 
 Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it's origins in the 19th century. The collection of the Wereldmuseum Amsterdam includes objects from several other museums, including the former Artis Ethnographic Museum.
 
-### Description
+### History of the museum
 
 The current Wereldmuseum Amsterdam evolved from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893), founded in Haarlem in 1871. The Colonial Museum, located in Paviljoen Welgelegen, was initially mainly a products museum, where a variety of colonial goods and artefacts were displayed. The museum served as a resource for colonial entrepreneurs, providing them with knowledge about things such as minerals and natural resources. Important donors of objects included government officials such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname [Johann George Otto Stuart von Schmidt auf Altenstadt](http://www.wikidata.org/entity/Q1694028), the Government of the Dutch East Indies, 's Lands Plantentuin in Bogor and various trading companies and businesses.
 
@@ -20,6 +20,9 @@ Due to lack of space in Haarlem it was decided in 1913 to transfer the collectio
 After the Second World War it was decided to change the name of the Colonial Institute to the Indisch Instituut (East Indies Institute) with an Indisch Museum focused entirely on relations between the Netherlands and its colonies in the East and West. For this reason it was decided in 1947 to transfer the museum's African collection to the then Rijksmuseum voor Volkenkunde in Leiden. When the transfer of sovereignty took place in 1949 after the Indonesian war of independence, the Indisch Museum faced a quandary. The decision was taken to broaden its focus to the entire 'tropical realm'. From 1950 the East Indies Institute was known as the Royal Tropical Institute (KIT) and its museum as the Tropenmuseum. Because of this change in perspective, the focus in the second half of the 20th century was on collecting objects from the various tropical regions. Many objects also came to Amsterdam from West New Guinea, which remained a Dutch colony until 1962.
 
 In 2014 the Tropenmuseum, Museum Volkenkunde in Leiden, the Afrika Museum in Berg en Dal and later the Wereldmuseum in Rotterdam merged to form the National Museum of World Cultures. As of 2023 the museums continue under the joint name of Wereldmuseum.
+
+![Picture of the Wereldmuseum Amsterdam in april 2024](https://upload.wikimedia.org/wikipedia/commons/8/86/Wereldmuseum_Amsterdam_%282024%29.jpg)
+_Today's Wereldmuseum Amsterdam ([Sneeuwvlakte](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2024).jpg))_
 
 ### Provenance research
 
@@ -81,41 +84,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1131589
-,
-  Name variations:
-  
-Tropenmuseum, Koloniaal Museum, Indisch museum, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/page/aat/300451067), [Collecting](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Africa](https://www.geonames.org/6255146/), [Asia](https://www.geonames.org/6255147/), [North America](https://www.geonames.org/6255149/), [Oceania](https://www.geonames.org/6255151/), [South America](https://www.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1926,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  In 2014, the collections of the then Museum Volkenkunde in Leiden, the Afrika Museum in Berg en Dal and the Tropenmuseum in Amsterdam were merged. The collection of the former Tropenmuseum can be identified via the inventory number with the attribute 'TK'.
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=TM&publishers=Wereldmuseum
+TO BE FILLED
         

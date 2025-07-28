@@ -4,8 +4,11 @@ title: Etnografisch Museum Artis
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/EMArtis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/EMArtis.docx){: .btn .btn-blue }
 
@@ -21,11 +24,14 @@ _last edited by Wiebe Reints as original_author on 2024-07-11_
 
 Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige Wereldmuseum Amsterdam.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Het Etnografisch Museum Artis werd in 1851 gesticht om de collectie etnografische voorwerpen van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra een plek te geven. Het was voor die tijd niet ongebruikelijk dat een dierentuin ook objecten verzamelde; de sterk veranderende wetenschappen in de negentiende eeuw richtten zich namelijk vaak op meerdere onderzoeksgebieden tegelijk. De interesse in andere culturen, objecten en gebruiken, alsmede in flora, fauna en geologie hield nauw verband met het bredere Europese koloniale project. De etnografische collectie van Artis groeide gestaag gedurende de negentiende eeuw en zodoende werd in 1888 een speciaal museumgebouw, [de Volharding](http://www.wikidata.org/entity/Q17302628), opgericht. Dit gebouw is vandaag de dag nog steeds onderdeel van dierentuin Artis. Eind negentiende eeuw werd de collectie uitgebreid met voorwerpen van de [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://www.wikidata.org/entity/Q2417163), oftewel de Wereldtentoonstelling, van 1883 en voorwerpen die werden verzameld door het [Nieuwe Afrikaansche Handels-Vennootschap](http://www.wikidata.org/entity/Q2543001). Zodoende was het Etnografisch Museum Artis nauw verbonden met de koloniale betrekkingen van Nederland.
 
 Tussen 1905 en 1913 werd ook de collectie van het Koloniaal Museum in Haarlem tijdelijk opgenomen in de collectie van het Etnografisch Museum Artis, maar al snel daarna werd het besluit genomen de collecties over te dragen aan het nog te stichten museum van het Koloniaal Instituut, wat uiteindelijk plaatsvond in 1921. Het duurde tot 1926 voordat het museum van het Koloniaal Instituut, het tegenwoordige Wereldmuseum Amsterdam is, zijn deuren opende. Tot op heden vormt de verzameling van het Etnografisch Museum Artis een belangrijke basis van de collectie van het Wereldmuseum Amsterdam.
+
+![Foto van het interieur van het Ethnographisch Museum Artis](https://upload.wikimedia.org/wikipedia/commons/d/d9/Artis%2C_interieur_ethnografisch_museum_3.jpg)
+_Interieur van het Ethnographisch Museum Artis ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))_
 
 ### Herkomstonderzoek
 
@@ -97,33 +103,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2267276
-,
-  Name variations:
-  
-Museum voor Land- en Volkenkunde
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Oceanië](https://sws.geonames.org/6255151/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1851,
-  Year of end:
-  1921,
-  Collections:
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=artis&publishers=Wereldmuseum
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: International Colonial and Export Exhibition 1883
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Wereldtentoonstelling1883.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
 
@@ -21,13 +24,16 @@ _last edited by Wiebe Reints as original_author on 2025-06-24_
 
 In 1883, the International Colonial and Export Exhibition, also known as the World (or Universal) Exhibition, was held on what is now Museumplein in Amsterdam in 1883 from 1 May until 1 October. In addition to a Dutch colonial pavilion displaying many objects from eastern and western colonies, other countries and companies also held exhibitions.
 
-### Description
+### History
 
 Between 1 May and 31 October 1883, the International Colonial and Export Trade Exhibition, better known as the Amsterdam World Exhibition, was held on the vacant ground behind the [Rijksmuseum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47), which was under construction at the time. Although there was initially little enthusiasm for organising a universal exhibition in the Netherlands, French entrepreneur Edouard Agostini, with the help of foreign investors, managed to persuade the Dutch government. After exhibitions in Vienna, London, Philadelphia and Paris, the Frenchman felt the time was right to showcase the colonial trade in Amsterdam.
 
 The main entrance to the exhibition, located directly behind the [Rijksmuseum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47), consisted of two towers made of imitation marble, decorated with Hindu ornamentation and supported by plaster cast plaster elephants. Behind the main entrance was the so-called industry hall, where participating countries displayed their colonial goods and industrial products. To the left of this hall was the Dutch colonial pavilion, the most significant part of the exhibition. This pavilion, designed in a distinctive Moorish-Arabic style, was flanked by two statues: one of Jan Pieterszoon Coen and one of the goddess Victoria, which served as an allegory for the Dutch 'victory' in the Aceh War. Next to this Aceh monument was the so-called Indian village, where eight wooden and bamboo houses from different Indonesian regions were displayed, including their inhabitants. These people, among others Sumatrans, Sundanese and Javanese, were forced to display their crafts during the exhibition, a gamelan performance was held every day. Elsewhere on the grounds was a Surinamese village. As in the Indonesian village, Surinamese houses and inhabitants were exhibited to the European audience.
 
 The Dutch colonial pavilion was put together by [Pieter Johannes Veth](http://www.wikidata.org/entity/Q2497749), a Dutch geographer and ethnologist. He also wrote the scientific catalogue after the exhibition ended. To compile the objects in the Dutch pavilion, Veth enlisted the help of various Dutch curators, such as [Lindor Serrurier](http://www.wikidata.org/entity/Q1906999) from the [Rijks Etnographisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now the Wereldmuseum Leiden) and Fredericus Anna Jentink from the [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb) (now Naturalis), also located in Leiden. P.J. Veth's son, [Daniël Veth](http://www.wikidata.org/entity/Q21068926), was responsible for collecting objects in the Dutch East Indies. He also came up with the idea for the Indonesian village. The exhibition layout devised by P.J. Veth consisted of three main groups, divided into 38 subclasses. Group I concerned 'The territory of the colonised and ruled regions', group II 'The indigenous population of those regions' and group III 'The Europeans in those regions and their relations with the natives'. While this arrangement built on outdated perceptions, it also legitimised the modern Dutch colonial enterprise: the natural  wealth and surpluses (group I) and the exotic primitivism of the indigenous population (group  II) called for the modernising and civilising entrepreneurship of the Dutch government  and private individuals (group III). As decorative material, the pavilion displayed a number of maps of the Dutch East Indies and various trophies of weapons and flags, which came from the [Bronbeek Military Disabled Home](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f) More information about what other countries exhibited during the World Exhibition in Amsterdam can be found in Marieke Bloembergen's book _[Colonial spectacles : the Netherlands and the Dutch East Indies at the world exhibitions, 1880-1931](https://search.worldcat.org/title/70176990)_.
+
+![Drawing of the World's Fair grounds on the terrain behind the Rijksmuseum in Amsterdam](https://upload.wikimedia.org/wikipedia/commons/8/8e/De_Internationale_Koloniale_en_Uitvoerhandel-Tentoonstelling_te_Amsterdam_in_1883._Vogelperspectief%2C_geteekend_door_J.C._Greive_Jr._%28titel_op_object%29%2C_RP-P-OB-89.774.jpg)
+_Drawing of the 1883 World's Fair grounds near the Rijksmuseum Amsterdam ([J.C. Greive Jr. / Rijksmuseum Amsterdam](https://commons.wikimedia.org/wiki/File:De_Internationale_Koloniale_en_Uitvoerhandel-Tentoonstelling_te_Amsterdam_in_1883._Vogelperspectief,_geteekend_door_J.C._Greive_Jr._(titel_op_object),_RP-P-OB-89.774.jpg))_
 
 ### Provenance research
 
@@ -95,39 +101,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2417163
-,
-  Name variations:
-  
-Universal Exhibition of 1883
-,
-  Tags:
-  Activity:
-  
-[World's Fair](http://vocab.getty.edu/aat/300054778)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesia](https://www.geonames.org/1643084/), [Suriname] (https://sws.geonames.org/3382998/), [ABCSSS islands](https://sws.geonames.org/8505032/)
-,
-  Period of activity:
-  Year of start:
-  1883,
-  Year of end:
-  1883,
-  Collections:
-  General remarks:
-  content:
-  "After the World's Fair of 1883, many of the displayed objects were distributed among various institutions in the Netherlands."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/nl/objects?query=wereldtentoonstelling+1883
+TO BE FILLED
         

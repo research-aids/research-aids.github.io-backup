@@ -4,8 +4,11 @@ title: Civil servants in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/CivilServants.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/CivilServants.docx){: .btn .btn-blue }
 
@@ -128,17 +131,5 @@ Book:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Assistant Resident](http://www.wikidata.org/entity/Q1871115), [Bestuursambtenaar](https://www.wikidata.org/entity/Q64495361), [Commies](http://www.wikidata.org/entity/Q2685184), [Controleur](http://www.wikidata.org/entity/Q28725568), [Districts Commissary](http://www.wikidata.org/entity/Q76302606), [Gouverneur](https://data.cultureelerfgoed.nl/term/id/cht/9ffbac66-fc9a-4534-92fb-da1f90e41390), [Gouverneur-Generaal](https://www.wikidata.org/entity/Q382844), [Resident](https://www.wikidata.org/entity/Q19973930)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[ABCSSS islands](https://sws.geonames.org/8505032/), [Indonesia](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

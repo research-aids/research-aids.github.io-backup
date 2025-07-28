@@ -14,6 +14,9 @@ Het huidige Rijksmuseum Amsterdam stamt uit 1885 en is een samenvoeging van vers
 
 Het Rijksmuseum in Amsterdam in zijn huidige vorm stamt uit 1885, toen de collecties van verschillende Nederlandse musea werden samengevoegd. Directe voorgangers van het Rijksmuseum zijn zodoende de [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) te Haarlem, het Nederlandsch Museum van Geschiedenis en Kunst en het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1), beiden in Den Haag. Sinds 1952 wordt de collectie van de [Koninklijke Vereniging van Vrienden der Aziatische Kunst](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F406a43378409167aedcac1ac77cdedb5) (KVVAK) ook tentoongesteld in het Rijksmuseum. In het kader van onderzoek naar collecties uit een koloniale context, zijn met name de collecties van de KVVAK en het Koninklijk Kabinet van Zeldzaamheden binnen de Rijksmuseumcollectie interessant.
 
+![Afbeelding van het Rijksmuseum Amsterdam in circa 1885](https://upload.wikimedia.org/wikipedia/commons/9/96/Rijksmuseum_Amsterdam_ca_1895_rotated.jpg)
+_Het Rijksmuseum Amsterdam in ca. 1885 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam_ca_1895_rotated.jpg))_
+
 ### Herkomstonderzoek
 
 De archieven van het Rijksmuseum en rechtsvoorgangers to 1995, het jaar van de verzelfstandiging van het museum, is ondergebracht en raadpleegbaar in het [Noord-Hollands Archief](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25) in Haarlem. De meer recente archieven zijn beschikbaar via het Rijksmuseum zelf. Voor informatie over dit archiefmateriaal en de mogelijkheden tot het raadplegen ervan kun je contact opnemen met de archiefmedewerkers van het Rijksmuseum via [archief@rijksmuseum.nl](mailto:archief@rijksmuseum.nl).
@@ -55,41 +58,5 @@ Publicatie:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q190804
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Museum](http://vocab.getty.edu/aat/300312281), [Collectie](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Schilderijen](http://vocab.getty.edu/page/aat/300033618), [Kunstnijverheid](http://vocab.getty.edu/page/aat/300054168)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/), [Sri Lanka](https://sws.geonames.org/1227603/)
-,
-  Period of activity:
-  Year of start:
-  1885,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van het Rijksmuseum Amsterdam binnen de datahub is een selectie objecten die afkomstig zijn uit een koloniale context, die door het Rijksmuseum zelf is aangeleverd."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?publishers=Rijksmuseum
+TO BE FILLED
         

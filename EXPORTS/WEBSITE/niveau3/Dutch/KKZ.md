@@ -4,8 +4,11 @@ title: Koninklijk Kabinet van Zeldzaamheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KKZ.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KKZ.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2024-03-13_
 
 Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Willem I. De collectie bestond uit allerlei voorwerpen, onder andere uit door Nederland gekoloniseerde gebieden. In 1883 sloot het KKZ haar deuren, waarna de collectie werd verspreid over onder andere het Rijksmuseum in Amsterdam en het tegenwoordige Wereldmuseum Leiden.
 
-### Beschrijving
+### Geschiedenis van de collectie
 
 Het Koninklijk Kabinet van Zeldzaamheden was een museum in Den Haag, dat in 1816 werd opgericht door [Koning Willem I](https://www.wikidata.org/entity/Q2079957). Het museum had de vorm van een rariteitenkabinet en de collectie bestond uit allerlei voorwerpen, waaronder ook vele uit de koloniën. Uiteindelijk was er van alles in te vinden: voorwerpen met betrekking tot de Nederlandse geschiedenis, Aziatische [kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837), [etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984) en [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
 
@@ -123,39 +126,5 @@ Catalogus:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q34076860, https://hdl.handle.net/10648/6c37c05b-8e77-4ad0-b89d-26df2d054b22, https://hdl.handle.net/20.500.11840/pi57733
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Kabinet van zeldzaamheden](http://vocab.getty.edu/aat/300263444), [Museum](http://vocab.getty.edu/aat/300005768)
-,
-  Type of objects:
-  
-[Etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984), [Kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837), [Naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008), [Numismatica](http://vocab.getty.edu/aat/300054419)
-,
-  Geographical:
-  
-[China](https://sws.geonames.org/1814991/), [Indonesië](https://sws.geonames.org/1643084/), [Japan](https://sws.geonames.org/1861060/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/), [Suriname](https://sws.geonames.org/3382998/), [Turkije](https://sws.geonames.org/298795/), [Zuid-Afrika](https://sws.geonames.org/953987/)
-,
-  Period of activity:
-  Year of start:
-  1816,
-  Year of end:
-  1883,
-  Collections:
-  General remarks:
-  content:
-  Voorwerpen die afkomstig zijn het [Koninklijk Kabinet van Zeldzaamheden](https://www.wikidata.org/entity/Q34076860) bevinden in zich onder andere in het [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), het [Rijksmuseum](https://www.wikidata.org/entity/Q190804), [Naturalis Biodiversity Center](https://www.wikidata.org/entity/Q641676), [Wereldmuseum Rotterdam], het [Rijksmuseum van Oudheden](https://www.wikidata.org/entity/Q2042754), de [Universitaire Bibliotheek Leiden](https://www.wikidata.org/entity/Q638395), the [Smithsonian Institution](https://www.wikidata.org/entity/Q131626) en het [Rautenstrauch Joest Museum](https://www.wikidata.org/entity/Q2133582).
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=Koninklijk+Kabinet+van+Zeldzaamheden&dateCreatedEnd=1833
+TO BE FILLED
         

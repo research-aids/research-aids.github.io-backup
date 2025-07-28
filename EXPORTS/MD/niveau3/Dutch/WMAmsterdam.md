@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2024-07-11_
 
 Het huidige Wereldmuseum Amsterdam, voorheen het Tropenmuseum, is in de negentiende eeuw ontstaan vanuit verschillende koloniale collecties, waaronder die van het voormalige Etnografisch Museum Artis.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Het huidige Wereldmuseum Amsterdam is ontstaan uit het in 1871 opgerichte [Koloniaal Museum](http://www.wikidata.org/entity/Q51871893) in Haarlem. Dit Koloniaal Museum, dat was geïnitieerd door de Nederlandsche Maatschappij tot Bevordering van Nijverheid en Handel en was gevestigd in Paviljoen Welgelegen, was in eerste instantie voornamelijk een productenmuseum, waar een verscheidenheid aan koloniale waren, grondstoffen en kunstnijverheid werden tentoongesteld. Dit museum diende de koloniale handel te stimuleren en ondernemers van kennis te voorzien over onder andere mineralen en grondstoffen. Belangrijke schenkers van objecten waren bestuursambtenaren, zoals [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) en de oud gouverneur van Suriname, [Johann  George Otto Stuartd von Schmidt auf Altenstadt](http://www.wikidata.org/entity/Q1694028), de Nederlands-Indische Regering, 's Lands Plantentuin in Bogor en verschillende andere handelsondernemingen en bedrijven.
 
@@ -19,6 +19,9 @@ Vanwege ruimtegebrek in Haarlem werd in 1913 besloten de collectie over te drage
 Na de Tweede Wereldoorlog werd besloten het Koloniaal Instituut om te dopen tot het Indisch Instituut met een Indisch Museum dat volledig gericht was op de betrekkingen tussen Nederland en de koloniën in het oosten en westen. Om die reden werd in 1947 besloten de Afrikaanse collectie van het museum over te dragen aan het toenmalige Rijksmuseum voor Volkenkunde in Leiden. Toen na de Indonesische onafhankelijkheidsoorlog in 1949 de soevereiniteitsoverdracht plaatsvond, zat het Indisch Museum in een lastig parket. Er werd voor gekozen de focus te verbreden naar de volledige 'tropische wereld'. Het Indisch Instituut heette vanaf 1950 het Koninklijk Instituut voor de Tropen (KIT) en het bijbehorende museum voortaan het Tropenmuseum. Vanwege deze perspectiefverandering lag de focus in de tweede helft van de twintigste eeuw op het verzamelen van objecten uit de verschillende tropische gebieden. Ook vanuit West Nieuw-Guinea, dat nog tot 1962 een Nederlandse kolonie bleef, kwamen veel objecten naar Amsterdam.
 
 In 2014 werden het Tropenmuseum, Museum Volkenkunde in Leiden, het Afrika Museum in Berg en later het Wereldmuseum in Rotterdam bestuurlijk samengevoegd tot het Nationaal Museum van Wereldculturen. Sinds 2023 gaan deze musea verder onder de gezamenlijke naam Wereldmuseum.
+
+![Foto van het Wereldmuseum Amsterdam in april 2024](https://upload.wikimedia.org/wikipedia/commons/8/86/Wereldmuseum_Amsterdam_%282024%29.jpg)
+_Het huidige Wereldmuseum Amsterdam ([Sneeuwvlakte](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2024).jpg))_
 
 ### Herkomstonderzoek
 
@@ -79,41 +82,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1131589
-,
-  Name variations:
-  
-Tropenmuseum, Koloniaal Museum, Indisch museum, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Collectie](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Oceanië](https://sws.geonames.org/6255151/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1926,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  In 2014 zijn de collecties van het toenmalige Museum Volkenkunde in Leiden, het Afrika Museum in Berg en Dal en het Tropenmuseum in Amsterdam samengevoegd. De collectie van het voormalige Tropenmuseum is via het inventarisnummer te herkennen met het kenmerk 'TK'.
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=TM&publishers=Wereldmuseum
+TO BE FILLED
         

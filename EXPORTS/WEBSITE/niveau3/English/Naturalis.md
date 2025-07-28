@@ -4,8 +4,11 @@ title: Naturalis Biodiversity Center
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Naturalis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Naturalis.docx){: .btn .btn-blue }
 
@@ -22,7 +25,7 @@ _last edited by Abacus as translator on 2025-04-24
 
 Naturalis Biodiversity Center, before the Rijksmuseum van Natuurlijke Historie (State Museum of Natural History), was founded in 1820 in Leiden. The focus of Naturalis is threefold: accumulating and maintaining a collection of natural historical objects, conducting research into the collection and exhibit the collection to a broad audience. A large part of Naturalis' collection originates from the former Dutch East Indies and other former Dutch colonies. In the 19th and 20th century, scientists amassed large collections of natural historical specimens in these regions.
 
-### Description
+### History of the museum
 
 In 1820 [King Willem I](http://www.wikidata.org/entity/Q2079957) established the ['s Rijksmuseum van Natuurlijke Historie](http://www.wikidata.org/entity/Q3432011) by Royal Decree. The museum has been called Naturalis Biodiversity Center since 2010. The museum collection was formed by combining the collections of Leiden University, 's Lands Kabinet van Natuurlijke Historie (the National Cabinet of Natural History) and the personal collection of the first director [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). During the nineteenth century these collections, which were initially collected as curiosities, attracted increasing interest from nascent scientific disciplines. Temminck succeeded in getting Dutch people abroad to acquire natural objects to add to the collection of the Rijksmuseum van Natuurlijke Historie (RMNH). For example, the collection of natural objects from Japan accumulated by [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), whose ethnographic collection later served as the foundation of the Rijks Etnografisch Museum in Leiden, was also added to the RMNH collection. 
 
@@ -51,6 +54,9 @@ During the twentieth century the collections of both the RMNH and RGM were expan
   - Berend George Escher (1922-1955)
   - Isaäk Martinus van der Vlerk (1955-1961)
   - Cornelis Beets (1963-1977)
+
+![Photo from 1972 of an exhibition of Surinamese animals in the Rijksmuseum van Natuurlijke Historie](https://upload.wikimedia.org/wikipedia/commons/5/57/Rijksmuseum_van_Natuurlijke_Historie%2C_Objectnr_PV_PV16120.jpg)
+_Exhibition of Surinamese animals in the Rijksmuseum van Natuurlijke Historie, 1972 ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))_
 
 ### Provenance research
 
@@ -123,41 +129,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q641676
-,
-  Name variations:
-  
-Naturalis, Rijksmuseum van Natuurlijke Historie, Rijksmuseum van Geologie en Mineralogie, Nationaal Natuurhistorisch Museum
-,
-  Tags:
-  Activity:
-  
-[Research center](http://vocab.getty.edu/aat/300343398), [Collecting](http://vocab.getty.edu/aat/300077121), [Natural History Museum](http://vocab.getty.edu/aat/300312324)
-,
-  Type of objects:
-  
-[Natural objects](http://vocab.getty.edu/aat/300404125), [Natural history specimens](http://vocab.getty.edu/aat/300379591), [Animal specimens](http://vocab.getty.edu/aat/300420186), [Minerals](http://vocab.getty.edu/aat/300011068), [Fossils](http://vocab.getty.edu/aat/300011068)
-,
-  Geographical:
-  
-[Europe](https://sws.geonames.org/6255148/), [Asia](https://sws.geonames.org/6255147/), [Africa](https://sws.geonames.org/6255146/), [Oceania](https://geonames.org/6255151/), [North America](https://sws.geonames.org/6255149/), [South America](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1820,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  
-
-,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

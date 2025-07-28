@@ -4,8 +4,11 @@ title: Leger- en marinepersoneel in gekoloniseerde gebieden
 parent: niveau2
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
 
@@ -101,17 +104,5 @@ Zoekhulp:
 
 ---
 ## Relevant Data 
-Tags:
-  Activity:
-  
-[Adelborst](http://www.wikidata.org/entity/Q11141137), [Luitenant-ter-zee](https://www.wikidata.org/entity/Q2631032), [Matroos](https://www.wikidata.org/entity/Q707995), [Officier](http://vocab.getty.edu/aat/300236210), [Onderofficier](https://www.wikidata.org/entity/Q158950), [Soldaat](http://vocab.getty.edu/aat/300185678)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-[Aruba](https://sws.geonames.org/3577279/), [Bonaire](https://sws.geonames.org/7609816/), [Curaçao](https://sws.geonames.org/7626836/), [Saba](https://sws.geonames.org/3513314/), [Sint Eustatius](https://sws.geonames.org/3513232/), [Sint Maarten](https://sws.geonames.org/7609695/), [Indonesië](https://sws.geonames.org/1643084/), [Suriname](https://sws.geonames.org/3382998/)
-
+TO BE FILLED
         

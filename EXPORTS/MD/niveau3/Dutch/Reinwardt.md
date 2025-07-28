@@ -10,13 +10,16 @@ _last edited by Wiebe Reints as original_author on 2024-12-17_
 
 Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst die in de negentiende eeuw een grote rol heeft gespeeld in de ontwikkeling van verschillende musea in Nederland en bij het Bataviaasch Genootschap van Kunsten en Wetenschappen) in voormalig Nederlands-Indië.
 
-### Beschrijving
+### Biografie
 
 Caspar Georg Carl Reinwardt was een Nederlandse botanist van Pruisische afkomst. In 1787 kwam hij als veertienjarige naar Amsterdam, waar hij onderwijs in botanie en chemie genoot aan het [Athenaeum Illustre](http://www.wikidata.org/entity/Q505639). In 1800 werd Reinwardt aangesteld als hoogleraar chemie, natuurlijke historie en botanie aan de [Universiteit van Harderwijk](http://www.wikidata.org/entity/Q1816221). Ondertussen werd in 1806 [Lodewijk Napoleon](http://www.wikidata.org/entity/Q7729) koning van het Nederlandse grondgebied van Europees Nederland. Deze stelde Reinwardt in 1808 aan als directeur van zijn botanische en zoölogische tuinen en museum, eerst in Soest, vervolgens in Haarlem en daarna in Amsterdam. Nadat Nederland in 1810 onderdeel werd van het Franse keizerrijk werd Reinwardt aan het Athenaeum Illustre aangesteld als hoogleraar in verschillende disciplines. Reinwardt had zich zodoende in een relatief korte periode weten op te werken tot een belangrijke persoon in de Nederlandse academische en bestuurlijke wereld. Het is dus ook niet verrassend dat Koning Willem I, nadat het Nederlandse koninkrijk in 1813 weer hersteld was, Reinwardt aanstelde als Directeur van Landbouwkundige aangelegenheden, Wetenschappen en Kunsten in de commissie die de Indische archipel, na het interregnum van de Britten, bestuurlijk opnieuw moest inrichten.
 
-In die rol opende Reinwardt op 18 mei 1817 's Lands Plantentuin in Buitenzorg (Bogor), waarvan hij ook de eerste directeur werd. Tijdens zijn verblijf in Indonesië ondernam Reinwardt meerdere expedities om de collectie van 'zijn' botanische tuin aan te vullen, maar zoals gebruikelijk indertijd hield hij het niet bij het verzamelen van enkel flora specimen. Ook natuurhistorisch en etnografisch materiaal werd door Reinwardt naar Bogor meegenomen en tentoongesteld in een klein natuurhistorisch museum in de botanische tuin. Ook stuurde hij vele natuurhistorische objecten richting Europees Nederland, waar deze ter beschikking kwamen aan de collectie van de koning, 's Lands Kabinet van Natuurlijke Historie, dat later de basis zou vormen voor het Rijksmuseum van Natuurlijke Historie (tegenwoordig [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). Op zijn reizen werd Reinwardt bijgestaan door persoonlijke 'verzamelaars', waarvan Jacob D'Arnaud van Boeckholtz en August Fransz Treffz de belangrijkste zijn.
+In die rol opende Reinwardt op 18 mei 1817 's Lands Plantentuin in Buitenzorg (Bogor), waarvan hij ook de eerste directeur werd. Tijdens zijn verblijf in Indonesië ondernam Reinwardt meerdere expedities om de collectie van 'zijn' botanische tuin aan te vullen, maar zoals gebruikelijk indertijd hield hij het niet bij het verzamelen van enkel flora specimen. Ook natuurhistorisch en etnografisch materiaal werd door Reinwardt naar Bogor meegenomen en tentoongesteld in een klein natuurhistorisch museum in de botanische tuin. Ook stuurde hij vele natuurhistorische objecten richting Europees Nederland, waar deze ter beschikking kwamen aan de collectie van de koning, 's Lands Kabinet van Natuurlijke Historie, dat later de basis zou vormen voor het Rijksmuseum van Natuurlijke Historie (tegenwoordig [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). Op zijn reizen werd Reinwardt bijgestaan door persoonlijke 'verzamelaars', waarvan Jacob D'Arnaud van Boeckholtz en August Fransz Treffz de belangrijkste zijn. ![Reinwardt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg/330px-Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg =206x240)
 
 In 1820 werd Reinwardt door Koning Willem I aangesteld als hoogleraar botanie, natuurlijke historie en scheikunde aan de [Universiteit Leiden](http://www.wikidata.org/entity/Q156598) en directeur van de Hortus Botanicus in Leiden. Hij kreeg echter toestemming om tot 1822 in Indonesië te verblijven en maakte in die tijd een reis naar Timor, de Molukken en Celebes. Postuum, aan de hand van door Reinwardt achtergelaten aantekeningen, verscheen over deze reis het boek _Reis naar het oostelijk gedeelte van den Indischen archipel in het jaar 1821_. In zijn positie als directeur van de Hortus Botanicus schreef Reinwardt een nieuwe catalogus, die hard nodig was na de vele toevoegingen aan de collectie van de tuin. Ondertussen hadden andere natuurhistorische wetenschappers in Nederland niet stil gezeten, waardoor bijvoorbeeld de door Reinwardt geambieerde positie van directeur van het Rijksmuseum van Natuurlijke Historie al vergeven was aan [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). In 1854 overleed Caspar Georg Carl Reinwardt. Hoewel hij niet aan al zijn wetenschappelijke ambities heeft kunnen voldoen, zoals zijn vele aantekeningen omzetten in verschillende wetenschappelijke publicaties, heeft hij wel nadrukkelijk zijn stempel gedrukt op de (natuurhistorische) museum collecties in Nederland.
+
+![Portret van Caspar Georg Carl Reinwardt uit circa 1830-1890](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg/330px-Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg)
+_Caspar Georg Carl Reinwardt (1773-1854) ([James Erxleben / Rijksmuseum Amsterdam](https://commons.wikimedia.org/wiki/File:Portret_van_Caspar_Georg_Carl_Reinwardt,_RP-P-1906-948.jpg))_
 
 ### Herkomstonderzoek
 
@@ -100,39 +103,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q63165
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Botanist](http://www.wikidata.org/entity/Q2374149), [Wetenschapper](http://www.wikidata.org/entity/Q901)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-
-,
-  Period of activity:
-  Year of start:
-  1773,
-  Year of end:
-  1854,
-  Collections:
-  General remarks:
-  content:
-  "Reinwardt verzamelde allerhande objecten in onder andere Indonesië, die in verschillende Nederlandse museumcollecties terecht zijn gekomen."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=reinwardt
+TO BE FILLED
         

@@ -10,13 +10,16 @@ _last edited by Wiebe Reints as original_author on 2024-03-27_
 
 Het huidige Wereldmuseum Leiden is in de 19e eeuw ontstaan door het samenvoegen van verschillende in gekoloniseerde gebieden verzamelde collecties.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Het huidige Wereldmuseum Leiden kent een geschiedenis vanaf 1837 waarbij de eerste honderd jaar gekenmerkt wordt door financiële moeilijkheden, de verwerving van grote hoeveelheden objecten en vele wisselingen van locatie. In 1937 vond het museum uiteindelijk in het voormalig academisch ziekenhuis aan de Steenstraat een locatie waar het zijn volledige collectie tentoon kan stellen. Nog altijd is het museum in dit pand gevestigd. 
 
 De collectie van het Wereldmuseum Leiden is in 1837 ontstaan uit de privéverzameling van [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), tevens de eerste directeur van het museum, dat de naam 's Rijks Japansch Museum Von Siebold droeg. Vanaf 1864 heette het museum het 's Rijks Etnografisch Museum, REM. De collectie, die aanvankelijk vooral uit Japanse objecten bestond, werd gedurende de 19e eeuw uitgebreid met verschillende particuliere verzamelingen. In 1883 kwam daar een aanzienlijke collectie etnografische objecten uit de collectie van het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) bij. In 1904 werd ook een gedeelte van de collectie van het [Rijksmuseum voor Oudheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3) in Leiden overgedragen aan het toenmalige Rijks Etnografisch Museum. Onder deze laatste groep objecten bevonden zich ook de verschillende Singhasari-beelden, waarvan een deel in 1978 en een ander deel in 2023 zijn gerestitueerd aan Indonesië. Ook werden objecten aan andere musea overgedragen, zoals aan het Anatomisch Museum in Leiden in 1935. 
 
 Objecten werden op verschillende manieren verkregen. Allereerst, zoals hierboven beschreven, door het uitruilen met andere musea. Daarnaast was het Rijks Etnografisch Museum zelf een actieve koper van etnografische objecten bij handelaren en veilingen, een deel van de collectie Benin Bronzen van het museum is bijvoorbeeld op deze manier verkregen. Ook werden veel objecten ontvangen als donatie, vaak van [koloniale ambtenaren](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18) of [militairen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) van bijvoorbeeld het Koninklijk Nederlands-Indisch Leger (KNIL). Het overgrote deel van de collectie van het huidige Wereldmuseum Leiden is dan ook gedurende de 19e en 20e eeuw verzameld.
+
+![Foto van het Wereldmuseum in Leiden in november 2024](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)
+_Het Wereldmuseum Leiden in november 2024 ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))_
 
 ### Herkomstonderzoek
 
@@ -84,37 +87,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q17339437
-,
-  Name variations:
-  
-Verzameling Von Siebold, Rijks Japansch Museum, Rijks Japansch Museum Von Siebold, Rijks Etnografisch Museum, Rijksmuseum voor Volkenkunde, Museum Volkenkunde, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Collectie](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Oceanië](https://sws.geonames.org/6255151/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
-,
-  Period of activity:
-  Year of start:
-  1837,
-  Year of end:
-  
-
-,
-  Collections:
-  Within Data Hub:
-  
-
-
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: Museum Nusantara
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MNusantara.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MNusantara.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2025-02-25_
 
 Museum Nusantara was a museum in the city of Delft that held a collection of predominantly Indonesian objects. After the museum's closing in 2013, 1500 objects were transferred to Indonesia. The rest of the collection was divided among museums in the Netherlands and abroad, including Wereldmuseum Leiden.
 
-### Description
+### History of the museum
 
 The collection of [Museum Nusantara](http://www.wikidata.org/entity/Q2668933) has its origins in the Instelling van onderwijs in de taal-, land- en volkenkunde van Nederlandsch-Indië (Institution for education in the linguistics, ethnography and geography of the Dutch East Indies), or in short: [the Indische Instelling](http://www.wikidata.org/entity/Q62604589) (Indies Institute) Between 1842 and 1864, the [Koninklijke akademie](http://www.wikidata.org/entity/Q21029912) (Royal academy) was based in Delft, where both civil engineers and colonial administrators were trained. In 1864, the Royal Academy was split into the [Polytechnic School](http://www.wikidata.org/entity/Q56587288) (the predecessor of the current Technical University in Delft) and the educatrion for Dutch East Indies civil servants was moved to Leiden (and with it the relevant object and library collection), where a more academic programme would be established. Following this decision, the Municipality of Delft decided to establish the Indische Instelling.
 
@@ -78,39 +81,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2668933
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Ehtnografic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1911,
-  Year of end:
-  2013,
-  Collections:
-  General remarks:
-  content:
-  "After the closing of Museum Nusantara in 2013, the collection was divided among different museums. 1,500 objects were repatriated to Indonesia. The whole collection can be consulted on the still existing [Museum Nusantara website](http://collectie-nusantara.nl/)."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
+TO BE FILLED
         

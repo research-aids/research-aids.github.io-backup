@@ -11,13 +11,16 @@ _last edited by Abacus as translator on 2025-04-24
 
 Caspar Georg Carl Reinwardt was a Dutch botanist from Prussian descent. In the 19th century, Reinwardt played a large role in the development of various Dutch museums and for a time he was involved with the Bataviaasch Genootschap van Kunsten en Wetenschappen in the former Dutch East Indies.
 
-### Description
+### Biography
 
 Caspar Georg Carl Reinwardt was a Dutch botanist of Prussian descent. In 1878, aged 14, he came to Amsterdam, where he studied botany and chemistry at the [Athenaeum Illustre](http://www.wikidata.org/entity/Q505639). In 1800 Reinwardt was appointed professor of chemistry, natural history and botany at the [University of Harderwijk](http://www.wikidata.org/entity/Q1816221). In 1806 [Louis Napoleon](http://www.wikidata.org/entity/Q7729) became king of the Dutch European territory and appointed Reinwardt director of his botanical and zoological gardens and museum in 1808 – first in Soest, then in Haarlem and then in Amsterdam. After the Netherlands became part of the French Empire in 1810, Reinwardt was appointed professor of various disciplines at the Athenaeum Illustre. In a relatively short period of time, Reinwardt had thus managed to work his way up to become an important figure in the Dutch academic and administrative world. So it is not surprising that King Willem I, after the Dutch kingdom was restored in 1813, appointed Reinwardt as Director of Agricultural affairs, Sciences and Arts in the commission that was tasked with the administrative reorganisation of the Indian archipelago after the British interregnum.
 
 In this role, Reinwardt opened the botanical garden ‘s Lands Plantentuin in Buitenzorg (Bogor) on 18 May 1817, also becoming its first director. While in the Dutch East Indies Reinwardt undertook several expeditions to add to the collection of ‘his’ botanical garden. As was usual at the time, he did not limit his collecting to plant specimens but  also took other natural history and ethnographic material to Bogor, where it was exhibited in a small natural history museum in the botanical garden. He also sent many natural history objects to the European Netherlands, where they were made available to ‘s Lands Kabinet van Natuurlijke Historie (the National Cabinet of Natural History), which would later form the foundation for the [Rijksmuseum van Natuurlijke Historie](http://www.wikidata.org/entity/Q3432011) (now [Naturalis Biodiversity Center](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)). During his travels Reinwardt was assisted by personal ‘collectors’, the most important of these being Jacob D'Arnaud van Boeckholtz and August Fransz Treffz.
 
 In 1820 King Willem I appointed Reinwardt professor of botany, natural history and chemistry at the [University of Leiden](http://www.wikidata.org/entity/Q156598), as well as director of the Hortus Botanicus in Leiden. Despite this he was granted permission to stay in Indonesia until 1822, during which he made a trip to Timor, the Moluccas and Celebes. The book *Reis naar het oostelijk deel van den Indischen archipel in het jaar 1821* was published posthumously and is based on notes Reinwardt left about the trip. In his position as director of the Hortus Botanicus, Reinwardt wrote a new catalogue, which was much needed after the many additions to the garden's collection. Meanwhile, other natural history scholars in the Netherlands had not been idle, and for example the job of director of the National Museum of Natural History, to which Reinwardt aspired, had already been given to [Coenraad Jacob Temminck](http://www.wikidata.org/entity/Q31621). Reinwardt died in 1854. Although he was not able to fulfil all his scientific ambitions, such as converting his many notes into various scientific publications, he left a clear stamp on natural history and other museum collections in the Netherlands.
+
+![Portret of Caspar Georg Carl Reinwardt from circa 1830-1890](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg/330px-Portret_van_Caspar_Georg_Carl_Reinwardt%2C_RP-P-1906-948.jpg)
+_Caspar Georg Carl Reinwardt (1773-1854) ([James Erxleben / Rijksmuseum Amsterdam](https://commons.wikimedia.org/wiki/File:Portret_van_Caspar_Georg_Carl_Reinwardt,_RP-P-1906-948.jpg))_
 
 ### Provenance research
 
@@ -101,39 +104,5 @@ Article:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q63165
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Botanist](http://www.wikidata.org/entity/Q2374149), [Scientist](http://www.wikidata.org/entity/Q901)
-,
-  Type of objects:
-  
-
-,
-  Geographical:
-  
-
-,
-  Period of activity:
-  Year of start:
-  1773,
-  Year of end:
-  1854,
-  Collections:
-  General remarks:
-  content:
-  "Reinwardt collected all kinds of objects in Indonesia and elsewhere, which ended up in various Dutch museum collections."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=reinwardt
+TO BE FILLED
         

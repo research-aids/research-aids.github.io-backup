@@ -11,7 +11,7 @@ _last edited by Wiebe Reints  on 2025-07-07
 
 Museum Bronbeek werd in 1863 geopend als onderdeel van het Koloniaal Militair Invalidenhuis, nabij Arnhem. Het bevat een grote collectie aan militaria, maar ook etnografische en andersoortige objecten.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Nadat [Koning Willem III](http://www.wikidata.org/entity/Q125649) in 1862 het landgoed Bronbeek had overgedragen aan de Nederlandse Staat, werd er in 1863 een tehuis gesticht voor invalide koloniale militairen die gediend hadden in het [Koninklijk Nederlands-Indisch Leger](http://www.wikidata.org/entity/Q523553) (KNIL). Reeds vanaf 1880 was het tehuis ook opengesteld voor militairen van de Koninklijke Marine, dit gold vanaf 1963 ook voor andere krijgsmachtdelen. 
 
@@ -21,7 +21,10 @@ Tot 1959 was het tehuis en haar museum ondergebracht bij het Ministerie van Kolo
 
 In 1951 werd de museumopstelling in samenwerking met conservatoren van het [Tropenmuseum]( https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208) (tegenwoordig Wereldmuseum Amsterdam) aangepast. De nieuwe opstelling was meer etnografisch van aard en een gedeelte over de Tweede Wereldoorlog in Azië werd toegevoegd. Na een complete renovatie van het museum en tehuis in 1998, veranderde in 2010 ook de inhoudelijke koers: het museum werd een koloniaal militair historisch museum, dat het handelen van de koloniale overheid centraal stelt. 
 
-In 2024 opende Museum Bronbeek een nieuwe vaste opstelling van de collectie.    
+In 2024 opende Museum Bronbeek een nieuwe vaste opstelling van de collectie.
+
+![Interieur van de begane grond van Museum Bronbeek in 1980](https://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenhuis_Bronbeek%2C_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg)
+_Interieur van de begane grond van Museum Bronbeek, 1980 ([Paul van Galen / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Invalidenhuis_Bronbeek,_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg))_    
 
 ### Herkomstonderzoek
 
@@ -69,43 +72,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q61930724
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Militair museum](http://vocab.getty.edu/page/aat/300312314), [Collectie](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1863,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "De datasetbrowser van de datahub bevat de collectie stamboeken van Museum Bronbeek."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

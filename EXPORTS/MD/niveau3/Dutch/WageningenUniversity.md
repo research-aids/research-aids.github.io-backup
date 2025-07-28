@@ -64,43 +64,5 @@ Artikel:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q422208, https://hdl.handle.net/20.500.11840/pi256
-,
-  Name variations:
-  
-Landbouwhogeschool, Rijkslandbouwschool, Landbouwuniversiteit Wageningen
-,
-  Tags:
-  Activity:
-  
-[Collectie](http://vocab.getty.edu/aat/300025976), [Museum](http://vocab.getty.edu/aat/300005768)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1876,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "De verzameling van de [Landbouwhogeschool](https://www.wikidata.org/entity/Q422208) werd vanaf ca. 1962 afgestoten en raakte verspreid. Voorwerpen bevinden zich momenteel in het [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589), [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437), [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754) en [Museum Bronbeek](https://www.wikidata.org/entity/Q61930724). Mogelijk bevinden zich ook voorwerpen in andere musea, vooral vanuit de ontzameling van [Museum Nusantara](https://www.wikidata.org/entity/Q2668933)."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

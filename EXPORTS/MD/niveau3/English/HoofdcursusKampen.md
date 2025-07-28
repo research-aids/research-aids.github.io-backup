@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2025-05-13_
 
 The Hoofdcursus was a military school in Kampen (Overijssel). Whereas the Royal Military Academy in Breda had a more scientific approach, the Hoofdcursus had a focus on practical education. As such, an ethnographic collection was assembled for training officers for the former Dutch East Indies. This collection was also open to the general public. After the closure of the school in 1923, the collection was incorporated into that of the Royal Military Academy in Breda.
 
-### Description
+### History of the collection
 
 The Hoofdcursus, as the military academy in Kampen was called from 1880 onwards, provided education for military personnel in the Netherlands and the former Dutch East Indies. The curriculum at the Hoofdcursus had a more practical focus than that of the Royal Military Academy (Koninklijke Militaire Academie, KMA) in Breda. At the beginning of the twentieth century, certain courses were tailored to working in the Dutch colony in Southeast Asia. Hendrik Theodorus van IJsseldijk was appointed as a teacher of Malay language, geography and ethnography, among other subjects. To illustrate his lessons, Van IJsseldijk brought his own ethnographic collection to the Hoofdcursus and encouraged other military personnel to send their collections there too. George Nypels was among those who responded to Van IJsseldijk's request. Among other things, he donated a gravestone he had brought back from Aceh. This object was examined in 2022 as part of the Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE). See the full report under ‘Sources’. H.J. Voskuil, who later succeeded Van IJsseldijk as curator of the ethnographic collection, also donated various objects.
 
@@ -72,39 +72,5 @@ Provenance report:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q104871407
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/aat/300451067), [Military academy](http://vocab.getty.edu/aat/300343417)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Weapons](http://vocab.getty.edu/page/aat/300036926)
-,
-  Geographical:
-  
-[Indonesia](https://www.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1900,
-  Year of end:
-  1923,
-  Collections:
-  General remarks:
-  content:
-  "The collection of the Hoofdcursus in Kampen was transferred to the collection of the Royal Military Academy in Breda in 1923."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/nl/objects?query=hoofdcursus+kampen
+TO BE FILLED
         

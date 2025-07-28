@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-04-24
 
 The Wereldmuseum Berg en Dal, previously known as the Afrika Museum, was a museum in Berg en Dal, a village close to the city of Nijmegen. The museum was founded in 1954 by the Congregation of the Holy Spirit. Since 2014, the museum was part of the Dutch National Museum of World Cultures until it closed it's doors in 2023.
 
-### Description
+### History of the museum
 
 The Wereldmuseum Berg en Dal, hereinafter referred to as the Afrika Museum, was founded in 1954 by the [Congregation of the Holy Spirit](https://missie-geest.nl/) (sometimes abbreviated as CSSp) at villa Ooster Meerwijk near Nijmegen. Before long there was not enough space to exhibit the objects brought back by missionaries from African countries and so in 1957 the museum was moved to a new building in Berg and Dal, which remained in use until the closure of the museum in 2023. Although the collection initially consisted of objects donated by missionaries, in the second half of the twentieth century it expanded to include donations from expats living in Africa and African embassies and eventually also through acquisitions. 
 
@@ -20,6 +20,9 @@ As early as 1956 the museum was operated by the Stichting Afrika Museum foundati
 The Afrika Museum is known for the various replicas of African homes built on the museum grounds which were open to visitors. This outdoor museum, firstly also featuring an animal park, was founded in 1958 and expanded in 1987. As part of a centralisation policy  in 2014  the Afrika Museum was merged with [Museum Volkenkunde](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) in Leiden, [the Tropenmuseum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208) in Amsterdam and subsequently also [the Wereldmuseum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191) in Rotterdam. As of 2023 the museums continue under the name of Wereldmuseum.
 
 In 2021 a dispute arose between the Nationaal Museum van Wereldculturen (National Museum of World Cultures) and the Congregation of the Holy Spirit over the future course of the museum. The positions of the museum foundation, which rents the building and has part of the collection on loan from the congregation, were so far apart that it was decided to close the museum at the end of 2023. In late 2024 the court ruled that the collection of the former Afrika Museum is the property of the fathers of the Congregation of the Holy Spirit, but exactly what this ruling means for the future accessibility of the collection is still unclear.
+
+![Photo from 2007 of a few of the African houses on the terrain of the former Wereldmuseum Berg en Dal](https://upload.wikimedia.org/wikipedia/commons/5/51/Afrika_museum_-_Berg_en_Dal_-_panoramio_-_Rokus_Cornelis.jpg)
+_A few of the African houses on the terrain of the former Wereldmuseum Berg en Dal, 2007 ([Rokus Cornelis](https://commons.wikimedia.org/wiki/File:Afrika_museum_-_Berg_en_Dal_-_panoramio_-_Rokus_Cornelis.jpg))_
 
 ### Provenance research
 
@@ -59,39 +62,5 @@ Book:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q2470853
-,
-  Name variations:
-  
-Afrika Museum, Afrika Museum, Berg en Dal, Nationaal Museum van Wereldculturen
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/page/aat/300451067), [Collection](http://vocab.getty.edu/aat/300025976)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Africa](https://www.geonames.org/6255146/)
-,
-  Period of activity:
-  Year of start:
-  1954,
-  Year of end:
-  2023,
-  Collections:
-  General remarks:
-  content:
-  When the Africa Museum became part of the Nationaal Museum van Wereldculturen, the collection was taken over as a loan by the association. Since the closure of the museum there has been a dispute over the ownership of the collection. In the collection of the Wereldmuseum, objects from the Africa Museum can be identified by the characteristic AM.
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/nl/objects?query=AM&publishers=Wereldmuseum
+TO BE FILLED
         

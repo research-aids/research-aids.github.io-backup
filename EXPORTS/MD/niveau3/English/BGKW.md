@@ -11,7 +11,7 @@ _last edited by Abacus as translator on 2025-04-07
 
 The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society for Arts and Science) was founded in 1778. It set itself the task to promote (fine) art and science in the former Dutch East Indies. For long, the Bataviaasch Genootschap decided whether collected objects were kept in Indonesia or send to the Netherlands. In 1962, the collection of the Bataviaasch Genootschap subsumed in the National Museum of Indonesia.
 
-### Description
+### History
 
 Founded in 1778, the Bataviaasch Genootschap van Kunsten en Wetenschappen endured through several subsequent colonial administrations in Indonesia: the VOC, the French period, the British interregnum and finally the Kingdom of the Netherlands. In 1950, after Indonesia's war for independence, the name of the Society was changed to *Lembaga Kebudajaan Indonesia*, the Indonesian Cultural Institute. This institute was dissolved in 1962 and its collection was incorporated into the National Museum of Indonesia, which still resides in the building that the Bataviaasch Genootschap moved into in 1867. Most of the society's members came from the upper echelons of the colonial administration in the former Dutch East Indies and so close connections were maintained with the colonial authorities. There was also frequent contact with similar societies in the Netherlands and with Dutch museums and scientists. In this way, the Bataviaasch Genootschap van Kunsten en Wetenschappen developed into a pivotal player in the cultural and scientific field in the Dutch East Indies.
 
@@ -20,6 +20,9 @@ The aim of the Bataviaasch Genootschap was to promote the arts and sciences in t
 From 1878 it was obligatory for all objects collected by Dutch officials to first be sent to the Bataviaasch Genootschap, where a selection was made, with some objects sent to the Netherlands and some remaining in Batavia. This is the reason, for instance, that part of the so-called 'Lombok treasure', captured by the Royal Dutch East Indies Army during the Lombok War at the end of the nineteenth century, was included in the collection of the Bataviaasch Genootschap.
 
 From 1779 the Bataviaasch Genootschap published scientific findings in *Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen*, which was issued on a regular basis and, from 1838, was published by the Society itself. In 1853 the Society also founded the journal *Tijdschrift voor Indische taal- land- en volkenkunde*. The minutes of the Society were also published from that time, and often contain interesting information about the objects that were acquired.
+
+![Photograph from 1948 of the Bataviaasch Genootschap voor Kunsten en Wetenschappen museum on the Koningsplein in Batavia (Nowadays the Museum Nasional in Jakarta, Indonesia)](https://upload.wikimedia.org/wikipedia/commons/8/80/Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein%2C_Bestanddeelnr_13905.jpg)
+_The BGKW museum in 1948 ([R.G. Jonkman / Nationaal Archief Den Haag](https://commons.wikimedia.org/wiki/File:Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein,_Bestanddeelnr_13905.jpg))_
 
 ### Provenance research
 
@@ -76,41 +79,5 @@ Book:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1789996
-,
-  Name variations:
-  
-Bataviaasch Genootschap, Lembaga Kebudajaan Indonesia
-,
-  Tags:
-  Activity:
-  
-[Society](http://vocab.getty.edu/aat/300026009), [Collection](http://vocab.getty.edu/aat/300025976), [Museum](http://vocab.getty.edu/aat/300312281)
-,
-  Type of objects:
-  
-[Natural objects](http://vocab.getty.edu/aat/300404125), [Natural history specimens](http://vocab.getty.edu/aat/300379591), [Minerals](http://vocab.getty.edu/aat/300011068)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1778,
-  Year of end:
-  1962,
-  Collections:
-  General remarks:
-  content:
-  "The museum collection of the Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen was incorporated into the National Museum of Indonesia after 1962. The society's book collection has been part of the National Library of Indonesia since its establishment in 1980."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  
-
-
+TO BE FILLED
         

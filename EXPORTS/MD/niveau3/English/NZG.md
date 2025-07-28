@@ -80,39 +80,5 @@ Website:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/entity/Q1946670, https://hdl.handle.net/20.500.11840/pi75783, https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829
-,
-  Name variations:
-  
-Nederlands Zendelinggenootschap, NZG
-,
-  Tags:
-  Activity:
-  
-[Christian mission](https://hdl.handle.net/20.500.11840/termmaster25128)
-,
-  Type of objects:
-  
-[Etnographics](http://vocab.getty.edu/aat/300234108)
-,
-  Geographical:
-  
-[Bali](https://sws.geonames.org/1650534/), [Indonesia](https://sws.geonames.org/1643084/), [Java](https://sws.geonames.org/1642673/), [Maluku Islands](https://sws.geonames.org/1636629/), [Sulawesi](https://sws.geonames.org/9062340/), [Sumatra](https://sws.geonames.org/1626198/), [Timor](https://sws.geonames.org/1623843/)
-,
-  Period of activity:
-  Year of start:
-  1797,
-  Year of end:
-  1951,
-  Collections:
-  General remarks:
-  content:
-  Objects collected by missionaries from the Nederlandsch Zendeling Genootschap can be found primarily in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), but also at the [Wereldmuseum Amsterdam](https://www.wikidata.org/entity/Q1131589) and [Wereldmuseum Leiden](https://www.wikidata.org/entity/Q17339437).
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=NZG
+TO BE FILLED
         

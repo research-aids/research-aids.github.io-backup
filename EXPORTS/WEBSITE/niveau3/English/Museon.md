@@ -4,8 +4,11 @@ title: Museon-Omniversum
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Museon.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Museon.docx){: .btn .btn-blue }
 
@@ -21,7 +24,7 @@ _last edited by Wiebe Reints as original_author on 2025-05-13_
 
 The Museon-Omniversum is a museum in The Hague that was founded in 1904 as an educational museum. From 1909 onwards, it held various exhibitions featuring its acquired collection, which is divided into three themes: nature, culture and technology. The museum's natural history and ethnographic collections include various objects acquired in a colonial context.
 
-### Description 
+### History of the museum 
 
 In October 1904, the ‘Vereeniging Het museum ten bate van het Onderwijs’ (Association for the Museum for the Benefit of Education) was founded by a group of educational reformers who were advocates of so-called ‘visual education’. This refers to education supported by the demonstration of objects, photographs or films. A few years later, in 1909, the Museum ten bate van het Onderwijs (Museum for the Benefit of Education) was actually established. The ‘Schoolmuseum’ (School Museum), as it became known to the public, was located on the Nieuwmarkt in The Hague and covered the subjects of geology, ethnology, biology and industry. The collection of the museum's first director, geologist [Herman van Cappelle](http://www.wikidata.org/entity/Q2659534), formed the basis of the museum. Van Cappelle is best known for his research in Suriname. Thanks to various other donations, including from Queen Juliana, the Museon's collection of objects from Suriname is one of the largest in the Netherlands.
 
@@ -81,41 +84,5 @@ Collection plan:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-https://www.wikidata.org/wiki/Q1954331
-,
-  Name variations:
-  
-Museum ten bate van het Onderwijs, Gemeentelijk museum voor het Onderwijs, Museon
-,
-  Tags:
-  Activity:
-  
-[Ethnographic museum](http://vocab.getty.edu/aat/300451067)
-,
-  Type of objects:
-  
-[Ethnographic objects](http://vocab.getty.edu/aat/300234108), [Natural objects](http://vocab.getty.edu/aat/300404125), [Natural history specimens](http://vocab.getty.edu/aat/300379591), [Animal specimens](http://vocab.getty.edu/aat/300420186), [Minerals](http://vocab.getty.edu/aat/300011068), [Fossils](http://vocab.getty.edu/aat/300011068), [Archaeological objects](http://vocab.getty.edu/aat/300234110)
-,
-  Geographical:
-  
-[Indonesia](https://sws.geonames.org/1643084/), [Tibet](https://sws.geonames.org/8449601/), [Nepal](https://sws.geonames.org/1282988/), [Thailand](https://sws.geonames.org/1605651/), [India](https://sws.geonames.org/1269750/), [Asia](https://sws.geonames.org/6255147/), [Northern Africa](https://sws.geonames.org/7729887/), [Southern Africa](https://sws.geonames.org/9406051/), [Central Africa](https://sws.geonames.org/7729886/), [Eastern Africa](https://sws.geonames.org/7729889/), [West Africa](https://sws.geonames.org/7729885/), [North America](https://sws.geonames.org/6255149/), [Suriname](https://sws.geonames.org/3382998/), [Central America](https://sws.geonames.org/7729892/), [South America](https://sws.geonames.org/6255150/), [Papua New Guinea](https://sws.geonames.org/2088628/), [Oceania](https://sws.geonames.org/6255151/)
-,
-  Period of activity:
-  Year of start:
-  1904,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "The Museon has a similar collection website to the Wereldmuseum. The entire collection is accessible and divided into ‘Nature’, ‘Culture’, ‘Technology’ and ‘Visual material’."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://cc.museon-omniversum.nl/#/query/01056f93-83f2-47b0-bc5b-fd7033c7ee0c
+TO BE FILLED
         

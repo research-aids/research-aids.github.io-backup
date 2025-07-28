@@ -10,7 +10,7 @@ _last edited by Wiebe Reints as original_author on 2024-11-06_
 
 Het Rijksmuseum van Oudheden in Leiden werd in 1818 opgericht vanuit een collectie van oudheidkundige objecten. Tot het begin van de twintigste eeuw waren ook verschillende Indonesische oudheden onderdeel van de collectie. Deze Indonesische voorwerpen zijn in 1904 overgedragen aan het tegenwoordige Wereldmuseum Leiden.
 
-### Beschrijving
+### Geschiedenis van het museum
 
 Als het stichtingsjaar van het Rijksmuseum van Oudheden (RMO) wordt doorgaans 1818 genoemd. Dat is het jaar waarin [Caspar Reuvens](http://www.wikidata.org/entity/Q1863369) werd aangesteld als professor in de archeologie aan de Universiteit Leiden, waarmee hij tevens directeur werd van het archeologisch kabinet van de universiteit. De objecten uit dit kabinet werden in eerste instantie tentoongesteld in een pand aan de Houtstraat in Leiden, sinds 1918 wordt de collectie tentoongesteld in het gebouw aan het Rapenburg, waar het museum vandaag de dag nog steeds is gevestigd.
 
@@ -92,41 +92,5 @@ Boek:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q1860378
-,
-  Name variations:
-  
-Museum van Oudheden, RMO
-,
-  Tags:
-  Activity:
-  
-[Nationaal museum](http://vocab.getty.edu/300312321), [Historisch museum](http://vocab.getty.edu/300312304)
-,
-  Type of objects:
-  
-[Oudheden](http://vocab.getty.edu/300311592)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1818,
-  Year of end:
-  
-
-,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van het Rijksmuseum van Oudheden is niet opgenomen in de Datahub. De objecten die in 1904 aan het Etnografisch Museum in Leiden zijn overgedragen, zijn gekenmerkt met het inventarisnummer RV-1403"
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/en/objects?query=oudheden&publishers=Wereldmuseum
+TO BE FILLED
         

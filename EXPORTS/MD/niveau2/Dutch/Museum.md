@@ -69,7 +69,5 @@ Hoewel deze thematische onderverdeling een goed overzicht geeft over de manieren
 
 ---
 ## Relevant Data 
-
-
-
+TO BE FILLED
         

@@ -4,8 +4,11 @@ title: Hoofdcursus Kampen
 parent: niveau3
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
+
+this new string from 28.07.2025
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/HoofdcursusKampen.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/HoofdcursusKampen.docx){: .btn .btn-blue }
 
@@ -22,7 +25,7 @@ _last edited by Wiebe Reints as original_author on 2025-06-16
 
 De Hoofdcursus was een militaire opleiding in Kampen. Waar de Koninklijke Militaire Academie (KMA) in Breda een meer wetenschappelijke benadering had, spitste de Hoofdcursus zich toe op praktisch onderwijs. Voor de opleiding tot officier in voormalig Nederlands-Indië werd zodoende een etnografische collectie aangelegd ter ondersteuning van het onderwijs. Deze collectie was ook te bezoeken door het algemeen publiek. Na de sluiting van de opleiding in 1923 werd de collectie opgenomen in die van de KMA in Breda.
 
-### Beschrijving
+### Geschiedenis van de collectie
 
 De Hoofdcursus, zoals de militaire opleiding in Kampen vanaf 1880 werd genoemd, verzorgde het onderwijs voor zowel officieren in Nederland als voormalig Nederlands-Indië. De opleiding aan de Hoofdcursus had een meer praktische insteek dan de opleiding aan de Koninklijke Militaire Academie (KMA) in Breda. In het begin van de twintigste eeuw werden bepaalde vakken toegespitst op het werken in de Nederlandse kolonie in Zuidoost-Azië, hiervoor werd onder andere Hendrik Theodorus van IJsseldijk aangesteld als leraar Maleische taal-, land- en volkenkunde. Ter instructie van zijn leerlingen bracht Van IJsseldijk zijn zelf aangelegde collectie etnografica mee, ook riep hij andere militairen op collecties naar de Hoofdcursus te sturen. Onder andere George Nypels ging op het verzoek van Van IJsseldijk in. Hij schonk onder andere een door hem meegenomen grafsteen uit Atjeh. Dit object is in 2022 in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE) onderzocht, zie onder 'Bronnen' het volledige rapport. Ook H.J. Voskuil, die Van IJsseldijk later zou opvolgen als beheerder van de etnografische collectie, schonk verschillende objecten.
 
@@ -84,39 +87,5 @@ Herkomstverslag:
 
 ---
 ## Relevant Data 
-Identifiers:
-  
-http://www.wikidata.org/entity/Q104871407
-,
-  Name variations:
-  
-
-,
-  Tags:
-  Activity:
-  
-[Etnografisch museum](http://vocab.getty.edu/aat/300451067), [Militaire academie](http://vocab.getty.edu/aat/300343417)
-,
-  Type of objects:
-  
-[Etnografica](http://vocab.getty.edu/aat/300234108), [Wapens](http://vocab.getty.edu/page/aat/300036926)
-,
-  Geographical:
-  
-[Indonesië](https://sws.geonames.org/1643084/)
-,
-  Period of activity:
-  Year of start:
-  1900,
-  Year of end:
-  1923,
-  Collections:
-  General remarks:
-  content:
-  "De collectie van de Hoofdcursus in Kampen is in 1923 opgegaan in de collectie van de Koninklijke Militaire Academie in Breda."
-,
-  content-type:
-  text/markdown,
-  Within the Data Hub:
-  https://app.colonialcollections.nl/nl/objects?query=hoofdcursus+kampen
+TO BE FILLED
         
