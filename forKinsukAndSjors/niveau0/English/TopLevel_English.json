@@ -7,7 +7,7 @@
         "content-type": "text/markdown"
     },
     "Breakdown": {
-        "1. Provenance research into colonial collections": [
+        "Provenance research into colonial collections": [
             {
                 "Select and delineate": {
                     "link": "niveau1/English/SelectAndDelineate_20240425.yml",
@@ -49,7 +49,7 @@
                 }
             }
         ],
-        "2. Topics": [
+        "Topics": [
             {
                 "Persons": {
                     "link": "published/niveau2/English/Persons_20250113.yml",
@@ -480,7 +480,7 @@
                 }
             }
         ],
-        "3. Locations": [
+        "Locations": [
             {
                 "Aruba, Bonaire and Cura\u00e7ao": {
                     "link": "niveau2/English/ArubaBonaireCuracao_20250619.yml",

@@ -7,7 +7,7 @@
         "content-type": "text/markdown"
     },
     "Breakdown": {
-        "1. Herkomstonderzoek naar koloniale collecties": [
+        "Herkomstonderzoek naar koloniale collecties": [
             {
                 "Selecteren en afbakenen": {
                     "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
@@ -49,7 +49,7 @@
                 }
             }
         ],
-        "2. Onderwerpen": [
+        "Onderwerpen": [
             {
                 "Personen": {
                     "link": "published/niveau2/Dutch/Persons_20250113.yml",
@@ -481,7 +481,7 @@
                 }
             }
         ],
-        "3. Locaties": [
+        "Locaties": [
             {
                 "Aruba, Bonaire en Cura\u00e7ao": {
                     "link": "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml",
