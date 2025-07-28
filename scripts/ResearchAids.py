@@ -223,7 +223,7 @@ class Level2(Level1):
         self.abstract = yml["Abstract"]
         self.main_text = self.get_markdown_content(yml["Main-text"])
         self.related_aids = self.parse_related_aids(yml["RelatedAides"])
-        self.relevant_data = self.parse_anything(yml["Relevant data"])
+        self.relevant_data = self.parse_relevant_data(yml["Relevant data"])
         self.sources = self.parse_sources(yml["Sources"])
 
     def parse_source_links(self, yml):
@@ -249,7 +249,7 @@ class Level2(Level1):
         md = ""
         for source_lvl, source_ls in yml.items():
             md += f"## {source_lvl}\n\n"
-            for source in source_ls:
+            for source in source_ls: #SORT
                 # 'Type of source', 'Name', 'Link', 'Description and remarks'
                 source_md = f"{source['Type of source']}:\n  > {source['Name']}"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
@@ -259,6 +259,9 @@ class Level2(Level1):
                 if"Description and remarks" in source:
                     md+= f"> _{source["Description and remarks"]}_  \n\n"
         return md
+
+    def parse_relevant_data(yml):
+        pass
                 
     def __call__(self):
         md = super().__call__()
