@@ -16,7 +16,7 @@ Content:
   content-type: text/markdown
 
 Breakdown:
-  "1. Provenance research into colonial collections":
+  "Provenance research into colonial collections":
     - "Select and delineate":
         link: "niveau1/English/SelectAndDelineate_20240425.yml"
         rel_type: "see also"
@@ -32,7 +32,7 @@ Breakdown:
     - "The Dutch restitution policy":
         link: "niveau1/English/RestitutionPolicy_20250123.yml"
         rel_type: "see also"
-  "2. Topics":
+  "Topics":
     - "Persons":
         link: "published/niveau2/English/Persons_20250113.yml"
         rel_type: "see also"
@@ -195,7 +195,7 @@ Breakdown:
           - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
               link: "published/niveau3/English/MOudenbosch_20250603.yml"
               rel_type: "see also"
-  "3. Locations": 
+  "Locations": 
     - "Aruba, Bonaire and Curaçao":
         link: "niveau2/English/ArubaBonaireCuracao_20250619.yml"
         rel_type: "see also"
