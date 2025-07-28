@@ -66,17 +66,17 @@ def export_markdown(f, out_dir, level, lang, name, return_content=True):
             with open(website_name, "w") as web_handle:
                 web_handle.write(website_content)
 
-            with open(f"{out_dir}/WEBSITE/{level}/{level}.md", "w") as md:
-                level_md = f"""---
-layout: default
-title: {level}
-nav_enabled: true
-has_toc: true
-parent: Published
----
-This is level {level[-1]} of the RAs.
-"""
-                md.write(level_md)
+#             with open(f"{out_dir}/WEBSITE/{level}/{level}.md", "w") as md:
+#                 level_md = f"""---
+# layout: default
+# title: {level}
+# nav_enabled: true
+# has_toc: true
+# parent: Published
+# ---
+# This is level {level[-1]} of the RAs.
+# """
+#                 md.write(level_md)
 
             return md_content
         
