@@ -17,14 +17,14 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
 *We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Daarom hebben we deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) gemaakt. Hiermee kan je suggesties doen voor nieuwe onderwerpen of extra informatie aanleveren.*
 
 
-### 1. Herkomstonderzoek naar koloniale collecties
+### Herkomstonderzoek naar koloniale collecties
              - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
  - _see also: [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)_  
  - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
  - _see also: [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)_  
  - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
 
-### 2. Onderwerpen
+### Onderwerpen
              - _see also: [Personen](published/niveau2/Dutch/Persons_20250113.yml)_  
  - _see also: [Musea en efgoedbeherende instellingen](published/niveau2/Dutch/Museum_20250113.yml)_  
  - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
@@ -33,7 +33,7 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
  - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
  - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
 
-### 3. Locaties
+### Locaties
              - _see also: [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)_  
  - _see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
 
