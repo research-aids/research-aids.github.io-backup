@@ -7,6 +7,7 @@ import re
 import argparse
 from io import StringIO
 import os
+from datetime import datetime
 
 github_raw_base_URL = "https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/"
 
@@ -31,6 +32,7 @@ title: {ra_name}
 parent: {level}
 nav_enabled: true
 has_toc: true
+date: {datetime.today().strftime("%Y-%m-%d")}
 --- 
 """
 
