@@ -4,7 +4,7 @@ title: Scientific research in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-07-28
+date: 2025-07-29
 --- 
 
 

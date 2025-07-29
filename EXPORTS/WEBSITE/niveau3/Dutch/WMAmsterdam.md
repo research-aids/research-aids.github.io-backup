@@ -4,7 +4,7 @@ title: Wereldmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-28
+date: 2025-07-29
 --- 
 
 
@@ -37,7 +37,7 @@ In 2014 werden het Tropenmuseum, Museum Volkenkunde in Leiden, het Afrika Museum
 ![Foto van het Wereldmuseum Amsterdam in april 2024](https://upload.wikimedia.org/wikipedia/commons/8/86/Wereldmuseum_Amsterdam_%282024%29.jpg)
 _Het huidige Wereldmuseum Amsterdam ([Sneeuwvlakte](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2024).jpg))_
 
-### Onderzoek naar de objectherkomst
+### Herkomstonderzoek
 
 De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmuseum terug te vinden met het kenmerk 'TM', waarbij 'TM-H' staat voor de collectie van het voormalige Koloniaal Museum in Haarlem, en 'TM-A' duidt op de collectie van het Etnografisch Museum Artis. De archieven van het Wereldmuseum Amsterdam tot 1995 zijn via de [archieftoegang 2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69) (Het archief van het Koninklijk Instituut voor de Tropen) beschikbaar bij het Nationaal Archief in Den Haag. Hierbinnen zijn ook de archieven van het Koloniaal Museum in Haarlem en het Etnografisch Museum Artis opgenomen. De archiefbeschrijving van het Nationaal Archief bevat uitvoerige informatie over de ontstaansgeschiedenis van het Wereldmuseum Amsterdam en hoe het archief is opgebouwd. Het archief tot 1950 is door het KIT zelf gedigitaliseerd en beschikbaar via de collectiedatabase van het Wereldmuseum. Archieven na 1995 bevinden zich nog bij het Wereldmuseum Amsterdam zelf. Ook het Stadsarchief van Amsterdam bevat archiefmateriaal met betrekking tot het tegenwoordige Wereldmuseum Amsterdam binnen het archief van het [Koninklijk Zoölogisch Genootschap Natura Artis Magistra](https://archief.amsterdam/inventarissen/details/395/), hierbij zijn de archieven onder de inventarisnummers 1876 tot en met 1919 met name relevant. Voor meer informatie over het Etnografische Museum Artis, zie de [desbetreffende zoekhulp](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593).
 

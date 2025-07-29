@@ -4,7 +4,7 @@ title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-28
+date: 2025-07-29
 --- 
 
 
@@ -13,10 +13,10 @@ this new string from 28.07.2025
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MOudenbosch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MOudenbosch.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-28
+_first edited by UNKNOWN as UNKNOWN on 2025-07-29
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-28
+_last edited by UNKNOWN as UNKNOWN on 2025-07-29
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
 
