@@ -97,8 +97,8 @@ class ResearchAid:
             return None
 
 
-        first = {self.edit_history.origin_event.to_markdown()}
-        last = f'{self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''
+        first = self.edit_history.origin_event.to_markdown() if self.edit_history.origin_event else ''
+        last = self.edit_history.last_event.to_markdown() if self.edit_history.last_event else ''
         edits = f"{"_first " + first + "_\n" if first != last else ""}_last {last}_"
         #_author: {self.author}_  
         # _last edited: {self.time}_  
