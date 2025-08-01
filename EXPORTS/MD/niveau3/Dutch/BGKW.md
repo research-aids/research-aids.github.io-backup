@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-08-27_  
-_last edited by Wiebe Reints as original_author on 2024-08-27_
-
 
 # Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 
@@ -47,35 +43,32 @@ Zoals beschreven is in de notulen van het Bataviaasch Genootschap veel informati
 ## Primary sources
 
 Publicatie:
-  > Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen  
-> [https://www.biodiversitylibrary.org/bibliography/7371](https://www.biodiversitylibrary.org/bibliography/7371)  
+  > *Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen*  
 > _Het tijdschrift dat vanaf 1779 door het Bataviaasch Genootschap werd gepubliceerd. Op de website van de Biodiversity Heritage Library zijn veel edities terug te vinden._  
-
+> [https://www.biodiversitylibrary.org/bibliography/7371](https://www.biodiversitylibrary.org/bibliography/7371)  
 Notulen:
-  > Notulen van de Algemeene en Directie-vergaderingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen  
-> [http://hdl.handle.net/1887.1/item:1112865](http://hdl.handle.net/1887.1/item:1112865)  
+  > *Notulen van de Algemeene en Directie-vergaderingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen*  
 > _Die van 1864 tot en met die van 1922 zijn beschikbaar via de universiteitsbibliotheek van de Universiteit Leiden._  
-
+> [http://hdl.handle.net/1887.1/item:1112865](http://hdl.handle.net/1887.1/item:1112865)  
 Archief:
-  > K 75. Inventaris Arsip Tekstual Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (KBG) (1778-1962)  
-> [https://anri.go.id/](https://anri.go.id/)  
+  > *K 75. Inventaris Arsip Tekstual Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (KBG) (1778-1962)*  
 > _Het archief van het Bataviaasch Genootschap is gelegen bij het ANRI in Jakarta. De inventaris van het archief is te downloaden via de website van het ANRI (in het Indonesisch)._  
-
+> [https://anri.go.id/](https://anri.go.id/)  
 Tijdschrift:
-  > Tijdschrift voor Indische taal- land- en volkenkunde  
-> [https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html](https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html)  
+  > *Tijdschrift voor Indische taal- land- en volkenkunde*  
 > _Tijdschrift dat door het Bataviaasch Genootschap werd gepubliceerd. Verschillende edities zijn beschikbaar via het KITLV. Op de bovenstaande pagina zijn ook andere bronnen met betrekking tot het Bataviaasch Genootschap te vinden._  
-
+> [https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html](https://kitlv-docs.library.leiden.edu/open/Metamorfoze/TBG/tbg.html)  
 ## Secondary sources
 
 Boek:
-  > Groot, Hans. Van Batavia naar Weltevreden; Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Brill, 2009.  
-> [http://library.oapen.org/handle/20.500.12657/34657](http://library.oapen.org/handle/20.500.12657/34657)  
+  > *Groot, Hans. Van Batavia naar Weltevreden; Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Brill, 2009.*  
 > _Boek van Hans Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap._  
-
+> [http://library.oapen.org/handle/20.500.12657/34657](http://library.oapen.org/handle/20.500.12657/34657)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-08-27_
         

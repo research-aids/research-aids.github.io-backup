@@ -1,8 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-05-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-        (applies to section: Main text)_
-
 
 # Volkenkundig Museum 'Gerardus van der Leeuw'
 
@@ -33,40 +28,38 @@ Het archief van het Volkenkundig Museum 'Gerardus van der Leeuw' (tot 1995) is o
 ## Primary sources
 
 Archief:
-  > Regionaal Historisch Centrum Groninger Archieven, toegangsnummer 2924, Archief van de Faculteit der Godgeleerdheid van de Rijksuniversiteit Groningen, inventaris nummer 2.01  
-> [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)  
+  > *Regionaal Historisch Centrum Groninger Archieven, toegangsnummer 2924, Archief van de Faculteit der Godgeleerdheid van de Rijksuniversiteit Groningen, inventaris nummer 2.01*  
 > _Archief van het Volkenkundig Museum 'Gerardus van der Leeuw' tot 1995. Bevat onder andere beschrijvingen van de collectie._  
-
+> [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)  
 ## Secondary sources
 
 Boek:
-  > Schotanus, M., V. Arnoldus-Schröder, en Nico de Jonge. Hoe het ging en verging: 25 jaar ‘Gerardus van der Leeuw’. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.  
-> [https://search.worldcat.org/title/66693349](https://search.worldcat.org/title/66693349), [ISBN 9789080798915](https://isbnsearch.org/isbn/9789080798915), [WorldCat 66693349](https://search.worldcat.org/title/66693349)  
+  > *Schotanus, M., V. Arnoldus-Schröder, en Nico de Jonge. Hoe het ging en verging: 25 jaar ‘Gerardus van der Leeuw’. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.*  
 > _Boek en catalogus uit 2003 die bondige informatie geeft over het Volkenkundig Museum 'Gerardus van der Leeuw' en een overzicht biedt van de MG-collectie._  
-
+> [https://search.worldcat.org/title/66693349](https://search.worldcat.org/title/66693349), [ISBN 9789080798915](https://isbnsearch.org/isbn/9789080798915), [WorldCat 66693349](https://search.worldcat.org/title/66693349)  
 Boek:
-  > Arnoldus, G. De collectie Deventer. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.  
-> [https://search.worldcat.org/title/66725336](https://search.worldcat.org/title/66725336), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)  
+  > *Arnoldus, G. De collectie Deventer. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003.*  
 > _Boek en catalogus uit 2003 die uitgebreide achtergrond informatie geeft over het voormalige museum van de Tropische Landbouwschool in Deventer. Tevens biedt het een overzicht van de collectie van dit museum die in 1972 aan het Volkenkundig Museum 'Gerardus van der Leeuw' werd geschonken._  
-
+> [https://search.worldcat.org/title/66725336](https://search.worldcat.org/title/66725336), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)  
 Boek:
-  > Leertouwer, L. L., H. Witte, en R. Wassing. The Collection Van Baaren: This Collection Includes Objects of Multi-Continental Origins from Africa, the Americas, South- and South-East Asia and Oceania. Onder redactie van V. Arnoldus-Schröder. Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998.  
-> [https://search.worldcat.org/title/901427514](https://search.worldcat.org/title/901427514), [ISBN 9789080083271](https://isbnsearch.org/isbn/9789080083271), [WorldCat 901427514](https://search.worldcat.org/title/901427514)  
+  > *Leertouwer, L. L., H. Witte, en R. Wassing. The Collection Van Baaren: This Collection Includes Objects of Multi-Continental Origins from Africa, the Americas, South- and South-East Asia and Oceania. Onder redactie van V. Arnoldus-Schröder. Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998.*  
 > _Boek uit 1998 dat een beschrijving geeft van de Van Baaren-collectie die als basis gold van het Volkenkundig Museum 'Gerardus van der Leeuw'._  
-
+> [https://search.worldcat.org/title/901427514](https://search.worldcat.org/title/901427514), [ISBN 9789080083271](https://isbnsearch.org/isbn/9789080083271), [WorldCat 901427514](https://search.worldcat.org/title/901427514)  
 Boek:
-  > Baaren, ThP. van. Portret van een kollektie: Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen. Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974.  
-> [https://search.worldcat.org/title/63510432](https://search.worldcat.org/title/63510432), [WorldCat 63510432](https://search.worldcat.org/title/63510432)  
+  > *Baaren, ThP. van. Portret van een kollektie: Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen. Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974.*  
 > _Boek van Theo van Baaren, oprichter van het Volkenkundig Museum 'Gerardus van der Leeuw' uit 1974, dus nog voordat het museum officieel werd geopend, over zijn collectie._  
-
+> [https://search.worldcat.org/title/63510432](https://search.worldcat.org/title/63510432), [WorldCat 63510432](https://search.worldcat.org/title/63510432)  
 Artikel:
-  > Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974): 91-94.  
-> [https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen](https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen)  
+  > *Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974): 91-94.*  
 > _Artikel uit 1974 dat de geschiedenis van Volkenkundig Museum 'Gerardus van der Leeuw' beschrijft._  
-
+> [https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen](https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-05-13_
+_last edited by Wiebe Reints as original_author on 2025-06-16
+        (applies to section: Main text)_
         

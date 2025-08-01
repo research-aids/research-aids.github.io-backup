@@ -4,18 +4,11 @@ title: The trade in objects from a colonial context
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Trade.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Trade.docx){: .btn .btn-blue }
-
-_This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-03-16_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
 
 
 # The trade in objects from a colonial context
@@ -71,30 +64,30 @@ The French portal [AGORHA](https://agorha.inha.fr) also contains information on 
 ## Primary sources
 
 Database:
-  > Art Sales Catalogues Online  
-> [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
+  > *Art Sales Catalogues Online*  
 > _This database is based on the ‘Répertoire des Catalogues de Ventes Publiques’ by Frits Lugt. The digititalised auction catalogues of the RKD can also be accessed via this database._  
-
+> [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
 Database:
-  > AGHORA  
-> [https://agorha.inha.fr](https://agorha.inha.fr)  
+  > *AGHORA*  
 > _Database of the French National Institute of Art History (INHA). Contains information on individuals and institutions involved in the trade in art and archaeological objects._  
-
+> [https://agorha.inha.fr](https://agorha.inha.fr)  
 ## Secondary sources
 
 Book:
-  > Corbey, Raymond. Tribal Art Traffic: A Chronicle of Taste, Trade and Desire in Colonial an Post-Colonial Times. Amsterdam: Royal Tropical Institute, 2000.  
-> [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
+  > *Corbey, Raymond. Tribal Art Traffic: A Chronicle of Taste, Trade and Desire in Colonial an Post-Colonial Times. Amsterdam: Royal Tropical Institute, 2000.*  
 > _Book describing the trade in various ethnographic objects, with a focus on the Low Countries._  
-
+> [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
 Book:
-  > Willink, Joost. ‘De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889)’. Dissertation Leiden University, 2006.  
-> [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
+  > *Willink, Joost. ‘De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889)’. Dissertation Leiden University, 2006.*  
 > _Dissertation by Joost Willink on the collection history of West Central African collections in the Netherlands._  
-
+> [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by wiebe reints as original_author on 2024-03-16_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text; Sources)_
         

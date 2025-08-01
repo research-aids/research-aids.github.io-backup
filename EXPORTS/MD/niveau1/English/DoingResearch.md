@@ -1,8 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
-
 
 # Doing research
 
@@ -87,4 +82,8 @@ A number of the Dutch-language sources for provenance research into colonial col
  - _see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
 
 
+
+_first edited by wiebe reints as original_author on 2024-04-25_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
         

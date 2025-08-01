@@ -4,18 +4,11 @@ title: Rijksmuseum van Oudheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/RMO.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/RMO.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-11-06_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
 
 
 # Rijksmuseum van Oudheden
@@ -66,50 +59,46 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 ## Primary sources
 
 Website:
-  > Archives of the Rijksmuseum van Oudheden  
-> [https://archieven.rmo.nl/](https://archieven.rmo.nl/)  
+  > *Archives of the Rijksmuseum van Oudheden*  
 > _Website providing access to the archives of the RMO. The archive can be accessed via the ‘tiles’, the ‘Museum Archive’ field, or by using the search field._  
-
+> [https://archieven.rmo.nl/](https://archieven.rmo.nl/)  
 Archive:
-  > NL-LdnRMV_A03_018 - Inventaris van het RMO  
->   
+  > *NL-LdnRMV_A03_018 - Inventaris van het RMO*  
 > _Archive access in the Wereldmuseum Leiden archives containing the inventory of the RMO. In 1904, the collections of Asian and American objects were transferred to the ‘s Rijks Ethnographisch Museum, the present Wereldmuseum Leiden._  
-
-Archive:
-  > NL-LdnRMV_Seriedossier RV-1403  
 >   
+Archive:
+  > *NL-LdnRMV_Seriedossier RV-1403*  
 > _Series file linked to the RV-1403 collection, which consists of the objects transferred from the RMO to what was then the ‘s Rijks Ethnographisch Museum in 1904._  
-
+>   
 ## Secondary sources
 
 Restitution recommendation and provenance report:
-  > I-2023-3 Advies Singasari  
-> [https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia](https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia)  
+  > *I-2023-3 Advies Singasari*  
 > _Restitution recommendation regarding four statues from the Singasari temple complex: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) and Ganesha (RV-1403-1681). The provenance report is similar to that of the 2024 Singasari recommendation (ID-2023-6 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
-
+> [https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia](https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia)  
 Restitution recommendation and provenance report:
-  > ID-2023-6 Advies Singasari  
-> [ https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia]( https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia)  
+  > *ID-2023-6 Advies Singasari*  
 > _Restitution recommendation regarding two statues from the Singasari temple complex: Bhairava (RV-1403-1680) and Nandi (RV-1403-1682). The provenance report is similar to that of the 2023 Singasari recommendation (I-2023-3 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
-
+> [ https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia]( https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia)  
 Restitution recommendation and provenance report:
-  > ID-2023-8 Advies Brahma  
-> [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")  
+  > *ID-2023-8 Advies Brahma*  
 > _Restitution recommendation regarding statue of Brahma from the Singasari temple complex (RV-1403-1582). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
-
-Restitution recommendation and provenance report:
-  > ID-2023-9 Advies Ganesha  
 > [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")  
+Restitution recommendation and provenance report:
+  > *ID-2023-9 Advies Ganesha*  
 > _Restitution recommendation regarding a statue of Ganesha (RV-1403-1759). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
-
+> [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")  
 Dissertation:
-  > Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.  
-> [WorldCat 779255199](https://search.worldcat.org/title/779255199), [ISBN 9782503541525](https://isbnsearch.org/isbn/9782503541525)  
+  > *Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.*  
 > _Dissertation by Mirjam Hoijtink from 2012 that examines the work and life of Caspar Reuvens, the first director of the Rijksmuseum van Oudheden in Leiden. The book also looks at why Reuvens initially included antiquities from the Dutch East Indies and other non-‘classical’ antiquities in the museum's collection and places these ideas in the context of the developments of scholarship and the museum sector in the nineteenth century._  
-
+> [WorldCat 779255199](https://search.worldcat.org/title/779255199), [ISBN 9782503541525](https://isbnsearch.org/isbn/9782503541525)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-11-06_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

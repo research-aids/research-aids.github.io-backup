@@ -4,17 +4,11 @@ title: Het Nederlandse restitutiebeleid
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/RestitutionPolicy.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/RestitutionPolicy.docx){: .btn .btn-blue }
-
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-01-23_  
-_last edited by wiebe reints as original_author on 2025-01-23_
 
 
 # Het Nederlandse restitutiebeleid
@@ -98,4 +92,6 @@ Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadsl
  - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2025-01-23_
         

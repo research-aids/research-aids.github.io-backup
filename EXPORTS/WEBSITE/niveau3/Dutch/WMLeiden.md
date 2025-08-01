@@ -4,17 +4,11 @@ title: Wereldmuseum Leiden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/WMLeiden.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/WMLeiden.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-27_  
-_last edited by Wiebe Reints as original_author on 2024-03-27_
 
 
 # Wereldmuseum Leiden
@@ -73,33 +67,30 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
 ## Secondary sources
 
 Boek:
-  > Effert, Rudolf Antonius Hermanus Dominique. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883, 2003.  
-> [https://search.worldcat.org/title/317117313?oclcNum=317117313](https://search.worldcat.org/title/317117313?oclcNum=317117313), [WorldCat 317117313](https://search.worldcat.org/title/317117313)  
+  > *Effert, Rudolf Antonius Hermanus Dominique. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883, 2003.*  
 > _Dissertatie van Rudolf Effert, gelijk aan Engelstalige variant. Over de geschiedenis van het Rijks Etnografisch Museum en hoe dat is gevormd uit de collecties van het KKZ._  
-
+> [https://search.worldcat.org/title/317117313?oclcNum=317117313](https://search.worldcat.org/title/317117313?oclcNum=317117313), [WorldCat 317117313](https://search.worldcat.org/title/317117313)  
 Boek:
-  > Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Leiden: Brill, 1913.  
-> [https://search.worldcat.org/title/562473153?oclcNum=562473153](https://search.worldcat.org/title/562473153?oclcNum=562473153), [WorldCat 562473153](https://search.worldcat.org/title/562473153)  
+  > *Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums für Völkerkunde in Leiden. Leiden: Brill, 1913.*  
 > _Boek van Joseph Marquart, een Duits historicus en conservator van het Rijks Etnografisch Museum in Leiden, over de Benin collectie aldaar._  
-
+> [https://search.worldcat.org/title/562473153?oclcNum=562473153](https://search.worldcat.org/title/562473153?oclcNum=562473153), [WorldCat 562473153](https://search.worldcat.org/title/562473153)  
 Boek:
-  > Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff, 1937.  
-> [https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005](https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005)  
+  > *Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff, 1937.*  
 > _Uitvoerige geschiedenis van de eerste honderd jaar van het Rijks Etnografisch Museum. Beschrijft hoe het museum is ontstaan uit de collectie van Von Siebold en het KKZ en hoe dit naderhand tot etnografisch museum is gevormd. Bevat informatie over verzamelde collecties gedurende de eerste honderd jaar._  
-
+> [https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005](https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005)  
 Tijdschrift:
-  > Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.  
-> [https://search.worldcat.org/title/1293851263](https://search.worldcat.org/title/1293851263), [ISBN 9789088909986](https://isbnsearch.org/isbn/9789088909986), [WorldCat 1293851263](https://search.worldcat.org/title/1293851263)  
+  > *Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.*  
 > _Publicatie van het Wereldmuseum met betrekking tot de Benin collectie. Verschaft informatie over de link tussen objecten uit Benin binnen de collectie van het Wereldmuseum (niet alleen in Leiden) en de plundering van Britse soldaten in 1897._  
-
+> [https://search.worldcat.org/title/1293851263](https://search.worldcat.org/title/1293851263), [ISBN 9789088909986](https://isbnsearch.org/isbn/9789088909986), [WorldCat 1293851263](https://search.worldcat.org/title/1293851263)  
 Boek:
-  > Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.  
-> [https://search.worldcat.org/title/901467113](https://search.worldcat.org/title/901467113), [ISBN 9789071310812](https://isbnsearch.org/isbn/9789071310812), [WorldCat 901467113](https://search.worldcat.org/title/901467113)  
+  > *Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.*  
 > _Boek over de geschiedenis van het huidige Wereldmuseum in Leiden._  
-
+> [https://search.worldcat.org/title/901467113](https://search.worldcat.org/title/901467113), [ISBN 9789071310812](https://isbnsearch.org/isbn/9789071310812), [WorldCat 901467113](https://search.worldcat.org/title/901467113)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-27_
         

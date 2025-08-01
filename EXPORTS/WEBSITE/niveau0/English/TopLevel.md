@@ -4,17 +4,11 @@ title: Digital Research Aids
 parent: niveau0
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/English/TopLevel.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/English/TopLevel.docx){: .btn .btn-blue }
-
-_This is a level 0 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-06-06_  
-_last edited by wiebe reints as original_author on 2024-06-06_
 
 
 # Digital Research Aids
@@ -52,4 +46,6 @@ On this page you can find various research aids that can assist you in doing (pr
  - _see also: [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)_  
 
         
+
+_last edited by wiebe reints as original_author on 2024-06-06_
         

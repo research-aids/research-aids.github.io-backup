@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-13_  
-_last edited by Wiebe Reints as original_author on 2024-03-13_
-
 
 # Groote Koninklijke Bazar
 
@@ -29,58 +25,51 @@ Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is geb
 ## Primary sources
 
 Archiefstuk:
-  > NL-HaNA 2.09.46  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
+  > *NL-HaNA 2.09.46*  
 > _Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
 Archiefstuk:
-  > NL-HaNA 3.17.13.03  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
+  > *NL-HaNA 3.17.13.03*  
 > _Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
 Archiefstuk:
-  > NL-HlmNHA 476 836-839  
-> [https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77](https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77)  
+  > *NL-HlmNHA 476 836-839*  
 > _Stukken uit het archief van het Koninklijk Kabinet van Zeldzaamheden over de aankoop van objecten bij onder andere De Groote Koninklijke Bazar._  
-
+> [https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77](https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77)  
 Archiefstuk:
-  > NL-HlmNHA 476 811  
-> [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
+  > *NL-HlmNHA 476 811*  
 > _Declaraties wegens geleverde goederen en diensten, 1813, 1824-1831. Het Koninklijk Kabinet van Zeldzaamheden kocht voorwerpen bij Dirk Boer, waarvan melding wordt gemaakt in deze archieftoegang._  
-
+> [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
 Archiefstuk:
-  > Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062  
-> [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
+  > *Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062*  
 > _Affiche van de Koninklijke bazar uit 1926._  
-
+> [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
 ## Secondary sources
 
 Artikel:
-  > Dam, Peter van. 'The Royal Bazar of Dirk Boer: Early Japonism in the Hague around 1840'. Andon: Society for Japanese arts & crafts 25, nr. Spring (1987): 16-19.  
-> [https://rkd.nl/library/89731](https://rkd.nl/library/89731), [WorldCat 921121360](https://search.worldcat.org/title/921121360)  
+  > *Dam, Peter van. 'The Royal Bazar of Dirk Boer: Early Japonism in the Hague around 1840'. Andon: Society for Japanese arts & crafts 25, nr. Spring (1987): 16-19.*  
 > _Artikel over de winkel van Dirk Boer uit het tijdschrift voor Japanse kunst._  
-
+> [https://rkd.nl/library/89731](https://rkd.nl/library/89731), [WorldCat 921121360](https://search.worldcat.org/title/921121360)  
 Artikel:
-  > Baird, Christina, en Helen Backx-Palsgraaf. ‘Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838’. Journal of the History of Collections 32, nr. 1 (28 april 2020): 119-28.  
-> [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
+  > *Baird, Christina, en Helen Backx-Palsgraaf. ‘Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838’. Journal of the History of Collections 32, nr. 1 (28 april 2020): 119-28.*  
 > _In dit artikel worden de activiteiten van Dirk Boer besproken die dateren van voor de Groote Koninklijke Bazar en wordt een Chinees/Japans panorama belicht als illustratie van de belangstelling voor China en Japan in Nederland in de jaren 1830._  
-
+> [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
 Boek:
-  > Keblusek, Marika. Japansch magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
-> [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251), [WorldCat 902181455](https://search.worldcat.org/title/902181455)  
+  > *Keblusek, Marika. Japansch magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.*  
 > _Boek over de eerdere winkel van Dirk Boer._  
-
+> [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251), [WorldCat 902181455](https://search.worldcat.org/title/902181455)  
 Boek:
-  > Wap, J.J.F., en H.W. Last. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat, te ’s Gravenhage. ’s Gravenhage: Belinfante, 1854.  
+  > *Wap, J.J.F., en H.W. Last. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat, te ’s Gravenhage. ’s Gravenhage: Belinfante, 1854.*  
 > [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
 Catalogus:
-  > Boer, D. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld... te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet, 1841.  
-> [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
+  > *Boer, D. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld... te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet, 1841.*  
 > _Beschrijving van de Koninklijke bazar door Dirk Boer._  
-
+> [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-13_
         

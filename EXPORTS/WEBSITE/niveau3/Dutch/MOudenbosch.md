@@ -4,21 +4,11 @@ title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/MOudenbosch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/MOudenbosch.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by UNKNOWN as UNKNOWN on 2025-07-29
-        
-        (notes: This event was automatically created because the YAML file's edit history was empty.)_  
-_last edited by UNKNOWN as UNKNOWN on 2025-07-29
-        
-        (notes: This event was automatically created because the YAML file's edit history was empty.)_
 
 
 # Natuurhistorisch en Volkenkundig Museum Oudenbosch
@@ -62,23 +52,24 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
 ## Secondary sources
 
 Website:
-  > Website Natuurhistorisch en Volkenkundig Museum Oudenbosch  
-> [http://www.nvmoudenbosch.nl/nl/](http://www.nvmoudenbosch.nl/nl/)  
+  > *Website Natuurhistorisch en Volkenkundig Museum Oudenbosch*  
 > _Website van het Natuurhistorisch en Volkenkundig Museum Oudenbosch. Onder het kopje 'historie' is meer te vinden over de geschiedenis van het museum. Het kopje 'collecties' verschaft inzicht in de verschillende deelcollecties._  
-
+> [http://www.nvmoudenbosch.nl/nl/](http://www.nvmoudenbosch.nl/nl/)  
 Website:
-  > Erfgoed Brabant - Natuurhistorisch en Volkenkundig Museum Oudenbosch  
-> [https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum](https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum)  
+  > *Erfgoed Brabant - Natuurhistorisch en Volkenkundig Museum Oudenbosch*  
 > _Collectiewebsite van Erfgoed Brabant waarop een klein gedeelte van de collectie van Natuurhistorisch en Volkenkundig Museum Oudenbosch te zien is._  
-
+> [https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum](https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum)  
 Video:
-  > De collectie van het Natuurhistorisch en Volkenkundig Museum  
-> [https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/](https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/)  
+  > *De collectie van het Natuurhistorisch en Volkenkundig Museum*  
 > _Korte video waarin de bestuursvoorzitter van Natuurhistorisch en Volkenkundig Museum Oudenbosch verschillende onderdelen van de collectie van het museum laat zien._  
-
+> [https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/](https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by UNKNOWN as UNKNOWN on 2025-08-01
+        
+        (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

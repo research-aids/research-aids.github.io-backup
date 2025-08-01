@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-02-25_  
-_last edited by Wiebe Reints as original_author on 2025-02-25_
-
 
 # Museum Nusantara
 
@@ -37,35 +33,32 @@ After the closing of Museum Nusantara, its archive was transferred to the [Stads
 ## Primary sources
 
 Website:
-  > Collectie Nusantara  
-> [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)  
+  > *Collectie Nusantara*  
 > _Website with information about the former Nusantara Museum and an digital overview of the collection and how it was divided among various museums in the Netherlands and abroad._  
-
+> [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)  
 Archive:
-  > NL-DtAD 1009 - Museum Nusantara  
-> [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)  
+  > *NL-DtAD 1009 - Museum Nusantara*  
 > _Archive of the former Nusantara Museum. Archive material relating to the museum's collection can be found under heading ‘2.5’. The archive of inventory cards of the Indische Instelling is also available under ‘Gedeponeerde archieven’._  
-
+> [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)  
 ## Secondary sources
 
 Publication:
-  > Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018  
-> [https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)  
+  > *Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018*  
 > _Publication by Jos van Beurden about the deaccessioning of the Nusantara Museum collection. Includes an extensive overview of the institutions to which the collection has been donated. Also contains information about previous deaccessioning projects in the Dutch heritage sector (in Dutch)._  
-
+> [https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)  
 Book:
-  > Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014).  
-> [https://search.worldcat.org/title/880822331?oclcNum=880822331](https://search.worldcat.org/title/880822331?oclcNum=880822331), [ISBN 9789054500131](https://isbnsearch.org/isbn/9789054500131), [WorldCat 880822331](https://search.worldcat.org/title/880822331)  
+  > *Wentholt, Arnold, and Volkenkundig Museum Nusantara (Delft). Nusantara : Highlights from Museum Nusantara Delft (Leiden, Delft: C. Zwartenkot Art Books; Stichting Nusantara, 2014).*  
 > _Book with brief information about the history of Museum Nusantara and an overview of the collection._  
-
+> [https://search.worldcat.org/title/880822331?oclcNum=880822331](https://search.worldcat.org/title/880822331?oclcNum=880822331), [ISBN 9789054500131](https://isbnsearch.org/isbn/9789054500131), [WorldCat 880822331](https://search.worldcat.org/title/880822331)  
 Boek:
-  > Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989).  
-> [https://search.worldcat.org/title/905471545?oclcNum=905471545](https://search.worldcat.org/title/905471545?oclcNum=905471545), [ISBN 9789071423048](https://isbnsearch.org/isbn/9789071423048), [WorldCat 905471545](https://search.worldcat.org/title/905471545)  
+  > *Leur, J.L.W. van. De Indische Instelling te Delft: Méér dan een opleiding tot bestuursambtenaar: 125 Jaar Verzamelen (Delft: Volkenkundig Museum Nusantara, 1989).*  
 > _A book about the (pre)history of the Indische Instelling in Delft and the origins of what would later become Museum Nusantara._  
-
+> [https://search.worldcat.org/title/905471545?oclcNum=905471545](https://search.worldcat.org/title/905471545?oclcNum=905471545), [ISBN 9789071423048](https://isbnsearch.org/isbn/9789071423048), [WorldCat 905471545](https://search.worldcat.org/title/905471545)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2025-02-25_
         

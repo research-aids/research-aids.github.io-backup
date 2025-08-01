@@ -4,18 +4,11 @@ title: Royal Asian Art Society in the Netherlands
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KVVAK.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KVVAK.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-05-08_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
 
 
 # Royal Asian Art Society in the Netherlands
@@ -46,85 +39,74 @@ Not all of the Asian art collection in the Rijksmuseum is on loan from the KVVAK
 ## Primary sources
 
 Archive:
-  > NL-HaNA 2.14.73 663  
->   
+  > *NL-HaNA 2.14.73 663*  
 > _Records concerning the financial management of the Museum of East Asian Art at Amsterdam, 1940-1960._  
-
-Archive:
-  > NL-HaNA 2.14.73 674  
 >   
+Archive:
+  > *NL-HaNA 2.14.73 674*  
 > _Records concerning the acquisition of art works and the housing of the collection of the Museum voor Oost-Aziatische Kunst at the Rijksmuseum in Amsterdam, 1947-1960._  
-
-Archive:
-  > NL-HaNA 2.14.73 6609  
 >   
+Archive:
+  > *NL-HaNA 2.14.73 6609*  
 > _Records concerning to a grant to the Museum van Aziatische Kunst in Amsterdam, 1942-1964._  
-
-Archive:
-  > NL-HaNA 2.27.19 2934  
 >   
+Archive:
+  > *NL-HaNA 2.27.19 2934*  
 > _Records concerning the approval of loan agreements of objects between the Rijksmuseum and the Asian Art Society in the Netherlands, 1970 - 1971._  
-
-Archive:
-  > NL-HaNA 2.24.25 554-555  
 >   
+Archive:
+  > *NL-HaNA 2.24.25 554-555*  
 > _Photographs of the ‘Aziatische Kunst’ exhibition at the Museum voor Aziatische Kunst in 1936. Inventory number 554 comprises an overview of the exhibition space. Inventory number 555 comprises an overview of the ‘Chinese ceramics.’_  
-
-Archive:
-  > NL-HaNA 2.24.25 1281-1288  
 >   
+Archive:
+  > *NL-HaNA 2.24.25 1281-1288*  
 > _Various photos of the exhibition rooms of the Museum of Asian Art in Amsterdam from 1931 to1958. The archive thus contains both photographs from both the Stedelijk Museum and the Rijksmuseum in Amsterdam._  
-
-Archive:
-  > NL-HaNA 2.20.69 2982  
 >   
+Archive:
+  > *NL-HaNA 2.20.69 2982*  
 > _Correspondence between the Royal Tropical Institute and the Rijksmuseum in Amsterdam regarding the Museum voor Aziatische Kunst, 1941._  
-
+>   
 Archive document:
-  > NL-HlmNHA 476 2506  
-> [https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A](https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A)  
+  > *NL-HlmNHA 476 2506*  
 > _Report by H.F.E. Visser on the desirability of bringing about the establishment of a State Museum for Asian Art as part of the reorganisation of the Dutch museums, c. 1920._  
-
+> [https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A](https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A)  
 Archive document:
-  > NL-HlmNHA 64 116  
-> [https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4](https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4)  
+  > *NL-HlmNHA 64 116*  
 > _Correspondence between H.F.E. Visser, curator of the Museum van Aziatische Kunst in Amsterdam, and the Royal Dutch Academy of Arts and Sciences (KNAW) regarding identification and placement of a Buddha's head from the Borobudur, in the possession of the KNAW, 1939._  
-
+> [https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4](https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4)  
 ## Secondary sources
 
 Article:
-  > Southworth, W. “Twelve Stone Sculptures from Java”. The Rijksmuseum Bulletin 65 (3):244-75 Amsterdam: Rijksmuseum, 2017.  
-> [https://doi.org/10.52476/trb.9791](https://doi.org/10.52476/trb.9791)  
+  > *Southworth, W. “Twelve Stone Sculptures from Java”. The Rijksmuseum Bulletin 65 (3):244-75 Amsterdam: Rijksmuseum, 2017.*  
 > _This article examines the history and provenance of a group of twelve stone statues from Java. All twelve are Hindu-Buddhist images from the Central Java period from the eighth to the tenth century AD. The statues were purchased by the Royal Asian Art Society in 1932._  
-
+> [https://doi.org/10.52476/trb.9791](https://doi.org/10.52476/trb.9791)  
 Article:
-  > Southworth, William. “The Provenance of Four Sandstone Sculptures from Cambodia”. The Rijksmuseum Bulletin 61 (2):140-71, Amsterdam: Rijksmuseum, 2013.  
-> [https://doi.org/10.52476/trb.10069](https://doi.org/10.52476/trb.10069)  
+  > *Southworth, William. “The Provenance of Four Sandstone Sculptures from Cambodia”. The Rijksmuseum Bulletin 61 (2):140-71, Amsterdam: Rijksmuseum, 2013.*  
 > _This article examines the acquisition and provenance of four sculptures from Cambodia in the Rijksmuseum's collection. The sculptures were acquired by the KVVAK in the early 1930s._  
-
+> [https://doi.org/10.52476/trb.10069](https://doi.org/10.52476/trb.10069)  
 Book:
-  > Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014.  
-> [WorldCat 907556128](https://search.worldcat.org/title/907556128)  
+  > *Campen, J. van, et all. Asian Art, Amsterdam: Rijksmuseum, 2014.*  
 > _This book presents 119 highlights from the Rijksmuseum's Asian art collection. Objects from India, Southeast Asia, Korea, Japan and China are introduced in essays by curators._  
-
+> [WorldCat 907556128](https://search.worldcat.org/title/907556128)  
 Catalogue:
-  > Lim, K.W., et al. Aziatische kunst uit het bezit van leden: Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.  
-> [WorldCat 63330271](https://search.worldcat.org/title/63330271)  
+  > *Lim, K.W., et al. Aziatische kunst uit het bezit van leden: Rijksmuseum Amsterdam, 22 december 1978-4 maart 1979 : Vereniging van vrienden der Aziatische kunst 1918-1978, Amsterdam, 1979.*  
 > _A catalogue containing objects acquired in the first 60 years of the KVVAK._  
-
+> [WorldCat 63330271](https://search.worldcat.org/title/63330271)  
 Catalogue:
-  > Fontein, J., et al. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954  
-> [WorldCat 1156720537](https://search.worldcat.org/title/1156720537)  
+  > *Fontein, J., et al. Oosterse schatten. 4000 jaar Aziatische kunst, Amsterdam: Rijksmuseum, 1954*  
 > _Exhibition catalogue of the KVVAK from 1954._  
-
+> [WorldCat 1156720537](https://search.worldcat.org/title/1156720537)  
 Magazine:
-  > Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 – Nu.  
-> [https://brill.com/view/journals/vvak/vvak-overview.xml](https://brill.com/view/journals/vvak/vvak-overview.xml), [ISBN 2543-1749](https://portal.issn.org/resource/ISSN/2543-1749)  
+  > *Vereniging van Vrienden der Aziatische Kunst. Aziatische Kunst : mededelingenblad van de Vereniging van Vrienden der Aziatische Kunst, Leiden: Brill, 1986 – Nu.*  
 > _The journal of the KVVAK published by Brill._  
-
+> [https://brill.com/view/journals/vvak/vvak-overview.xml](https://brill.com/view/journals/vvak/vvak-overview.xml), [ISBN 2543-1749](https://portal.issn.org/resource/ISSN/2543-1749)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-05-08_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

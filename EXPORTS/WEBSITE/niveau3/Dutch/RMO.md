@@ -4,17 +4,11 @@ title: Rijksmuseum van Oudheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/RMO.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/RMO.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-11-06_  
-_last edited by Wiebe Reints as original_author on 2024-11-06_
 
 
 # Rijksmuseum van Oudheden
@@ -61,50 +55,44 @@ Ook correspondentiearchieven tussen de verschillende instellingen of schenkers z
 ## Primary sources
 
 Website:
-  > Archieven van het Rijksmuseum van Oudheden  
-> [https://archieven.rmo.nl/](https://archieven.rmo.nl/)  
+  > *Archieven van het Rijksmuseum van Oudheden*  
 > _Website die toegang geeft tot de archieven van het RMO. Het archief is benaderbaar via de 'tegels', het veld 'Museumarchief', of door te zoeken via het zoekveld._  
-
+> [https://archieven.rmo.nl/](https://archieven.rmo.nl/)  
 Archief:
-  > NL-LdnRMV_A03_018 - Inventaris van het RMO  
->   
+  > *NL-LdnRMV_A03_018 - Inventaris van het RMO*  
 > _Archieftoegang in het archief van het Wereldmuseum Leiden waarin de inventaris van het RMO is opgenomen. In 1904 werden de collecties Aziatische en Amerikaanse objecten overgedragen aan het 's Rijks Ethnographisch Museum, het tegenwoordige Wereldmuseum Leiden._  
-
-Archief:
-  > NL-LdnRMV_Seriedossier RV-1403  
 >   
+Archief:
+  > *NL-LdnRMV_Seriedossier RV-1403*  
 > _Seriedossier dat gekoppeld is aan de RV-1403 collectie, die bestaat uit de objecten die in 1904 vanuit het RMO aan het toenmalig Rijks Etnografisch Museum zijn overgedragen._  
-
+>   
 ## Secondary sources
 
 Teruggave-advies en herkomstverslag:
-  > I-2023-3 Advies Singasari  
-> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf)  
+  > *I-2023-3 Advies Singasari*  
 > _Teruggave-advies over vier beelden uit het tempelcomplex van Singasari: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) en Ganesha (RV-1403-1681). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2024 (ID-2023-6 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
-
+> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf)  
 Teruggave-advies en herkomstverslag:
-  > ID-2023-6 Advies Singasari  
-> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf)  
+  > *ID-2023-6 Advies Singasari*  
 > _Teruggave-advies over twee beelden uit het tempelcomplex van Singasari: Bhairava (RV-1403-1680) en Nandi (RV-1403-1682). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2023 (I-2023-3 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
-
+> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf)  
 Teruggave-advies en herkomstverslag:
-  > ID-2023-8 Advies Brahma  
-> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf)  
+  > *ID-2023-8 Advies Brahma*  
 > _Teruggave-advies over het beeld van Brahma uit tempelcomplex van Singasari (RV-1403-1582). In het verslag staan verschillende archieven en andere bronnen genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
-
+> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf)  
 Teruggave-advies en herkomstverslag:
-  > ID-2023-9 Advies Ganesha  
-> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf)  
+  > *ID-2023-9 Advies Ganesha*  
 > _Teruggave-advies over een beeld van Ganesha  (RV-1403-1759). In het verslag staan verschillende archieven en andere bronnen genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
-
+> [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf)  
 Boek:
-  > Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.  
-> [https://search.worldcat.org/title/779255199?oclcNum=779255199](https://search.worldcat.org/title/779255199?oclcNum=779255199), [WorldCat 779255199](https://search.worldcat.org/title/779255199), [ISBN 9782503541525](https://isbnsearch.org/isbn/9782503541525)  
+  > *Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.*  
 > _Dissertatie van Mirjam Hoijtink uit 2012 die ingaat op het werk en leven van Caspar Reuvens, de eerste directeur van het Rijksmuseum van Oudheden in Leiden. Het boek besteed tevens aandacht aan de reden waarom Reuvens in eerste instantie ook Indische en ander niet 'klassieke' oudheden in de museumcollectie opnam en plaatst deze ideeën in de ontwikkelingen van de wetenschap en het museumveld in de negentiende eeuw._  
-
+> [https://search.worldcat.org/title/779255199?oclcNum=779255199](https://search.worldcat.org/title/779255199?oclcNum=779255199), [WorldCat 779255199](https://search.worldcat.org/title/779255199), [ISBN 9782503541525](https://isbnsearch.org/isbn/9782503541525)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-11-06_
         

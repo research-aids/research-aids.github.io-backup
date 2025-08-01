@@ -1,8 +1,3 @@
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-04-17_  
-_last edited by Abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
-
 
 # Army and navy personnel in colonised territories
 
@@ -48,45 +43,42 @@ The personnel files of soldiers deployed to Indonesia in 1945-1949 will be at th
 ## Primary sources
 
 Almanac:
-  > Regeeringsalmanak voor Nederlandsch-Indië  
-> [https://www.delpher.nl/](https://www.delpher.nl/)  
+  > *Regeeringsalmanak voor Nederlandsch-Indië*  
 > _Editions from 1865 to 1942 can be found on Delpher by selecting the title 'Regeringsalmanak Nederlandsch-Indië' in the periodicals section. Editions from 1865 to 1912 are available through the Staatsbibliothek zu Berlin by searching PPN718684745._  
-
+> [https://www.delpher.nl/](https://www.delpher.nl/)  
 Image collection:
-  > Nederlands Instituut voor Militaire Historie  
-> [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)  
+  > *Nederlands Instituut voor Militaire Historie*  
 > _The image library of the Netherlands Institute for Military History contains historical image material._  
-
+> [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)  
 Museum:
-  > Museum Bronbeek  
-> [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)  
+  > *Museum Bronbeek*  
 > _Museum Bronbeek is a knowledge centre of the Netherlands’ colonial and military past. The emphasis is on the Dutch East Indies but material from other colonies is also available. You can contact loket.bronbeek@mindef.nl to request information about a particular soldier, event or object._  
-
+> [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)  
 Web portal:
-  > Nederlands Militair Erfgoed  
-> [https://nlme.nl/](https://nlme.nl/)  
+  > *Nederlands Militair Erfgoed*  
 > _Nederlands Militair Erfgoed is a portal containing military sources from various collections in the Netherlands, including visual materials, periodicals and books. Of particular interest for provenance research are the officer's books and historical periodicals._  
-
+> [https://nlme.nl/](https://nlme.nl/)  
 ## Secondary sources
 
 Article:
-  > Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.  
-> [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
+  > *Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.*  
 > _Article about Teuku Panglima Polem, an Aceh leader during the colonial war fought by the Netherlands in Aceh._  
-
+> [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
 Book:
-  > Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007.  
-> [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634)  
+  > *Keurs, Pieter ter, ed. Colonial Collecting Revisited. Leiden: CNWS Publications, 2007.*  
 > _Book published following a conference at the Nieuwe Kerk, Amsterdam, in 2006. The book focuses on collecting objects in the former Dutch East Indies, with attention also being given to military personnel._  
-
+> [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634)  
 Research aid:
-  > Militairen en Marinepersoneel  
-> [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel)  
+  > *Militairen en Marinepersoneel*  
 > _Research aid from the National Archives on Dutch army and naval personnel. Tip: the information in the service registers is sometimes continued on another page. In that case, a note is placed at the bottom of the page: “zie verder” [see further] with the relevant page number._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-04-17_
+_last edited by Abacus as translator on 2025-03-12
+        (applies to section: Main-text; Sources)_
         

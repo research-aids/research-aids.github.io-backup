@@ -1,8 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-05-08_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
-
 
 # Wageningen University & Research
 
@@ -35,35 +30,34 @@ The archives of the Agricultural College until 1959 are held in the [Gelders Arc
 ## Primary sources
 
 Archival access:
-  > NL-AhGldA 0740  2324  
-> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
+  > *NL-AhGldA 0740  2324*  
 > _Contains documents relating to the ethnographic collection, dated 1941 (on donation of Papua objects from C.C.F.M. Le Roux by RMV) and 1955 (on the future of the collection)._  
-
+> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
 Archival access:
-  > NL-AhGldA 0740  2833  
-> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
+  > *NL-AhGldA 0740  2833*  
 > _Contains an inventory of the collections and teaching resources of the Department of Geography and Ethnology, created around 1904 and maintained until 1929._  
-
+> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
 Archival access:
-  > NL-AhGldA 0740 1522  
-> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
+  > *NL-AhGldA 0740 1522*  
 > _Contains documents relating to exhibitions, 1947-1956._  
-
+> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
 Archival access:
-  > NL-HaNA  2.20.69 4402  
->   
+  > *NL-HaNA  2.20.69 4402*  
 > _Contains correspondence regarding the sale of objects by the Indisch Instituut (now Wereldmuseum Amsterdam) in 1948._  
-
+>   
 ## Secondary sources
 
 Article:
-  > “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
-> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
+  > *“Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.*  
 > _Article from 1953 about the disappearance of nearly 100 objects from the College of Agriculture collection._  
-
+> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-05-08_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

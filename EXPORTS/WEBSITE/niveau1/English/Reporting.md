@@ -4,18 +4,11 @@ title: Writing a provenance report
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Reporting.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Reporting.docx){: .btn .btn-blue }
-
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
 
 
 # Writing a provenance report
@@ -73,4 +66,8 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
  - _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
 
 
+
+_first edited by wiebe reints as original_author on 2024-05-01_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
         

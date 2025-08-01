@@ -1,7 +1,3 @@
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-08-14_  
-_last edited by Wiebe Reints as original_author on 2024-08-14_
-
 
 # Wetenschappelijk onderzoek in gekoloniseerde gebieden
 
@@ -54,23 +50,22 @@ Tot slot is het mogelijk dat archieven in de voormalige gekoloniseerde gebieden 
 ## Secondary sources
 
 Boek:
-  > Kuitenbrouwer, M. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.  
-> [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
+  > *Kuitenbrouwer, M. Tussen oriëntalisme en wetenschap: het Koninklijk Instituut voor Taal-, Land- en Volkenkunde in historisch verband 1851-2001. Leiden: KITLV Uitgeverij, 2001.*  
 > _Historiografie van het KITLV uit 2001 die honderdvijftig jaar KITLV-geschiedenis behandelt, maar tegelijkertijd een geschiedenis van de wetenschapsbeoefening over de (voormalige) koloniën is. De Engelse versie, Dutch scholarship in the age of empire and beyond, die niet een één-op-één vertaling is, is ook digitaal beschikbaar._  
-
+> [https://search.worldcat.org/title/47826802?oclcNum=47826802](https://search.worldcat.org/title/47826802?oclcNum=47826802), [ISBN 9789067181747](https://isbnsearch.org/isbn/9789067181747), [WorldCat 47826802](https://search.worldcat.org/title/47826802)  
 Boek:
-  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.  
-> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
+  > *Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.*  
 > _Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
-
+> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
 Artikel:
-  > Weber, Andreas. ‘Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century’. BMGN - Low Countries Historical Review 134, nr. 3 (26 september 2019): 72-95.  
-> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
+  > *Weber, Andreas. ‘Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century’. BMGN - Low Countries Historical Review 134, nr. 3 (26 september 2019): 72-95.*  
 > _Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
-
+> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-08-14_
         

@@ -4,17 +4,11 @@ title: Nederlandsch Zendeling Genootschap
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/NZG.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/NZG.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-14_  
-_last edited by Wiebe Reints as original_author on 2024-03-14_
 
 
 # Nederlandsch Zendeling Genootschap
@@ -48,50 +42,44 @@ In het [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960](http
 ## Primary sources
 
 Archief:
-  > NL-UtHUA 1102-1 1  
-> [https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)  
+  > *NL-UtHUA 1102-1 1*  
 > _Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen._  
-
+> [https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)  
 Archief:
-  > NL-RtSA 563  298  
-> [https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)  
+  > *NL-RtSA 563  298*  
 > _Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)._  
-
+> [https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)  
 ## Secondary sources
 
 Boek:
-  > Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk-java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz., verzameld in het Zendelinghuis van het Nederlandsche Zendelinggenootschap, 1874.  
-> [WorldCat 993621798](https://search.worldcat.org/title/993621798), [https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false](https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false)  
+  > *Catalogus van voorwerpen en modellen ter veraanschouwelijking van het huiselijk en maatschappelijk leven der bevolkingen van Oostelijk-java, de Minahassa (Celebes), Ambon, de Oeliassers, Boano, enz., verzameld in het Zendelinghuis van het Nederlandsche Zendelinggenootschap, 1874.*  
 > _Catalogus uit 1874 met daarin lijsten van objecten in het bezit van het NZG._  
-
+> [WorldCat 993621798](https://search.worldcat.org/title/993621798), [https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false](https://books.google.nl/books?id=zoOCOEgNA4AC&printsec=frontcover&hl=nl#v=onepage&q&f=false)  
 Artikel:
-  > ‘Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië], jrg 6, 1862, 01-01-1862’, 1 januari 1862.  
-> [https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094](https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094)  
+  > *‘Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië], jrg 6, 1862, 01-01-1862’, 1 januari 1862.*  
 > _Lijst uit 1862 met objecten in het bezit van het NZG._  
-
+> [https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094](https://resolver.kb.nl/resolve?urn=MMZEND01:002526001:00094)  
 Artikel:
-  > Schefold, Reimar, en Han F. Vermeulen. Treasure Hunting?: Collectors and Collections of Indonesian Artefacts. Mededelingen van Het Rijksmuseum Voor Volkenkunde. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS), Universiteit Leiden, 2002.  
-> [https://search.worldcat.org/title/907014546?oclcNum=907014546](https://search.worldcat.org/title/907014546?oclcNum=907014546), [ISBN 9789057890789](https://isbnsearch.org/isbn/9789057890789), [WorldCat 907014546](https://search.worldcat.org/title/907014546)  
+  > *Schefold, Reimar, en Han F. Vermeulen. Treasure Hunting?: Collectors and Collections of Indonesian Artefacts. Mededelingen van Het Rijksmuseum Voor Volkenkunde. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS), Universiteit Leiden, 2002.*  
 > _Boek over de geschiedenis van het etnografisch verzamelen in Indonesië. De collectie van het NZG wordt hierin ook behandeld._  
-
+> [https://search.worldcat.org/title/907014546?oclcNum=907014546](https://search.worldcat.org/title/907014546?oclcNum=907014546), [ISBN 9789057890789](https://isbnsearch.org/isbn/9789057890789), [WorldCat 907014546](https://search.worldcat.org/title/907014546)  
 Artikel:
-  > Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97.  
-> [https://search.worldcat.org/title/844374705?oclcNum=844374705](https://search.worldcat.org/title/844374705?oclcNum=844374705), [ISBN 2214-1111](https://portal.issn.org/resource/ISSN/2214-1111), [WorldCat 844374705](https://search.worldcat.org/title/844374705)  
+  > *Kanhai, Parveen. “Een kostbaar bezit: de vroege verzameling van het Nederlandsch Zendelinggenootschap (1855-1867).” Jaarboek Vereniging Vrienden Etnografica 8 (2020): 80–97.*  
 > _Artikel over de vroege verzameling van het NZG._  
-
+> [https://search.worldcat.org/title/844374705?oclcNum=844374705](https://search.worldcat.org/title/844374705?oclcNum=844374705), [ISBN 2214-1111](https://portal.issn.org/resource/ISSN/2214-1111), [WorldCat 844374705](https://search.worldcat.org/title/844374705)  
 Tijdschrift:
-  > Zendelinggenootschap, Nederlandsche. Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië]. Wijt, 1859.  
-> [https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y](https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y)  
+  > *Zendelinggenootschap, Nederlandsche. Mededeelingen van wege het Nederlandsche Zendelinggenootschap :[bijdragen tot de kennis der zending en der taal-, land- en volkenkunde van Nederlandsch-Indië]. Wijt, 1859.*  
 > _Het tijdschrift bevat voornamelijk bijdragen van de NZG-zendelingen over hun activiteiten, enkel incidenteel over de verzamelde objecten. De edities van 1857 tot en met 1919 zijn allemaal digitaal toegankelijk via [Delpher](https://www.delpher.nl/)._  
-
+> [https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y](https://books.google.nl/books/about/Mededeelingen_van_wege_het_Nederlandsche.html?id=WvZTAAAAcAAJ&redir_esc=y)  
 Website:
-  > Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap  
-> [https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829](https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829)  
+  > *Repertorium van Nederlandse zendings- en missie-archieven 1800-1960 - Nederlandsch Zendeling Genootschap*  
 > _Online database van het Huygens Instituut met informatie over de geschiedenis van het NZG en waar relevant (archief)materiaal te vinden is._  
-
+> [https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829](https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-14_
         

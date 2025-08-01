@@ -1,7 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by wiebe reints as original_author on 2024-04-25_
-
 
 # Selecteren en afbakenen
 
@@ -53,4 +49,6 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
  - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2024-04-25_
         

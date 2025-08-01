@@ -1,8 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
-
 
 # Writing a provenance report
 
@@ -59,4 +54,8 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
  - _see also: [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)_  
 
 
+
+_first edited by wiebe reints as original_author on 2024-05-01_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
         

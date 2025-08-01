@@ -1,7 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-01-23_  
-_last edited by wiebe reints as original_author on 2025-01-23_
-
 
 # Het Nederlandse restitutiebeleid
 
@@ -84,4 +80,6 @@ Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadsl
  - _see also: [Bronnen](niveau1/Dutch/Sources_20240425.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2025-01-23_
         

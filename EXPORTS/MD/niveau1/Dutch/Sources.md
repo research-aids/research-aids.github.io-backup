@@ -1,7 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by wiebe reints as original_author on 2024-04-25_
-
 
 # Bronnen
 
@@ -98,4 +94,6 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
  - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2024-04-25_
         

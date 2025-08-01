@@ -4,17 +4,11 @@ title: Koninklijk Kabinet van Zeldzaamheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/KKZ.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/KKZ.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-13_  
-_last edited by Wiebe Reints as original_author on 2024-03-13_
 
 
 # Koninklijk Kabinet van Zeldzaamheden
@@ -56,75 +50,64 @@ Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationa
 ## Primary sources
 
 Archief:
-  > NL-HlmNHA 476 5  
-> [https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552](https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552)  
+  > *NL-HlmNHA 476 5*  
 > _Betreft de inventaris toegang van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers._  
-
+> [https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552](https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552)  
 Archief:
-  > NL-HaNA 2.04.13 2.2.4.1.2.06  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06)  
+  > *NL-HaNA 2.04.13 2.2.4.1.2.06*  
 > _Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06)  
 Archief:
-  > NL-HaNA 2.04.01 4925-4954  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954)  
+  > *NL-HaNA 2.04.01 4925-4954*  
 > _Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954)  
 Archief:
-  > NL-HaNA 2.04.01 4030  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001)  
+  > *NL-HaNA 2.04.01 4030*  
 > _Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001)  
 Archiefstuk:
-  > NL-HlmNHA 476 11.1  
-> [https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701](https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701)  
+  > *NL-HlmNHA 476 11.1*  
 > _Toegang uit het archief van het Rijksmuseum met daarin allerhande documenten die betrekking hebben op verwerving, uitleen en restauratie van objecten._  
-
+> [https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701](https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701)  
 Archiefstuk:
-  > NL-HlmNHA 476 874-875  
-> [https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC](https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC)  
+  > *NL-HlmNHA 476 874-875*  
 > _Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk._  
-
+> [https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC](https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC)  
 Archiefstuk:
-  > NL-HlmNHA 476 1076  
-> [https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688](https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688)  
+  > *NL-HlmNHA 476 1076*  
 > _Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnographisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888_  
-
+> [https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688](https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688)  
 ## Secondary sources
 
 Boek:
-  > Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003.  
-> [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)  
+  > *Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003.*  
 > _Dissertatie van Rudolf Effert uit 2003 over de geschiedenis van het KKZ en het Rijks Etnografisch Museum._  
-
+> [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)  
 Catalogus:
-  > Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in 's-Gravenhage. ’s Gravenhage, 1823.  
-> [https://play.google.com/books/reader?id=-p1RAAAAcAAJ](https://play.google.com/books/reader?id=-p1RAAAAcAAJ), [WorldCat 63800039](https://search.worldcat.org/title/63800039)  
+  > *Kasteele, Reinier Pieter van de. Handleiding tot de bezigtiging van het Koninklijk Kabinet van Zeldzaamheden op Mauritshuis, in 's-Gravenhage. ’s Gravenhage, 1823.*  
 > _Handleiding tot de bezichtiging van het KKZ uit 1823 van de hand van de toenmalige directeur Reinier Pieter van de Kasteele._  
-
+> [https://play.google.com/books/reader?id=-p1RAAAAcAAJ](https://play.google.com/books/reader?id=-p1RAAAAcAAJ), [WorldCat 63800039](https://search.worldcat.org/title/63800039)  
 Catalogus:
-  > Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in 's Gravenhage. 's Gravenhage: A.H. Bakhuijzen, 1860.  
-> [http://archive.org/details/kortehandleiding00kast](http://archive.org/details/kortehandleiding00kast), [WorldCat 899016583](https://search.worldcat.org/title/899016583)  
+  > *Kasteele, Abraham Anne van de. Korte handleiding ter bezigtiging der verzameling van zeldzaamheden in het Koninklijk Kabinet op het Mauritshuis in 's Gravenhage. 's Gravenhage: A.H. Bakhuijzen, 1860.*  
 > _Handleiding tot de bezichtiging van het KKZ uit 1860 van de hand van de toenmalige directeur Abraham Anne van de Kasteele._  
-
+> [http://archive.org/details/kortehandleiding00kast](http://archive.org/details/kortehandleiding00kast), [WorldCat 899016583](https://search.worldcat.org/title/899016583)  
 Hoofdstuk in boek:
-  > Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021.   
-> [https://doi.org/10.4324/9781003044789](https://doi.org/10.4324/9781003044789), [WorldCat 1201682297](https://search.worldcat.org/title/1201682297), [ISBN 9780367491499](https://isbnsearch.org/isbn/9780367491499)  
+  > *Shatanawi, Mirjam. “Museum Narratives of Islam Between Art, Archaeology and Ethnology: A Structural Injustice Approach.” In Islam and Heritage in Europe: Pasts, Presents and Future Possibilities, edited by Katarzyna Puzon, Sharon Macdonald, and Mirjam Shatanawi, 163–82. London; New York: Routledge, 2021. *  
 > _Boekhoofdstuk dat de verdeling van de objecten van het KKZ in 1883 behandelt._  
-
+> [https://doi.org/10.4324/9781003044789](https://doi.org/10.4324/9781003044789), [WorldCat 1201682297](https://search.worldcat.org/title/1201682297), [ISBN 9780367491499](https://isbnsearch.org/isbn/9780367491499)  
 Publicatie:
-  > Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties. Amsterdam: NIOD, 2022.  
-> [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
+  > *Mooren, Jona, Klaas Stutje, en Frank van Vree. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties. Amsterdam: NIOD, 2022.*  
 > _Binnen het Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) is een tiental KKZ objecten uit Wereldmuseum Leiden onderzocht. De uitgebreide herkomstverslagen staan online en bevatten veel nuttige inzichten._  
-
+> [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
 Catalogus:
-  > Rinnooy Kan, Justine, en Sheila Reda, red. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle, Den Haag: Waanders uitgevers ; Mauritshuis, 2024.  
-> [https://search.worldcat.org/title/1463743743?oclcNum=1463743743](https://search.worldcat.org/title/1463743743?oclcNum=1463743743), [WorldCat 1463743743](https://search.worldcat.org/title/1463743743), [ISBN 9789462625709](https://isbnsearch.org/isbn/9789462625709)  
+  > *Rinnooy Kan, Justine, en Sheila Reda, red. Het verdwenen museum: Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle, Den Haag: Waanders uitgevers ; Mauritshuis, 2024.*  
 > _Catalogus van de tentoonstelling over het Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis in 2024._  
-
+> [https://search.worldcat.org/title/1463743743?oclcNum=1463743743](https://search.worldcat.org/title/1463743743?oclcNum=1463743743), [WorldCat 1463743743](https://search.worldcat.org/title/1463743743), [ISBN 9789462625709](https://isbnsearch.org/isbn/9789462625709)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-13_
         

@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-10-01_  
-_last edited by Wiebe Reints as original_author on 2024-10-01_
-
 
 # Wereldmuseum Berg en Dal
 
@@ -46,20 +42,20 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 ## Primary sources
 
 Archief:
-  > AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
-> [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
+  > *AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum*  
 > _Archief van de Stichting Afrika Museum binnen het archief van de Congregatie van de Heilige Geest. Bevat een ruime hoeveelheid aan documentatie met betrekking tot het Afrika Museum, van catalogi tot (ver)huurcontracten._  
-
+> [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
 ## Secondary sources
 
 Boek:
-  > Grootaers, Jan-Lodewijk, et al. Vormen van verwondering: de geschiedenis en de collecties van het Afrika Museum, Berg en Dal. Berg en Dal: Afrika Museum, 2002.  
-> [https://search.worldcat.org/title/66932031](https://search.worldcat.org/title/66932031), [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131, 9071611132](https://isbnsearch.org/isbn/9789071611131, 9071611132)  
+  > *Grootaers, Jan-Lodewijk, et al. Vormen van verwondering: de geschiedenis en de collecties van het Afrika Museum, Berg en Dal. Berg en Dal: Afrika Museum, 2002.*  
 > _Dit boek, bestaande uit twee volumes, uit 2002 beschrijft de wordingsgeschiedenis van het Afrika Museum en geeft een overzicht van de collecties die het museum toentertijd beheerde._  
-
+> [https://search.worldcat.org/title/66932031](https://search.worldcat.org/title/66932031), [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131, 9071611132](https://isbnsearch.org/isbn/9789071611131, 9071611132)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-10-01_
         

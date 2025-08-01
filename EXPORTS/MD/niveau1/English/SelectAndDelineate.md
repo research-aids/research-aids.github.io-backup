@@ -1,8 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
-
 
 # Select and delineate
 
@@ -54,4 +49,8 @@ Provenance research can also be undertaken proactively, for example if the custo
  - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 
 
+
+_first edited by wiebe reints as original_author on 2024-04-25_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text)_
         

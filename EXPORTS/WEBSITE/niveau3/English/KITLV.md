@@ -4,18 +4,11 @@ title: Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KIT
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/KITLV.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/KITLV.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-07-04_  
-_last edited by Abacus as translator on 2025-04-07
-        (applies to section: Main-text; Sources)_
 
 
 # Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)
@@ -60,55 +53,50 @@ The KITLV text collections can be requested through the UBL's [online catalogue]
 ## Primary sources
 
 Collection guide:
-  > Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)  
-> [https://collectionguides.universiteitleiden.nl/resources/ubl301](https://collectionguides.universiteitleiden.nl/resources/ubl301)  
+  > *Library of the Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)*  
 > _Digital access to the KITLV collection at Leiden University Library. This collection guide provides a comprehensive overview of all KITLV materials available through the UBL._  
-
+> [https://collectionguides.universiteitleiden.nl/resources/ubl301](https://collectionguides.universiteitleiden.nl/resources/ubl301)  
 Archival access:
-  > Asian manuscripts (KITLV)  
-> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
+  > *Asian manuscripts (KITLV)*  
 > _Access to the KITLV collection of Asian manuscripts in the Leiden University Library catalogue. This collection can also be found using the attribute 'D Or'._  
-
+> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20or.&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
 Archival access:
-  > European manuscripts (KITLV)  
-> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
+  > *European manuscripts (KITLV)*  
 > _Access to the KITLV's collection of European manuscripts in the Leiden University Library catalogue. This collection can also be found using the attribute 'D H'._  
-
+> [https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0](https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,d%20h&tab=all_content&search_scope=lib_kitlv&vid=UBL_V1&facet=rtype,include,manuscripts&lang=en_US&offset=0)  
 Digital collection:
-  > Maps (KITLV)  
-> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps)  
+  > *Maps (KITLV)*  
 > _The map collection of the KITLV has its own access within Leiden University Digital Collections. The web page provides access to 16,000 maps and 500 atlases of Indonesia, Suriname, the Netherlands Antilles and Southeast Asia, mostly from the nineteenth and twentieth centuries._  
-
+> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvmaps)  
 Digital collection:
-  > Southeast Asian & Caribbean Images (KITLV)  
-> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos)  
+  > *Southeast Asian & Caribbean Images (KITLV)*  
 > _The KITLV photo and image collection has its own access within Leiden University Digital Collections. Around 1890 the KITLV began collecting photographs to capture a visual record of the colonial territories in the Dutch East and West Indies. This UBL website provides access to a large collection of photographs, prints and drawings._  
-
+> [https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos](https://digitalcollections.universiteitleiden.nl/view/collection/kitlvphotos)  
 Digital collection:
-  > Oral History Archive SMGI (KITLV)  
-> [https://digitalcollections.universiteitleiden.nl/view/collection/smgi](https://digitalcollections.universiteitleiden.nl/view/collection/smgi)  
+  > *Oral History Archive SMGI (KITLV)*  
 > _Through this page you can access the collection of interviews of the Stichting Mondelinge Geschiedenis Indonesië. The collection contains audio files and summaries of interviews with 724 individuals about their experiences in the former Dutch East Indies._  
-
+> [https://digitalcollections.universiteitleiden.nl/view/collection/smgi](https://digitalcollections.universiteitleiden.nl/view/collection/smgi)  
 Digital collection:
-  > South East Asian Pop Music (KITLV)  
-> [https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic](https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic)  
+  > *South East Asian Pop Music (KITLV)*  
 > _Through this page you can access the KITLV's collection of Southeast Asian pop music, mainly from Indonesia._  
-
+> [https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic](https://digitalcollections.universiteitleiden.nl/southeastasianpopmusic)  
 ## Secondary sources
 
 Book:
-  > Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.  
-> [https://search.worldcat.org/title/858749398?oclcNum=858749398](https://search.worldcat.org/title/858749398?oclcNum=858749398)  
+  > *Kuitenbrouwer, Maarten and Poeze, Harry A. Dutch scholarship in the age of empire and beyond: KITLV - the Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Leiden: Brill, 2014.*  
 > _Historiography of the KITLV that covers one hundred and fifty years of KITLV history but is at the same time a history of the scholarship regarding the (former) Dutch colonies. This is an English version, not a one-on-one translation, of the 2001 publication Tussen oriëntalisme en wetenschap._  
-
+> [https://search.worldcat.org/title/858749398?oclcNum=858749398](https://search.worldcat.org/title/858749398?oclcNum=858749398)  
 Magazine:
-  > Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences of Southeast Asia  
-> [https://brill.com/view/journals/bki/bki-overview.xml](https://brill.com/view/journals/bki/bki-overview.xml)  
+  > *Bijdragen tot de taal-, land- en volkenkunde/Journal of the Humanities and Social Sciences of Southeast Asia*  
 > _The journal of the KITLV, initially published by the KITLV itself but now published by Brill. All volumes from the first 1853 edition onward are available through Brill. Earlier editions also contain minutes of Board and General Meetings; nowadays the focus is on research from and into Southeast Asia in various disciplines._  
-
+> [https://brill.com/view/journals/bki/bki-overview.xml](https://brill.com/view/journals/bki/bki-overview.xml)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-07-04_
+_last edited by Abacus as translator on 2025-04-07
+        (applies to section: Main-text; Sources)_
         

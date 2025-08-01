@@ -4,18 +4,11 @@ title: Artis Ethnographic Museum
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/EMArtis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/EMArtis.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-07-12_  
-_last edited by Abacus as translator on 2025-04-07
-        (applies to section: Main-text; Sources)_
 
 
 # Artis Ethnographic Museum
@@ -59,50 +52,46 @@ Archives relating to the Artis Ethnographic Museum are spread across several ins
 ## Primary sources
 
 Archive:
-  > NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
-> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
+  > *NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*  
 > _Archives of the Koninklijk Zoölogisch Genootschap Natura Artis Magistra at the Amsterdam City Archive. Inventory numbers 1876-1905 contain documentation on the museum's collection. Inventory numbers 1906-1919 contain documentation on the decision to transfer the Artis collection to the Colonial Museum in Amsterdam. Some documents are digitally accessible, others must be requested in order to be consulted._  
-
+> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
 Archive:
-  > NL-HaNA 2.20.69 - 7851 until 7858  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
+  > *NL-HaNA 2.20.69 - 7851 until 7858*  
 > _Relevant archival material relating to the Artis Ethnographic Museum is held in the inventory of the Royal Tropical Institute (KIT) at the National Archives in The Hague._  
-
-Archive:
-  > NL-HaNA 2.20.69 - 4395  
 > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
+Archive:
+  > *NL-HaNA 2.20.69 - 4395*  
 > _Documents relating to the transfer of the ethnographic collection of the society 'Natura Artis Magistra' in Amsterdam. Part of the archives of the Royal Tropical Institute, held at the National Archives in The Hague._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
 Document:
-  > Jaarboekje van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
-> [https://catalog.hathitrust.org/Record/00732895](https://catalog.hathitrust.org/Record/00732895)  
+  > *Jaarboekje van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*  
 > _The yearbook lists donations of objects to the Artis Ethnographic Museum along with the names of the donors._  
-
+> [https://catalog.hathitrust.org/Record/00732895](https://catalog.hathitrust.org/Record/00732895)  
 ## Secondary sources
 
 Article:
-  > Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011.  
-> [https://search.worldcat.org/title/730403132?oclcNum=730403132](https://search.worldcat.org/title/730403132?oclcNum=730403132), [WorldCat 730403132](https://search.worldcat.org/title/730403132), [ISBN 9068327526](https://isbnsearch.org/isbn/9068327526)  
+  > *Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011.*  
 > _Article by curator Daan van Dartel about the collections of the Colonial Museum in Haarlem and Ethnographic Museum Artis in a publication about the Oceania collection of the former Tropenmuseum._  
-
+> [https://search.worldcat.org/title/730403132?oclcNum=730403132](https://search.worldcat.org/title/730403132?oclcNum=730403132), [WorldCat 730403132](https://search.worldcat.org/title/730403132), [ISBN 9068327526](https://isbnsearch.org/isbn/9068327526)  
 Book:
-  > Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885.  
-> [https://search.worldcat.org/title/836812327?oclcNum=836812327](https://search.worldcat.org/title/836812327?oclcNum=836812327), [WorldCat 836812327](https://search.worldcat.org/title/836812327)  
+  > *Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885.*  
 > _Description of the 1885 collection from West Africa of the Artis Ethnographic Museum by the curator at the time, C.M. Pleyte._  
-
+> [https://search.worldcat.org/title/836812327?oclcNum=836812327](https://search.worldcat.org/title/836812327?oclcNum=836812327), [WorldCat 836812327](https://search.worldcat.org/title/836812327)  
 Book:
-  > Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888.  
-> [https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ](https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ), [WorldCat 1287660577](https://search.worldcat.org/title/1287660577)  
+  > *Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888.*  
 > _Guide to the museum's collection from 1888 by the then curator of the Artis Ethnographic Museum. Three volumes are available via Google Books: 'Insulinde I Java', 'Insulinde II Outside Occupations' and 'Australia and Oceania'. The guides give a very accurate description of how the objects were displayed in the museum._  
-
+> [https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ](https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ), [WorldCat 1287660577](https://search.worldcat.org/title/1287660577)  
 Article:
-  > Wijs, Sonja, 'Een plaats voor de mens; de etnografische musea van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, in: Heden En Verleden, VVE Jaarboek 8. 2020.  
-> [https://search.worldcat.org/title/1178618962?oclcNum=1178618962](https://search.worldcat.org/title/1178618962?oclcNum=1178618962), [WorldCat 1178618962](https://search.worldcat.org/title/1178618962)  
+  > *Wijs, Sonja, 'Een plaats voor de mens; de etnografische musea van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, in: Heden En Verleden, VVE Jaarboek 8. 2020.*  
 > _Article from 2020 by Sonja Wijs about the Artis Ethnographic Museum._  
-
+> [https://search.worldcat.org/title/1178618962?oclcNum=1178618962](https://search.worldcat.org/title/1178618962?oclcNum=1178618962), [WorldCat 1178618962](https://search.worldcat.org/title/1178618962)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-07-12_
+_last edited by Abacus as translator on 2025-04-07
+        (applies to section: Main-text; Sources)_
         

@@ -1,8 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-10-01_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
-
 
 # Wereldmuseum Berg en Dal
 
@@ -47,20 +42,22 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 ## Primary sources
 
 Archive:
-  > AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum  
-> [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
+  > *AR-P009 Archiefinventaris Congregatie van de H. Geest - 3.1 Stichting Afrika Museum*  
 > _Archive of the Stichting Afrika Museum within the archives of the Congregation of the Holy Spirit. Contains a wide range of documentation related to the Afrika Museum, from catalogues to rental agreements._  
-
+> [https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4](https://proxy.archieven.nl/1212/06C31EFBB73F49409D979D5EF05DF9D4)  
 ## Secondary sources
 
 Book:
-  > Grootaers, Jan-Lodewijk, Eisenburger, Ineke, and Damme Annemieke van. Vormen van Verwondering : De geschiedenis en de collecties van het Afrika Museum, Berg en Dal. Berg en Dal: Afrika Museum, 2002.  
-> [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131](https://isbnsearch.org/isbn/9789071611131)  
+  > *Grootaers, Jan-Lodewijk, Eisenburger, Ineke, and Damme Annemieke van. Vormen van Verwondering : De geschiedenis en de collecties van het Afrika Museum, Berg en Dal. Berg en Dal: Afrika Museum, 2002.*  
 > _This book from 2002, consisting of two volumes, describes the history of the establishment of the Afrika Museum and provides an overview of the collections held by the museum at the time._  
-
+> [WorldCat 66932031](https://search.worldcat.org/title/66932031), [ISBN 9789071611131](https://isbnsearch.org/isbn/9789071611131)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-10-01_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

@@ -4,18 +4,11 @@ title: Wereldmuseum Rotterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMRotterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMRotterdam.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-08-22_  
-_last edited by Abacus as translator on 2025-04-28
-        (applies to section: Main-text; Sources)_
 
 
 # Wereldmuseum Rotterdam
@@ -60,30 +53,30 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
 ## Primary sources
 
 Archive:
-  > NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam  
-> [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)  
+  > *NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam*  
 > _Archives of the Museum voor Land- en Volkenkunde and the Maritiem Museum Prins Hendrik in Rotterdam. This archive runs until 1960 because the organisations of the two museums continued separately from that time. Inventory numbers 282 to 302 contain documents relating to the formation of the collection._  
-
+> [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)  
 Archive:
-  > NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam  
-> [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)  
+  > *NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam*  
 > _Archives of the Museum voor Land- en Volkenkunde. This archive runs from 1961 because the organisations continued separately from that time. Inventory numbers 147 to 177 contain records relating to the formation of the collection._  
-
+> [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)  
 ## Secondary sources
 
 Book:
-  > Faber, Paul, Linden, Liane van der and Wassing, René. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.  
-> [ISBN 9789029080941](https://isbnsearch.org/isbn/9789029080941), [WorldCat 905426025](https://search.worldcat.org/title/905426025)  
+  > *Faber, Paul, Linden, Liane van der and Wassing, René. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.*  
 > _Book, and also catalogue, dedicated to the exhibition Schatten van het Museum voor Volkenkunde Rotterdam. Contains a brief history of the museum and an extensive description of collections from various continents._  
-
+> [ISBN 9789029080941](https://isbnsearch.org/isbn/9789029080941), [WorldCat 905426025](https://search.worldcat.org/title/905426025)  
 Website:
-  > History Wereldmuseum. From Yachtclub to ethnographic museum  
-> [https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum](https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum)  
+  > *History Wereldmuseum. From Yachtclub to ethnographic museum*  
 > _Website of the Wereldmuseum with a short history of the museum in Rotterdam._  
-
+> [https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum](https://rotterdam.wereldmuseum.nl/en/about-wereldmuseum-rotterdam/history-wereldmuseum)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-08-22_
+_last edited by Abacus as translator on 2025-04-28
+        (applies to section: Main-text; Sources)_
         

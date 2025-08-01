@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-06-02_  
-_last edited by Wiebe Reints as original_author on 2025-06-24_
-
 
 # International Colonial and Export Exhibition 1883
 
@@ -47,45 +43,41 @@ The various museums that subsequently received objects have archive material abo
 ## Primary sources
 
 Archive:
-  > Dutch National Archives, The Hague, Ministerie van Binnenlandse Zaken: Afdeling Kunsten en Wetenschappen, access number 2.04.13, inventory number 1617 - Stukken betreffende de verdeling van door het Rijk aangekochte en overgenomen voorwerpen op de Wereldtentoonstelling (Internationale Koloniale en Uitvoer Tentoonstelling) in Amsterdam  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.1~2.2.4.1.1.02~1617](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.1~2.2.4.1.1.02~1617)  
+  > *Dutch National Archives, The Hague, Ministerie van Binnenlandse Zaken: Afdeling Kunsten en Wetenschappen, access number 2.04.13, inventory number 1617 - Stukken betreffende de verdeling van door het Rijk aangekochte en overgenomen voorwerpen op de Wereldtentoonstelling (Internationale Koloniale en Uitvoer Tentoonstelling) in Amsterdam*  
 > _Archive at the Department of Arts and Sciences of the Ministry of the Internal Affairs. Mainly contains correspondence about the distribution of objects after the World Exhibition._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.1~2.2.4.1.1.02~1617](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.1~2.2.4.1.1.02~1617)  
 Archive:
-  > City archives, Amsterdam, access number 30576 Collectie Stadsarchief Amsterdam: tentoonstellingen, inventory number 43-70 Internationale Koloniale en Algemene Uitvoerhandel Tentoonstelling, Amsterdam, mei - oktober 1883.  
-> [https://archief.amsterdam/inventarissen/file/49d013d5-0786-db08-da7f-085c767ce025](https://archief.amsterdam/inventarissen/file/49d013d5-0786-db08-da7f-085c767ce025)  
+  > *City archives, Amsterdam, access number 30576 Collectie Stadsarchief Amsterdam: tentoonstellingen, inventory number 43-70 Internationale Koloniale en Algemene Uitvoerhandel Tentoonstelling, Amsterdam, mei - oktober 1883.*  
 > _General archive of the 1883 World Exhibition held at the Amsterdam City Archives. Includes, among other things, the regulations, opening speech and advertising material._  
-
+> [https://archief.amsterdam/inventarissen/file/49d013d5-0786-db08-da7f-085c767ce025](https://archief.amsterdam/inventarissen/file/49d013d5-0786-db08-da7f-085c767ce025)  
 ## Secondary sources
 
 Catalogue:
-  > Veth, P.J, G.A Wilken, en H.C Klinkert. Catalogus der afdeeling Nederlandsche Koloniën van de internationale koloniale en uitvoerhandel tentoonstelling (van 1 Mei tot ultimo October 1883) te Amsterdam (Leiden: E.J. Brill, 1883).  
-> [http://hdl.handle.net/1887.1/item:129051](http://hdl.handle.net/1887.1/item:129051), [WorldCat 680228146](https://search.worldcat.org/title/680228146)  
+  > *Veth, P.J, G.A Wilken, en H.C Klinkert. Catalogus der afdeeling Nederlandsche Koloniën van de internationale koloniale en uitvoerhandel tentoonstelling (van 1 Mei tot ultimo October 1883) te Amsterdam (Leiden: E.J. Brill, 1883).*  
 > _Catalogue of the Dutch colonial exhibition at the World Exhibition, compiled by P.J. Veth. The catalogue consists of three parts, each describing one of the three groups of objects: 'The territory of the colonised and ruled regions', 'The indigenous population of those regions' and Group III 'The Europeans in those regions and their relations with the native people'._  
-
+> [http://hdl.handle.net/1887.1/item:129051](http://hdl.handle.net/1887.1/item:129051), [WorldCat 680228146](https://search.worldcat.org/title/680228146)  
 Catalgoue:
-  > Serrurier, Lindor. Catalogus der ethnographische afdeeling van de Internationale Koloniale en Uitvoerhandel Tentoonstelling (van 1 Mei tot ult°. October 1883) te Amsterdam ( Leiden: E.J. Brill, 1883).  
-> [https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false](https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false), [WorldCat 1463298534](https://search.worldcat.org/title/1463298534), DOI: 10.1163/9789004589124  
+  > *Serrurier, Lindor. Catalogus der ethnographische afdeeling van de Internationale Koloniale en Uitvoerhandel Tentoonstelling (van 1 Mei tot ult°. October 1883) te Amsterdam ( Leiden: E.J. Brill, 1883).*  
 > _Catalogue of the other ethnographic collections, excluding those of the Dutch colonial pavilion, displayed at the World Exhibition. Compiled by Lindor Serrurier, then director of the Rijks Ethnographic Museum in Leiden (today's Wereldmuseum). Includes a description of the collection of Lieutenant General Pitt Rivers that was on display._  
-
+> [https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false](https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false), [WorldCat 1463298534](https://search.worldcat.org/title/1463298534), DOI: 10.1163/9789004589124  
 Book:
-  > Bonaparte, Roland. Les habitants de Suriname : notes recueillies à l’exposition coloniale d’Amsterdam en 1883 (Paris: Quantin, 1884).  
-> [http://hdl.handle.net/1887.1/item:972422](http://hdl.handle.net/1887.1/item:972422), [WorldCat 906298688](https://search.worldcat.org/title/906298688)  
+  > *Bonaparte, Roland. Les habitants de Suriname : notes recueillies à l’exposition coloniale d’Amsterdam en 1883 (Paris: Quantin, 1884).*  
 > _Book containing a collection of photographs of Surinamese people that were exhibited during the World Exhibition._  
-
+> [http://hdl.handle.net/1887.1/item:972422](http://hdl.handle.net/1887.1/item:972422), [WorldCat 906298688](https://search.worldcat.org/title/906298688)  
 Dissertatie:
-  > Bloembergen, Marieke. Colonial Spectacles : The Netherlands and the Dutch East Indies at the World Exhibitions, 1880-1931 (Singapore: Singapore University Press, 2006).  
-> [https://search.worldcat.org/title/70176990](https://search.worldcat.org/title/70176990), [ISBN 9789971693305](https://isbnsearch.org/isbn/9789971693305), [WorldCat 70176990](https://search.worldcat.org/title/70176990)  
+  > *Bloembergen, Marieke. Colonial Spectacles : The Netherlands and the Dutch East Indies at the World Exhibitions, 1880-1931 (Singapore: Singapore University Press, 2006).*  
 > _Dissertation from 2001 by Marieke Bloembergen, that was translated to English in 2006. It examines the various ways in which the former Dutch East Indies were represented at various world exhibitions. In the second chapter it provides detailed information about the 1883 World Exhibition in Amsterdam._  
-
+> [https://search.worldcat.org/title/70176990](https://search.worldcat.org/title/70176990), [ISBN 9789971693305](https://isbnsearch.org/isbn/9789971693305), [WorldCat 70176990](https://search.worldcat.org/title/70176990)  
 Article:
-  > Alberdingk Thijm, J.A., 'De waereldtentoonstelling van 1883.' De Gids 47, no. 3 (1883): 292–310.  
-> [https://www.dbnl.org/tekst/_gid001188301_01/_gid001188301_01_0084.php](https://www.dbnl.org/tekst/_gid001188301_01/_gid001188301_01_0084.php)  
+  > *Alberdingk Thijm, J.A., 'De waereldtentoonstelling van 1883.' De Gids 47, no. 3 (1883): 292–310.*  
 > _Article by J.A. Alberdink Thijm in the magazine De Gids from 1883 about that year's Universal Exhibition in Amsterdam (in Dutch)._  
-
+> [https://www.dbnl.org/tekst/_gid001188301_01/_gid001188301_01_0084.php](https://www.dbnl.org/tekst/_gid001188301_01/_gid001188301_01_0084.php)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-06-02_
+_last edited by Wiebe Reints as original_author on 2025-06-24_
         

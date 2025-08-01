@@ -4,18 +4,11 @@ title: Scientific research in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Science.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Science.docx){: .btn .btn-blue }
-
-_This is a level 2 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-21_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
 
 
 # Scientific research in colonised territories
@@ -65,23 +58,24 @@ Be aware that scientists may have been active at several institutions and so it 
 ## Secondary sources
 
 Book:
-  > Kuitenbrouwer, M., and Harry A. Poeze. Dutch Scholarship in the Age of Empire and beyond: KITLV : The Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Verhandelingen van Het Koninklijk Instituut Voor Taal-, Land- En Volkenkunde. Leiden: Brill, 2013.  
-> [https://pure.knaw.nl/ws/portalfiles/portal/1414020/Poeze_Dutch_Scholarship.pdf](https://pure.knaw.nl/ws/portalfiles/portal/1414020/Poeze_Dutch_Scholarship.pdf), [ISBN 9789004257870](https://isbnsearch.org/isbn/9789004257870), [WorldCat 858749398](https://search.worldcat.org/title/858749398)  
+  > *Kuitenbrouwer, M., and Harry A. Poeze. Dutch Scholarship in the Age of Empire and beyond: KITLV : The Royal Netherlands Institute of Southeast Asian and Caribbean Studies, 1851-2011. Verhandelingen van Het Koninklijk Instituut Voor Taal-, Land- En Volkenkunde. Leiden: Brill, 2013.*  
 > _Historiography of the KITLV that covers 150 years of KITLV history but is at the same time a history of scientific practice in the (former) Dutch colonies. This English version is not a one-on-one translation of the 2001 Dutch original Tussen oriëntalisme en wetenschap._  
-
+> [https://pure.knaw.nl/ws/portalfiles/portal/1414020/Poeze_Dutch_Scholarship.pdf](https://pure.knaw.nl/ws/portalfiles/portal/1414020/Poeze_Dutch_Scholarship.pdf), [ISBN 9789004257870](https://isbnsearch.org/isbn/9789004257870), [WorldCat 858749398](https://search.worldcat.org/title/858749398)  
 Book:
-  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.  
-> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
+  > *Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.*  
 > _Book (in Dutch) from 1995 describing the history of the former Nationaal Natuurhistorisch Museum from 1820 to 1958. Contains structured information about the building of the museum collection and the curators of the time._  
-
+> [WorldCat 69079231](https://search.worldcat.org/title/69079231), [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714)  
 Article:
-  > Weber, Andreas. ‘Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century’. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72–95.  
-> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
+  > *Weber, Andreas. ‘Collecting Colonial Nature: European Naturalists and the Netherlands Indies in the Early Nineteenth Century’. BMGN - Low Countries Historical Review 134, no. 3 (26 September 2019): 72–95.*  
 > _Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)._  
-
+> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by wiebe reints as original_author on 2024-08-21_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Main-text; Sources)_
         

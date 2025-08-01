@@ -4,18 +4,11 @@ title: Sources
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Sources.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Sources.docx){: .btn .btn-blue }
-
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by abacus as translator on 2025-03-12
-        (applies to section: Maint-text)_
 
 
 # Sources
@@ -113,4 +106,8 @@ Some collectors and organisations were active in several European countries, whi
  - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
 
 
+
+_first edited by wiebe reints as original_author on 2024-05-01_
+_last edited by abacus as translator on 2025-03-12
+        (applies to section: Maint-text)_
         

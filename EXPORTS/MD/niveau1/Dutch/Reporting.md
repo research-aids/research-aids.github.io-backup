@@ -1,7 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by wiebe reints as original_author on 2024-05-01_
-
 
 # Verslagleggen
 
@@ -57,4 +53,6 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
  - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2024-05-01_
         

@@ -1,7 +1,3 @@
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-26_  
-_last edited by Wiebe Reints as original_author on 2024-03-26_
-
 
 # Leger- en marinepersoneel in gekoloniseerde gebieden
 
@@ -50,45 +46,40 @@ De personeelsdossiers van de soldaten die in 1945-1949 naar Indonesië zijn uitg
 ## Primary sources
 
 Almanak:
-  > Regeeringsalmanak voor Nederlandsch-Indië  
-> [https://www.delpher.nl/](https://www.delpher.nl/)  
+  > *Regeeringsalmanak voor Nederlandsch-Indië*  
 > _Edities van 1865 tot en met 1942 beschikbaar via Delpher en edities van 1865 tot en met 1912 beschikbaar via de digitale collecties van de Staatsbibliothek zu Berlin. Via Delpher zijn de edities vindbaar door binnen de tijdschriftensectie te selecteren op de titel 'regeringsalmanak Nederlandsch-Indië. Bij de Staatsbibliothek zu Berlin zijn de edities vindbaar door te zoeken op 'PPN718684745'._  
-
+> [https://www.delpher.nl/](https://www.delpher.nl/)  
 Beeldcollectie:
-  > Nederlands Instituut voor Militaire Historie  
-> [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)  
+  > *Nederlands Instituut voor Militaire Historie*  
 > _De Beeldbank van het Nederlands Instituut voor Militaire Historie bevat historisch beeldmateriaal._  
-
+> [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)  
 Museum:
-  > Museum Bronbeek  
-> [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)  
+  > *Museum Bronbeek*  
 > _Museum Bronbeek is een kenniscentrum van het koloniaal-militair verleden van Nederland. De nadruk ligt op Nederlands-Indië, maar er is ook materiaal uit andere koloniën aanwezig. U kunt contact opnemen met de medewerkers om informatie te vragen over een bepaalde militair of gebeurtenis._  
-
+> [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)  
 Webportal:
-  > Nederlands Militair Erfgoed  
-> [https://nlme.nl/](https://nlme.nl/)  
+  > *Nederlands Militair Erfgoed*  
 > _Nederlands Militair Erfgoed is een portal met militaire bronnen uit verschillende collecties in Nederland, waaronder beeldmateriaal, tijdschriften en boeken. Voor herkomstonderzoek zijn met name de officiersboekjes en de historische tijdschriften van belang._  
-
+> [https://nlme.nl/](https://nlme.nl/)  
 ## Secondary sources
 
 Artikel:
-  > Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.  
-> [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
+  > *Witkam, Jan Just. ‘Teuku Panglima Polem’s Purse’. Journal of Islamic Manuscripts 10, nr. 1 (15 april 2019): 84-104.*  
 > _Artikel over Teuku Panglima Polem, een Atjehse leider tijdens de koloniale oorlog die Nederland voerde in Atjeh._  
-
+> [https://doi.org/10.1163/1878464X-01001006](https://doi.org/10.1163/1878464X-01001006)  
 Boek:
-  > Keurs, Pieter ter, red. Colonial collections revisited. Mededelingen van het Rijksmuseum voor Volkenkunde, Leiden, no. 36. Leiden: CNWS Publications, 2007.  
-> [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634), [ISBN 9789057891526](https://isbnsearch.org/isbn/9789057891526), [WorldCat 907175634](https://search.worldcat.org/title/907175634)  
+  > *Keurs, Pieter ter, red. Colonial collections revisited. Mededelingen van het Rijksmuseum voor Volkenkunde, Leiden, no. 36. Leiden: CNWS Publications, 2007.*  
 > _Boek naar aanleiding van een conferentie in de Nieuwe Kerk, Amsterdam, in 2006. Het boek focust op het verzamelen van objecten in voormalig Nederlands-Indië, met daarbij ook aandacht voor militairen._  
-
+> [https://search.worldcat.org/title/907175634](https://search.worldcat.org/title/907175634), [ISBN 9789057891526](https://isbnsearch.org/isbn/9789057891526), [WorldCat 907175634](https://search.worldcat.org/title/907175634)  
 Zoekhulp:
-  > Militairen en Marinepersoneel  
-> [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel)  
+  > *Militairen en Marinepersoneel*  
 > _Zoekhulp van het Nationaal Archief over Nederlandse militairen en marinepersoneel. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: 'zie verder' met het betreffende paginanummer._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-26_
         

@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-05-13_  
-_last edited by Wiebe Reints as original_author on 2025-05-13_
-
 
 # Museon-Omniversum
 
@@ -35,40 +31,36 @@ The Museon archive is managed by the [The Hague Municipal Archives](https://hdl.
 ## Primary sources
 
 Website:
-  > Website Museon-Omniversum  
-> [https://www.museon-omniversum.nl/](https://www.museon-omniversum.nl/)  
+  > *Website Museon-Omniversum*  
 > _The museum website. Here you find a short history of the organisation, annual reports and the collection policy._  
-
+> [https://www.museon-omniversum.nl/](https://www.museon-omniversum.nl/)  
 Archive:
-  > 0538-01 Museum voor het Onderwijs (Museon)  
-> [https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729](https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729)  
+  > *0538-01 Museum voor het Onderwijs (Museon)*  
 > _The Museon archive. divided into the period when it was an independent museum and the period after the Municipality of The Hague took over the museum. The accesses '2.3' and '4.2.5.4' concern the inventories regarding the establishment of the museum's collection._  
-
+> [https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729](https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729)  
 ## Secondary sources
 
 Catalogue:
-  > Catalogus der verzamelingen van het Museum ten bate van het Onderwijs, 1914 (Vereeniging “Museum ten bate van het onderwijs”: 1914).  
-> [https://hdl.handle.net/11245/3.32171](https://hdl.handle.net/11245/3.32171)  
+  > *Catalogus der verzamelingen van het Museum ten bate van het Onderwijs, 1914 (Vereeniging “Museum ten bate van het onderwijs”: 1914).*  
 > _Catalogue of the Museum ten bate van het Onderwijs from 1914. It has been written by the then director of the museum, Herman van Cappelle._  
-
+> [https://hdl.handle.net/11245/3.32171](https://hdl.handle.net/11245/3.32171)  
 Book:
-  > Cappelle, Herman van. Het Museum Ten Bate van Het Onderwijs Te ’S-Gravenhage En Zijne Toekomst (Vereeniging “Museum ten bate van het onderwijs”: 1913).  
-> [https://search.worldcat.org/title/64272291](https://search.worldcat.org/title/64272291), [WorldCat 64272291](https://search.worldcat.org/title/64272291)  
+  > *Cappelle, Herman van. Het Museum Ten Bate van Het Onderwijs Te ’S-Gravenhage En Zijne Toekomst (Vereeniging “Museum ten bate van het onderwijs”: 1913).*  
 > _Booklet written by the then director Herman van Cappelle. It conveys his vision on the future of the Museum ten bate van het Onderwijs._  
-
+> [https://search.worldcat.org/title/64272291](https://search.worldcat.org/title/64272291), [WorldCat 64272291](https://search.worldcat.org/title/64272291)  
 Book:
-  > Cappelle, Herman van. Verslag van een studiereis naar Parijs, Bazel, Zürich en Luzern ten behoeve van het Museum ten bate van het Onderwijs verricht in Sept. 1913 (Vereeniging “Museum ten bate van het onderwijs”: 1914).  
-> [https://hdl.handle.net/11245/3.32971](https://hdl.handle.net/11245/3.32971)  
+  > *Cappelle, Herman van. Verslag van een studiereis naar Parijs, Bazel, Zürich en Luzern ten behoeve van het Museum ten bate van het Onderwijs verricht in Sept. 1913 (Vereeniging “Museum ten bate van het onderwijs”: 1914).*  
 > _Report of a trip made by Herman van Cappelle to France and Switzerland where he visited several educational museums to provide inspiration for his museum in The Hague._  
-
+> [https://hdl.handle.net/11245/3.32971](https://hdl.handle.net/11245/3.32971)  
 Collection plan:
-  > Museon-Omniversum. Collectie in een museum over actuele thema’s: Collectieplan Museon-Omniversum 2024-2028 (Den Haag: 2024).  
-> [https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf](https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf)  
+  > *Museon-Omniversum. Collectie in een museum over actuele thema’s: Collectieplan Museon-Omniversum 2024-2028 (Den Haag: 2024).*  
 > _Collection plan of the Museon (in Dutch). It provides an overview of the collection and goes into the museum's policy regarding objects from a colonial context._  
-
+> [https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf](https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2025-05-13_
         

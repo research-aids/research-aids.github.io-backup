@@ -1,7 +1,3 @@
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-26_  
-_last edited by Wiebe Reints as original_author on 2024-03-26_
-
 
 # Zendelingen en missionarissen in gekoloniseerde gebieden
 
@@ -42,50 +38,44 @@ Archieven van zending- en missieorganisaties zijn verspreid. Omvangrijke archief
 ## Primary sources
 
 Kaart:
-  > Zendingstereinen Indonesië  
-> [https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)  
+  > *Zendingstereinen Indonesië*  
 > _De zendingskaart in het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 geeft een overzicht van welke protestantse organisaties actief waren in voormalig Nederlands-Indië._  
-
+> [https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)  
 Webportal:
-  > Repertorium van Nederlandse zending- en missiearchieven 1800-1960  
-> [https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)  
+  > *Repertorium van Nederlandse zending- en missiearchieven 1800-1960*  
 > _Het Repertorium van Nederlandse zending- en missiearchieven 1800-1960 is een portal met beschrijvingen van zending- en missieorganisaties, literatuurverwijzingen en informatie over archiefbronnen._  
-
+> [https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)  
 ## Secondary sources
 
 Artikel:
-  > Corbey, Raymond, en Karel Weener. ‘Collecting while converting: Missionaries and ethnographics’. Journal of Art Historiography 12, no. June (2015).  
-> [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
+  > *Corbey, Raymond, en Karel Weener. ‘Collecting while converting: Missionaries and ethnographics’. Journal of Art Historiography 12, no. June (2015).*  
 > _Overzichtsartikel uit 2015 over het verzamelen van etnografische voorwerpen door missionarissen._  
-
+> [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)  
 Artikel:
-  > Hård, Mikael, en Mai Lin Tjoa-Bonatz. ‘Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 – 1940’. Social Studies of Science 50, nr. 6 (december 2020): 932-55.  
-> [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
+  > *Hård, Mikael, en Mai Lin Tjoa-Bonatz. ‘Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 – 1940’. Social Studies of Science 50, nr. 6 (december 2020): 932-55.*  
 > _Artikel uit 2020 dat kijkt naar Duitse missionarissen in Nederlands-Indië en hoe hun verblijfplaatsen functioneerden als 'trading zones', waar culturele uitwisseling plaatsvond._  
-
+> [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)  
 Boek:
-  > Leyten, H. M. From Idol to Art: African 'objects-with-Power' : A Challenge for Missionaries, Anthropologists and Museum Curators. African Studies Collection 59. Leiden: African Studies Centre, 2015.  
-> [https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)  
+  > *Leyten, H. M. From Idol to Art: African 'objects-with-Power' : A Challenge for Missionaries, Anthropologists and Museum Curators. African Studies Collection 59. Leiden: African Studies Centre, 2015.*  
 > _Dissertatie uit 2015 van Harrie Leyten, die tussen 1961 en 1971 zelf missionaris was in Ghana en later conservator van de Afrikaanse collectie bij het Tropenmuseum in Amsterdam. De dissertatie is een reflectie op de lange carrière van Leyten._  
-
+> [https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)  
 Artikel:
-  > Leyten, Harrie. ‘Shared Cultural Heritage Missionary Collections in the Netherlands’. Material Religion 8, nr. 1 (maart 2012): 103-4.  
-> [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
+  > *Leyten, Harrie. ‘Shared Cultural Heritage Missionary Collections in the Netherlands’. Material Religion 8, nr. 1 (maart 2012): 103-4.*  
 > _Artikel van Harrie Leyten over de collecties in Nederland die verzameld zijn door missionarissen._  
-
+> [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)  
 Boekhoofdstuk:
-  > Tjoa-Bonatz, Mai Lin. ‘Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904–1920’. In Casting Faiths, 105-28. London: Palgrave Macmillan UK, 2009.  
-> [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
+  > *Tjoa-Bonatz, Mai Lin. ‘Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904–1920’. In Casting Faiths, 105-28. London: Palgrave Macmillan UK, 2009.*  
 > _Hoofdstuk in het boek In Casting Faiths van Mai Lin Tjoa-Bonatz over de invloed van missionarissen op de kerstening van het volk van Nias._  
-
+> [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)  
 Boekhoofdstuk:
-  > Wingfield, Chris. ‘Missionary Museums’. In Religion in Museums, 231-38. Bloomsbury Publishing Plc, 2017.  
-> [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
+  > *Wingfield, Chris. ‘Missionary Museums’. In Religion in Museums, 231-38. Bloomsbury Publishing Plc, 2017.*  
 > _Hoofdstuk in het boek Religion in Museums van Chris Wingfield over missie musea._  
-
+> [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-26_
         

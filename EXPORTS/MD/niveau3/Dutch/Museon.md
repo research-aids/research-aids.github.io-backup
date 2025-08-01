@@ -1,8 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-04-29_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-        (applies to section: Beschrijving)_
-
 
 # Museon-Omniversum
 
@@ -36,40 +31,38 @@ Het archief van het Museon wordt beheerd door het [Haags Gemeentearchief](https:
 ## Primary sources
 
 Website:
-  > Website Museon-Omniversum  
-> [https://www.museon-omniversum.nl/](https://www.museon-omniversum.nl/)  
+  > *Website Museon-Omniversum*  
 > _Website van het museum. Hier vind je een korte geschiedenis van de instelling, maar ook het jaarverslag en het collectiebeleid._  
-
+> [https://www.museon-omniversum.nl/](https://www.museon-omniversum.nl/)  
 Archief:
-  > 0538-01 Museum voor het Onderwijs (Museon)  
-> [https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729](https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729)  
+  > *0538-01 Museum voor het Onderwijs (Museon)*  
 > _Archief van het Museon. Opgedeeld in de periode dat het nog het Museum ten bate van het Onderwijs heette en de tijd dat het een gemeentelijk museum werd. Onder de toegangen '2.3' en '4.2.5.4' zijn de inventarissen met betrekking tot de collectievorming terug te vinden._  
-
+> [https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729](https://hdl.handle.net/21.12124/013EA8543F1B42ADAD433E999DCA0729)  
 ## Secondary sources
 
 Catalogus:
-  > Catalogus der verzamelingen van het Museum ten bate van het Onderwijs, 1914 (Vereeniging “Museum ten bate van het onderwijs”: 1914).  
-> [https://hdl.handle.net/11245/3.32171](https://hdl.handle.net/11245/3.32171)  
+  > *Catalogus der verzamelingen van het Museum ten bate van het Onderwijs, 1914 (Vereeniging “Museum ten bate van het onderwijs”: 1914).*  
 > _Catalogus van de collectie van het Museum ten bate van het Onderwijs uit 1914. Opgesteld door de toenmalige directeur Herman van Cappelle._  
-
+> [https://hdl.handle.net/11245/3.32171](https://hdl.handle.net/11245/3.32171)  
 Boek:
-  > Cappelle, H. van. Het museum ten bate van het onderwijs te ’s-Gravenhage en zijne toekomst, 1913.  
-> [https://search.worldcat.org/title/64272291](https://search.worldcat.org/title/64272291), [WorldCat 64272291](https://search.worldcat.org/title/64272291)  
+  > *Cappelle, H. van. Het museum ten bate van het onderwijs te ’s-Gravenhage en zijne toekomst, 1913.*  
 > _Boekje van toenmalig directeur Herman van Cappelle over zijn visie op de toekomst van het Museum ten bate van het Onderwijs._  
-
+> [https://search.worldcat.org/title/64272291](https://search.worldcat.org/title/64272291), [WorldCat 64272291](https://search.worldcat.org/title/64272291)  
 Boek:
-  > Cappelle, Herman van. Verslag van een studiereis naar Parijs, Bazel, Zürich en Luzern ten behoeve van het Museum ten bate van het onderwijs verricht in sept. 1913, 1914.  
-> [https://hdl.handle.net/11245/3.32971](https://hdl.handle.net/11245/3.32971)  
+  > *Cappelle, Herman van. Verslag van een studiereis naar Parijs, Bazel, Zürich en Luzern ten behoeve van het Museum ten bate van het onderwijs verricht in sept. 1913, 1914.*  
 > _Verslag van een reis van Herman van Cappelle naar Frankrijk en Zwitserland waar hij inspiratie op wilde doen bij buitenlandse onderwijsmusea._  
-
+> [https://hdl.handle.net/11245/3.32971](https://hdl.handle.net/11245/3.32971)  
 Collectieplan:
-  > Museon-Omniversum. Collectie in een museum over actuele thema’s: Collectieplan Museon-Omniversum 2024-2028 (Den Haag: 2024).  
-> [https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf](https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf)  
+  > *Museon-Omniversum. Collectie in een museum over actuele thema’s: Collectieplan Museon-Omniversum 2024-2028 (Den Haag: 2024).*  
 > _Collectieplan van het Museon. Geeft een goed overzicht van de aanwezige collecties en gaat ook in op het beleid van het museum met collecties die afkomstig zijn uit een koloniale context._  
-
+> [https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf](https://www.museon-omniversum.nl/media/x4ljsuzz/collectieplan_2024-2028-def.pdf)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-04-29_
+_last edited by Wiebe Reints as original_author on 2025-06-16
+        (applies to section: Beschrijving)_
         

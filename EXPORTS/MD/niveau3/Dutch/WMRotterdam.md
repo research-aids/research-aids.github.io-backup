@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-08-22_  
-_last edited by Wiebe Reints as original_author on 2024-08-22_
-
 
 # Wereldmuseum Rotterdam
 
@@ -45,30 +41,28 @@ De fotocollectie van het Wereldmuseum Rotterdam is in 2008 overgedragen aan het 
 ## Primary sources
 
 Archief:
-  > NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam  
-> [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)  
+  > *NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam*  
 > _Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt tot 1960 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 282 tot en met 302 zijn archiefstukken te vinden met betrekking tot de collectievorming._  
-
+> [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)  
 Archief:
-  > NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam  
-> [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)  
+  > *NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam*  
 > _Archief van het Museum voor Land- en Volkenkunde. Dit archief loopt vanaf 1961 omdat vanaf dat moment de organisaties van het Museum voor Land- en Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder gingen. Onder de inventarisnummers 147 tot en met 177 zijn archiefstukken te vinden met betrekking tot de collectievorming._  
-
+> [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)  
 ## Secondary sources
 
 Boek:
-  > Faber, Paul, Liane van der Linden en René Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.  
-> [https://search.worldcat.org/title/905426025](https://search.worldcat.org/title/905426025), [ISBN 9789029080941](https://isbnsearch.org/isbn/9789029080941), [WorldCat 905426025](https://search.worldcat.org/title/905426025)  
+  > *Faber, Paul, Liane van der Linden en René Wassing. Schatten van het Museum voor Volkenkunde Rotterdam. Meulenhoff/Landshoff: Amsterdam, 1987.*  
 > _Boek, en tevens catalogus, ter ere van de tentoonstelling Schatten van het Museum voor Volkenkunde Rotterdam. Bevat een korte geschiedenis van het museum en een uitgebreide beschrijving van collecties uit verschillende werelddelen._  
-
+> [https://search.worldcat.org/title/905426025](https://search.worldcat.org/title/905426025), [ISBN 9789029080941](https://isbnsearch.org/isbn/9789029080941), [WorldCat 905426025](https://search.worldcat.org/title/905426025)  
 Website:
-  > Geschiedenis Wereldmuseum. Van Yachtclub naar volkenkundig museum  
-> [https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum](https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum)  
+  > *Geschiedenis Wereldmuseum. Van Yachtclub naar volkenkundig museum*  
 > _Website van het Wereldmuseum met een korte geschiedenis van het museum in Rotterdam._  
-
+> [https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum](https://rotterdam.wereldmuseum.nl/nl/over-wereldmuseum-rotterdam/geschiedenis-wereldmuseum)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-08-22_
         

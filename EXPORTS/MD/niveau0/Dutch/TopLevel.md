@@ -1,7 +1,3 @@
-_This is a level 0 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-06-06_  
-_last edited by wiebe reints as original_author on 2024-06-06_
-
 
 # Zoekhulpen Koloniale Collecties
 
@@ -38,4 +34,6 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
  - _see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
 
         
+
+_last edited by wiebe reints as original_author on 2024-06-06_
         

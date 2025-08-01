@@ -4,18 +4,11 @@ title: Wereldmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/WMAmsterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/WMAmsterdam.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-08-09_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
 
 
 # Wereldmuseum Amsterdam
@@ -63,40 +56,38 @@ The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseu
 ## Primary sources
 
 Archive:
-  > NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
+  > *NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69*  
 > _Archive of the Royal Tropical Institute up to and including 1995 deposited at the Dutch National Archives in The Hague. Archives after 1995 are still physically held at the KIT. The archive description contains detailed information on the history of the Wereldmuseum Amsterdam and the structure of the archive._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
 Archive:
-  > 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
-> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
+  > *395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*  
 > _Archive of the royal zoological society Koninklijk Zoölogisch Genootschap Natura Artis Magistra, now Artis Zoo. The archives under inventory numbers 1876 to 1919 are of particular interest in terms of the establishment of the current Wereldmuseum Amsterdam._  
-
+> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
 ## Secondary sources
 
 Book:
-  > Duuren, David van. 125 Jaar Verzamelen : Tropenmuseum, Amsterdam. Amsterdam: Koninklijk Museum voor de Tropen, 1990.  
-> [WorldCat 902015409](https://search.worldcat.org/title/902015409), [ISBN 9068322311](https://isbnsearch.org/isbn/9068322311)  
+  > *Duuren, David van. 125 Jaar Verzamelen : Tropenmuseum, Amsterdam. Amsterdam: Koninklijk Museum voor de Tropen, 1990.*  
 > _Book from 1990 to mark the eightieth anniversary of the Royal Tropical Institute Association. Describes the then 125-year history of the collection of the Wereldmuseum Amsterdam from the perspective of that time. The book gives a general overview of the history of the establishment of the Wereldmuseum Amsterdam and takes a closer look at various individual objects._  
-
+> [WorldCat 902015409](https://search.worldcat.org/title/902015409), [ISBN 9068322311](https://isbnsearch.org/isbn/9068322311)  
 Book:
-  > Jans, Huub. Honderdzestig Meter Mauritskade : Vier Eeuwen Tropenervaring Allegorisch Weerspiegeld in de Huisvesting van Een Wetenschappelijk Instituut. Amsterdam: Koninklijk Instituut voor de Tropen, 1976.  
-> [WorldCat 63449631](https://search.worldcat.org/title/63449631)  
+  > *Jans, Huub. Honderdzestig Meter Mauritskade : Vier Eeuwen Tropenervaring Allegorisch Weerspiegeld in de Huisvesting van Een Wetenschappelijk Instituut. Amsterdam: Koninklijk Instituut voor de Tropen, 1976.*  
 > _Booklet from 1976 that mainly focuses on the building housing today's Wereldmuseum Amsterdam and the KIT. Attention is given to the development of the building, but the booklet also contains descriptions of various facade stones that are characteristic of European views on the colonial project in the 20th century._  
-
+> [WorldCat 63449631](https://search.worldcat.org/title/63449631)  
 Boek:
-  > Jans, Huub, van den Brink, Hans and Koninklijk Instituut voor de Tropen. Tropen in Amsterdam : 70 Jaar Koninklijk Instituut Voor de Tropen. Amsterdam: Terra, 1981.  
-> [WorldCat 899009074](https://search.worldcat.org/title/899009074), [ISBN 9062550770](https://isbnsearch.org/isbn/9062550770)  
+  > *Jans, Huub, van den Brink, Hans and Koninklijk Instituut voor de Tropen. Tropen in Amsterdam : 70 Jaar Koninklijk Instituut Voor de Tropen. Amsterdam: Terra, 1981.*  
 > _Book from 1981 describing the history of the Royal Tropical Institute up to 1950. The book contains many photos and also provides detailed descriptions of external and internal characteristics of the current Wereldmuseum Amsterdam. It also looks at the structure of the KIT organisation during the first decades of its existence._  
-
+> [WorldCat 899009074](https://search.worldcat.org/title/899009074), [ISBN 9062550770](https://isbnsearch.org/isbn/9062550770)  
 Boek:
-  > Woudsma, J. (Jacobus) and Galesloot, Hansje. Een markant gebouw in Amsterdam-Oost: het Koninklijk Instituut voor de Tropen. Amsterdam: Koninklijk Instituut voor de Tropen, 1990.  
-> [WorldCat 905775747](https://search.worldcat.org/title/905775747), [ISBN 906832229X](https://isbnsearch.org/isbn/906832229X)  
+  > *Woudsma, J. (Jacobus) and Galesloot, Hansje. Een markant gebouw in Amsterdam-Oost: het Koninklijk Instituut voor de Tropen. Amsterdam: Koninklijk Instituut voor de Tropen, 1990.*  
 > _Like Jans' book, this 1990 book focuses mainly on the external characteristics of the current Wereldmuseum Amsterdam. The book contains detailed information on the facades, galleries, materials used and the colonial symbolism of the decorations around the building._  
-
+> [WorldCat 905775747](https://search.worldcat.org/title/905775747), [ISBN 906832229X](https://isbnsearch.org/isbn/906832229X)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-08-09_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

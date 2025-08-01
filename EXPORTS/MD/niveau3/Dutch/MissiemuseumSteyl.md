@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-10-21_  
-_last edited by Wiebe Reints as original_author on 2024-10-21_
-
 
 # Missiemuseum Steyl
 
@@ -38,25 +34,24 @@ De collectie van het Missiemuseum is tot op heden niet volledig geregistreerd, d
 ## Primary sources
 
 Website:
-  > Website Missiemuseum Steyl  
-> [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
+  > *Website Missiemuseum Steyl*  
 > _De website van het Missiemuseum Steyl bevat relevante (contact)informatie._  
-
+> [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
 ## Secondary sources
 
 Rapport:
-  > Collectieplan Missiemuseum Steyl 2023-2028  
-> [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
+  > *Collectieplan Missiemuseum Steyl 2023-2028*  
 > _Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie._  
-
+> [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
 Collectiedatabase:
-  > Limburgs Efgoednet  
-> [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
+  > *Limburgs Efgoednet*  
 > _Wanneer de volledige museumcollectie van het Missiemuseum Steyl geregistreerd en gedigitaliseerd is, wordt deze toegankelijk via de website van het Limburgs Erfgoednet._  
-
+> [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-10-21_
         

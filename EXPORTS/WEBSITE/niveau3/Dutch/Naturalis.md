@@ -4,17 +4,11 @@ title: Naturalis Biodiversity Center
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/Naturalis.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/Naturalis.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-07-10_  
-_last edited by Wiebe Reints as original_author on 2024-07-10_
 
 
 # Naturalis Biodiversity Center
@@ -83,50 +77,44 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
 ## Primary sources
 
 Boek:
-  > Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
-> [https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361](https://search.worldcat.org/title/12686361)  
+  > *Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck. Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.*  
 > _Alle verhandelingen van de Natuurkundige Commissie in Oost-Indië in een gebonden boek, verdeeld in drie volumes: Land-en Volkenkunde, Zoölogie en Botanie. Beschikbaar via de website van Biodiversity Heritage Library._  
-
+> [https://doi.org/10.5962/bhl.title.114730](https://doi.org/10.5962/bhl.title.114730), [WorldCat 12686361](https://search.worldcat.org/title/12686361)  
 Tijdschrift:
-  > Koninklijke Natuurkundige Vereeniging in Nederlandsch Indië. Natuurkundig tijdschrift voor Nederlandsch Indië. Jakarta (Batavia): Lange, 1851-1940  
-> [https://www.biodiversitylibrary.org/bibliography/13350](https://www.biodiversitylibrary.org/bibliography/13350), [WorldCat 927107619](https://search.worldcat.org/title/927107619)  
+  > *Koninklijke Natuurkundige Vereeniging in Nederlandsch Indië. Natuurkundig tijdschrift voor Nederlandsch Indië. Jakarta (Batavia): Lange, 1851-1940*  
 > _Tijdschrift van de Natuurkundige Vereniging uit voormalig Nederlands-Indië. De edities van 1851 tot en met 1922 zijn beschikbaar via de Biodiversity Heritage Library._  
-
+> [https://www.biodiversitylibrary.org/bibliography/13350](https://www.biodiversitylibrary.org/bibliography/13350), [WorldCat 927107619](https://search.worldcat.org/title/927107619)  
 Tijdschrift:
-  > Rijks Geologisch-Mineralogisch Museum. Sammlungen des Geologischen Reichs-Museums in Leiden. Leiden: Brill, 1891-1922.  
-> [https://repository.naturalis.nl/org/5](https://repository.naturalis.nl/org/5), [WorldCat 72793114](https://search.worldcat.org/title/72793114), [ISBN 1879-7814](https://portal.issn.org/resource/ISSN/1879-7814)  
+  > *Rijks Geologisch-Mineralogisch Museum. Sammlungen des Geologischen Reichs-Museums in Leiden. Leiden: Brill, 1891-1922.*  
 > _Tijdschrift van het Rijksmuseum voor Geologie en Mineralogie dat verscheen tussen 1891 en 1922 onder redactie van K. Martin. Alle edities zijn beschikbaar via de repository van Naturalis._  
-
+> [https://repository.naturalis.nl/org/5](https://repository.naturalis.nl/org/5), [WorldCat 72793114](https://search.worldcat.org/title/72793114), [ISBN 1879-7814](https://portal.issn.org/resource/ISSN/1879-7814)  
 ## Secondary sources
 
 Boek:
-  > Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.  
-> [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714), [WorldCat 69079231](https://search.worldcat.org/title/69079231)  
+  > *Holthuis, Lipke. 1820 - 1958 : Rijksmuseum van Natuurlijke Historie, 1995.*  
 > _Boek uit 1995 dat de geschiedenis van het toenmalig Nationaal Natuurhistorisch Museum van 1820 tot en met 1958 beschrijft. Bevat gestructureerde informatie over de opbouw van de museumcollectie en de toenmalige conservatoren._  
-
+> [https://repository.naturalis.nl/pub/268714](https://repository.naturalis.nl/pub/268714), [WorldCat 69079231](https://search.worldcat.org/title/69079231)  
 Boek:
-  > Gijzen, Agatha. ‘’s Rijks Museum van Natuurlijke Historie, 1820-1915’, 1938.  
-> [https://repository.naturalis.nl/pub/631350](https://repository.naturalis.nl/pub/631350), [WorldCat 896666422](https://search.worldcat.org/title/896666422)  
+  > *Gijzen, Agatha. ‘’s Rijks Museum van Natuurlijke Historie, 1820-1915’, 1938.*  
 > _Dissertatie uit 1938 die de geschiedenis van het 's Rijks Museum van Natuurlijke historie van 1820 tot en met 1915 beschrijft._  
-
+> [https://repository.naturalis.nl/pub/631350](https://repository.naturalis.nl/pub/631350), [WorldCat 896666422](https://search.worldcat.org/title/896666422)  
 Artikel:
-  > Groot, G. E. de. ‘Rijksmuseum van Geologie En Mineralogie 1878-1978 : A Retrospect’. Scripta Geologica 48 (1 januari 1978): 3-25.  
-> [WorldCat 899054688](https://search.worldcat.org/title/899054688), [https://repository.naturalis.nl/pub/317444](https://repository.naturalis.nl/pub/317444)  
+  > *Groot, G. E. de. ‘Rijksmuseum van Geologie En Mineralogie 1878-1978 : A Retrospect’. Scripta Geologica 48 (1 januari 1978): 3-25.*  
 > _Artikel uit 1978 dat de geschiedenis van het Rijksmuseum van Geolgie en Mineralogie van 1878 tot en met 1978 beschrijft._  
-
+> [WorldCat 899054688](https://search.worldcat.org/title/899054688), [https://repository.naturalis.nl/pub/317444](https://repository.naturalis.nl/pub/317444)  
 Artikel:
-  > Husson, A. M., en Lipke Holthuis. ‘The Dates of Publication of “Verhandelingen over de Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen” Edited by C. J. Temminck’. Zoologische Mededelingen 34, nr. 2 (1 januari 1955): 17-24.  
-> [WorldCat 67808542](https://search.worldcat.org/title/67808542), [https://repository.naturalis.nl/pub/318953](https://repository.naturalis.nl/pub/318953)  
+  > *Husson, A. M., en Lipke Holthuis. ‘The Dates of Publication of “Verhandelingen over de Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen” Edited by C. J. Temminck’. Zoologische Mededelingen 34, nr. 2 (1 januari 1955): 17-24.*  
 > _Artikel uit 1955 waarin alle publicaties van het tijdschrift Verhandelingen over De Natuurlijke Geschiedenis Der Nederlandsche Overzeesche Bezittingen uiteen worden gezet en beschreven._  
-
+> [WorldCat 67808542](https://search.worldcat.org/title/67808542), [https://repository.naturalis.nl/pub/318953](https://repository.naturalis.nl/pub/318953)  
 Artikel:
-  > Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck, en Natuurkundige Commissie in Oost-Indië (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.  
-> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
+  > *Haan, W. De, P. W. Korthals, Salomon Müller, H. Schlegel, C.J. Temminck, en Natuurkundige Commissie in Oost-Indië (Netherlands). Verhandelingen over de natuurlijke geschiedenis der Nederlandsche overzeesche bezittingen. Leiden: In commissie bij. S. en J. Luchtmans en C.C. van der Hoek, 1839.*  
 > _Artikel over de geschiedenis van de Natuurkundige Commissie voor Nederlandsch-Indië._  
-
+> [WorldCat 9627499338](https://search.worldcat.org/title/9627499338), [https://doi.org/10.18352/bmgn-lchr.10741](https://doi.org/10.18352/bmgn-lchr.10741)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-07-10_
         

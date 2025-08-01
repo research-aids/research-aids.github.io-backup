@@ -4,17 +4,11 @@ title: Onderzoeken
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/DoingResearch.docx){: .btn .btn-blue }
-
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by wiebe reints as original_author on 2024-04-25_
 
 
 # Onderzoeken
@@ -99,4 +93,6 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
  - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2024-04-25_
         

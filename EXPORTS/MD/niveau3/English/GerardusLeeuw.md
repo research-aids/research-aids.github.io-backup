@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-05-13_  
-_last edited by Wiebe Reints as original_author on 2025-05-13_
-
 
 # Volkenkundig Museum 'Gerardus van der Leeuw'
 
@@ -32,40 +28,36 @@ The archive of the Gerardus van der Leeuw Ethnographic Museum (until 1995) is ho
 ## Primary sources
 
 Archive:
-  > Regionaal Historisch Centrum Groninger Archieven, toegangsnummer 2924, Archief van de Faculteit der Godgeleerdheid van de Rijksuniversiteit Groningen, inventaris nummer 2.01  
-> [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)  
+  > *Regionaal Historisch Centrum Groninger Archieven, toegangsnummer 2924, Archief van de Faculteit der Godgeleerdheid van de Rijksuniversiteit Groningen, inventaris nummer 2.01*  
 > _Archive of the Gerardus van der Leeuw Ethnographic Museum until 1995. Contains, among other things, descriptions of the museum's collection._  
-
+> [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)  
 ## Secondary sources
 
 Book:
-  > Schotanus, M., V. Arnoldus-Schröder, Nico de Jonge. Hoe Het Ging En Verging : 25 Jaar “Gerardus van Der Leeuw” (Groningen: Volkenkundig Museum “Gerardus van der Leeuw”, 2003).  
-> [https://search.worldcat.org/title/66693349](https://search.worldcat.org/title/66693349), [ISBN 9789080798915](https://isbnsearch.org/isbn/9789080798915), [WorldCat 66693349](https://search.worldcat.org/title/66693349)  
+  > *Schotanus, M., V. Arnoldus-Schröder, Nico de Jonge. Hoe Het Ging En Verging : 25 Jaar “Gerardus van Der Leeuw” (Groningen: Volkenkundig Museum “Gerardus van der Leeuw”, 2003).*  
 > _Book and catalogue from 2003 which provides concise information about the history of the museum and an overview of the MG collection._  
-
+> [https://search.worldcat.org/title/66693349](https://search.worldcat.org/title/66693349), [ISBN 9789080798915](https://isbnsearch.org/isbn/9789080798915), [WorldCat 66693349](https://search.worldcat.org/title/66693349)  
 Book:
-  > Arnoldus, G. De Collectie Deventer (Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003).  
-> [https://search.worldcat.org/title/66725336](https://search.worldcat.org/title/66725336), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)  
+  > *Arnoldus, G. De Collectie Deventer (Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003).*  
 > _Book and catalogue from 2003 which provides detailed background information about the museum of the former Tropical Agricultural school in Deventer. Also contains an overview of the collection of this museum that was transferred to the Gerardus van der Leeuw Ethnographic Museum in 1972._  
-
+> [https://search.worldcat.org/title/66725336](https://search.worldcat.org/title/66725336), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)  
 Book:
-  > Leertouwer, L. L., H. Witte, and R. Wassing. The Collection van Baaren. Edited by V. Arnoldus-Schröder (Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998).  
-> [https://search.worldcat.org/title/901427514](https://search.worldcat.org/title/901427514), [ISBN 9789080083271](https://isbnsearch.org/isbn/9789080083271), [WorldCat 901427514](https://search.worldcat.org/title/901427514)  
+  > *Leertouwer, L. L., H. Witte, and R. Wassing. The Collection van Baaren. Edited by V. Arnoldus-Schröder (Groningen: Volkenkundig museum ‘Gerardus van der Leeuw’, 1998).*  
 > _Book from 1998 containing a description of the Van Baaren collection, which formed the basis of the Gerardus van der Leeuw Ethnographic Museum._  
-
+> [https://search.worldcat.org/title/901427514](https://search.worldcat.org/title/901427514), [ISBN 9789080083271](https://isbnsearch.org/isbn/9789080083271), [WorldCat 901427514](https://search.worldcat.org/title/901427514)  
 Book:
-  > Baaren, Th. P. van. Portret van Een Kollektie : Volkenkundig Museum Gerardus van Der Leeuw, Rijksuniversiteit Groningen (Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974).  
-> [https://search.worldcat.org/title/63510432](https://search.worldcat.org/title/63510432), [WorldCat 63510432](https://search.worldcat.org/title/63510432)  
+  > *Baaren, Th. P. van. Portret van Een Kollektie : Volkenkundig Museum Gerardus van Der Leeuw, Rijksuniversiteit Groningen (Groningen: Centrale Reproduktie Dienst der R.U Groningen, 1974).*  
 > _1974 book by Theo van Baaren, the founder of the Gerardus van der Leeuw Ethnographic Museum, about his collection._  
-
+> [https://search.worldcat.org/title/63510432](https://search.worldcat.org/title/63510432), [WorldCat 63510432](https://search.worldcat.org/title/63510432)  
 Article:
-  > Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974).  
-> [https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen](https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen)  
+  > *Honnef, Harmen G. 'Volkenkundig Museum Gerardus van der Leeuw, Rijksuniversiteit Groningen.' Openbaar Kunstbezit Vlaanderen 12, no. 3 (1974).*  
 > _1974 article from the Belgian magazine OKV (Opbenbaar Kunstbezit Vlaanderen, Public Art Collections), which describes the history of the Gerardus van der Leeuw Ethnographic Museum._  
-
+> [https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen](https://www.okv.be/archief/volkenkundig-museum-gerardus-van-der-leeuw-rijksuniversiteit-groningen)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2025-05-13_
         

@@ -4,17 +4,11 @@ title: Verslagleggen
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Reporting.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Reporting.docx){: .btn .btn-blue }
-
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-05-01_  
-_last edited by wiebe reints as original_author on 2024-05-01_
 
 
 # Verslagleggen
@@ -71,4 +65,6 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
  - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2024-05-01_
         

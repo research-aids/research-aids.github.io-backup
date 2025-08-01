@@ -4,17 +4,11 @@ title: Wageningen University & Research
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/WageningenUniversity.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/WageningenUniversity.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-03-27_  
-_last edited by Wiebe Reints as original_author on 2024-03-27_
 
 
 # Wageningen University & Research
@@ -48,35 +42,32 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 ## Primary sources
 
 Archiefstuk:
-  > NL-AhGldA 0740  2324  
-> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
+  > *NL-AhGldA 0740  2324*  
 > _Bevat stukken betreffende de collectie etnografica, gedateerd 1941 (over schenking Papua voorwerpen van C.C.F.M. Le Roux door RMV) en 1955 (over toekomst collectie)._  
-
+> [https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC](https://permalink.geldersarchief.nl/B6D0CE1E7C674C7CB47662BAEAD8B9DC)  
 Archiefstuk:
-  > NL-AhGldA 0740  2833  
-> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
+  > *NL-AhGldA 0740  2833*  
 > _Bevat een inventaris van de verzamelingen en leermiddelen van de afdeling Land- en volkenkunde, aangelegd in ca. 1904 en bijgehouden tot 1929._  
-
+> [https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551](https://permalink.geldersarchief.nl/71321F1495A5498EB17DF47AEB28F551)  
 Archiefstuk:
-  > NL-AhGldA 0740 1522  
-> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
+  > *NL-AhGldA 0740 1522*  
 > _Bevat stukken betreffende tentoonstellingen, 1947-1956._  
-
+> [https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9](https://permalink.geldersarchief.nl/E0E8560A4D3B450A98F7577218312DD9)  
 Archiefstuk:
-  > NL-HaNA  2.20.69 4402  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402)  
+  > *NL-HaNA  2.20.69 4402*  
 > _Bevat correspondentie over de verkoop van objecten door het Indisch Instituut (het huidige Wereldmuseum Amsterdam) in 1948._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.2.~B.5.2.4.~B.5.2.4.2~4402)  
 ## Secondary sources
 
 Artikel:
-  > “Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.  
-> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
+  > *“Honderd museumstukken spoorloos verdwenen.” Algemeen Dagblad, 6 augustus 1953.*  
 > _Artikel uit 1953 dat beschrijft dat bijna honderd objecten uit de collectie van de Landbouwhogeschool vermist zijn._  
-
+> [https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086](https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-03-27_
         

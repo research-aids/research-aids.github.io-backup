@@ -4,18 +4,11 @@ title: Museum Bronbeek
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/Bronbeek.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/Bronbeek.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-10-02_  
-_last edited by Wiebe Reints  on 2025-07-07
-        (applies to section: Main-text; Sources)_
 
 
 # Museum Bronbeek
@@ -59,30 +52,30 @@ The museum manages various datasets on KNIL muster rolls, military personnel dep
 ## Primary sources
 
 Book:
-  > Smits, J. C. J. Gedenkboek van Het Koloniall-Militair Invalidenhuis Bronbeek. Arhnhem: P. Gouda Quint, 1881.  
-> [https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1](https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1), [WorldCat 882982014](https://search.worldcat.org/title/882982014)  
+  > *Smits, J. C. J. Gedenkboek van Het Koloniall-Militair Invalidenhuis Bronbeek. Arhnhem: P. Gouda Quint, 1881.*  
 > _Book from 1881 written by the first commander of the home. It gives a history of the early period and a detailed description of the interior of the house at that time. The book contains many illustrations clearly showing various objects._  
-
+> [https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1](https://www.google.nl/books/edition/_/xhlCAQAAMAAJ?hl=nl&gbpv=1), [WorldCat 882982014](https://search.worldcat.org/title/882982014)  
 ## Secondary sources
 
 Website:
-  > Ridders Militaire Willems-Orde  
-> [https://www.rmwo.nl/](https://www.rmwo.nl/)  
+  > *Ridders Militaire Willems-Orde*  
 > _Website (in Dutch) with 6,000 biographies of Knights in the Military Order of William. Pages contain a large amount of information about individual soldiers (rank, posting, etc.)._  
-
+> [https://www.rmwo.nl/](https://www.rmwo.nl/)  
 Website:
-  >  Museum Bronbeek collection website   
-> [http://museumbronbeek.nl/](http://museumbronbeek.nl/)  
+  > * Museum Bronbeek collection website *  
 > _Collection website of Museum Bronbeek, on which the entire collection is searchable._  
-
+> [http://museumbronbeek.nl/](http://museumbronbeek.nl/)  
 Book:
-  > Bevaart, W., Liesbeth Brama, and Doris de Witt. Bronbeek : Ontstaan En Ontwikkeling van Een Militair Rusthuis En Museum (Utrecht: Matrijs, 2025).  
-> [https://search.worldcat.org/title/1514612612?oclcNum=1514612612](https://search.worldcat.org/title/1514612612?oclcNum=1514612612), [ISBN 9789053456057](https://isbnsearch.org/isbn/9789053456057), [WorldCat 1514612612](https://search.worldcat.org/title/1514612612)  
+  > *Bevaart, W., Liesbeth Brama, and Doris de Witt. Bronbeek : Ontstaan En Ontwikkeling van Een Militair Rusthuis En Museum (Utrecht: Matrijs, 2025).*  
 > _Book from 2025 (in Dutch) about the history of Bronbeek. This is a revised and updated version of the original book 'Bronbeek: tempo doeloe der liefdadigheid' from 1998._  
-
+> [https://search.worldcat.org/title/1514612612?oclcNum=1514612612](https://search.worldcat.org/title/1514612612?oclcNum=1514612612), [ISBN 9789053456057](https://isbnsearch.org/isbn/9789053456057), [WorldCat 1514612612](https://search.worldcat.org/title/1514612612)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-10-02_
+_last edited by Wiebe Reints  on 2025-07-07
+        (applies to section: Main-text; Sources)_
         

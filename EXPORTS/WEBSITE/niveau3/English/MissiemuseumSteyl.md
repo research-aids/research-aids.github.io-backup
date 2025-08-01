@@ -4,18 +4,11 @@ title: Missiemuseum Steyl
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/MissiemuseumSteyl.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/MissiemuseumSteyl.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-10-21_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
 
 
 # Missiemuseum Steyl
@@ -53,25 +46,26 @@ The Missiemuseum's collection is not fully registered although this is being wor
 ## Primary sources
 
 Website:
-  > Website Missiemuseum Steyl  
-> [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
+  > *Website Missiemuseum Steyl*  
 > _The Missiemuseum's website contains relevant contact and other information._  
-
+> [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)  
 ## Secondary sources
 
 Report:
-  > Collectieplan Missiemuseum Steyl 2023-2028  
-> [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
+  > *Collectieplan Missiemuseum Steyl 2023-2028*  
 > _The Missiemuseum's collection plan (in Dutch) contains relevant information about the origins of the museum's collection._  
-
+> [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)  
 Collection database:
-  > Limburgs Efgoednet  
-> [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
+  > *Limburgs Efgoednet*  
 > _Once the entire museum collection of the Missiemuseum has been registered and digitalised it will be accessible via the Limburgs Erfgoednet website._  
-
+> [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-10-21_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

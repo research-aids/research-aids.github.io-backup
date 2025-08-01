@@ -1,8 +1,3 @@
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-23
-        (applies to section: Content)_
-
 
 # Museums and collection holding institutions
 
@@ -70,4 +65,8 @@ Although this thematic subdivision provides a good overview of the ways in which
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-01-13_
+_last edited by Wiebe Reints as original_author on 2025-06-23
+        (applies to section: Content)_
         

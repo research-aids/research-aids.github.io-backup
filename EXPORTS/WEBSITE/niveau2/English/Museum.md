@@ -4,18 +4,11 @@ title: Museums and collection holding institutions
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/English/Museum.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/English/Museum.docx){: .btn .btn-blue }
-
-_This is a level 2 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-23
-        (applies to section: Content)_
 
 
 # Museums and collection holding institutions
@@ -84,4 +77,8 @@ Although this thematic subdivision provides a good overview of the ways in which
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-01-13_
+_last edited by Wiebe Reints as original_author on 2025-06-23
+        (applies to section: Content)_
         

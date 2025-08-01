@@ -4,18 +4,11 @@ title: Volkenkundig Museum Justinus van Nassau
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/Dutch/JustinusNassau.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/Dutch/JustinusNassau.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2025-02-25_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-        (applies to section: Main text)_
 
 
 # Volkenkundig Museum Justinus van Nassau
@@ -55,55 +48,50 @@ Sinds het volkenkundig museum van de Koninklijke Militaire Academie in Breda van
 ## Primary sources
 
 Archief:
-  > Wereldmuseum Leiden, archieftoegang A16: Archief Volkenkundig museum 'Justinus van Nassau'  
-> [[]]([])  
+  > *Wereldmuseum Leiden, archieftoegang A16: Archief Volkenkundig museum 'Justinus van Nassau'*  
 > _Het archief van het Volkenkundig Museum 'Justinus van Nassau'. Om archiefstukken in te zien kan je een mail sturen naar collectieinfo@wereldmuseum.nl_  
-
+> [[]]([])  
 Archieftoegang:
-  > Nationaal Archief, Den Haag, Ministerie van Onderwijs, Kunsten en Wetenschappen: Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, nummer toegang 2.14.73, inventarisnummer 458  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.2~H.2.2~458](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.2~H.2.2~458)  
+  > *Nationaal Archief, Den Haag, Ministerie van Onderwijs, Kunsten en Wetenschappen: Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, nummer toegang 2.14.73, inventarisnummer 458*  
 > _Stukken betreffende de overdracht van het Etnografisch Museum van de Koninklijke Militaire Academie te Breda van het Ministerie van Oorlog aan het Ministerie van Onderwijs, Kunsten en Wetenschappen op 25 oktober 1956 en de naamsverandering naar Volkenkundig Museum Justinus van Nassau met ingang van 1 januari 1957._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.2~H.2.2~458](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.2~H.2.2~458)  
 Archief:
-  > Nationaal Archief, Den Haag, Koninklijke Militaire Academie (KMA), nummer toegang 2.13.22  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22](https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22)  
+  > *Nationaal Archief, Den Haag, Koninklijke Militaire Academie (KMA), nummer toegang 2.13.22*  
 > _Archieven van de Koninklijke Militaire Academie (KMA), (1818) 1828-1940 (1941); Hoofcursussen te Kampen en 's-Hertogenbosch, 1878-1923; Cadettenschool, 1890-1924; Artillerie- en Genieschool te Delft, 1816-1823._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22](https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22)  
 ## Secondary sources
 
 Boek:
-  > Willemsen, Marie-Antoinette. Volkenkunde in Breda: van Indische verzameling tot Rijksmuseum Justinus van Nassau en de Vereniging voor Volkenkunde. ErfgoedReeks Breda. Breda: Bureau Cultureel Erfgoed, Directie Ruimtelijke Ontwikkeling, Gemeente Breda, 2011.  
-> [https://search.worldcat.org/title/729683375?oclcNum=729683375](https://search.worldcat.org/title/729683375?oclcNum=729683375), [ISBN 9789491045004](https://isbnsearch.org/isbn/9789491045004), [WorldCat 729683375](https://search.worldcat.org/title/729683375)  
+  > *Willemsen, Marie-Antoinette. Volkenkunde in Breda: van Indische verzameling tot Rijksmuseum Justinus van Nassau en de Vereniging voor Volkenkunde. ErfgoedReeks Breda. Breda: Bureau Cultureel Erfgoed, Directie Ruimtelijke Ontwikkeling, Gemeente Breda, 2011.*  
 > _Boek uit 2011 met uitvoerige informatie over de geschiedenis van het Volkenkundig Museum 'Justinus van Nassau'. Bevat onder andere informatie over de herkomst van verschillende collecties._  
-
+> [https://search.worldcat.org/title/729683375?oclcNum=729683375](https://search.worldcat.org/title/729683375?oclcNum=729683375), [ISBN 9789491045004](https://isbnsearch.org/isbn/9789491045004), [WorldCat 729683375](https://search.worldcat.org/title/729683375)  
 Boek:
-  > Somer, J.M., red. Gids voor den bezoeker van het Ethnografisch Museum te Breda, Kasteelplein 13. [Breda: Ethnografisch Museum], 1940.  
-> [https://search.worldcat.org/title/64962667?oclcNum=64962667](https://search.worldcat.org/title/64962667?oclcNum=64962667), [WorldCat 64962667](https://search.worldcat.org/title/64962667)  
+  > *Somer, J.M., red. Gids voor den bezoeker van het Ethnografisch Museum te Breda, Kasteelplein 13. [Breda: Ethnografisch Museum], 1940.*  
 > _Bezoekersgids van voormalig leidinggevende van het Volkenkundig Museum 'Justinus van Nassau' J.M. Somer. In de gids staan beschrijvingen van de verschillende tentoongestelde objecten._  
-
+> [https://search.worldcat.org/title/64962667?oclcNum=64962667](https://search.worldcat.org/title/64962667?oclcNum=64962667), [WorldCat 64962667](https://search.worldcat.org/title/64962667)  
 Herkomstverslag:
-  > Shatanawi, Mirjam. Provenance report regarding Sinkin panjang met schede [Sword]. PPROCE provenance reports. Amsterdam, 2022.  
-> [https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-sinkin-panjang-met-schede-sword](https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-sinkin-panjang-met-schede-sword)  
+  > *Shatanawi, Mirjam. Provenance report regarding Sinkin panjang met schede [Sword]. PPROCE provenance reports. Amsterdam, 2022.*  
 > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een object (Sinkin panjang, NG-2004-47) uit de collectie van G.C.E. van Daalen dat tentoongesteld is geweest in het Volkenkundig Museum 'Justinus van Nassau'. Het verslag bevat verwijzingen naar relevante bronnen met betrekking tot het museum in Breda._  
-
+> [https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-sinkin-panjang-met-schede-sword](https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-sinkin-panjang-met-schede-sword)  
 Herkomstverslag:
-  > Shatanawi, Mirjam. Provenance report regarding Grafsteen [gravestone] - Batu Aceh. PPROCE provenance reports. Amsterdam, 2022.  
-> [https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh](https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh)  
+  > *Shatanawi, Mirjam. Provenance report regarding Grafsteen [gravestone] - Batu Aceh. PPROCE provenance reports. Amsterdam, 2022.*  
 > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een object (Grafsteen, RV-3600-594) die door de officier George Nypels is meegenomen uit Atjeh (Sumatra). Het verslag bevat verwijzingen naar relevante bronnen met betrekking tot het museum in Breda._  
-
+> [https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh](https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh)  
 Herkomstverslag:
-  > Quist, Tom. Provenance report regarding Staatsiekris - keris (Ceremonial Kris). PPROCE provenance reports. Amsterdam, 2022.  
-> [https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118](https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118)  
+  > *Quist, Tom. Provenance report regarding Staatsiekris - keris (Ceremonial Kris). PPROCE provenance reports. Amsterdam, 2022.*  
 > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een kris (RV-3600-193). Betreft een object dat in april 1908 is buitgemaakt na de zogenaamde 'puputan' in Klunkung (Bali). In 1909 is het opgenomen in de collectie van de Koninklijke Militaire Academie in Breda. In 2023 is het gerestitueerd aan de Republiek Indonesië._  
-
+> [https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118](https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118)  
 Herkomstverslag:
-  > Quist, Tom. Provenance report regarding Krissen [Krisses]. PPROCE provenance reports. Amsterdam, 2022.  
-> [https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516](https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516)  
+  > *Quist, Tom. Provenance report regarding Krissen [Krisses]. PPROCE provenance reports. Amsterdam, 2022.*  
 > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een aantal krissen (RV-3600-1892 t/m RV-3600-1895). De krissen zijn via George Nypels eerst bij de Hoofdcursus in Kampen terecht gekomen en later opgegaan in de collectie van de Koninklijke Militaire Academie in Breda. Het verslag bevat verwijzingen naar relevante bronnen._  
-
+> [https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516](https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2025-02-25_
+_last edited by Wiebe Reints as original_author on 2025-06-16
+        (applies to section: Main text)_
         

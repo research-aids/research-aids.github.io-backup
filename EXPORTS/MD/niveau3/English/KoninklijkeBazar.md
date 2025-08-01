@@ -1,8 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-05-03_  
-_last edited by Abacus as translator on 2025-04-07
-        (applies to section: Main-text; Sources)_
-
 
 # Groote Koninklijke Bazar
 
@@ -30,55 +25,50 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 ## Primary sources
 
 Archive:
-  > NL-HaNA 2.09.46  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
+  > *NL-HaNA 2.09.46*  
 > _When public and later private limited companies were formed, their articles of association required approval by the Ministry of Justice. The content of the files could range from a single opinion to a pack of documents comprising articles of association, appeals, opinions, royal decrees and correspondence._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)  
 Archive:
-  > NL-HaNA 3.17.13.03  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
+  > *NL-HaNA 3.17.13.03*  
 > _Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a set of commercial files._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)  
 Archive:
-  > NL-HlmNHA 476 811  
-> [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
+  > *NL-HlmNHA 476 811*  
 > _Declarations of goods and services supplied, 1813, 1824-1831. The Royal Cabinet of Curiosities purchased items from Dirk Boer, which are mentioned in this archive._  
-
+> [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)  
 Archive:
-  > Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062  
-> [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
+  > *Stadsarchief Rotterdam / Collectie Th. Haanebrink en Alex de Haas 4062*  
 > _Poster of the Koninklijke Bazar from 1926._  
-
+> [https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC](https://hdl.handle.net/21.12133/8F98F272DE4045309EA6FA218A2664FC)  
 ## Secondary sources
 
 Article:
-  > Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.  
-> [https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
+  > *Dam, Peter van. “The Royal Bazar of Dirk Boer: early Japonism in The Hague around 1840.” Andon 7 no. 25 (1987): 16–19.*  
 > _Article about Dirk Boer's store from the Journal of Japanese Art._  
-
+> [https://rkd.nl/library/89731](https://rkd.nl/library/89731)  
 Article:
-  > Baird, Christina and Backx-Palsgraaf, Helen. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.  
-> [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
+  > *Baird, Christina and Backx-Palsgraaf, Helen. “Viewing Japan and China through Dirk Boer’s Panorama, 1835–1838.” Journal of the History of Collections 32, Issue 1 (March 2020): 119–128.*  
 > _This article discusses Dirk Boer's activities that predate the Groote Koninklijke Bazar and highlights a Chinese/Japanese panorama as an illustration of the interest in China and Japan that existed in the Netherlands in the 1830s._  
-
+> [https://doi.org/10.1093/jhc/fhy052](https://doi.org/10.1093/jhc/fhy052)  
 Book:
-  > Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.  
-> [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251)  
+  > *Keblusek, Marika. Japansch Magazijn: Japanse kunst en cultuur in 19de-eeuws Den Haag. Leiden: Hotei, 2000.*  
 > _Book about a previous store owned by Dirk Boer._  
-
+> [https://search.worldcat.org/title/902181455?oclcNum=902181455](https://search.worldcat.org/title/902181455?oclcNum=902181455), [ISBN 9789074822251](https://isbnsearch.org/isbn/9789074822251)  
 Book:
-  > Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.  
-> [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
+  > *Wap, J.J.F. De Koninklijke Bazar van den Heer D. Boer aan de Scheveningsche Zeestraat te 's Gravenhage. 's Gravenhage: Belinfante, 1854.*  
 > __  
-
+> [https://search.worldcat.org/title/67736999](https://search.worldcat.org/title/67736999), [WorldCat 67736999](https://search.worldcat.org/title/67736999)  
 Catalogue:
-  > Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.  
-> [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
+  > *Boer, Dirk. Kabinet van Japansche, Chineesche en Oostersche zeldzaamheden, antiquiteiten en rariteiten ter bezigtiging opengesteld te Scheveningen: voorafgegaan van eene schets der zeden en gewoonten der Japanners, en gevolgd door eene beschrijving van dit Kabinet. 's Gravenhage, 1841.*  
 > _Description of the Royal Bazar by Dirk Boer._  
-
+> [https://search.worldcat.org/title/67826958](https://search.worldcat.org/title/67826958), [WorldCat 67826958](https://search.worldcat.org/title/67826958)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-05-03_
+_last edited by Abacus as translator on 2025-04-07
+        (applies to section: Main-text; Sources)_
         

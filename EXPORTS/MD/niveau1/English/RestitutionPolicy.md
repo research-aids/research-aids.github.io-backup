@@ -1,7 +1,3 @@
-_This is a level 1 Research Aid_  
-_first edited by wiebe reints as original_author on 2025-01-23_  
-_last edited by wiebe reints as original_author on 2025-01-23_
-
 
 # The Dutch restitution policy
 
@@ -84,4 +80,6 @@ After deliberation, the final advice of the Colonial Collections Committee is pr
  - _see also: [Sources](niveau1/English/Sources_20240501.yml)_  
 
 
+
+_last edited by wiebe reints as original_author on 2025-01-23_
         

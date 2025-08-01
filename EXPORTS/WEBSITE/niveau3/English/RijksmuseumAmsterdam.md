@@ -4,18 +4,11 @@ title: Rijksmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-07-29
+date: 2025-08-01
 --- 
 
 
-this new string from 28.07.2025
-
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/RijksmuseumAmsterdam.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/RijksmuseumAmsterdam.docx){: .btn .btn-blue }
-
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-09-05_  
-_last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
 
 
 # Rijksmuseum Amsterdam
@@ -58,20 +51,22 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 ## Primary sources
 
 Archive:
-  > Rijksmuseum en rechtsvoorgangers te Amsterdam  
-> [https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25)  
+  > *Rijksmuseum en rechtsvoorgangers te Amsterdam*  
 > _Archives of the Rijksmuseum Amsterdam and its legal predecessors. The archive goes back to the beginning of the nineteenth century and contains documentation up to and including 1995, the year that the museum became an independent organisation. The archive of the Royal Cabinet of Curiosities is also located within this archive._  
-
+> [https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25](https://hdl.handle.net/21.12102/01644F687DD84B309BF24360FD2B2A25)  
 ## Secondary sources
 
 Publication:
-  > Mooren, Jona, Stutje, Klaas and Vree, Frank van. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).  
-> [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
+  > *Mooren, Jona, Stutje, Klaas and Vree, Frank van. Sporen: onderzoek naar herkomstgeschiedenis en betekenisgeving van culturele projecten en collecties verworven in koloniale situaties (Amsterdam: NIOD, 2022).*  
 > _The Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE) included research into a number of objects from the Amsterdam Rijksmuseum. The extensive provenance reports are online and contain many useful insights._  
-
+> [https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf](https://d3mb4k8bvt6xe4.cloudfront.net/2023-03/ME_Lijst%20herkomstverslagenwebsite_01.pdf)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-09-05_
+_last edited by Abacus as translator on 2025-04-24
+        (applies to section: Main-text; Sources)_
         

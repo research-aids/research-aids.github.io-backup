@@ -1,7 +1,3 @@
-_This is a level 3 Research Aid_  
-_first edited by Wiebe Reints as original_author on 2024-07-11_  
-_last edited by Wiebe Reints as original_author on 2024-07-11_
-
 
 # Wereldmuseum Amsterdam
 
@@ -47,40 +43,36 @@ De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmus
 ## Primary sources
 
 Archieftoegang:
-  > NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69  
-> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
+  > *NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69*  
 > _Archief van het Konininklijk Instituut voor de Tropen tot en met 1995 dat is gedeponeerd bij het Nationaal Archief in Den Haag. Archieven na 1995 zijn nog fysiek aanwezig bij het KIT. De archiefbeschrijving bevat uitvoerige informatie over de geschiedenis van het Wereldmuseum Amsterdam en de opbouw van het archief._  
-
+> [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)  
 Archief:
-  > 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra  
-> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
+  > *395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*  
 > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, de tegenwoordige dierentuin Artis. Met name de archieven onder de inventarisnummers 1876 tot en met 1919 zijn interessant in het kader van de oprichting van het tegenwoordige Wereldmuseum Amsterdam._  
-
+> [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)  
 ## Secondary sources
 
 Boek:
-  > Duuren, David van. 125 jaar verzamelen: Tropenmuseum, Amsterdam. Amsterdam: Koninklijk Museum voor de Tropen, 1990.  
-> [https://search.worldcat.org/title/902015409?oclcNum=902015409](https://search.worldcat.org/title/902015409?oclcNum=902015409), [WorldCat 902015409](https://search.worldcat.org/title/902015409), [ISBN 9068322311](https://isbnsearch.org/isbn/9068322311)  
+  > *Duuren, David van. 125 jaar verzamelen: Tropenmuseum, Amsterdam. Amsterdam: Koninklijk Museum voor de Tropen, 1990.*  
 > _Boek uit 1990 ter ere van het tachtig jarig bestaan van de Vereniging het Koninklijk Instituut voor de Tropen. Beschrijft de op dat moment 125-jarige geschiedenis van de collectie van het Wereldmuseum Amsterdam vanuit het toenmalige heden. Het boek geeft een algemeen overzicht van de ontstaansgeschiedenis van het Wereldmuseum Amsterdam en besteed extra aandacht aan verschillende afzonderlijke objecten._  
-
+> [https://search.worldcat.org/title/902015409?oclcNum=902015409](https://search.worldcat.org/title/902015409?oclcNum=902015409), [WorldCat 902015409](https://search.worldcat.org/title/902015409), [ISBN 9068322311](https://isbnsearch.org/isbn/9068322311)  
 Boek:
-  > Jans, Huub. Honderdzestig meter Mauritskade: vier eeuwen tropenervaring allegorisch weerspiegeld in de huisvesting van een wetenschappelijk instituut. Amsterdam: Koninklijk Instituut voor de Tropen, 1976.  
-> [https://search.worldcat.org/title/63449631](https://search.worldcat.org/title/63449631), [WorldCat 63449631](https://search.worldcat.org/title/63449631)  
+  > *Jans, Huub. Honderdzestig meter Mauritskade: vier eeuwen tropenervaring allegorisch weerspiegeld in de huisvesting van een wetenschappelijk instituut. Amsterdam: Koninklijk Instituut voor de Tropen, 1976.*  
 > _Dun boekje uit 1976 dat vooral aandacht besteed aan de het gebouw van het tegenwoordige Wereldmuseum Amsterdam en het KIT. Aandacht is er voor de ontwikkeling van het gebouw, maar het bevat ook beschrijvingen van verschillende typerende gevelstenen die kenmerkend zijn voor de Europese visie op het Koloniale project in de twintigste eeuw._  
-
+> [https://search.worldcat.org/title/63449631](https://search.worldcat.org/title/63449631), [WorldCat 63449631](https://search.worldcat.org/title/63449631)  
 Boek:
-  > Jans, Huub, en Hans van den Brink. Tropen in Amsterdam: 70 jaar Koninklijk Instituut voor de Tropen. Amsterdam: Terra, 1981.  
-> [https://search.worldcat.org/title/899009074?oclcNum=899009074](https://search.worldcat.org/title/899009074?oclcNum=899009074), [WorldCat 899009074](https://search.worldcat.org/title/899009074), [ISBN 9062550770](https://isbnsearch.org/isbn/9062550770)  
+  > *Jans, Huub, en Hans van den Brink. Tropen in Amsterdam: 70 jaar Koninklijk Instituut voor de Tropen. Amsterdam: Terra, 1981.*  
 > _Boek uit 1981 dat de geschiedenis van het Koninklijk Instituut voor de Tropen tot en met 1950 beschrijft. Het boek bevat veel foto's en geeft ook uitvoerige beschrijvingen van uiterlijke en innerlijke kenmerken van het tegenwoordige Wereldmuseum Amsterdam. Ook is er aandacht voor de manier waarop de organisatie van het KIT was ingericht gedurende de eerste decennia._  
-
+> [https://search.worldcat.org/title/899009074?oclcNum=899009074](https://search.worldcat.org/title/899009074?oclcNum=899009074), [WorldCat 899009074](https://search.worldcat.org/title/899009074), [ISBN 9062550770](https://isbnsearch.org/isbn/9062550770)  
 Boek:
-  > Woudsma, J., en Hansje Galesloot. Een markant gebouw in Amsterdam-Oost: het Koninklijk Instituut voor de Tropen. Amsterdam: Koninklijk Instituut voor de Tropen, 1990.  
-> [https://search.worldcat.org/title/905775747?oclcNum=905775747](https://search.worldcat.org/title/905775747?oclcNum=905775747), [WorldCat 905775747](https://search.worldcat.org/title/905775747), [ISBN 906832229X](https://isbnsearch.org/isbn/906832229X)  
+  > *Woudsma, J., en Hansje Galesloot. Een markant gebouw in Amsterdam-Oost: het Koninklijk Instituut voor de Tropen. Amsterdam: Koninklijk Instituut voor de Tropen, 1990.*  
 > _Net als het boek van Jans besteedt dit boek uit 1990 voornamelijk aandacht aan de uiterlijke kenmerken van het tegenwoordige Wereldmuseum Amsterdam. Het boek bevat gedetailleerde informatie over de gevels, de zalen, materialen en de koloniale symboliek van de decoraties die rondom het gebouw zijn te vinden._  
-
+> [https://search.worldcat.org/title/905775747?oclcNum=905775747](https://search.worldcat.org/title/905775747?oclcNum=905775747), [WorldCat 905775747](https://search.worldcat.org/title/905775747), [ISBN 906832229X](https://isbnsearch.org/isbn/906832229X)  
 
 
 ---
 ## Relevant Data 
 TO BE FILLED
+
+_last edited by Wiebe Reints as original_author on 2024-07-11_
         
