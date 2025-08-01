@@ -96,16 +96,18 @@ class ResearchAid:
         if not self._parsed:
             return None
 
+
+        first = {self.edit_history.origin_event.to_markdown()}
+        last = f'{self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''
+        edits = f"{"_first " + first + "_\n" if first != last else ""}_last {last}_"
         #_author: {self.author}_  
         # _last edited: {self.time}_  
-        return f"""_This is a level {self.level_id} Research Aid_  
-_first {self.edit_history.origin_event.to_markdown()}_  
-{f'_last {self.edit_history.last_event.to_markdown()}_' if self.edit_history.last_event else ''}
-
-
+        return f"""
 # {self.title}
 
 {self.level()}
+
+{edits}
         """
 
     
@@ -224,7 +226,7 @@ class Level2(Level1):
         self.main_text = self.get_markdown_content(yml["Main-text"])
         self.related_aids = self.parse_related_aids(yml["RelatedAides"])
         self.relevant_data = self.parse_relevant_data(yml["Relevant data"])
-        self.sources = self.parse_sources(yml["Sources"])
+        self.sources = self.parse_sources(yml["Sources"]) if (("Sources" in yml) and yml["Sources"]) else "THIS RA HAS NO SOURCES" 
 
     def parse_source_links(self, yml):
         for d in yml:
@@ -251,13 +253,13 @@ class Level2(Level1):
             md += f"## {source_lvl}\n\n"
             for source in source_ls: #SORT
                 # 'Type of source', 'Name', 'Link', 'Description and remarks'
-                source_md = f"{source['Type of source']}:\n  > {source['Name']}"
+                source_md = f"{source['Type of source']}:\n  > *{source['Name']}*"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
                 links_md = ", ".join(self.parse_source_links(source['Link']))
                 # links_md = "(" + links_md + ")"
-                md += f"{source_md}  \n> {links_md}  \n"
-                if"Description and remarks" in source:
-                    md+= f"> _{source["Description and remarks"]}_  \n\n"
+                remarks_md = f"> _{source["Description and remarks"]}_  \n" if "Description and remarks" in source else ""
+                md += f"{source_md}  \n{remarks_md}> {links_md}  \n"
+
         return md
 
     def parse_relevant_data(self, yml):
