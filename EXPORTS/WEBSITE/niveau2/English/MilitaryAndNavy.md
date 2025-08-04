@@ -4,7 +4,7 @@ title: Army and navy personnel in colonised territories
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-04
 --- 
 
 
